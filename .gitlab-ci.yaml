@@ -1,0 +1,23 @@
+##
+## DEPLOYMENT
+##
+
+# Updated new manuel to developers.gambio.de page
+
+generate:
+    manual:
+        - '# generate manual with mkdocs'
+        - yarn install
+        - ./build.sh 4.2.0.0
+    only:
+        - master
+
+
+upload:
+    script:
+        - '# Removed files that should not be deployed'
+        - rm README.md # Not needed for the upload
+        - rm -r .git # Remove git directory before upload
+        - rsync -a --delete dist/ testshops:/var/www/tt/manual/
+    only:
+        - master
