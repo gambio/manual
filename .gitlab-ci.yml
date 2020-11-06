@@ -5,7 +5,7 @@
 # Updated new manuel to developers.gambio.de page
 
 generate:
-    manual:
+    script:
         - '# generate manual with mkdocs'
         - yarn install
         - ./build.sh 4.2.0.0
