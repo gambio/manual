@@ -11,7 +11,7 @@ rm -rf "${DIST_DIR}"
 mkdir -p "${DIST_DIR}"
 
 
-echo "Build tutorials"
+echo "Build manual"
 echo "- Version: ${VERSION}"
 echo "- Destination: ${DIST_DIR}"
 echo "- Source: ${SRC_DIR}"
