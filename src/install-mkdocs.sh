@@ -1,9 +1,5 @@
 #!/bin/bash
 
-echo "- Installing PIP for Python"
-sudo apt update
-sudo apt install python-pip
-
 echo ""
 echo ""
 echo "- Installing MkDocs"

@@ -5,7 +5,7 @@
 # Updated new manuel to developers.gambio.de page
 
 before_script:
-    - pip install --upgrade pip && pip install -r requirements.txt
+    - pip install --upgrade pip
     - yarn install
     - ./src/install-mkdocs.sh
 generate:
