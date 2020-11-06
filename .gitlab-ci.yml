@@ -4,11 +4,12 @@
 
 # Updated new manuel to developers.gambio.de page
 
-image: python:3.8-buster
 before_script:
+    - pip install --upgrade pip && pip install -r requirements.txt
     - yarn install
     - ./src/install-mkdocs.sh
 generate:
+    stage: build
     script:
         - '# generate manual with mkdocs'
         - ./src/build.sh v4.2.0.0
@@ -17,6 +18,7 @@ generate:
 
 
 upload:
+    stage: deploy
     script:
         - '# Removed files that should not be deployed'
         - rm README.md # Not needed for the upload
