@@ -4,11 +4,13 @@
 
 # Updated new manuel to developers.gambio.de page
 
+image: python:3.8-buster
+before_script:
+    - yarn install
+    - ./src/install-mkdocs.sh
 generate:
     script:
         - '# generate manual with mkdocs'
-        - yarn install
-        -  ./src/install-mkdocs.sh
         - ./src/build.sh v4.2.0.0
     only:
         - master
