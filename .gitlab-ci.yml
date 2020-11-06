@@ -8,7 +8,7 @@ generate:
     script:
         - '# generate manual with mkdocs'
         - yarn install
-        - ./build.sh 4.2.0.0
+        - ./src/build.sh 4.2.0.0
     only:
         - master
 
