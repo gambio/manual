@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "install-mkdocs": "./src/install-mkdocs.sh",
+    "build": "./src/build.sh",
+    "serve": "yarn && python -m mkdocs serve -f \"src/mkdocs.yml\""
+  },
+  "dependencies": {
+    "merge-yaml-cli": "^1.1.2",
+    "mkdocs-material": "ssh://git@sources.gambio-server.net:gx-documentation/tutorial-theme-fork.git"
+  }
+}

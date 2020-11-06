@@ -1,0 +1,74 @@
+site_name: Handbuch Gambio Shopsystem
+site_url: http://dev-docu.gambio/
+docs_dir: ./docs
+site_dir: ./../dist/a-version
+copyright: Copyright &copy; 2020 Gambio GmbH
+theme:
+  name: null
+  highlightjs: true
+  custom_dir: ../node_modules/mkdocs-material/material
+  favicon: _assets/favicon.ico
+  language: de
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: _assets/logo.svg
+  feature:
+    tabs: true
+  sticky_navigation: true
+  collapse_navigation: false
+  features:
+    - search.highlight
+    - toc.autohide
+    - navigation.tabs
+extra:
+  social:
+    - type: gitlab
+      link: https://sources.gambio-server.net
+    - type: twitter
+      link: https://twitter.com/gambio
+    - type: linkedin
+      link: https://www.linkedin.com/company/gambio-gmbh
+extra_css:
+  - _assets/extra.css
+  - _assets/highlight-js-docco.min.css
+extra_javascript:
+  - _assets/highlight-js.min.js
+  - _assets/extra.js
+nav:
+  - Übersicht:
+      - Inhalt: 'index.md'
+      - 3. Bereiche des Shopsystems: '3_Bereiche_des_Shopsystems.md'
+      - 4. Konfiguration: '4_Konfiguration.md'
+      - 4. Einstellungen: '4_Einstellungen.md'
+      - 5. Suchmaschinen: '5_Suchmaschinen.md'
+  - Vorwort:
+      - 'I_Vorwort.md'
+  - Einleitung:
+      - 'II_Einleitung.md'
+  - Art der Shoplösung: '1_ArtDerShoploesung.md'
+  - Erste Schritte:
+      - '2_Erste_Schritte.md'
+  - Anhang:
+      - Liste der Länder: 'B_Liste_der_Laender.md'
+      - Lizenzhinweise:
+          - A_a_Shopsystem.md
+          - A_c_PdfCreator.md
+          - A_d_Handbuch.md
+  - Kundenportal:
+      - 'https://www.gambio-support.de'
+markdown_extensions:
+  - extra
+  - admonition
+  - meta
+  - attr_list
+  - toc:
+      baselevel: 2
+
+plugins:
+  - search:
+      lang: de
+      separator: '[\s]+'
