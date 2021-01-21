@@ -5,7 +5,6 @@
 # Updated new manuel to developers.gambio.de page
 
 stages:
-    - build
     - deploy
 
 
@@ -15,7 +14,7 @@ before_script:
     - /usr/bin/python3 -m pip install --upgrade pip
     - /usr/bin/python3 -m pip install mkdocs-material
 build:
-    stage: build
+    stage: deploy
     script:
         - '# generate manual with mkdocs'
         - ./src/build.sh v4.2.0.0
