@@ -22,6 +22,6 @@ build:
         - '# generate manual with mkdocs'
         - ./src/build.sh v4.2.0.0
         - rm -r .git # Remove git directory before upload
-        - scp -r ./dist/* testshops:/var/www/tt/manual/
+        - scp -r ./dist/* redmine:/var/www/developers.gambio.de/docs/manual/
     only:
         - master
