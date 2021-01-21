@@ -19,6 +19,6 @@ echo "- Source: ${SRC_DIR}"
 
 yarn install
 yarn upgrade ssh://git@sources.gambio-server.net:gx-documentation/tutorial-theme-fork.git
-/var/www/.local/lib/python3.8/site-packages/mkdocs build -f "${SRC_DIR}/mkdocs.yml"
+mkdocs build -f "${SRC_DIR}/mkdocs.yml"
 mv "${DIST_DIR}/a-version" "${DIST_DIR}/${VERSION}"
 cp "${SRC_DIR}/index.php" "${DIST_DIR}"

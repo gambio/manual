@@ -13,7 +13,7 @@ before_script:
     - which python
     - which pip
     - /usr/bin/python3 -m pip install --upgrade pip
-    - mkdocs --version
+    - pip install mkdocs-material
 build:
     stage: build
     script:
