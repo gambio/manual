@@ -14,7 +14,7 @@ before_script:
     - which pip
     - pip install mkdocs
     - which mkdocs
-    - mkdocs --version
+    - /var/www/.local/lib/python3.8/site-packages/mkdocs --version
 build:
     stage: build
     script:

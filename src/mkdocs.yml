@@ -39,12 +39,6 @@ extra_javascript:
   - _assets/highlight-js.min.js
   - _assets/extra.js
 nav:
-  - Übersicht:
-      - Inhalt: 'index.md'
-      - 3. Bereiche des Shopsystems: '3_Bereiche_des_Shopsystems.md'
-      - 4. Konfiguration: '4_Konfiguration.md'
-      - 4. Einstellungen: '4_Einstellungen.md'
-      - 5. Suchmaschinen: '5_Suchmaschinen.md'
   - Vorwort:
       - 'I_Vorwort.md'
   - Einleitung:
@@ -52,6 +46,19 @@ nav:
   - Art der Shoplösung: '1_ArtDerShoploesung.md'
   - Erste Schritte:
       - '2_Erste_Schritte.md'
+  - Konfiguration:
+      - 3. Bereiche des Shopsystems: '3_Bereiche_des_Shopsystems.md'
+      - 4. Einstellungen: '4_Einstellungen.md'
+      - 5. Suchmaschinen: '5_Suchmaschinen.md'
+      - 6. Lokalisierung:
+          - 6.1. Länder: '6_1_Laender.md'
+          - 6.2. Sprachen: '6_2_Sprachen.md'
+      - 7. Module:
+          - 7.1. Versandart: '7_1_Versandarten.md'
+          - 7.2. Zahlarten: '7_2_Zahlungsweisen.md'
+          - 7.3. Zusammenfassung: '7_3_Zusammenfassung.md'
+          - 7.4. Modul-Center: '7_4_Modul_Center.md'
+          - 7.5. Zusatzmodule: '7_5_Zusatzmodule.md'
   - Anhang:
       - Liste der Länder: 'B_Liste_der_Laender.md'
       - Lizenzhinweise:
@@ -67,7 +74,6 @@ markdown_extensions:
   - attr_list
   - toc:
       baselevel: 2
-
 plugins:
   - search:
       lang: de
