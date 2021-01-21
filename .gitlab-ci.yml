@@ -15,20 +15,12 @@ before_script:
     - /usr/bin/python3 -m pip install mkdocs-material
 build:
     stage: deploy
-    script:
-        - '# generate manual with mkdocs'
-        - ./src/build.sh v4.2.0.0
-    only:
-        - master
-
-
-upload:
-    stage: deploy
     environment:
         name: Testing
         url: https://tt.supp.gambio-server.net/manual/
     script:
-        - '# Removed files that should not be deployed'
+        - '# generate manual with mkdocs'
+        - ./src/build.sh v4.2.0.0
         - rsync -a --delete dist/ testshops:/var/www/tt/manual/
     only:
         - master
