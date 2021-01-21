@@ -12,8 +12,7 @@ stages:
 before_script:
     - which python
     - which pip
-    - pip install mkdocs
-    - which mkdocs
+    - /usr/bin/python3 -m pip install --upgrade pip
     - /var/www/.local/lib/python3.8/site-packages/mkdocs --version
 build:
     stage: build
