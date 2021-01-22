@@ -41,8 +41,7 @@ extra_javascript:
 nav:
   - Vorwort:
       - 'I_Vorwort.md'
-  - Einleitung:
-      - 'II_Einleitung.md'
+  - Einleitung: 'II_Einleitung.md'
   - Art der Shoplösung: '1_ArtDerShoploesung.md'
   - Erste Schritte:
       - '2_Erste_Schritte.md'
