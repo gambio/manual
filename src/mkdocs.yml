@@ -44,7 +44,11 @@ nav:
   - Einleitung:
      - Einleitung: 'II_Einleitung.md'
      - 'Art der Shoplösung': '1_ArtDerShoploesung.md'
-  - 'Erste Schritte': '2_Erste_Schritte.md'
+  - 'Erste Schritte':
+       - '2.1. Im Shop anmelden': '2_1_Im_Shop_anmelden.md'
+       - '2.2. Shop offline stellen': '2_2_Shop_offline_stellen.md'
+       - '2.3. Grundkonfiguration vornehmen': '2_3_Grundkonfiguration_vornehmen.md'
+       - '2.4. Artikel einpflegen': '2_4_Artikel_einpflegen.md'
   - 'Konfiguration':
       - '3. Bereiche des Shopsystems': '3_Bereiche_des_Shopsystems.md'
       - '4. Einstellungen': '4_Einstellungen.md'
