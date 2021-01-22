@@ -1,8 +1,8 @@
 site_name: Handbuch Gambio Shopsystem
-site_url: http://dev-docu.gambio/
+site_url: https://developers.gambio.de/
 docs_dir: ./docs
 site_dir: ./../dist/a-version
-copyright: Copyright &copy; 2020 Gambio GmbH
+copyright: Copyright &copy; 2021 Gambio GmbH
 theme:
   name: null
   highlightjs: true
