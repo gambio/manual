@@ -20,7 +20,7 @@ build:
         url: https://tt.supp.gambio-server.net/manual/
     script:
         - '# generate manual with mkdocs'
-        - ./src/build.sh v4.2.0.0
+        - ./src/build.sh v4.3.2.1
         - rm -r .git # Remove git directory before upload
         - ssh redmine 'rm -r /var/www/developers.gambio.de/docs/manual/; mkdir /var/www/developers.gambio.de/docs/manual/'
         - scp -r ./dist/* redmine:/var/www/developers.gambio.de/docs/manual/
