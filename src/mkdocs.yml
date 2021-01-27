@@ -39,8 +39,7 @@ extra_javascript:
   - _assets/highlight-js.min.js
   - _assets/extra.js
 nav:
-  - Vorwort:
-     - Vorwort: 'I_Vorwort.md'
+  - Vorwort: 'I_Vorwort.md'
   - Einleitung:
      - Einleitung: 'II_Einleitung.md'
      - 'Art der Shoplösung': '1_ArtDerShoploesung.md'
