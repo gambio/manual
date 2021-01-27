@@ -53,3 +53,5 @@ plugins:
   - search:
       lang: de
       separator: '[\s]+'
+nav:
+  - Einleitung: 'Einleitung/II_Einleitung.md'
