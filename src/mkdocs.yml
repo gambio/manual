@@ -55,5 +55,5 @@ plugins:
       separator: '[\s]+'
 nav:
   - Einleitung: 'Einleitung/II_Einleitung.md'
-    hide:
-      - toc
+      hide:
+        - toc
