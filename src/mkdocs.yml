@@ -26,6 +26,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.expand
     - navigation.instant
+    - toc.integrate
 extra:
   generator: false
   social:
@@ -47,8 +48,8 @@ markdown_extensions:
   - meta
   - attr_list
   - toc:
-      baselevel: 2
-      toc_depth: 3
+      baselevel: 1
+      toc_depth: 4
 plugins:
   - search:
       lang: de
