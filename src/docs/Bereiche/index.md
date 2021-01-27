@@ -1,15 +1,4 @@
-# Bereiche des Shopsystems {#bereiche_des_shopsystems}
-
 Auf den nächsten Seiten findest du Beschreibungen zu den unterschiedlichen Bereichen des Shopsystems.
-
--   **[Shopbereich](3_1_Shopbereich.md)**  
-
--   **[Gambio Admin](3_2_Gambio_Admin.md)**  
-
--   **[StyleEdit v3 und StyleEdit](3_3_StyleEditv3_und_StyleEdit.md)**  
-
--   **[CK-Editor](3_4_CK_Editor.md)**  
-
 
 # Gambio Admin {#gambio_admin}
 
