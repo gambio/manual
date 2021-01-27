@@ -22,10 +22,12 @@ theme:
   collapse_navigation: false
   features:
     - search.highlight
+    - search.share
     - toc.autohide
     - navigation.tabs
     - navigation.sections
 extra:
+  generator: false
   social:
     - type: gitlab
       link: https://sources.gambio-server.net
