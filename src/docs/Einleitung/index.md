@@ -1,4 +1,4 @@
-# Einleitung {#einleitung}
+# Einleitung
 
 Dieses Handbuch ist mit verschiedenen Formatierungen verfasst, die dem Leser die Informationsaufnahme und die Wahrnehmung von Warnungen und Hinweisen erleichtern. Die einzelnen Darstellungsformen werden in diesem Kapitel genauer erläutert.
 
