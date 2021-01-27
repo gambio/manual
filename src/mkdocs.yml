@@ -50,6 +50,7 @@ markdown_extensions:
   - toc:
       baselevel: 2
       toc_depth: 4
+      permalink: true
 plugins:
   - search:
       lang: de
@@ -57,8 +58,8 @@ plugins:
 nav:
   - Vorwort:
       - 'I_Vorwort.md'
-  - Einleitung:
-      - 'Einleitung/II_Einleitung.md'
+      - Einleitung:
+          - 'Einleitung/II_Einleitung.md'
   - Erste Schritte:
       - 'Erste Schritte/2_1_Im_Shop_anmelden.md'
       - 'Erste Schritte/2_2_Shop_offline_stellen.md'
