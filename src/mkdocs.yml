@@ -54,4 +54,9 @@ plugins:
       lang: de
       separator: '[\s]+'
 nav:
-  - Einleitung: 'Einleitung/'
+  - Vorwort: 'I_Vorwort.md'
+  - Einleitung:
+      - 'Einleitung/II_Einleitung.md'
+      - 'Einleitung/1_ArtDerShoploesung.md'
+  - Erste Schritte: 'Erste Schritte/2_Erste_Schritte.md'
+  - Bereiche des Shopsystems: 'Bereiche des Shopsystems/3_Bereiche_des_Shopsystems.md'
