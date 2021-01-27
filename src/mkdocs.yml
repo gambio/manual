@@ -55,15 +55,3 @@ plugins:
   - search:
       lang: de
       separator: '[\s]+'
-nav:
-  - Vorwort:
-      - 'I_Vorwort.md'
-      - Einleitung:
-          - 'Einleitung/II_Einleitung.md'
-  - Erste Schritte:
-      - 'Erste Schritte/2_1_Im_Shop_anmelden.md'
-      - 'Erste Schritte/2_2_Shop_offline_stellen.md'
-      - 'Erste Schritte/2_3_Grundkonfiguration_vornehmen.md'
-      - 'Erste Schritte/2_4_Artikel_einpflegen.md'
-  - Bereiche des Shopsystems:
-      - 'Bereiche/3_Bereiche_des_Shopsystems.md'
