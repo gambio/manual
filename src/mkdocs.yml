@@ -24,6 +24,7 @@ theme:
     - search.highlight
     - toc.autohide
     - navigation.tabs
+    - navigation.sections
 extra:
   social:
     - type: gitlab
