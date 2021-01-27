@@ -18,14 +18,14 @@ theme:
   logo: _assets/logo.svg
   feature:
     tabs: true
-  sticky_navigation: true
-  collapse_navigation: false
   features:
     - search.highlight
     - search.share
     - toc.autohide
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
 extra:
   generator: false
   social:
