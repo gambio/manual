@@ -1,4 +1,4 @@
-# Vorwort
+## Vorwort
 
 ![](Bilder/IMG_3919.JPG "Michael Krönke, Teamleiter des Technischen Supports"){: align=right }
 
