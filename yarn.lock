@@ -269,7 +269,7 @@ minimatch@^3.0.4:
 
 "mkdocs-material@ssh://git@sources.gambio-server.net:gx-documentation/tutorial-theme-fork.git":
   version "4.6.3"
-  resolved "ssh://git@sources.gambio-server.net:gx-documentation/tutorial-theme-fork.git#c041393b5a2a60af78b4acb56d3e1af3bf6913ef"
+  resolved "ssh://git@sources.gambio-server.net:gx-documentation/tutorial-theme-fork.git#7c0078e5eebd30a9d3e77c40edd22bf7c88c5912"
 
 normalize-package-data@^2.3.2:
   version "2.5.0"
