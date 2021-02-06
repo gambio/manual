@@ -198,5 +198,5 @@ Zudem steht für jede Kundengruppe außer Admin \(typischerweise Gast, Neuer Kun
 
 Wird der Kundengruppenpreis nicht verwendet, wird der reguläre Artikelpreis angezeigt und berechnet.
 
-**Parent topic:**[Artikel](8_2_Artikel.md)
+
 

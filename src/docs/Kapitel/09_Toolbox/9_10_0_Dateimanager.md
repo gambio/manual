@@ -11,5 +11,5 @@ Ab Shopversion 3.7 steht der Responsive Filemanager zur Verfügung, über den di
 -   **[Verwenden des Dateimanagers](9_10_4_VerwendenDesDateimanagers.md)**  
 
 
-**Parent topic:**[Toolbox](9_Toolbox.md)
+
 

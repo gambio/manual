@@ -164,5 +164,5 @@ Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Elemen
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
-**Parent topic:**[Bereiche](10_3_5_1_2_Bereiche.md)
+
 

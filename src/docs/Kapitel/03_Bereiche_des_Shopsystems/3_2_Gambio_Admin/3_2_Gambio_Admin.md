@@ -19,5 +19,5 @@ Einträge unter Favs werden zusätzlich angelegt. Die normalen Menüpunkte werde
 
 Wenn zum Beispiel nach streifen gesucht wird, werden auch nur Artikel mit exakt diesem Artikelnamen gefunden. Mit der Verwendung von Sternchen als Wildcard kann über die Suche \*streifen\* auch der Artikel Nadelstreifenanzug gefunden werden.
 
-**Parent topic:**[Bereiche des Shopsystems](3_Bereiche_des_Shopsystems.md)
+
 

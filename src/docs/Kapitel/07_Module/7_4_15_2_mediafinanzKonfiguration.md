@@ -30,5 +30,5 @@ Hier kann die Bonitätsprüfung für Einzelpersonen aktiviert werden.
 
 Hier kann die Bonitätsprüfung für Firmenkunden aktiviert werden.
 
-**Parent topic:**[Mediafinanz](7_4_15_Mediafinanz.md)
+
 

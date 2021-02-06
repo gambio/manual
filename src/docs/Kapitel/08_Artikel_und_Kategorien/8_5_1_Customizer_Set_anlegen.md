@@ -67,5 +67,5 @@ Mit Dropdown-Feldern wählen deine Kunden aus einer Reihe von dir vorgegebener W
 
 **Note:** Die Abmessungen werden bei GX-Customizer-Bildern nicht automatisch angepasst und können nachträglich nicht verändert werden. Lade dein Bild in der Größe hoch, in der es später angezeigt werden soll.
 
-**Parent topic:**[GX-Customizer](8_5_GX_Customizer.md)
+
 

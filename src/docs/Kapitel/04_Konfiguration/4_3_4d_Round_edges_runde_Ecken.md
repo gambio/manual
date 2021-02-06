@@ -12,5 +12,5 @@ Beispiel: \(5,FFFFFF,3\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Round-edges beim gewünschten Bildtyp ein.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 

@@ -5,5 +5,5 @@
 -   **[Auswahl einer Packstation / eines Paketshops](7_4_5_3_2_AuswahlEinerPackstationEinesPaketshops.md)**  
 
 
-**Parent topic:**[DHL Paketshops](7_4_5_DHL_Paketshops.md)
+
 

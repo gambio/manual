@@ -20,5 +20,5 @@ Unter Shop Einstellungen \> SEO \> Meta-Angaben \> neue Meta-Angaben kannst du z
 |page-type|Art deiner Website \(beispielsweise Onlineshop\)|
 |audience|Zielgruppe deines Webshops, sofern du das festlegen kannst und möchtest \(beispielsweise Handwerker, Heimwerker, Erwachsene,...\)|
 
-**Parent topic:**[Meta-Angaben](5_2_Meta_Angaben.md)
+
 

@@ -36,5 +36,5 @@ Neue Kundengruppen kannst du im Gambio Admin deines Shops unter Kunden \> Kunden
 |Artikel bewerten|Bei ✔ können Kunden dieser Gruppe Kundenrezensionen verfassen und Artikel bewerten|
 |Kundenrezensionen lesen|Bei ✔ können Kunden dieser Gruppe Kundenrezensionen einsehen|
 
-**Parent topic:**[Kundengruppen](12_5_Kundengruppen.md)
+
 

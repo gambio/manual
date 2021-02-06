@@ -30,5 +30,5 @@ Die möglichen Aktionen, für bereits angelegte Profile, sind von links nach rec
 -   **[Kategorien](8_9_2c_Kategorien.md)**  
 
 
-**Parent topic:**[Google Services](8_9_GoogleServices.md)
+
 

@@ -20,5 +20,5 @@ http://www.shop.de/login\_admin.php
 
 \(www.shop.de muss hier durch deine Shop-Adresse ersetzt werden\)
 
-**Parent topic:**[Shop Online/Offline](10_8_Shop_Online_Offline.md)
+
 

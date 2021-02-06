@@ -28,5 +28,5 @@ Hier kannst du verschiedene Bestellstatus festlegen
 -   Bestellstatus für laufende Zahlung festlegen
 -   Bestellstatus für fehlgeschlagene Zahlungen festlegen
 
-**Parent topic:**[Kreditkartenzahlung via Computop Paygate](7_2_3_13_ComputopPaygate.md)
+
 

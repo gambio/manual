@@ -6,5 +6,5 @@ Den Support für das Modul übernimmt Mailbeez. Detailliertere Informationen fin
 
 https://www.mailbeez.de/dokumentation
 
-**Parent topic:**[Mailbeez](7_4_13_Mailbeez.md)
+
 

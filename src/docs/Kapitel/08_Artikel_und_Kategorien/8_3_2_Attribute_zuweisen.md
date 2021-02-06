@@ -12,5 +12,5 @@ Verschiedene Varianten können ein unterschiedliches Gewicht haben und den Preis
 
 Klicke auf Speichern, um die vorgenommenen Änderungen zu sichern.
 
-**Parent topic:**[Artikelattribute](8_3_Artikelattribute.md)
+
 

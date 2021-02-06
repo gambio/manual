@@ -19,5 +19,5 @@ Gutscheine können auch von Gastkunden eingelöst werden. Wenn der Warenwert ger
 -   **[Gutscheinkarten](11_1_3_Gutscheinkarten.md)**  
 
 
-**Parent topic:**[Gutscheine und Rabatt Kupons](11_Gutscheine_und_Rabatt_Kupons.md)
+
 

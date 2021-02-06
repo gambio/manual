@@ -10,5 +10,5 @@ Beim Vornehmen dieser Einstellungen solltest du dir immer den Sinn und Zweck der
 
 Wenn eine Seite von der Suchmaschine aufgenommen werden soll, muss die Einstellung für die Sitemap also ✔ und für die Robots-Datei ✖ sein.
 
-**Parent topic:**[Statische Seiten](5_5_Statische%20Seiten.md)
+
 

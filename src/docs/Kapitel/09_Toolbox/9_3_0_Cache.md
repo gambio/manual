@@ -4,5 +4,5 @@ Das Shopsystem speichert bestimmte Daten auf dem Server. Das serverseitige Cachi
 
 ![](Bilder/Abb125_CacheLeeren_.png "Cache leeren")
 
-**Parent topic:**[Toolbox](9_Toolbox.md)
+
 

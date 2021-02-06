@@ -5,5 +5,5 @@
 
 Hier können die einzelnen Varianten des Footers ausgewählt werden. Im Honeygrid steht die Variante Standard zur Verfügung.
 
-**Parent topic:**[Footer](10_3_5_1_2_6_Footer.md)
+
 

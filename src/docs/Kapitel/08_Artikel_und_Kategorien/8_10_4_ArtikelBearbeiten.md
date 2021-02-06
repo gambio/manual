@@ -12,5 +12,5 @@ Editieren, wählt dann die gewünschten Artikel über die Checkbox aus und gibt 
 
 Bei der Bearbeitung muss beachtet werden, dass die Zeilenwerte eine höhere Priorität haben als die oben angegebenen globalen Werte. Wird in der Editierleiste also für drei Artikel ein Rabatt von 15% angegeben, beim ersten aber ein abweichender Rabatt von 5%, so werden die 15% nur für die beiden letzten Artikel gesetzt, der erste wird mit 5% Rabatt gespeichert.
 
-**Parent topic:**[QuickEdit](8_10_QuickEdit.md)
+
 

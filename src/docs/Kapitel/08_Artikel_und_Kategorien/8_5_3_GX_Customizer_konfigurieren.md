@@ -21,5 +21,5 @@
 
 Bestätige vorgenommene Änderungen mit einem Klick auf Speichern. Über Zurück gelangst du zur Sets-Übersicht.
 
-**Parent topic:**[GX-Customizer](8_5_GX_Customizer.md)
+
 

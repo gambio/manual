@@ -17,5 +17,5 @@ Bezahlen mit Amazon kann unter Module \> Zahlungsweisen \> Sonstige installiert 
 |Anzeigereihenfolge|Nummer für die Anzeigereihenfolge bei der Auflistung der Zahlungsweisen im Bestellvorgang|
 |Bestellstatus festlegen|Bestellungen mit der Zahlungsweise Bezahlen über Amazon erhalten diesen Bestellstatus|
 
-**Parent topic:**[Bezahlen über Amazon \(amazonadvpay\)](7_2_4_BezahlenUeberAmazon.md)
+
 

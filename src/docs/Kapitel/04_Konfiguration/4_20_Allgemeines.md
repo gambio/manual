@@ -11,5 +11,5 @@ Unter Shop Einstellungen \> Allgemeines befinden sich hauptsächlich Detaileinst
 -   **[Statistiken löschen](4_20_4_StatistikenLoeschen.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

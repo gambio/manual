@@ -8,5 +8,5 @@ Beispiel: \(FFFFFF\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Ellipse beim gewünschten Bildtyp ein.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 

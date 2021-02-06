@@ -46,5 +46,5 @@ Bei Zahlung per Zahlungsweisen mit sofortiger Transaktionsbestätigung wie PayPa
 
 Bei Zahlung per PayPal kannst du unter Module \> Zahlungsweisen \> PayPal und PayPal Plus \> Konfiguration \> Experteneinstellungen unter Bestellstatusänderungen nach Aktionen einen Bestellstatus auswählen, der nach erfolgreicher Bestellung automatisch zugewiesen wird. Wenn du einen eigenen Status verwendest kann dieser hier eingestellt werden \(z.B. Download erlaubt\). Nach erfolgreicher Bestellung mit Zahlung über PayPal wird im Konto des Kunden der Downloadlink zum Herunterladen der hinterlegten Datei freigeschaltet.
 
-**Parent topic:**[Zusatzfunktionen](8_6_Zusatzfunktionen.md)
+
 

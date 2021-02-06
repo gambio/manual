@@ -9,5 +9,5 @@
 -   **[Fehlerbehebung bei fehlender Anzeige im Bestellvorgang](14_4_4_FehlerbehebungBeiFehlenderAnzeigeImBestellvorgang.md)**  
 
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

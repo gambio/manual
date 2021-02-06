@@ -13,5 +13,5 @@ Das StyleEdit 4 ist in drei Menüs gegliedert, auf die verschiedene Arten von Ei
 -   **[Widgets](10_3_5_1_3_Widgets.md)**  
 
 
-**Parent topic:**[Theme mit StyleEdit 4 bearbeiten](10_3_5_ThemeBearbeiten.md)
+
 

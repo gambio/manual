@@ -64,5 +64,5 @@ In diesem Bereich sind die Menüboxen des Shops aufgelistet. Durch Aktivieren \(
 
 Um die Reihenfolge der Menüboxen zu verändern, bewege den Mauszeiger über das Pfeilkreuz-Symbol, links neben dem Namen der Box, die du an eine andere Position verschieben möchtest. Mache einen Linksklick auf das Symbol und halte die Maustaste geprückt. Ziehe nun den Eintrag nach oben oder unten, um seine Reihenfolge zu ändern. Lasse die Maustaste wieder los, wenn er sich an der gewünschten Position befindet.
 
-**Parent topic:**[Bereiche](10_3_5_1_2_Bereiche.md)
+
 

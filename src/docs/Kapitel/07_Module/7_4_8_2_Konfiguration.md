@@ -12,5 +12,5 @@ Du erreichst die Konfigurationsseite wahlweise unter Module \> Modul-Center, ind
 |Bestellstatus auswählen|Du kannst festlegen, ob der Status der Bestellung nach Speichern eines Auftrags bzw. Erzeugen eines Labels geändert werden soll. Durch eine Änderung des Status' lassen sich Bestellungen in der Übersicht leichter zuordnen.|
 |Paketdienst|Wird ProPS verwendet, ist der Paketdienst Hermes, bei PriPS muss hier MyHermes ausgewählt werden. Hiermit wird der Tracking-Link festgelegt, der dem Kunden in der Statusbenachrichtigung zugesendet wird. Sendungen, deren Label über PriPS erstellt wurden, können nicht über den Link für ProPS nachverfolgt werden und umgekehrt.|
 
-**Parent topic:**[Hermes](7_4_8_Hermes.md)
+
 

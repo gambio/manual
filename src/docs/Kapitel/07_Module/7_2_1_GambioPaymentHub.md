@@ -35,5 +35,5 @@ Um eine Zahlungsweise zu verwenden, bewege den Mauszeiger in die jeweilige Zeile
 -   **[easyCredit](7_2_2c_easycredit.md)**  
 
 
-**Parent topic:**[Zahlungsweisen](7_2_Zahlungsweisen.md)
+
 

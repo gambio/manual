@@ -27,5 +27,5 @@ Artikelempfehlungen werden in der Grundeinstellung des Shopsystems automatisch i
 
 Wenn du die automatische Rückverknüpfung deaktiviert hast und die Funktion reaktivieren möchtest, ändere die Option bei Reverse Cross-Marketing auf ✔ und speichere die Änderung.
 
-**Parent topic:**[Zusatzfunktionen](8_6_Zusatzfunktionen.md)
+
 

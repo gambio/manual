@@ -11,5 +11,5 @@ Darunter kann die Anzahl der Ergebnisse \(für wie viele verschiedene Seiten sol
 
 Klicke auf Speichern um die Statistik mit den aktuellen Einstellungen anzuzeigen.
 
-**Parent topic:**[Besucherstatistik](15_1_Besucherstatistik.md)
+
 

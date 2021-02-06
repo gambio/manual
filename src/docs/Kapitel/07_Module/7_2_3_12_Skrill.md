@@ -11,5 +11,5 @@ Diese Zahlungsweise ist nur in selbstgehosteten Shops verfügbar.
 -   **[Darstellung im Bestellvorgang](7_2_3_12_3_DarstellungImBestellvorgang.md)**  
 
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

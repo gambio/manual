@@ -60,5 +60,5 @@ Wähle einen Namen und klicke auf Erstellen, um einen neuen Style anzulegen. Üb
 
 Über Beenden kannst du das StyleEdit verlassen und kehrst zur Shop-Ansicht zurück.
 
-**Parent topic:**[Template-Einstellungen](10_2_2_Template_Einstellungen.md)
+
 

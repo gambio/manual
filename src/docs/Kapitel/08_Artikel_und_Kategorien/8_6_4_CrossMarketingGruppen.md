@@ -37,5 +37,5 @@ Cross-Marketing Gruppen können nach dem Hinzufügen, beziehungsweise beim Bearb
 
 Wähle hierzu den gewünschten Eintrag aus dem Dropdownmenü Gruppe aus, setze ggf. den Haken für hinzufügen und bestätige mit Speichern respektive Aktualisieren.
 
-**Parent topic:**[Zusatzfunktionen](8_6_Zusatzfunktionen.md)
+
 

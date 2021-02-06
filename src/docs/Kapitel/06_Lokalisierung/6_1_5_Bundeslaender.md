@@ -39,5 +39,5 @@ Wenn du ein Bundesland aus einem selbst angelegten Land nicht mehr benötigst, l
 2.  Klicke auf Löschen
 3.  Klicke erneut auf Löschen, um das Löschen des gewählten Bundeslandes zu bestätigen
 
-**Parent topic:**[Länder](6_1_Laender.md)
+
 

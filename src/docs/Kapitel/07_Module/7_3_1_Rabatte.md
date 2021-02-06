@@ -16,5 +16,5 @@ Das Modul Gutscheine wird benötigt, um Gutscheine bei der Summenberechnung zu b
 
 Mit dem Modul Vorkasse Rabatt gibst du einen Rechnungsrabatt auf bestimmte Zahlungsweisen.
 
-**Parent topic:**[Zusammenfassung](7_3_Zusammenfassung.md)
+
 

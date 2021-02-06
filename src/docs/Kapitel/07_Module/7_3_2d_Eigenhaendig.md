@@ -17,5 +17,5 @@ Wenn du Ware versendest, die eigenhändig vom Empfänger entgegengenommen werden
 |\[Versandart\]|enthält die Gebühren je Versandart im Format ISO2:Gebühren\(netto, Beispiel: DE:2.35\); alle nicht separat aufgebrachten Länder werden mit dem Universalcode 00 zusammengefasst|
 |Steuerklasse|eine Liste der konfigurierten Steuerklassen; die Gebühr wird anhand der gewählten Steuerklasse berechnet|
 
-**Parent topic:**[Gebühren](7_3_2_Gebuehren.md)
+
 

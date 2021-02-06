@@ -6,5 +6,5 @@ Wenn du die Umsatzsteuer ID-Nummer deiner Kunden nicht überprüfen möchtest, f
 2.  Wenn du die Umsatzsteuer ID-Nummer nicht prüfen möchtest, wähle auch bei USt-IdNr. überprüfen die Option ✖
 3.  Klicke auf Speichern, um die Änderungen an der Umsatzsteuer-Prüfung zu speichern
 
-**Parent topic:**[Händlerkunden](12_2_Haendlerkunden.md)
+
 

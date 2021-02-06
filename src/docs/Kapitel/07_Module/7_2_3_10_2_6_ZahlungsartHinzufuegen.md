@@ -13,5 +13,5 @@ Die im Screenshot gezeigte Darstellung tritt dann auf, wenn noch keine Zahlungsa
 |Finanzierung/Ratenkauf \(installment\)|CommerzFinanz|
 |Rechnung/Refactoring \(safeinv\)|BillSAFE, Payolution Rechnung|
 
-**Parent topic:**[Konfiguration](7_2_3_10_2_Konfiguration.md)
+
 

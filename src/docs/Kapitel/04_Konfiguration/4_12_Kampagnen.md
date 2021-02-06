@@ -14,5 +14,5 @@ In der Exportdatei werden die Produktlinks dann um die RefID ergänzt. Die Expor
 
 Die Daten können unter Statistiken \> Kampagnen Report ausgewertet werden, weitere Informationen hierzu findest du im Kapitel Kampagnen Report.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

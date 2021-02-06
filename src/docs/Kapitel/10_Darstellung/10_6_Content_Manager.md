@@ -15,5 +15,5 @@ Im Bereich Darstellung des Gambio Admins findest du den Eintrag Content Manager,
 -   **[Artikelinhalte](10_6_3_Artikelinhalte.md)**  
 
 
-**Parent topic:**[Darstellung](10_Darstellung.md)
+
 

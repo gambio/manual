@@ -17,5 +17,5 @@ Das StyleEdit v3 oder kurz StyleEdit3 genannt, dient ausschließlich der Bearbei
 -   **[Weiterführende Links](10_2_5_Weiterfuehrende_Links.md)**  
 
 
-**Parent topic:**[Darstellung](10_Darstellung.md)
+
 

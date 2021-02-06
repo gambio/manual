@@ -14,5 +14,5 @@ Damit automatisierte Vorgänge ausgeführt werden können, muss bei deinem Hosti
 
 Um Änderungen an einem bestehenden Vorgang vorzunehmen, klicke bitte auf das Bleistift-Symbol. Die Änderung kann anschließend mit Klick auf Speichern übernommen oder über die Schaltfläche Abbrechen verworfen werden.
 
-**Parent topic:**[Toolbox](9_Toolbox.md)
+
 

@@ -11,5 +11,5 @@
 -   **[Weitere Einstellungen](7_2_3_5_WeitereEinstellungen.md)**  
 
 
-**Parent topic:**[Gambio Payment Hub](7_2_1_GambioPaymentHub.md)
+
 

@@ -9,5 +9,5 @@
 -   **[Artikel-Filter](8_6_3_Artikel_Filter.md)**  
 
 
-**Parent topic:**[Artikel & Kategorien](8_Artikel_UND_Kategorien.md)
+
 

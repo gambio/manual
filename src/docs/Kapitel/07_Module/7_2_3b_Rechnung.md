@@ -21,5 +21,5 @@ Bei der Zahlung per Rechnung legst du dem Kunden der ausgelieferten Ware eine Re
 
 **Note:** Zahlung per Rechnung ist beim Versand an Behörden oder an Händler eine häufig genutzte Zahlungsweise. Wie du die Zahlung per Rechnung auf bestimmte Kundengruppen eingrenzt, erfährst du im Kapitel Kundengruppen.
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

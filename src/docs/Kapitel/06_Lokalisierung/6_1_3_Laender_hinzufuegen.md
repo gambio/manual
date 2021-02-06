@@ -84,5 +84,5 @@ CAUTION:
 
 Jedes Land darf nur jeweils einer Steuerzone zugewiesen werden. Wenn du ein Land mehr als einer Steuerzone zuweist, können die Steuern nicht korrekt berechnet werden.
 
-**Parent topic:**[Länder](6_1_Laender.md)
+
 

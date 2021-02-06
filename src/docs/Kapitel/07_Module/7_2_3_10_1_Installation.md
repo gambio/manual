@@ -18,5 +18,5 @@ Nachdem ein Modul installiert ist, kann über Bearbeiten der Geltungsbereich kon
 
 Über die Erweiterte Konfiguration lassen sich die Punkte Payone API-Log und Payone Konfiguration aufrufen.
 
-**Parent topic:**[Payone](7_2_3_10_Payone.md)
+
 

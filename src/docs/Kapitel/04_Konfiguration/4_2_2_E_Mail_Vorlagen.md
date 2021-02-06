@@ -26,5 +26,5 @@ Das Shopsystem versendet automatisierte E-Mails. Die Vorlagen kannst du unter Ku
 
 Passe die gewünschte E-Mail Vorlage über den CK-Editor an. Klicke auf Vorschau, das Vorschaufenster muss geöffnet sein, damit du die vorgenommenen Änderungen speichern kannst.
 
-**Parent topic:**[E-Mail-Optionen](4_2_E_Mail_Optionen.md)
+
 

@@ -13,5 +13,5 @@ Mit Kundengruppen organisierst du deine Kunden nach beliebigen Kriterien. Jeder 
 -   **[Kundengruppen löschen](12_5_4_Kundengruppen_loeschen.md)**  
 
 
-**Parent topic:**[Kunden](12_Kunden.md)
+
 

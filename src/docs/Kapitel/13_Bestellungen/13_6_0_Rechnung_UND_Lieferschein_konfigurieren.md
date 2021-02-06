@@ -11,5 +11,5 @@ Die Darstellung von Rechnung und Lieferschein kannst du unter Shop Einstellungen
 -   **[Vorschau](13_6_4_Vorschau.md)**  
 
 
-**Parent topic:**[Bestellungen](13_Bestellungen.md)
+
 

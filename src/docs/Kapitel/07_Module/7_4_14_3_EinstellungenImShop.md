@@ -6,5 +6,5 @@ Das von Ampify kopierte Token wird nun im letzten Schritt im Modul hinterlegt un
       AMPIFY unter Module >
       Modul-Center")
 
-**Parent topic:**[Ampify](7_4_14_Ampify.md)
+
 

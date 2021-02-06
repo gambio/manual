@@ -7,5 +7,5 @@ Mit der Zwei-Faktor-Authentifizierung kann man den Login in den Shop zusätzlich
 -   **[Auswirkung auf die Anmeldung](7_4_19_2_AuswirkungAufDieAnmeldung.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

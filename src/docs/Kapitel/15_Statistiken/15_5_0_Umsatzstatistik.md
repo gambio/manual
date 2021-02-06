@@ -4,5 +4,5 @@ Unter Statistiken \> Umsatzstatistik werden die für einen defnierten Zeitraum g
 
 **Note:** Diese Auflistung listet die Umsätze rein nach dem Warenwert auf. Bei Kunden mit Bruttorechnung ist dies der Brutto-Warenwert, bei Kunden ohne Steuerberechnung wie Händlern ist dies der Netto-Warenwert.
 
-**Parent topic:**[Statistiken](15_Statistiken.md)
+
 

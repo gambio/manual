@@ -126,5 +126,5 @@ Anschließend steht die Exportdatei über den Link in der Spalte Dateiname zum D
 
 Wir empfehlen zum Bearbeiten von CSV-Dateien das Programm LibreOffice Calc. Im nachfolgenden Kapitel findest du einen Abschnitt, der die notwendigen Schritte zum Öffnen und Speichern von CSV-Dateien mit LibreOffice Calc beschreibt.
 
-**Parent topic:**[Export](8_8_1_Export.md)
+
 

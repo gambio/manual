@@ -10,5 +10,5 @@ Kundengruppen können nicht gelöscht werden, wenn sich darin noch mindestens ei
 2.  Klicke auf das nun angezeigte Mülleimer-Symbol
 3.  Überprüfe in der angezeigten Sicherheitsabfrage, ob die korrekte Kundengruppe gewählt wurde und klicke erneut auf Löschen, um das unwiderrufliche Löschen der Kundengruppe zu bestätigen
 
-**Parent topic:**[Kundengruppen](12_5_Kundengruppen.md)
+
 

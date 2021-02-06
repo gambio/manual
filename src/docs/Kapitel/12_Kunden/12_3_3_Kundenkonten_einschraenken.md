@@ -19,5 +19,5 @@ Im Gambio Admin deines Shops unter Kunden \> Kunden kannst du für Kundenkonten 
 
 5.  Klicke auf Aktualisieren, um die Einschränkungen zu speichern
 
-**Parent topic:**[Kundenkonten verwalten](12_3_Kundenkonten_verwalten.md)
+
 

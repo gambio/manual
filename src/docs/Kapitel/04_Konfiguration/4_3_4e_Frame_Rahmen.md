@@ -13,5 +13,5 @@ Beispiel: \(FFFFFF,000000,3,EEEEEE\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Frame beim gewünschten Bildtyp ein.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 

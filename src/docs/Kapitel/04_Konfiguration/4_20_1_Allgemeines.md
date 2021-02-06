@@ -34,5 +34,5 @@ Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Be
 |
 |Standardzahlungsweise bei manuell angelegten Bestellungen|Wähle hier aus, welche Zahlungsweise bei manuell im Gambio Admin angelegten Bestellungen vorausgewählt werden soll.|
 
-**Parent topic:**[Allgemeines](4_20_Allgemeines.md)
+
 

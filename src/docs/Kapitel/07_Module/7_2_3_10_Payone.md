@@ -17,5 +17,5 @@ Diese Zahlungsweise ist nur in selbstgehosteten Shops verfügbar.
 -   **[TransactionStatus-URL](7_2_3_10_5_TransactionStatusURL.md)**  
 
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

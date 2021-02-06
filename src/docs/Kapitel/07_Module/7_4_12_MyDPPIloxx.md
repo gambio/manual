@@ -9,5 +9,5 @@
 -   **[Labelerstellung](7_4_12_4_Labelerstellung.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

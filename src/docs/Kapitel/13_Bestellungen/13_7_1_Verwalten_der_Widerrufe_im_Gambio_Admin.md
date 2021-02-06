@@ -19,5 +19,5 @@ In den Bestelldetails werden die zu dieser Bestellung eingegangenen bzw. angeleg
 
 Hat der Kunde bei einem Download oder einer Dienstleistung auf sein Widerrufsrecht verzichtet, wird unter der Widerrufsliste zudem ein neuer Bereich Widerrufsverzicht aufgeführt. Hier wird die Meldung Verzicht auf Widerrufsrecht bei Dienstleistung: JA bzw. Verzicht auf Widerrufsrecht bei Downloadartikel: JA angezeigt.
 
-**Parent topic:**[Widerrufe](13_7_Widerrufe.md)
+
 

@@ -6,5 +6,5 @@ Mit Klick auf Abbrechen wird das Anlegen des Tabs unterbrochen und alle Änderun
 
 Abschließend muss die Änderung im Artikel gespeichert werden, klicke hier auf Aktualisieren oder Speichern. Anderenfalls werden die erzeugten Tabs nach dem Verlassen der Artikelkonfiguration wieder verworfen.
 
-**Parent topic:**[Artikeltabs](8_2_4_Artikeltabs.md)
+
 

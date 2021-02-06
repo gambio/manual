@@ -19,5 +19,5 @@ Beim Bearbeiten einer Kombination stehen die gleichen Einstellungen zur Verfügu
 
 Passe die gewünschten Eigenschaftswerte an und bestätige die Eingaben mit _**Speichern**_ bzw. _**Speichern & Schließen**_. Über _**Abbrechen**_ kannst du den Dialog wieder verlassen, ohne die Kombination zu ändern.
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 

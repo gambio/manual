@@ -25,5 +25,5 @@ Ab der Version 2.1 werden die Bestellsummen automatisch berechnet. Setze hierzu 
 
 Du hast eine Bestellung manuell angelegt. Bei manuell angelegte Bestellungen werden vom Shopsystem keine automatischen E-Mails versendet. Informationen zur weiteren Abwicklung der Bestellung kannst du dem Kapitel Bestellung abwickeln entnehmen.
 
-**Parent topic:**[Bestellung manuell anlegen](13_2_Bestellung_manuell_anlegen.md)
+
 

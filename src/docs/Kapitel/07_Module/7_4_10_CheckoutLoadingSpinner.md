@@ -17,5 +17,5 @@ Nach der Installation kann das Modul konfiguriert werden. Wähle hierzu den Eint
 
 Setze den Haken für Aktiviert, um den Checkout Loading-Spinner zu verwenden. Über das Feld Nach Timeout anzeigen \(Sekunden\) kannst du die Zeit festlegen, nach der der Checkout Loading-Spinner während des Ladevorgangs angezeigt wird. Standardeinstellung ist hier 0, sodass der Spinner immer angezeigt wird, wenn er aktiviert wurde. Stellt man hier eine Sekundenanzahl ein, wird die Animation nur dann angezeigt, wenn sich das Laden der Zahlungsweisenseite tatsächlich um den festgelegten Zeitraum verzögert.
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

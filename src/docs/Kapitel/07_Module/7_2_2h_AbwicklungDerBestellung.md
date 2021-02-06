@@ -80,5 +80,5 @@ Unter Gambio Hub \> Klarna Settlements können erfolgte Auszahlungen von Klarna 
 
 ![](Bilder/042_PaymentRefs.png "Details zu einer Payment Ref")
 
-**Parent topic:**[Gambio secured Payments - powered by Klarna](7_2_2_GambioSecuredPayments_poweredByKlarna.md)
+
 

@@ -7,5 +7,5 @@ Das Shopsystem enthält Funktionen, die die Sicherheit deines Shops auf untersch
 -   **[Sicherheitscenter](4_6_2_Spamschutz.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

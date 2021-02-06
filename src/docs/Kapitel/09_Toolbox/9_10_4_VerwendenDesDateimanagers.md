@@ -52,5 +52,5 @@ Um eine Aktion mit einem Verzeichnis auszuführen, bewege den Mauszeiger darübe
 -   Umbenennen
 -   Löschen
 
-**Parent topic:**[Dateimanager](9_10_Dateimanager.md)
+
 

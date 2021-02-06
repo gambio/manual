@@ -36,5 +36,5 @@ Bei der Zahlung per Vorkasse wird deinem Kunden nach dem Aufgeben der Bestellung
 |Bank BIC|Internationale Bankenkennung \[---\]|
 |Module Sort order of display \(Anzeigereihenfolge\)|Reihenfolge, in der installierte Zahlungsmodule im Bestellprozess angezeigt werden \(je größer die Zahl, desto weiter unten wird das Modul angezeigt\); einmaliger Wert je Modul \[0\]|
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

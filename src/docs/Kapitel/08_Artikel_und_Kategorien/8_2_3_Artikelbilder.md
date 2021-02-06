@@ -11,5 +11,5 @@ Die Anzahl der verwendeten Artikelbilder ist für jeden Artikel frei festlegebar
 -   **[G-Motion verwenden](8_2_3c_G_Motion_verwenden.md)**  
 
 
-**Parent topic:**[Artikel](8_2_Artikel.md)
+
 

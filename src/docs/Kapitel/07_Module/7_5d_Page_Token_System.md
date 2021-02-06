@@ -4,5 +4,5 @@ Das Page-Token System ist ein zusätzliches Sicherheitssystem, das mit Hilfe von
 
 Unter bestimmten Bedingungen können mit diesem Modul Probleme auftreten, die die Benutzung des Gambio Admins erschweren. Daher kann das Page-Token System in diesem Fall abgeschaltet werden. Setze hierzu die Einstellung Page-Token System auf ✖.
 
-**Parent topic:**[Zusatzmodule](7_5_Zusatzmodule.md)
+
 

@@ -5,5 +5,5 @@
 -   **[Konfiguration](7_4_26_2_ShopVote_Konfiguration.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

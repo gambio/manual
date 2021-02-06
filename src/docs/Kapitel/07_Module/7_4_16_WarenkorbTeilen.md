@@ -23,5 +23,5 @@ Bei einem Klick auf den Link öffnet sich ein neues Dialogfenster, welche den ge
 
 Mit einem Klick auf die Schaltfläche Kopieren kann der Link in die Zwischenablage übernommen werden.
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

@@ -55,5 +55,5 @@ Die im Shop eingestellte Änderungsfrequenz stellt lediglich eine Vorgabe dar. D
 |--------|------------|
 |Tracking Codes|Klicke auf aufrufen, um die Konfigurationsseite für Tracking Codes anzuzeigen|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 

@@ -55,5 +55,5 @@ Der Code des Review Stickers kann von erfahrenen Benutzern angepasst werden:
 |colorclassName|Es ist auch möglich, eigene CSS-Klassen für die Ausgabe des Review Stickers anzugeben. Der Name der Klasse kann hier eingetragen werden.|
 |introtext|Die Überschrift kann auf einen beliebigen Text geändert werden. Die Überschrift wird allerdings nicht in den Skyscraper-Varianten verwendet.|
 
-**Parent topic:**[Einrichtung](7_4_9_2_Einrichtung.md)
+
 

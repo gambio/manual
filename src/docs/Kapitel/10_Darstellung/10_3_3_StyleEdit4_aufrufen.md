@@ -65,5 +65,5 @@ Wähle hier den Eintrag Einstellungen importieren aus, es öffnet sich ein neues
 
 Klicke auf den Button Einführen, um den Import vorzunehmen.
 
-**Parent topic:**[StyleEdit 4 / Themes](10_3_StyleEdit4_Themes.md)
+
 

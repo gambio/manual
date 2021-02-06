@@ -28,5 +28,5 @@ Das Modul Summe ist für die Berechung und Anzeige der Bruttoendsumme zuständig
 
 Das Modul Summe netto ist für die Berechnung und Anzeige der Nettosumme für Kundengruppen zuständig, in denen die Preisanzeige im Shop inklusive Steuern konfiguriert ist. Die Nettosumme wird im Summenblock nach der enthaltenen Steuer ausgewiesen.
 
-**Parent topic:**[Zusammenfassung](7_3_Zusammenfassung.md)
+
 

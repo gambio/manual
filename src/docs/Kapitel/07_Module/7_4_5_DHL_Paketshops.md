@@ -7,5 +7,5 @@
 -   **[Darstellung im Shop](7_4_5_3_DarstellungImShop.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

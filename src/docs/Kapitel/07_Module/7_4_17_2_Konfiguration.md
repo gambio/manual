@@ -20,5 +20,5 @@ Hier kann ausgewählt werden, ob die Janolaw-Rechtstexte für AGB und Widerruf a
 
 Mit Klick auf den Button Contents konfigurieren werden die Janolaw-Rechtstexte automatisch in die Content-Seiten eingebunden und sind damit im Shop aufrufbar.
 
-**Parent topic:**[Janolaw](7_4_17_Janolaw.md)
+
 

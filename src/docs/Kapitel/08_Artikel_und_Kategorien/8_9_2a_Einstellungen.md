@@ -51,5 +51,5 @@ Manche Hoster unterstützen keine Cronjobs, in diesem Fall kannst du über spezi
 
 Beachte auch, dass der Cronjob für einen regelmäßigen Aufruf von 1x pro Minute eingerichtet werden muss. Der Export kann je nach Größe in mehreren Arbeitsschritten erfolgen, sodass bei nur einmaliger Ausführung eines Cronjobs zum Exportzeitpunkt eventuell kein vollständiger Export erzeugt wird. Befürchte hier keine Überlast durch den häufigen Aufruf der Cronjob URL, wenn keine Aufgaben abzuarbeiten sind, beendet sich der Aufruf des Shops sofort.
 
-**Parent topic:**[Google Shopping](8_9_2_GoogleShopping.md)
+
 

@@ -98,5 +98,5 @@ Verwende die Buttons verwenden\[xx\] um ein Darstellungsprofil mit einer Shopspr
 
 **Note:** Für den fehlerfreien Betrieb muss mit jeder im Shop aktivierten Sprache ein Darstellungsprofil verknüpft sein. Damit die PayPal Zahlungsoptionen für Kunden immer in der richtigen Sprache angezeigt werden, empfiehlt es sich für jede im Shop aktivierte Sprache ein separates Profil anzulegen und passend zu konfigurieren.
 
-**Parent topic:**[Konfiguration](14_3_3_Konfiguration.md)
+
 

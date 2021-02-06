@@ -11,5 +11,5 @@ https://www.findologic.com/solutions/
 -   **[Verwendung](7_4_7_3_Verwendung.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

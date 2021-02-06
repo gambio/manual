@@ -12,5 +12,5 @@ Wenn du den Mauszeiger in die Zeile einer Rechnung bewegst, werden die mögliche
 
 ![](Bilder/Abb224_RechnungsuebersichtAktionen.png "Aktionen für Rechnungen")
 
-**Parent topic:**[Rechnungsübersicht](13_8_Rechnungsuebersicht.md)
+
 

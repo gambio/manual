@@ -13,5 +13,5 @@ CAUTION:
 
 Bei Verwenden der GDlib1-Bibliotheken für die Bildbearbeitung werden sämtliche Artikelbilder in schwarz-weiß abgelegt. Wenn du deine Artikelbilder in schwarz-weiß präsentieren möchtest, verwende die dafür vorgesehenen Funktionen für GDlib2. Die Option GDlib processing sollte nicht verändert werden.
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 

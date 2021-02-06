@@ -10,5 +10,5 @@ Ist das Modul installiert, kann es unter Module \> Modul-Center konfiguriert wer
 -   **[Ergebnisliste](7_4_5_2_2_Ergebnisliste.md)**  
 
 
-**Parent topic:**[DHL Paketshops](7_4_5_DHL_Paketshops.md)
+
 

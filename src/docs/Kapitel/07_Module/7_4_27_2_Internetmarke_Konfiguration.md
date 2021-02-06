@@ -41,5 +41,5 @@ Hier kann ein Motiv ausgewählt werden, welches mit auf die Marke gedruckt werde
 
 Du kannst dir hier die aktuellen Preise anzeigen lassen. Es gibt die Möglichkeit, die Preise über den Button Produkte und Preise aktualisieren zu aktualisieren, da diese sich von Zeit zu Zeit ändern.
 
-**Parent topic:**[Internetmarke](7_4_27_Internetmarke.md)
+
 

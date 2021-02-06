@@ -9,5 +9,5 @@ In Shops ab der Versionsreihe 2.4 ist standarmäßig das Modul PayPal und PayPal
 -   **[Konfiguration](14_3_3_Konfiguration.md)**  
 
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

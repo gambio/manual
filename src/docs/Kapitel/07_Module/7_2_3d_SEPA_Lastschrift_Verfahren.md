@@ -32,5 +32,5 @@ Um Lastschriften bei deiner Bank einreichen zu können ist bei den meisten Banke
 
 **Note:** Dein Kunde muss der Belastung seines Bankkontos durch dich explizit zustimmen. Ob das Absenden der Bestellung mit den Bankdaten als Einverständnis ausreicht, erfrage bitte bei deinem Rechtsberater. Aktiviere im Zweifelsfall die zusätzliche Faxbestätigung.
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

@@ -14,5 +14,5 @@ Gib hier deine Zugangsdaten ein.
 
 Nach der Anmeldung wirst du in einem Dialog dazu aufgefordert den Zugriff auf die Verwaltung von AdWords-Kampagnen zu bestätigen. Klicke hier auf Zulassen.
 
-**Parent topic:**[Google Services](8_9_GoogleServices.md)
+
 

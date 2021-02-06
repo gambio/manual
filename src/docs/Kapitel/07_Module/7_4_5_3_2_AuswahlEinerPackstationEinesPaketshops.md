@@ -8,5 +8,5 @@ Wurde das Modul aufgerufen, wird unterhalb der vorausgefüllten Lieferadresse ei
 
 ![](Bilder/dhl_paketshops/20170628_009.png "Die Packstation wurde für die Versandadresse übernommen")
 
-**Parent topic:**[Darstellung im Shop](7_4_5_3_DarstellungImShop.md)
+
 

@@ -18,5 +18,5 @@ Die Zahlungsweise Barzahlung ist im Shopbereich ausschließlich in Verbindung mi
 |Bestellstatus festlegen|Bestellstatus, der einer Bestellung mit dieser Zahlungsweise nach Eingang zugewiesen wird \[Standard\]|
 |Anzeigereihenfolge|Reihenfolge, in der installierte Zahlungsmodule im Bestellprozess angezeigt werden \(je größer die Zahl, desto weiter unten wird das Modul angezeigt\); einmaliger Wert je Modul \[0\]|
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

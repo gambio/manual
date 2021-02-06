@@ -16,5 +16,5 @@ Für einen HTML-Banner kannst du den gewünschten HTML-Code in das Feld HTML-Tex
 
 Über die Felder Gültig ab und Gültig bis kannst du den Zeitraum festlegen, in dem der Banner im Shop angezeigt werden soll. Du kannst neben dem Zeitraum auch eine Anzahl festlegen, wie oft der Banner angezeigt werden soll.
 
-**Parent topic:**[Darstellung](10_Darstellung.md)
+
 

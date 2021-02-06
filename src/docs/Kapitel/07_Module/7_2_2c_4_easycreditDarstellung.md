@@ -20,5 +20,5 @@ Klickt man auf den Link im Widget, öffnet sich der Ratenrechner.
 
 ![](Bilder/easycredit/ec-2020-09-10_008.png "Anzeige des Ratenrechners")
 
-**Parent topic:**[easyCredit](7_2_2c_easycredit.md)
+
 

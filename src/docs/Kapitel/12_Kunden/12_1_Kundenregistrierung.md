@@ -23,5 +23,5 @@ In manchen Shopversionen wird zum Teil unter Kunden \> Kunden \> Kunden-Details 
 -   **[Pflichtfelder festlegen](12_1_2_Pflichtfelder_festlegen.md)**  
 
 
-**Parent topic:**[Kunden](12_Kunden.md)
+
 

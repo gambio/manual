@@ -158,5 +158,5 @@
 |Bild einfügen|Hintergrundbild des Blocks aus Checkbox und Beschreibung bei angehakten Checkboxen|
 |Farbverlauf einfügen|Farbverlauf als Hintergrund des Blocks aus Checkbox und Beschreibung bei angehakten Checkboxen|
 
-**Parent topic:**[Bereiche](10_3_5_1_2_Bereiche.md)
+
 

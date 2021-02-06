@@ -18,5 +18,5 @@ Das Modul kann unter Module \> Modul-Center installiert werden. Wähle hierzu de
 
 Ist das Modul installiert, kannst du es in der Auflistung auswählen und mit einem Klick auf die Schaltfläche Deinstallieren wieder abschalten.
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

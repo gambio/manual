@@ -16,5 +16,5 @@ Dies kann, neben einzelner Adressen, auch für Adressräume vorgenommen werden:
 
 **Note:** Die genannten Adressen und Adressräume dienen nur als Beispiel zur Darstellung des Formates, es ist weder notwendig, noch sinnvoll, diese speziellen Adressen zu blockieren.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

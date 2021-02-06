@@ -102,5 +102,5 @@ Für die Darstellung in der Bestellübersicht kann für jede Zahlungsweise ein e
 
 ![](Bilder/027_EinstellungenExpertenmodus_KuerzelFuerBestelluebersicht.png "Kürzel für die Bestellübersicht")
 
-**Parent topic:**[Gambio secured Payments - powered by Klarna](7_2_2_GambioSecuredPayments_poweredByKlarna.md)
+
 

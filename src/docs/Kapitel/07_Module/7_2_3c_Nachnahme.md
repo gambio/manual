@@ -23,5 +23,5 @@ Bei der Zahlung per Nachnahme bezahlt der Kunde die Ware direkt bei der Zustellu
 
 **Note:** Für die Zahlung per Nachnahme fällt beim zustellenden Unternehmen in der Regel eine Bearbeitungsgebühr an. Wie du die Nachnahmegebühr deinem Kunden in Rechnung stellst, erfährst du im Kapitel Zusammenfassung \> Gebühren.
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

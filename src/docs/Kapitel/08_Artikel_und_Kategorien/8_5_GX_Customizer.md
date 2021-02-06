@@ -11,5 +11,5 @@
 -   **[GX-Customizer konfigurieren](8_5_3_GX_Customizer_konfigurieren.md)**  
 
 
-**Parent topic:**[Artikel & Kategorien](8_Artikel_UND_Kategorien.md)
+
 

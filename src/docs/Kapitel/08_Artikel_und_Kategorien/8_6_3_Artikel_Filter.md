@@ -54,5 +54,5 @@ Ein bestehendes Filter-Set kann mit Klick auf Bearbeiten \(Bleistift-Symbol\) ge
 
 **Note:** Filter und die ausgewählten Filter-Werte gehören nur zu einem Filter-Set, wenn diese zusammen in einer waagerechten Box angeordnet sind. Untereinander angeordnete Filter-Auswahlen stehen in keiner Beziehung zueinander.
 
-**Parent topic:**[Zusatzfunktionen](8_6_Zusatzfunktionen.md)
+
 

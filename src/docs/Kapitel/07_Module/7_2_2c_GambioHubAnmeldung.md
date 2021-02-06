@@ -16,5 +16,5 @@ Die Anmeldung bei Klarna kann zusammen mit der Hub Anmeldung durchgeführt werde
 
 **Note:** Die Anmeldung bei Klarna kann auch später aus dem Bereich Module \> Zahlungsweisen \> Gambio Payment Hub vorgenommen werden.
 
-**Parent topic:**[Gambio secured Payments - powered by Klarna](7_2_2_GambioSecuredPayments_poweredByKlarna.md)
+
 

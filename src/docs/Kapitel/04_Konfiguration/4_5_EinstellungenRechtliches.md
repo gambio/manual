@@ -140,5 +140,5 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 |--------|------------|
 |Cookie Consent|Klicke auf aufrufen, um die Konfigurationsseite des Cookie Consent-Moduls anzuzeigen.|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 

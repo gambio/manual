@@ -14,5 +14,5 @@ CAUTION:
 
 Für den Betrieb der Schnittstelle im PLUS-Modus, musst du eine Freigabe von PayPal besitzen. Wenn du die Schnittstelle in den PLUS-Modus schaltest, aber keine Freigabe besitzt, wird je nach Status deines Händlerkontos bei PayPal eine unvollständige Auswahl von PayPal-Zahlungsweisen oder eine Fehlermeldung anstatt der PayPal Zahlungsweisen angezeigt. Nach Aktivierung des PLUS-Modus solltest du zu deiner eigenen Sicherheit eine Probebestellung durchführen und dabei prüfen, ob die Zahlungsweisen korrekt und wie gewünscht angezeigt werden. Solltest du noch keine Freigabe besitzen, kannst du diese hier bei PayPal beantragen: https://www.paypal.com/de/webapps/mpp/paypal-plus
 
-**Parent topic:**[Konfiguration](14_3_3_Konfiguration.md)
+
 

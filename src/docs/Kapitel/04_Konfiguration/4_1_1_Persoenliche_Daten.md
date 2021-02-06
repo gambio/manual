@@ -39,5 +39,5 @@ Für das Widerrufsformular stehen unter Shop Einstellungen \> Mein Shop separate
 
 Lege den Namen deines Shops unter Shop Einstellungen \> Mein Shop im Feld Name des Shops fest. Der Name deines Shops wird in automatisch erstellten E-Mails sowie abhängig von der im Kapitel Meta-Titel beschriebenen Einstellungen in der Titelleiste des Webbrowsers angezeigt.
 
-**Parent topic:**[Grundkonfiguration](4_1_Grundkonfiguration.md)
+
 

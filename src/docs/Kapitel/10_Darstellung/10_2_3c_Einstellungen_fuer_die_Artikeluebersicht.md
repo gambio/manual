@@ -18,5 +18,5 @@
 
 ![](Bilder/Abb160_ProduktbewertungenGekachelt.PNG "vier Sterne-Bewertung in Kachelansicht")
 
-**Parent topic:**[Template Konfiguration](10_2_3_Template_Konfiguration.md)
+
 

@@ -6,5 +6,5 @@ Es stehen die gleichen Einstellungsmöglichkeiten wie beim Bearbeiten einer best
 
 **Note:** Eigene PHP-Seiten können nicht auf diese Weise mit Meta-Informationen versehen werden. Es ist jedoch eine Aufnahme in die Sitemap bzw. die Robots-Datei möglich.
 
-**Parent topic:**[Statische Seiten](5_5_Statische%20Seiten.md)
+
 

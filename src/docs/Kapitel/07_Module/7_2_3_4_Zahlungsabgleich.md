@@ -25,5 +25,5 @@ Rechte Seite
 -   Bestellnr. 285168, orange hinterlegt: Für die Bestellung von Herrn Gans kommen zwei Zahlungen in Frage, bei denen die Bestellnummer und der Betrag nicht identisch sind, aber ähnlich. Der Shopbetreiber kann die richtige Zahlung nun aus der rechten Spalte links auf die Bestellung ziehen, um der Bestellung eine der Zahlungen zuzuordnen.
 -   Bestellnr. 285320, nicht farbig hinterlegt: für diese Bestellung gibt es noch keine vorgeschlagenen Zahlungseingänge.
 
-**Parent topic:**[GiroConnect](7_2_3_GiroConnect.md)
+
 

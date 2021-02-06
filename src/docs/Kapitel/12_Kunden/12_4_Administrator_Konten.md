@@ -7,5 +7,5 @@ Bei der Installation deines Shopsystems wird ein Hauptadministrator-Konto angele
 -   **[Rollen und Berechtigungen](12_4_2_RollenUndBerechtigungen.md)**  
 
 
-**Parent topic:**[Kunden](12_Kunden.md)
+
 

@@ -10,5 +10,5 @@ Der Footer ist in vier unabhängige Spalten und einem darüber angeordneten Bere
 4.  Spalte 4: frei einrichtbar über den Content Footer 4. Spalte \(ID 4321007\)
 5.  oberer Bereich: frei einrichtbar über den Content Footer \(ID 199\)
 
-**Parent topic:**[Shopbereich](3_1_Shopbereich.md)
+
 

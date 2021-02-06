@@ -42,5 +42,5 @@ https://support.google.com/webmasters/answer/6001104?hl=de
 
 Die Sitemap kann über die Google Search Console eingereicht werden.
 
-**Parent topic:**[Suchmaschinen](5_Suchmaschinen.md)
+
 

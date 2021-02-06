@@ -11,5 +11,5 @@ Ein Teaser-Slider ist eine Bildpräsentation, die im Shopbereich oberhalb des Se
 -   **[Image-Map](10_4_3_Image_Map.md)**  
 
 
-**Parent topic:**[Darstellung](10_Darstellung.md)
+
 

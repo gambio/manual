@@ -38,5 +38,5 @@ Manche Abschnitte beinhalten mehr als eine Ebene mit Unterabschnitten.
 -   **[Cookie Consent Panel](10_3_5_1_2_10_CookieConsentPanel.md)**  
 
 
-**Parent topic:**[Menüs des StyleEdit 4](10_3_5_1_MenuesDesStyleEdit4.md)
+
 

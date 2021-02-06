@@ -34,5 +34,5 @@ Unter Kopieroptionen für Artikel kann eingestellt werden ob
 
 Mit Klick auf Kopieren wird der Kopiervorgang gestartet. Am Ende des Kopiervorganges wird jeweils die unterste, ausgewählte Kategorie aus der Liste angezeigt.
 
-**Parent topic:**[Artikel](8_2_Artikel.md)
+
 

@@ -59,5 +59,5 @@ Hierüber kann geprüft werden, ob Amazon erreichbar ist. Dies sagt jedoch nicht
 
 ![](Bilder/amazonadv-20180920_009.png "positives Ergebnis der Verbindungsprüfung")
 
-**Parent topic:**[Bezahlen über Amazon \(amazonadvpay\)](7_2_4_BezahlenUeberAmazon.md)
+
 

@@ -20,5 +20,5 @@ Nach der Anmeldung bei eKomi wird die Interface-ID und das Interface-Passwort au
 
 Es ist möglich, die noch nicht versendeten Bewertungsanfragen über einen CronJob auszulösen. Hierfür muss bei deinem Hosting-Provider oder einem anderen entsprechenden Anbieter eine CronJob-URL hinterlegt und der Aufruf eingerichtet werden. Die nötige CronJob-URL wird im Shop ausgegeben \(im Screenshot unkenntlich gemacht\).
 
-**Parent topic:**[eKomi](7_4_2_ekomi.md)
+
 

@@ -7,5 +7,5 @@ Für Grundpreispflichtige Artikel berechnet das Shopsystem die Grundpreise autom
 -   **[Mengeneinheiten](8_2_5b_Mengeneinheiten.md)**  
 
 
-**Parent topic:**[Artikel](8_2_Artikel.md)
+
 

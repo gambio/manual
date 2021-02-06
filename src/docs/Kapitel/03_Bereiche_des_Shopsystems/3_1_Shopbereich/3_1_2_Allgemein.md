@@ -22,5 +22,5 @@ Die Reihenfolge der einzelnen Contens und Artikelzusammenstellzungen auf der Sta
 
 **Note:** Contents bezeichnen Informationsseiten. Diese können unter Darstellung \> Content Manager bearbeitet oder neu angelegt werden \(siehe auch Kapitel Content Manager\).
 
-**Parent topic:**[Shopbereich](3_1_Shopbereich.md)
+
 

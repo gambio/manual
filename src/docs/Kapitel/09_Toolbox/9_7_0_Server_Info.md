@@ -10,5 +10,5 @@ Du hast die Möglichkeit, uns bei der Weiterentwicklung unserer Shop-Software zu
 
 **Note:** Mit Klick auf Senden werden ausschließlich die im angezeigten Formular stehenden Daten einmalig an die Gambio GmbH gesendet.
 
-**Parent topic:**[Toolbox](9_Toolbox.md)
+
 

@@ -15,5 +15,5 @@ Der Dateimanager ist nach der Installation für Verwendung im ganzen Shop vorein
 
 Setze bzw. entferne einen Haken, um die jeweiligen Einstellung zu aktivieren bzw. zu deaktivieren und bestätige die Änderungen mit einem Klick auf Speichern.
 
-**Parent topic:**[Dateimanager](9_10_Dateimanager.md)
+
 

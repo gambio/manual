@@ -18,5 +18,5 @@ Die Export-Profile sind in einer Tabelle aufgeführt, in der Profilname, Dateina
 -   **[Funktionen der Profilseite](8_8_1b_CSV_Artikel_Export.md)**  
 
 
-**Parent topic:**[Export](8_8_1_Export.md)
+
 

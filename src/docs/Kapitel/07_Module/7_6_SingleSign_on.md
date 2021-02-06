@@ -7,5 +7,5 @@ Single Sign-on erlaubt das Einloggen in den Shop über Konten bei den unterstüz
 -   **[Konfiguration](7_6_2_Konfiguration.md)**  
 
 
-**Parent topic:**[Module](7_Module.md)
+
 

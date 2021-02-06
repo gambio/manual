@@ -92,5 +92,5 @@ Nach dem Login auf der Amazon Seite kannst du über Integration \> Integrationsr
 
 Im Single Sign-on-Modul im Gambio Admin müssen dann noch weitere Zugangsdaten konfiguriert werden. Dazu wechselst du im Seller Central über den Dropdown ganz oben auf Login mit Amazon. Dort kann man dann ClientID und Secret herauskopieren um sie in den Shop in die Konfiguration des Single Sign-On Moduls zu übertragen. Die Rückleitungs-URL, wie im Shop angezeigt, muss bei Amazon hinterlegt werden; dies kannst du über Return URLs und Javascript Origins konfigurieren.
 
-**Parent topic:**[Single Sign-on](7_6_SingleSign_on.md)
+
 

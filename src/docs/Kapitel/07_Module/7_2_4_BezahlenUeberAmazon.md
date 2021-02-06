@@ -17,5 +17,5 @@ Ein Checkout by Amazon-Konto kann standardmäßig **nicht** für Bezahlen über 
 -   **[Behandlung der Bestellungen](7_2_4_4_BehandlungDerBestellungen.md)**  
 
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

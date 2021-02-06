@@ -15,5 +15,5 @@ Bei Sendungen in Länder außerhalb der EU gilt es, die Ausfuhrangaben bei der L
 
 Weiter unten in den Ausfuhrangaben werden die Artikel der Bestellung aufgeführt. Wurde das Versandgewicht in den Artikeln hinterlegt, so ist dies hier bereits vorausgefüllt. Ansonsten muss das Gewicht für einen Artikel in die jeweilige Zeile im Feld Masse hinterlegt werden. Aus der Menge der Artikel und den jeweiligen Gewichten muss dann das Gesamtgewicht errechnet und weiter oben in das Feld Versandgewicht eingetragen werden.
 
-**Parent topic:**[Verwendung](7_7_3_Verwendung.md)
+
 

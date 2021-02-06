@@ -201,5 +201,5 @@ In diesem Abschnitt können Farbe und Hintergrundfarbe der im Shop verwendeten Q
 
 Modal-Fenster werden oberhalb der eigentlichen Shop-Oberfläche angezeigt und können verschiedene Aufgaben haben. Für sie kann in diesem Unterabschnitt eine Hintergrundfarbe, ein Hintergrundbild oder Farbverlauf als Hintergrund festgelegt werden.
 
-**Parent topic:**[Bereiche](10_3_5_1_2_Bereiche.md)
+
 

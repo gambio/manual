@@ -22,5 +22,5 @@ Nach Auswahl einer Klarna Zahlungsweise muss der Kunde zuerst sein Geburtsdatum 
 
 Auf der letzten Seite der Bestellung wird die gewählte Zahlungsweise dann noch einmal aufgeführt und kann vom Kunden im Zweifelsfall noch mal geändert werden
 
-**Parent topic:**[Gambio secured Payments - powered by Klarna](7_2_2_GambioSecuredPayments_poweredByKlarna.md)
+
 

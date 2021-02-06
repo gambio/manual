@@ -33,5 +33,5 @@ Wenn beide Zeichen korrekt eingetragen worden sind, wird die CSV-Datei in einer 
 -   **[Import durchführen](8_8_2d_Import_durchfuehren.md)**  
 
 
-**Parent topic:**[Import/Export](8_8_Import_Export.md)
+
 

@@ -23,5 +23,5 @@ CAUTION:
 
 Durch die Tasten c und d werden Inhalte der Log-Dateien bzw. die Log-Datei selbst unwiederbringlich gelöscht. Betätige diese Tasten nur, wenn du die angezeigten Einträge respektive die zugehörige Datei wirklich entfernen möchtest.
 
-**Parent topic:**[Toolbox](9_Toolbox.md)
+
 

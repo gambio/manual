@@ -20,5 +20,5 @@ Die Sendungsnummer wurde automatisch in den Bestelldetails hinterlegt und kann j
 
 ![](Bilder/hermes_hsi/HSI_015.png "Sendungsnummer in der Bestellung (Detailansicht)")
 
-**Parent topic:**[Hermes HSI](7_4_23_HermesHSI.md)
+
 

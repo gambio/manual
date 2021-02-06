@@ -195,5 +195,5 @@ Bei Kategorien und eigenen Listen kann über das Feld Kategorie wählen bzw. Pro
 
 Bei der eigenen Liste können Artikel durch Ziehen und Halten des Pfeilkreuz-Symbols nach oben oder unten verschoben werden, um deren Reihenfolge zu ändern. Über das X kann ein Artikel aus der eigenen Liste entfernt werden.
 
-**Parent topic:**[Menüs des StyleEdit 4](10_3_5_1_MenuesDesStyleEdit4.md)
+
 

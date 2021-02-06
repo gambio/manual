@@ -15,5 +15,5 @@
 -   **[Artikel kopieren](8_2_7_Artikel_kopieren.md)**  
 
 
-**Parent topic:**[Artikel & Kategorien](8_Artikel_UND_Kategorien.md)
+
 

@@ -4,5 +4,5 @@ Das Trusted Shops-Modul kann im Gambio Admin unter Module \> Modul-Center instal
 
 ![](Bilder/trusted_shops/TS-2016-12-14_008.png "Trusted Shops-Modul unter Module > Modul-Center")
 
-**Parent topic:**[Trusted Shops](7_4_9_TrustedShops.md)
+
 

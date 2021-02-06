@@ -13,5 +13,5 @@ Mit den folgenden Modulen bildest du Gebühren in der Bestellzusammenfassung ab.
 -   **[Versandkosten](7_3_2e_Versandkosten.md)**  
 
 
-**Parent topic:**[Zusammenfassung](7_3_Zusammenfassung.md)
+
 

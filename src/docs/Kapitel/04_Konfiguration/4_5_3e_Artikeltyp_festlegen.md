@@ -18,5 +18,5 @@ Die genannte Einstellung ist auch Bestandteil von Importen und Exporten unter Ar
 
 Unter Import/Export \> Artikeldaten trägt die Spalte die Bezeichnung p\_type.
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 

@@ -13,5 +13,5 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 **Note:** Die Änderungen an den Bild-Effekten werden nur für über die Artikel-Eingabemaske neu hochgeladene Artikelbilder übernommen. Wenn die Änderungen auch auf bereits vorhandene Artikelbilder angewendet werden sollen, führe anschließend die Stapelverarbeitung für Bildbearbeitung unter Darstellung \> Bild-Optionen \> Image Processing aus.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 

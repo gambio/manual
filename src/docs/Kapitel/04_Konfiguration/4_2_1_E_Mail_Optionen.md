@@ -66,5 +66,5 @@ Jedem E-Mail Konto sind die folgenden Konfigurationsvariablen zugewiesen. Das Fe
 
 **Note:** Bei manchen Server- und E-Mail-Konfigurationen kann der E-Mail Empfang beim Kunden fehlschlagen. Wenn deine Kunden keine Bestellbestätigungsmails erhalten, stelle sicher, dass die Option Absender der Bestellbestätigungsmail auf Betreiber E‑Mail steht.
 
-**Parent topic:**[E-Mail-Optionen](4_2_E_Mail_Optionen.md)
+
 

@@ -4,5 +4,5 @@ Damit Ratenzahlung Powered by PayPal im Shop angeboten werden kann, benötigst d
 
 Das Modul selbst ist ab Shopversion v3.3.1.0 im Grundumfang enthalten.
 
-**Parent topic:**[Ratenzahlung Powered by PayPal](14_4_RatenzahlungPoweredByPayPal.md)
+
 

@@ -11,5 +11,5 @@ Im Gambio Admin unter Kunden \> Kunden verwaltest du die Kundenkonten deiner Kun
 -   **[Kundenkonto löschen](12_3_4_Kundenkonto_loeschen.md)**  
 
 
-**Parent topic:**[Kunden](12_Kunden.md)
+
 

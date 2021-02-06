@@ -7,5 +7,5 @@ Das Malibu-Theme basiert auf dem Honeygrid-Theme, daher ist der Aufbau des Style
 -   **[Neu hinzugekommene Menüs](10_3_6_2_NeuHinzugekommeneMenues.md)**  
 
 
-**Parent topic:**[StyleEdit 4 / Themes](10_3_StyleEdit4_Themes.md)
+
 

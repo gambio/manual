@@ -210,5 +210,5 @@ Ausgangsgröße ist nicht gleich angezeigte Bildgröße. In Honeygrid und Malibu
 |Artikel-Popup Bilder: Schatten|Überlappungseffekt, überlappt das gleiche Bild mehrmals übereinander. Standard-Wert: \(4,FFFFFF\) Verwendung: \(Anzahl der Linien/Überlappungen, Hex-Wert der Hintergrundfarbe\)|
 |Artikel-Popup Bilder: Überlappungseffekt|Überlappungseffekt, überlappt das gleiche Bild mehrmals übereinander. Standard-Wert: \(4,FFFFFF\) Verwendung: \(Anzahl der Linien/Überlappungen, Hex-Wert der Hintergrundfarbe\)|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 

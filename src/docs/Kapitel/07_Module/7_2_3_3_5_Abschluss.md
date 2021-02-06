@@ -8,5 +8,5 @@ Nach Abschluss der Konfiguration werden die Zahlungsmodule Vorkasse \(Überweisu
 
 Im Menü Bestellungen des Gambio Admin steht nun der Eintrag Zahlungsabgleich zur Verfügung.
 
-**Parent topic:**[Anmeldung und Konfiguration](7_2_3_3_AnmeldungUndKonfiguration.md)
+
 

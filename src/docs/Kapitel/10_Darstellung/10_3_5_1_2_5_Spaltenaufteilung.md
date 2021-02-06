@@ -20,5 +20,5 @@ Bei der Einstellung der Unterkategorien wird die Anzahl der in einer Reihe angez
 
 ![](Bilder/styleedit4/se4_0075_BereicheSpaltenaufteilungUnterkategorien.png "Aufteilung der Unterkategorien bei einem Wert von 6")
 
-**Parent topic:**[Bereiche](10_3_5_1_2_Bereiche.md)
+
 

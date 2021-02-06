@@ -7,5 +7,5 @@ Die Konfiguration von PayPal kann unter Module \> Zahlungsweisen \> Sonstige, na
 -   **[Experteneinstellungen](14_3_3b_Experteneinstellungen.md)**  
 
 
-**Parent topic:**[PayPal und PayPal Plus](14_3_PayPal_und_PayPal_Plus.md)
+
 

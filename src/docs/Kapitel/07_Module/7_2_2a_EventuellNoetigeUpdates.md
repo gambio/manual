@@ -8,5 +8,5 @@ https://www.gambio.de/mTbX2
 
 Auch wenn du kein aktives Kundenkonto bei Gambio besitzt, wird dir bei Fragen oder Problemen mit dem Update gerne weitergeholfen, schreibe hierzu als Gambio Kunde ein Supportticket über das Gambio Kundenportal oder, falls kein Kundenkonto besteht, eine Mail mit deinem Anliegen an info@gambio.de
 
-**Parent topic:**[Gambio secured Payments - powered by Klarna](7_2_2_GambioSecuredPayments_poweredByKlarna.md)
+
 

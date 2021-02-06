@@ -10,5 +10,5 @@ Das Modul kann unter Module \> Modul-Center installiert werden. Wähle hierzu au
 
 ![](Bilder/sunnycash/20190704_001.png "Bearbeiten des SunnyCash-Moduls")
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

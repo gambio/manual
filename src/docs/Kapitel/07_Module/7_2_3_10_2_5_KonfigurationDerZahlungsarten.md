@@ -196,5 +196,5 @@ Als Zahlarttypen stehen hier ausschließlich direkt Kontobezogene Zahlarten zur 
 |Payolution: Zahlungsziel \(Tage\)|Die EInstellung Zahlungsziel wird nur dann verwendet, wenn von Payolution selbst kein Ziel vorgegeben wird. Aus Bestelldatum und hinterlegtem Zahlungsziel wird dann die Fälligkeit berechnet.|
 |Zahlarttypen|Verfügbare Zahlarten sind hier Billsafe und Payolution.|
 
-**Parent topic:**[Konfiguration](7_2_3_10_2_Konfiguration.md)
+
 

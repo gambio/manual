@@ -13,5 +13,5 @@ Bitte nimm Änderungen an den rechtlichen Einstellungen ausschließlich in Abspr
 -   **[Cookie Hinweis](4_5_4_CookieHinweis.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

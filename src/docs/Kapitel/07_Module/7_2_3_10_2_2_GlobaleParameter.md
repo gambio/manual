@@ -19,5 +19,5 @@ Aufgrund verschiedener Rundungen kann es hier u.U. zu Problemen kommen. Sofern d
 
 |
 
-**Parent topic:**[Konfiguration](7_2_3_10_2_Konfiguration.md)
+
 

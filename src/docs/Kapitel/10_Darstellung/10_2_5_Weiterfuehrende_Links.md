@@ -10,5 +10,5 @@ https://www.gambio.de/blog/styleedit-3-tutorials-teil-3-header/
 
 https://www.gambio.de/blog/styleedit-3-tutorials-teil-3-footer/
 
-**Parent topic:**[Honeygrid und StyleEdit v3](10_2_Honeygrid_und_StyleEdit_v3.md)
+
 

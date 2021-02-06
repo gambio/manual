@@ -19,5 +19,5 @@ QuickEdit ist ein Werkzeug zur Massenbearbeitung von Artikeln. Es k√∂nnen also √
 -   **[Staffelpreise](8_10_7_Staffelpreise.md)**  
 
 
-**Parent topic:**[Artikel & Kategorien](8_Artikel_UND_Kategorien.md)
+
 

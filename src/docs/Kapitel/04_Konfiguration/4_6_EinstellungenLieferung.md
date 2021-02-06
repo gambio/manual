@@ -23,5 +23,5 @@
 |--------|------------|
 |Paketdienste|Klicke auf aufrufen, um die Konfigurationsseite für die Paketdienste anzuzeigen.|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 

@@ -43,5 +43,5 @@ Wenn du deiner Lieferung einen Lieferschein beilegen möchtest, erstelle den Lie
 
 3.  Der Bestellstatus deiner Bestellung bleibt unverändert, der Lieferschein wird erzeugt und im Webbrowser angezeigt
 
-**Parent topic:**[Bestellungen abwickeln](13_1_Bestellungen_abwickeln.md)
+
 

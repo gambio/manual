@@ -6,5 +6,5 @@ Will man die Eigenschaften mehrerer Artikel bearbeiten, so kann man im Dropdown 
 
 Bei den Eigenschaften kann zudem noch der Preistyp gewählt werden. Hiermit wird festgelegt, ob der Preis aus den Kombinationen berechnet oder der Festpreis aus der Eigenschaft selbst bezogen werden soll.
 
-**Parent topic:**[QuickEdit](8_10_QuickEdit.md)
+
 

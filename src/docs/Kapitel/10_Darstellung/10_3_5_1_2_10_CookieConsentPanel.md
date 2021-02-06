@@ -42,5 +42,5 @@ https://wiki.selfhtml.org/wiki/Referenz:CSS/Eigenschaften/box-shadow
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
-**Parent topic:**[Bereiche](10_3_5_1_2_Bereiche.md)
+
 

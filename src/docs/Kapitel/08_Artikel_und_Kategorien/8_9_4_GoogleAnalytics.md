@@ -21,5 +21,5 @@ Bitte beachte, dass diese Daten erst zeitverzögert bei Analytics zu sehen sind.
 -   **[Konfiguration](8_9_4b_Konfiguration.md)**  
 
 
-**Parent topic:**[Google Services](8_9_GoogleServices.md)
+
 

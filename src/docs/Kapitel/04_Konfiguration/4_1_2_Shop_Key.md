@@ -18,5 +18,5 @@ Den Shop-Key kannst du im Administrationsbereich deines Shops unter Shop Einstel
 
 Eine Liste mit den genauen Daten, die an das Gambio Kundenportal weitergegeben werden, kannst du im Gambio Admin deines Shops unter Shop Einstellungen \> System Einstellungen \> Shop‑Key über den Link Zweck und Art der übermittelten Daten einsehen.
 
-**Parent topic:**[Grundkonfiguration](4_1_Grundkonfiguration.md)
+
 

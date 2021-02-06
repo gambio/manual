@@ -20,5 +20,5 @@ CAUTION:
 
 Sollten nach der Installation des Moduls unter Module \> Zahlungsweisen \> Sonstige Fehler auftreten, leere bitte ein Mal alle Caches des Shops. Dies kann unter Toolbox \> Cache vorgenommen werden.
 
-**Parent topic:**[PayPal und PayPal Plus](14_3_PayPal_und_PayPal_Plus.md)
+
 

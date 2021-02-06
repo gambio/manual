@@ -12,5 +12,5 @@ Es werden zudem neue Einträge im linken Menü des Gambio Admin angezeigt.
 
 ![](Bilder/releva.nz/relevanz_009.png "Einträge für releva.nz im Gambio Admin")
 
-**Parent topic:**[releva.nz](7_4_24_relevanz.md)
+
 

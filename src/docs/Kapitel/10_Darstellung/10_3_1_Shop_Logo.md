@@ -8,5 +8,5 @@ Das Shop Logo wird im Shopbereich wie in der Abbildung Shopbereich eingebunden. 
 4.  Aktiviere die Einstellung Datei verwenden
 5.  Klicke auf Speichern, um das neue Shop Logo zu verwenden
 
-**Parent topic:**[Logo Manager](10_3_Logo_Manager.md)
+
 

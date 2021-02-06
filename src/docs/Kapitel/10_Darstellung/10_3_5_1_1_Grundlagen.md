@@ -55,5 +55,5 @@ Die Hintergrundfarbe unter Hintergrund ist blau eingestellt, die Hintergrundfarb
 
 In diesem Abschnitt kann die Darstellung der horizontalen Menüleiste \(ohne Dropdown\) festgelegt werden. Es stehen Einstellungen für die Hintergrundfarbe, wahlweise als Farbverlauf, die Link-Farbe oder ein Hintergrundbild zur Verfügung.
 
-**Parent topic:**[Menüs des StyleEdit 4](10_3_5_1_MenuesDesStyleEdit4.md)
+
 

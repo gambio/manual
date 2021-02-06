@@ -132,5 +132,5 @@ Achtung: die Angabe der Kategorie-ID \(in eckigen Klammern\) ist für den Import
 |p\_type|Artikeltyp \[1/2/3\] Standard, Download, Dienstleistung|\{product\_type\}|
 |p\_property\_image\_list\_id|ID der für die Eigenschaften verwendeten Image List/Kollektion|\{p\_property\_image\_list\_id\}|
 
-**Parent topic:**[Import](8_8_2_Import.md)
+
 

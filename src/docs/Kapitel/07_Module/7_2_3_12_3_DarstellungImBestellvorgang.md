@@ -11,5 +11,5 @@ Nach Bestätigung der Bestellung mit Klick auf Kostenpflichtig bestellen wird de
 
 Zu diesem Zeitpunkt existiert im Shop schon eine Bestellung mit dem Bestellstatus, den man unter Bestellstatus - Zahlungsvorgang im Modul ausgewählt hat. Eine Bestellbestätigung wird, wie bei Bestellungen über Zahlungsdienstleister üblich, jedoch erst versendet, wenn die Zahlung vom Kunden komplett abgeschlossen wurde und diesem im Shop die Bestellbestätigungsseite angezeigt worden ist. Solange die Zahlung nicht komplett abgeschlossen wurde, bleiben die Artikel im Warenkorb.
 
-**Parent topic:**[Skrill](7_2_3_12_Skrill.md)
+
 

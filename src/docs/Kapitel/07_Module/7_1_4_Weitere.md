@@ -48,5 +48,5 @@ Bei der Versandart Pauschale Versandkosten wird bei jeder Bestellung eine Versan
 
 Mit der Versandart Versandkosten pro Stück wird ein pauschaler Versandkostenwert für jeden Artikel berechnet, der im Warenkorb liegt.
 
-**Parent topic:**[Versandarten](7_1_Versandarten.md)
+
 

@@ -62,5 +62,5 @@ Die Firma kann standardmäßig nicht als Pflichtangabe gesetzt werden. Eine Prü
 |Straße|Mindestlänge der Straßenanschrift|
 |Telefonnummer|Mindestlänge der Telefonnummer|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 

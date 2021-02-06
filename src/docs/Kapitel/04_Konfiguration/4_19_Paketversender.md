@@ -7,5 +7,5 @@
 -   **[Sendungsnummer zuordnen](4_19_2_Sendungsnummer_zuordnen.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

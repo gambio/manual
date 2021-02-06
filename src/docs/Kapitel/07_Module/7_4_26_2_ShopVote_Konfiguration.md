@@ -14,5 +14,5 @@ Den JavaScript Code für das RatingStars-Widget findet man im ShopVote-Konto, we
 
 ![](Bilder/shopvote/20200212_004.png "Grafiken & Siegel bei ShopVote")
 
-**Parent topic:**[ShopVote](7_4_26_ShopVote.md)
+
 

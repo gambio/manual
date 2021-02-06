@@ -24,5 +24,5 @@ Typische Zahlungsweisen für diesen Fall sind: banktransfer,cod,invoice,moneyord
 
 Setze hier bei den Bestellstatus einen Haken, für den du den Download freigeben möchtest.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

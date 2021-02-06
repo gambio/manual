@@ -22,5 +22,5 @@ Hier kann das tägliche Budget festgelegt werden. Man hat also - obwohl das Modu
 
 ![](Bilder/releva.nz/relevanz_008.png "Werbeeinstellungen")
 
-**Parent topic:**[releva.nz](7_4_24_relevanz.md)
+
 

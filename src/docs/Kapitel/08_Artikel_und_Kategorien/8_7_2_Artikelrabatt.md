@@ -16,5 +16,5 @@ Bearbeite nun unter Artikel \> Artikel / Kategorien die Artikel, die einen Artik
 
 **Note:** Lege drei Artikel mit den Namen Test 10 Prozent, Test 20 Prozent und Test 30 Prozent an. Vergebe für alle Artikel einen Artikelpreis von 10 Euro Brutto und trage im Feld Artikelrabatt den jeweiligen Rabatt ein. Rufe deinen Shop nun mit einem Kundenkonto auf, das Mitglied der Kundengruppe Stammkunde ist. Im Shop siehst du jetzt für den Artikel Test 10 Prozent einen Artikepreis von 9 Euro und den Hinweis Sie sparen 10%. Bei den Artikeln Test 20 Prozent und Test 30 Prozent ändert sich der Artikelpreis auf 8 Euro und der Hinweis Sie sparen 20% wird ausgegeben. Da die Kundengruppe Stammkunde maximal 20 % Rabatt erhält, werden von den 30 % des Artikels Test 30 Prozent nur die erlaubten 20 % berücksichtigt.
 
-**Parent topic:**[Rabatte & Sonderangebote](8_7_Rabatte_UND_Sonderangebote.md)
+
 

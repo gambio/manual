@@ -79,5 +79,5 @@ In der Grundkonfiguration wird auf allen Seiten die Mehrwertsteuer unterhalb des
 
 Über Klick auf die Schaltfläche Exportieren wird eine Liste im CSV-Format erstellt, in der die Zustimmungen deiner Kunden zu den jeweiligen Rechtstexten des Shops aufgeführt werden.
 
-**Parent topic:**[Rechtliche Einstellungen](4_5_Rechtliche_Einstellung.md)
+
 

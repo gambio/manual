@@ -13,5 +13,5 @@ Die Ansicht Besucher wird standardmäßig beim Aufruf von Statistiken \> Besuche
 -   **[Konfiguration](15_1_5_Konfiguration.md)**  
 
 
-**Parent topic:**[Statistiken](15_Statistiken.md)
+
 

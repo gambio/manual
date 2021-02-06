@@ -4,5 +4,5 @@ Wählt man nur einen Artikel aus, können für diesen die Staffelpreise angepass
 
 ![](Bilder/Abb137_Staffelpreise.png "Staffelpreise")
 
-**Parent topic:**[QuickEdit](8_10_QuickEdit.md)
+
 

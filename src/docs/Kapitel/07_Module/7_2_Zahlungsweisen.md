@@ -11,5 +11,5 @@ Der Bereich Zahlungsweisen teilt sich in dasGambio Payment Hub und Sonstige auf.
 -   **[Sonstige](7_2_3_Sonstige.md)**  
 
 
-**Parent topic:**[Module](7_Module.md)
+
 

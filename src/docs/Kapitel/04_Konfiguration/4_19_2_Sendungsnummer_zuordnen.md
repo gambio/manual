@@ -11,5 +11,5 @@ Nun kann der Kunde, wenn er seine Bestellung unter Ihr Konto aufruft, über eine
 
 Die zugewiesene Sendungsnummer, der Paketdienst, sowie das Datum der Zuweisung wird nun in der Detailansicht der Bestellung angezeigt.
 
-**Parent topic:**[Paketdienste](4_19_Paketversender.md)
+
 

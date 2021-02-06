@@ -11,5 +11,5 @@
 -   **[Bestellsummen neu erzeugen](13_3_3_Bestellsummen_neu_erzeugen.md)**  
 
 
-**Parent topic:**[Bestellungen](13_Bestellungen.md)
+
 

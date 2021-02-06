@@ -12,5 +12,5 @@ Zusätzlich können über HTML Kompression einschalten unnötige Leerzeichen aus
 
 Wird der Haken CSS inline im Head ausgeben gesetzt, wird der CSS-Code im Head-Bereich der Seite ausgegeben, anstatt die externe CSS-Datei zu verlinken.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

@@ -52,5 +52,5 @@ In diesem Abschnitt kann die Anzeige der einzelnen Menüboxen an- und abgeschalt
 
 Der Bereich Icons wird nur angezeigt, wenn unter Shop Einstellungen \> Mein Shop für Templateset \(Theme\) der Eintrag Honeygrid \(Theme\) eingestellt worden ist.
 
-**Parent topic:**[Template-Einstellungen](10_2_2_Template_Einstellungen.md)
+
 

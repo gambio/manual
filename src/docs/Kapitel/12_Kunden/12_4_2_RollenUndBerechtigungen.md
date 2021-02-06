@@ -104,5 +104,5 @@ Setze beziehungsweise entferne den Haken Zugriff erlauben hinter einem Zugriffsr
 |Hub|Erlaubt die Verwaltung des Gambio Hubs|
 |Unbekannte Module|Diese Berechtigung fasst alle unbekannten Module zusammen. Es wird empfohlen, dass diese Berechtigung immer erlaubt wird|
 
-**Parent topic:**[Administrator-Konten](12_4_Administrator_Konten.md)
+
 

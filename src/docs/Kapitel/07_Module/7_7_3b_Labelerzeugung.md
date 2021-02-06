@@ -49,5 +49,5 @@ In der erweiterten Ansicht gibt es noch zahlreiche weitere Optionen.
 |Sperrgut|Sendungen, die schwerer als 31,5kg sind oder bestimmte Maße überschreiten, können als Sperrgut versendet werden.|
 |\(zusätzliche\) Transportversicherung|Bei besonders wertvollen Sendungen kann die Sendung zusätzlich bis zu einem bestimmten Wert versichert werden. Nähere Angaben bekommst du hierzu bei DHL.|
 
-**Parent topic:**[Verwendung](7_7_3_Verwendung.md)
+
 

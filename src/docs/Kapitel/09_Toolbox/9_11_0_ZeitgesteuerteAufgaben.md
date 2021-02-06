@@ -18,5 +18,5 @@ Damit die eingestellten Aufgaben ausgeführt werden, muss bei deinem Hoster \(od
 
 Kopiere für die Einrichtung den Inhalt des Felds Cronjob-URL und verwende ihn als Aufruf-URL für den Cronjob. Stelle zudem das Intervall auf eine Minute ein. Details und weitere Hilfestellung hierzu erhältst du bei deinem jeweiligen Hosting- oder Cronjob-Anbieter.
 
-**Parent topic:**[Toolbox](9_Toolbox.md)
+
 

@@ -40,5 +40,5 @@ Eine genaue Beschreibung der möglichen Einstellungen findest du in den nachfolg
 -   **[Vorbereiten und Durchführen eines CSV-Exports](8_8_1d_ExportVorbereitenDurchfuehren.md)**  
 
 
-**Parent topic:**[Import/Export](8_8_Import_Export.md)
+
 

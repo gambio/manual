@@ -22,5 +22,5 @@ Beim Wiederherstellunsprozess wird die Datenbank aus der angelegten Sicherung ko
 
 Durch Klick auf das rote Kreuz kann die jeweilige Sicherung aus dem Sicherungsverzeichnis entfernt werden.
 
-**Parent topic:**[Datensicherung](9_4_Datensicherung.md)
+
 

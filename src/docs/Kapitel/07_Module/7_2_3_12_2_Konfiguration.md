@@ -33,5 +33,5 @@ Hier kann für jeden Status der Zahlung ein separater Bestellstatus ausgewählt 
 
 Die Einstellung Expertenmodus darf nur in Absprache mit Skrill verändert werden. Wenn du hierzu weitere Informationen benötigst, wende dich bitte direkt an Skrill.
 
-**Parent topic:**[Skrill](7_2_3_12_Skrill.md)
+
 

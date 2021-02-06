@@ -11,5 +11,5 @@ Das Shopsystem bietet mehrere Möglichkeiten, Preisnachlässe auf einzelne Artik
 -   **[Sonderangebote](8_7_4_Sonderangebote.md)**  
 
 
-**Parent topic:**[Artikel & Kategorien](8_Artikel_UND_Kategorien.md)
+
 

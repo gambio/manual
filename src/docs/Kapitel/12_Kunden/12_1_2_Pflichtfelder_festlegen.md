@@ -6,5 +6,5 @@ Im Gambio Admin deines Shops unter Shop Einstellungen \> Minimum-Werte kannst du
 
 Trage in die Felder, die bei der Kundenregistrierung als Pflichtangabe abgefragt werden sollen, einen ganzzahligen Wert über 0 ein. Trage bei Feldern, die bei der Registrierung optional sind, den Wert 0 ein. Klicke anschließend auf Speichern, um die Änderungen zu speichern.
 
-**Parent topic:**[Kundenregistrierung](12_1_Kundenregistrierung.md)
+
 

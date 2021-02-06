@@ -40,5 +40,5 @@ Beim Anlegen eines Kundenkontos ist es möglich anzugeben, ob der Kunde als Gewe
 
 Bitte beachte, dass der Administrator immer wie ein Gewerbetreibender behandelt wird. Unabhängig von seinem ausgewählten Wohnort, sieht der Administrator immer die Mehrwertsteuer, die für das unter Shop Einstellungen \> Mein Shop ausgewählte Land des Shopbetreibers gilt.
 
-**Parent topic:**[Kundenregistrierung](12_1_Kundenregistrierung.md)
+
 

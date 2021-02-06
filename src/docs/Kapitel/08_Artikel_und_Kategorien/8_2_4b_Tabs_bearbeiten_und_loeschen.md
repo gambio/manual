@@ -6,5 +6,5 @@ Angelegte Tabs können nachträglich bearbeitet werden. Bearbeite hierzu den Art
 
 Wie auch beim Anlegen, müssen die Änderungen sowohl beim Bearbeiten als auch beim Löschen von Tabs im Artikel gespeichert werden. Klicke hierzu auf Aktualisieren oder Speichern.
 
-**Parent topic:**[Artikeltabs](8_2_4_Artikeltabs.md)
+
 

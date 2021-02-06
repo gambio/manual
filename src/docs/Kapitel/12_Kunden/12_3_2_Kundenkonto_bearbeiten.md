@@ -16,5 +16,5 @@ Die meisten Änderungen an Kundenkonten können direkt vom Kunden im Shopbereich
 
 8.  Klicke auf Aktualisieren, um die Änderungen zu speichern
 
-**Parent topic:**[Kundenkonten verwalten](12_3_Kundenkonten_verwalten.md)
+
 

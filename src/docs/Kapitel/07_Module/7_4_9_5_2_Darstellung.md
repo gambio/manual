@@ -13,5 +13,5 @@ Dem Summenblock wird bei aktiviertem Käuferschutz eine Zeile mit den Kosten hin
 ![](Bilder/trusted_shops/excellence03.png "Die Kosten für den Käuferschutz werden im Summenblock
       aufgeführt")
 
-**Parent topic:**[Trusted Shops Käuferschutz Excellence](7_4_9_5_TrustedShopsKaeuferschutzExcellence.md)
+
 

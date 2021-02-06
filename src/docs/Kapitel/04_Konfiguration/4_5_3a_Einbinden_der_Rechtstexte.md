@@ -23,5 +23,5 @@ Der Shop enthält ein Muster-Widerrufsformular im PDF-Format. Allerdings besteht
 
 Lade die Datei, wie bereits beschrieben, über Muster-Widerrufsformular in den Shop hoch.
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 

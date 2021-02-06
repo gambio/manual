@@ -24,5 +24,5 @@ Das Reverse Cross-Marketing ist eine Zusatzfunktion zum Cross Selling \(siehe Ka
 
 **Note:** Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Auslastung deines Server erhöhen. Bitte prüfe nach der Aktivierung, ob sich der Shop beim Aufruf der Artikel spürbar verlangsamt hat. Ist dies der Fall, sollte das Reverse Cross-Marketing nach Möglichkeit nicht verwendet werden.
 
-**Parent topic:**[Zusatzmodule](7_5_Zusatzmodule.md)
+
 

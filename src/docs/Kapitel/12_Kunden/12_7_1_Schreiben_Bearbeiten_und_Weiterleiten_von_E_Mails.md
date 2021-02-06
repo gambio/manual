@@ -36,5 +36,5 @@ Unterhalb der Tabelle kann zwischen den einzelnen Seiten gewechselt werden, wenn
 
 Unterhalb der Tabelle kann zwischen den einzelnen Seiten gewechselt werden, wenn nicht alle Einträge auf einer Seite angezeigt werden.
 
-**Parent topic:**[E-Mails](12_7_E_Mails.md)
+
 

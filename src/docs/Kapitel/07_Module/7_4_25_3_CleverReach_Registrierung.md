@@ -11,5 +11,5 @@ Wer CleverReach benutzen möchte, kann sich unter https://www.cleverreach.com/de
 
 |Anschließend erhält man eine E-Mail, über die die Kontoerstellung noch einmal bestätigt werden muss. Es öffnet sich ein neuer Browertab mit dem CleverReach-Benutzerkonto. Parallel wird eine E-Mail mit den Nutzerdaten versendet.|
 
-**Parent topic:**[CleverReach](7_4_25_CleverReach.md)
+
 

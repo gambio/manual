@@ -10,5 +10,5 @@ Mit Spalte und Zeile kann man angeben, wo auf dem zu bedruckenden Papier/Umschla
 
 Über den Button gedruckte Marken anzeigen kann man die bisher für diese Bestellung erstellen Marken anzeigen lassen.
 
-**Parent topic:**[Internetmarke](7_4_27_Internetmarke.md)
+
 

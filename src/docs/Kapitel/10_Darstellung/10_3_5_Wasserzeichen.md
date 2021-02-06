@@ -10,5 +10,5 @@ Das Wasserzeichen wird im Shopbereich als Kopierschutz über den Artikelbildern 
 
 **Note:** Die Transparenz des Wasserzeichens wird unter Darstellung \> Bild-Optionen festgelegt. GIF oder PNG Grafiken mit Transparenz sind nicht unterstützt. Nähere Informationen zur Konfiguration des Wasserzeichens findest du im Kapitel Bild-Optionen \> Wasserzeichen.
 
-**Parent topic:**[Logo Manager](10_3_Logo_Manager.md)
+
 

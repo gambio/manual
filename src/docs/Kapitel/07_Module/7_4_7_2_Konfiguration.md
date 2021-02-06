@@ -39,5 +39,5 @@ Exportiert werden folgende Daten:
 -   Datum der Anlage \(Unix Timestamp\)
 -   Lieferzeit
 
-**Parent topic:**[Findologic](7_4_7_Findologic.md)
+
 

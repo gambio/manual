@@ -6,5 +6,5 @@ Zuerst werden die Adressdaten des Shopbetreibers abgefragt. Fülle die Felder au
 
 Bestätige mit Klick auf Weiter. Über Abbrechen kannst du den Anmeldevorgang wieder verlassen. Mit Zurück gelangst du jeweils zum vorherigen Schritt.
 
-**Parent topic:**[Anmeldung und Konfiguration](7_2_3_3_AnmeldungUndKonfiguration.md)
+
 

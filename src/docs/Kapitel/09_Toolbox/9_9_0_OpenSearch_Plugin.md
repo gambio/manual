@@ -16,5 +16,5 @@ Bestätige die gemachten Eingaben mit einem Klick auf Speichern.
 
 In der Box Erweiterte Suche kann über den Link Browser-Schnellsuche die Shopsuche zu den eingetragenen Suchmaschinen im Browser hinzugefügt werden.
 
-**Parent topic:**[Toolbox](9_Toolbox.md)
+
 

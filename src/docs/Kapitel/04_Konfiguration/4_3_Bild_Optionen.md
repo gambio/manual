@@ -17,5 +17,5 @@
 -   **[Artikelbilder löschen](4_3_6_Artikelbilder%20loeschen.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

@@ -11,5 +11,5 @@
 |Kategorietiefe bis zu der die vertikale Navigation immer aufgeklappt angezeigt wird|Wie viele Ebenen des linken Kategoriemenüs sollen standardmäßig aufgeklappt sein?|
 |Maximale Kategorietiefe bis zu der die vertikale Navigation aufgeklappt werden kann|Bis zu dieser Tiefe lassen sich Kategorien aufklappen|
 
-**Parent topic:**[Template Konfiguration](10_2_3_Template_Konfiguration.md)
+
 

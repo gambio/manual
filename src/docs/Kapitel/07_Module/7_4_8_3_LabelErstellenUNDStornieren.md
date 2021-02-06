@@ -33,5 +33,5 @@ Das Label enthält einen Abschnitt für die Auftragsbestätigung.
 
 ![](Bilder/hermes/HE_20170615_007.png "Gedrucktes Label über PriPS")
 
-**Parent topic:**[Hermes](7_4_8_Hermes.md)
+
 

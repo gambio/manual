@@ -13,5 +13,5 @@ Bestellungen kannst du für deine Kunden im Gambio Admin deines Shops unter Kund
 -   **[Bestellsummen erzeugen](13_2_3_Bestellsummen_erzeugen.md)**  
 
 
-**Parent topic:**[Bestellungen](13_Bestellungen.md)
+
 

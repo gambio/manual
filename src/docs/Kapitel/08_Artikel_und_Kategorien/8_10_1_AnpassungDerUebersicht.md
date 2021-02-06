@@ -4,5 +4,5 @@
 
 ![](Bilder/Abb129_Einstellungen.png "Einstellung")
 
-**Parent topic:**[QuickEdit](8_10_QuickEdit.md)
+
 

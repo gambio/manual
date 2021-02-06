@@ -4,5 +4,5 @@ Künftig erhält der Kunde bei jeder Anmeldung zusätzlich noch eine Abfrage des
 
 ![](Bilder/zwei_faktor_authentifizierung/20190704_009.png "Anmeldefenster zur Eingabe des 6-stelligen Codes")
 
-**Parent topic:**[Zwei-Faktor-Authentifizierung](7_4_19_ZweiFaktorAuthentifizierung.md)
+
 

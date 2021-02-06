@@ -28,5 +28,5 @@ Zudem können die im Cookie Consent-Panel verwendeten Texte für die im Backend 
 
 Klicke auf die jeweilige Flagge, um den Inhalt für die zugehörige Sprache anpassen zu können.
 
-**Parent topic:**[Bearbeiten](7_4_21_3_Bearbeiten.md)
+
 

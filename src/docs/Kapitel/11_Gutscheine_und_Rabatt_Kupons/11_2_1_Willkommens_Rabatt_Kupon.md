@@ -6,5 +6,5 @@ Trage den Code des gewünschten Willkommens-Rabatt Kupons unter Shop Einstellung
 
 **Note:** Wenn du sowohl einen Willkommens-Gutschein als auch einen Willkommens-Rabatt Kupon einrichtest, wird dem Kunden bei der Registrierung ein Gutschein-Code und ein Rabatt Kupon-Code zugeschickt.
 
-**Parent topic:**[Rabatt Kupons](11_2_Rabatt_Kupons.md)
+
 

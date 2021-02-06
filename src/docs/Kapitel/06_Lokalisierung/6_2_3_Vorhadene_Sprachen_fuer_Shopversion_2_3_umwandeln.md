@@ -94,5 +94,5 @@ Mit der neuen Shopversion wurden Texte verändert und hinzugefügt. Diese fehlen
 
 Der Shop zeigt in diesem Fall für diese Texte den Wert aus der Standardsprache an, die im Administrationsbereich/Gambio Admin unter dem Menüpunkt Sprachen definiert ist.
 
-**Parent topic:**[Sprachen](6_2_Sprachen.md)
+
 

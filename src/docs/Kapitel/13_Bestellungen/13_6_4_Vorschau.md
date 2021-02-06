@@ -10,5 +10,5 @@ Auf der Registerkarte Vorschau kannst du eine Vorschau einer Rechnung oder eines
 2.  Klicke auf Rechnung, um eine Vorschau für die Rechnung zu dieser Bestellung zu generieren
 3.  Klicke auf Lieferschein, um eine Vorschau für den Lieferschein zu dieser Bestellung zu generieren
 
-**Parent topic:**[Rechnung & Lieferschein konfigurieren](13_6_Rechnung_UND_Lieferschein_konfigurieren.md)
+
 

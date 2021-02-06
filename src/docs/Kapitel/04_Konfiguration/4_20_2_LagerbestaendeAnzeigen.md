@@ -7,5 +7,5 @@
 
 Setze bzw. entferne den jeweiligen Haken und klicke in der entsprechenden Zeile auf Anwenden um die Einstellung zu ändern.
 
-**Parent topic:**[Allgemeines](4_20_Allgemeines.md)
+
 

@@ -4,5 +4,5 @@ Zum Bearbeiten von Artikeln, klicke zunächst in der Artikel- und Kategorieüber
 
 Nimm die gewünschten Änderungen an den Konfigurationsfeldern des Artikels vor. Eine Übersicht über die Bedeutung der Felder in der Artikel-Eingabemaske findest du in der Tabelle Übersicht über die Artikel-Eingabemaske.
 
-**Parent topic:**[Artikel](8_2_Artikel.md)
+
 

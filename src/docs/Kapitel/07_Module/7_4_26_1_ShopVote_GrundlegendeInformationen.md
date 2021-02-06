@@ -25,5 +25,5 @@ Die Schritte 1 und 2 sind nur bei Shops mit eigenem Hosting erforderlich. Betrei
 2.  Texte-, Modul- und Seitenausgabecache des Shops in dieser Reihenfolge leeren, gehe hierzu im Gambio Admin unter Toolbox \> Cache und betätige die entsprechenden Schaltflächen.
 3.  Jetzt kann das Modul unter Module \> Modul-Center installiert und über den Button Bearbeiten konfiguriert werden.
 
-**Parent topic:**[ShopVote](7_4_26_ShopVote.md)
+
 

@@ -35,5 +35,5 @@ Wenn die Freigabeliste unter Module \> Zusammenfassung \> Gutscheine aktiviert i
 
 Wenn die Freigabeliste nicht aktiviert ist, wird der Gutscheinwert nach dem Eingang der Bestellung automatisch dem Guthabenkonto des Käufers gutgeschrieben.
 
-**Parent topic:**[Gutscheine](11_1_Gutscheine.md)
+
 

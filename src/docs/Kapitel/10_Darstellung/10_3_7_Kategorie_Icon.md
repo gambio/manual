@@ -8,5 +8,5 @@ Das Kategorie Icon wird vor dem Kategorienamen in der Kategorienavigation im Men
 
 **Note:** Das Kategorie Icon, das du unter Darstellung \> Logo Manager hochlädst, wird verwendet, wenn du in der Kategorie selbst kein Icon hochlädst. Kategorie Icons, die direkt in einer Kategorie hochgeladen werden, überschreiben das Standard Icon, das du im Logo Manager hochlädst.
 
-**Parent topic:**[Logo Manager](10_3_Logo_Manager.md)
+
 

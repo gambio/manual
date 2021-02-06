@@ -5,5 +5,5 @@
 -   **[Umsetzung der Verbraucherrechterichtlinie im Frontend des Shops](13_7_2_Umsetzung_der_Verbraucherrechterichtlinie_im_Frontend_des_Shops.md)**  
 
 
-**Parent topic:**[Bestellungen](13_Bestellungen.md)
+
 

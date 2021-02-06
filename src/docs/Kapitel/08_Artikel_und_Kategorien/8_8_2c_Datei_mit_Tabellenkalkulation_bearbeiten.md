@@ -31,5 +31,5 @@ Es werden dir nun nochmals die wichtigsten Einstellungen angezeigt. Stelle hierb
 
 **Note:** Um das Pipe-Symbol \| zu erhalten, drücke auf der Tastatur bitte gleichzeitig ALT GR und < \(Spitze Klammer, links neben dem Y\).
 
-**Parent topic:**[Import](8_8_2_Import.md)
+
 

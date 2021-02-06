@@ -54,5 +54,5 @@ Klicke nach vorgenommenen Änderungen auf Speichern, um die Änderungen für zuk
     Der Fußteil wird am unteren Seitenrand jeder Seite angezeigt
 
 
-**Parent topic:**[Rechnung & Lieferschein konfigurieren](13_6_Rechnung_UND_Lieferschein_konfigurieren.md)
+
 

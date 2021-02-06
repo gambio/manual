@@ -10,5 +10,5 @@ Hierbei ist zu beachten, dass beim Abbrechen die Export-Datei eines teilweise vo
 
 Über Cronjob-URL anzeigen wird die URL zum Ausführen des Exports angezeigt. Diese URL muss in einen neu eingerichteten Cronjob bei deinem Provider eingetragen werden. Weitere Details zu den Einstellungen erhältst du, wenn du auf das grüne Info-Symbol am Ende der Cronjob-URL klickst.
 
-**Parent topic:**[Preis-Portal](8_8_1c_Preis_Portal.md)
+
 

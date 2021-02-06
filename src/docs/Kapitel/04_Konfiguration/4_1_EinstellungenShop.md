@@ -26,5 +26,5 @@
 |Telefonnummer|Telefonnummer des Shopbetreibers|
 |Faxnummer|Faxnummer des Shopbetreibers|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 

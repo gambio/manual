@@ -18,5 +18,5 @@ Nach der erfolgreichen Installation gibt MailBeez eine entsprechende Rückmeldun
 
 Anschließend kann die MailBeez-Seite im Shop aufgerufen werden.
 
-**Parent topic:**[Mailbeez](7_4_13_Mailbeez.md)
+
 

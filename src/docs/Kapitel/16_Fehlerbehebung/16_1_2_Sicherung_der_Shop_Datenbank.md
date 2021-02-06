@@ -26,5 +26,5 @@ Logge dich mit den Daten aus den Konfigurationsdateien bei phpMyAdmin ein. Je na
 
 Sichere die neu angelegte komplette Datensicherung zusätzlich auf einem störunanfälligen Datenträger wie CD- oder DVD-ROM.
 
-**Parent topic:**[Manuelle Datensicherung](16_1_Manuelle_Datensicherung.md)
+
 

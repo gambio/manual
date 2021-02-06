@@ -4,5 +4,5 @@ Das Hermes-Modul wird im Gambio Admin unter Module \> Modul-Center installiert. 
 
 ![](Bilder/hermes/HE_20170615_008.png "Menüeinträge nach Installation des Hermes-Moduls")
 
-**Parent topic:**[Hermes](7_4_8_Hermes.md)
+
 

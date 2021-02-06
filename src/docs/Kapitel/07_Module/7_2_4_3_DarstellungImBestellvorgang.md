@@ -30,5 +30,5 @@ Auf der letzten Seite der Bestellung werden die Informationen wie gewohnt zusamm
 
 ![](Bilder/amazonadv-20180920_014.png "Bestellzusammenfassung")
 
-**Parent topic:**[Bezahlen über Amazon \(amazonadvpay\)](7_2_4_BezahlenUeberAmazon.md)
+
 

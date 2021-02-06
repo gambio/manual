@@ -4,5 +4,5 @@ Der PdfCreator ist ein eigenständiges Modul und steht nicht unter der GNU GPL L
 
 http://www.gambio.de/hinweise/pdfcreator.html
 
-**Parent topic:**[Lizenzhinweise](A_Lizenzhinweise.md)
+
 

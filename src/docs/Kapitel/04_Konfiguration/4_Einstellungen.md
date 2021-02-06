@@ -105,7 +105,7 @@ Jedem E-Mail Konto sind die folgenden Konfigurationsvariablen zugewiesen. Das Fe
 
 **Note:** Bei manchen Server- und E-Mail-Konfigurationen kann der E-Mail Empfang beim Kunden fehlschlagen. Wenn deine Kunden keine Bestellbestätigungsmails erhalten, stelle sicher, dass die Option Absender der Bestellbestätigungsmail auf Betreiber E‑Mail steht.
 
-**Parent topic:**[E-Mail-Optionen](4_2_E_Mail_Optionen.md)
+
 
 # Performance {#gzip_kompression}
 
@@ -121,7 +121,7 @@ Zusätzlich können über HTML Kompression einschalten unnötige Leerzeichen aus
 
 Wird der Haken CSS inline im Head ausgeben gesetzt, wird der CSS-Code im Head-Bereich der Seite ausgegeben, anstatt die externe CSS-Datei zu verlinken.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Rechtliches {#einstellungen_rechtliches}
 
@@ -265,7 +265,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 |--------|------------|
 |Cookie Consent|Klicke auf aufrufen, um die Konfigurationsseite des Cookie Consent-Moduls anzuzeigen.|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 
 # Paketdienste {#paketdienste}
 
@@ -276,7 +276,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 -   **[Sendungsnummer zuordnen](4_19_2_Sendungsnummer_zuordnen.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Image Processing {#image_processing}
 
@@ -296,7 +296,7 @@ Der Vorgang kann, je nach Anzahl der Artikel-Bilder im Shop, einige Zeit dauern.
 
 Bei Bedarf kann unter Nummer des Startbildes bzw. Dateiname des Startbildes festgelegt werden, dass die Stapelverarbeitung einen Teil der Artikelbilder überspringt.
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 
 # System {#einstellungen_system}
 
@@ -503,7 +503,7 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 |Speichern aller Datenbankabfragen|Speichern der einzelnen Datenbankabfragen in der Logdatei für Berechnungszeiten. Datenbankabfragen sind alle Abrufe von Daten, die im Shop stattfinden.|
 |E-Mail-Fehlerberichte an|E-Mail-Adresse, an die Fehlerberichte gesendet werden sollen. Um keine Berichte zu senden, kann das Feld einfach leer gelassen werden. Zur Sendung von Fehlerberichten an den Gambio Support kann die Adresse debug@gambio-support.de eingetragen werden.|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 
 # Drop-Shadow \(Schlagschatten\) {#drop_shadow}
 
@@ -519,7 +519,7 @@ Beispiel: \(3,333333,FFFFFF\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Drop-Shadow beim gewünschten Bildtyp ein.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 
 # Konfiguration {#konfiguration}
 
@@ -580,7 +580,7 @@ In der Exportdatei werden die Produktlinks dann um die RefID ergänzt. Die Expor
 
 Die Daten können unter Statistiken \> Kampagnen Report ausgewertet werden, weitere Informationen hierzu findest du im Kapitel Kampagnen Report.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Bildgröße {#bildgroesse}
 
@@ -600,7 +600,7 @@ Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschi
 
 **Note:** Wenn die geänderte Ausgangsgröße auch bei bestehenden Artikelbildern übernommen werden soll, führe unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung aus. Beachte, dass die Ausgabeelemente im Shopbereich nicht automatisch an die neue Größe angepasst werden. Wenn du die Bildgröße der Thumbnails oder Info-Bilder änderst, passe anschließend im Bearbeitungsmodus die betroffenen Bereiche im Shop an.
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 
 # Kontaktinformationen {#kontaktinformationen}
 
@@ -617,7 +617,7 @@ Zu den formalen Inhalten des Widerrufsformulars gehören auch die Kontaktinforma
 |Telefonnummer|Die Telefonnummer des Shop-Betreibers|
 |Faxnummer|Die Faxnummer des Shop-Betreibers|
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 
 # Lieferzeiten kennzeichnen {#lieferzeiten_kennzeichnen}
 
@@ -629,7 +629,7 @@ Die Anzeige dieses Links kann unter Shop Einstellungen \> Lieferstatus für jede
 
 ![](Bilder/Abb037_EinstellenDesLinksAuslandAbweichend.PNG "Einstellen des Links Ausland abweichend")
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 
 # E-Mail-Optionen {#e_mail_optionen}
 
@@ -644,7 +644,7 @@ CAUTION:
 -   **[E-Mail Vorlagen](4_2_2_E_Mail_Vorlagen.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Bild-Effekte {#bild_effekte}
 
@@ -667,7 +667,7 @@ Das Shopsystem bietet verschiedene Funktionen an, mit denen du einen oder mehrer
 -   **[Motion-Blur \(Bewegungs-Effekt\)](4_3_4g_Motion_Blur_Bewegungs_Effekt.md)**  
 
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 
 # Shop-Key {#shop_key}
 
@@ -689,7 +689,7 @@ Den Shop-Key kannst du im Administrationsbereich deines Shops unter Shop Einstel
 
 Eine Liste mit den genauen Daten, die an das Gambio Kundenportal weitergegeben werden, kannst du im Gambio Admin deines Shops unter Shop Einstellungen \> System Einstellungen \> Shop‑Key über den Link Zweck und Art der übermittelten Daten einsehen.
 
-**Parent topic:**[Grundkonfiguration](4_1_Grundkonfiguration.md)
+
 
 # Allgemeines {#allgemeines_allgemeines}
 
@@ -727,7 +727,7 @@ Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Be
 |
 |Standardzahlungsweise bei manuell angelegten Bestellungen|Wähle hier aus, welche Zahlungsweise bei manuell im Gambio Admin angelegten Bestellungen vorausgewählt werden soll.|
 
-**Parent topic:**[Allgemeines](4_20_Allgemeines.md)
+
 
 # E-Mail Vorlagen {#e_mail_vorlagen}
 
@@ -757,7 +757,7 @@ Das Shopsystem versendet automatisierte E-Mails. Die Vorlagen kannst du unter Ku
 
 Passe die gewünschte E-Mail Vorlage über den CK-Editor an. Klicke auf Vorschau, das Vorschaufenster muss geöffnet sein, damit du die vorgenommenen Änderungen speichern kannst.
 
-**Parent topic:**[E-Mail-Optionen](4_2_E_Mail_Optionen.md)
+
 
 # Round-edges \(runde Ecken\) {#round_edges}
 
@@ -773,7 +773,7 @@ Beispiel: \(5,FFFFFF,3\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Round-edges beim gewünschten Bildtyp ein.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 
 # Lager- und Bestandseinstellungen {#lager_und_bestandseinstellungen}
 
@@ -782,13 +782,13 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 -   **[Lieferstatus](4_7_2_Lieferstatus.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Artikelbilder löschen {#allgemeines_artikelbilder_loeschen}
 
 Der Reiter Artikelbilder löschen ist im gleichnamigen Unterkapitel des Kapitels Bild-Optionen beschrieben.
 
-**Parent topic:**[Allgemeines](4_20_Allgemeines.md)
+
 
 # Ellipse {#ellipse}
 
@@ -800,7 +800,7 @@ Beispiel: \(FFFFFF\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Ellipse beim gewünschten Bildtyp ein.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 
 # Rechtliche Einstellungen {#rechtliche_einstellungen}
 
@@ -817,7 +817,7 @@ Bitte nimm Änderungen an den rechtlichen Einstellungen ausschließlich in Abspr
 -   **[Cookie Hinweis](4_5_4_CookieHinweis.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Suchmaschinenoptimierung {#t4_7_EinstellungenSuchmaschinenoptimierung}
 
@@ -876,7 +876,7 @@ Die im Shop eingestellte Änderungsfrequenz stellt lediglich eine Vorgabe dar. D
 |--------|------------|
 |Tracking Codes|Klicke auf aufrufen, um die Konfigurationsseite für Tracking Codes anzuzeigen|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 
 # Artikelbilder löschen {#artikelbilder_loeschen}
 
@@ -890,7 +890,7 @@ CAUTION:
 
 Die Original-Bilder werden für den Bilderzoom verwendet. Werden diese gelöscht, steht die Vergrößerung nicht mehr in der bisherigen Auflösung zur Verfügung.
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 
 # Einstellungen für Kleinunternehmer {#einstellungen_fuer_kleinunternehmer}
 
@@ -904,7 +904,7 @@ Bei Artikelpreisen und zukünftigen Bestellungen wird anstatt der Umsatzsteuer e
 
 **Note:** Wähle beim Einstellen von Artikeln auf der Artikel-Detailseite aus der Liste Steuersatz den regulären Steuersatz für deine Artikel aus. Wenn die Voraussetzungen nicht mehr erfüllt werden, müssen dadurch nicht alle Artikelpreise neu angelegt werden.
 
-**Parent topic:**[Rechtliche Einstellungen](4_5_Rechtliche_Einstellung.md)
+
 
 # Bestell- und Kundennummern {#bestell_und_kundennummern}
 
@@ -916,7 +916,7 @@ Das Unterschreiten des Minimum-Wertes sorgt für widersprüchliche Einträge in 
 
 Generell gilt, dass die Kundennummern nur heruntergesetzt werden können, wenn zuvor alle Kundenkonten gelöscht wurden.
 
-**Parent topic:**[Nummernkreise](4_14_Nummernkreise.md)
+
 
 # Such-Optionen {#such_optionen}
 
@@ -925,7 +925,7 @@ Unter Shop Einstellungen \> Mein Shop kannst du auswählen, ob die Shopsuche in 
 -   Suche in Artikelbeschreibungen: Wird dieser Punkt deaktiviert, sucht der Shop nur noch in den Artikelnamen, Artikelnummern und EANs nach dem Suchbegriff
 -   Suche in Artikelattributen/Artikeleigenschaften: Wird dies deaktiviert, werden die Informationen aus den Attributen und Eigenschaften nicht mehr bei der Suche berücksichtigt. Da die Suche in den Artikelattributen und Eigenschaften zu einer ungleich umfassenderen Suche führt, kann dies in Shops mit vielen Attributen bzw. Eigenschaften zu sehr langen Ladezeiten beim Ausführen der Suche führen. Die Deaktivierung kann daher die Performance des Shops verbessern.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Allgemeines {#rechtliche_einstellungen_allgemeines}
 
@@ -1008,7 +1008,7 @@ In der Grundkonfiguration wird auf allen Seiten die Mehrwertsteuer unterhalb des
 
 Über Klick auf die Schaltfläche Exportieren wird eine Liste im CSV-Format erstellt, in der die Zustimmungen deiner Kunden zu den jeweiligen Rechtstexten des Shops aufgeführt werden.
 
-**Parent topic:**[Rechtliche Einstellungen](4_5_Rechtliche_Einstellung.md)
+
 
 # IP-Logging {#ip_logging}
 
@@ -1022,7 +1022,7 @@ CAUTION:
 
 Bevor du die Logging-Optionen aktivierst, erfrage möglicherweise nötige rechtliche Schritte bei deinem Rechtsberater.
 
-**Parent topic:**[Sicherheitseinstellungen](4_6_Sicherheitseinstellungen.md)
+
 
 # Grundkonfiguration {#grundkonfiguration}
 
@@ -1033,7 +1033,7 @@ Nehme nach der Installation des Shopsystems die erstmalige Konfiguration des Sho
 -   **[Shop-Key](4_1_2_Shop_Key.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Artikelübersicht-Optionen {#artikeluebersicht_optionen}
 
@@ -1043,7 +1043,7 @@ CAUTION:
 
 Diese Auswahl wird nur dann angezeigt, wenn eine echte Auswahl aus verschiedenen Herstellern besteht. Das heißt, es müssen zum einen unter Artikel \> Hersteller verschiedene Hersteller angelegt worden sein und sich in der betreffenden Übersicht auch Artikel befinden, die verschiedenen Herstellern zugeordnet wurden. Gibt es nur Artikel eines Herstellers, erscheint diese Auswahl nicht.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Motion-Blur \(Bewegungs-Effekt\) {#motion_blur}
 
@@ -1060,7 +1060,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 **Note:** Die Änderungen an den Bild-Effekten werden nur für über die Artikel-Eingabemaske neu hochgeladene Artikelbilder übernommen. Wenn die Änderungen auch auf bereits vorhandene Artikelbilder angewendet werden sollen, führe anschließend die Stapelverarbeitung für Bildbearbeitung unter Darstellung \> Bild-Optionen \> Image Processing aus.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 
 # Sicherheitseinstellungen {#sicherheitseinstellungen}
 
@@ -1071,7 +1071,7 @@ Das Shopsystem enthält Funktionen, die die Sicherheit deines Shops auf untersch
 -   **[Sicherheitscenter](4_6_2_Spamschutz.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Konfiguration des G-Protectors {#konfiguration_des_gprotectors}
 
@@ -1091,7 +1091,7 @@ Dies kann, neben einzelner Adressen, auch für Adressräume vorgenommen werden:
 
 **Note:** Die genannten Adressen und Adressräume dienen nur als Beispiel zur Darstellung des Formates, es ist weder notwendig, noch sinnvoll, diese speziellen Adressen zu blockieren.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Nummernkreise {#nummernkreise}
 
@@ -1107,7 +1107,7 @@ Um den Minimumwert für einen Nummernkreis anzeigen zu lassen, bewege den Mausze
 -   **[Rechnungs- und Lieferscheinnummer](4_14_2_Rechnungs_und_Lieferscheinnummer.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Rechnungs- und Lieferscheinnummer {#rechnungs_und_lieferscheinnummern}
 
@@ -1129,7 +1129,7 @@ R\_26\_2014, R\_27\_2014, R\_28\_2014, usw.
 
 Beachte, dass diese beiden Nummern fortlaufend sind und jeweils erst bei der Erstellung bzw. dem Versand von Rechnung und Lieferschein generiert werden. Solltest du das Format nachträglich anpassen, so wird das neue Format auch erst in neu generierten Rechnungen und Lieferscheinen angewendet.
 
-**Parent topic:**[Nummernkreise](4_14_Nummernkreise.md)
+
 
 # Cookie Hinweis {#cookie_hinweis}
 
@@ -1168,7 +1168,7 @@ Folgende Einstellungen sind sprachabhängig. Klicke eine der Landesflaggen an, u
 
 Bestätige alle gemachten Änderungen mit Klick auf Speichern.
 
-**Parent topic:**[Rechtliche Einstellungen](4_5_Rechtliche_Einstellung.md)
+
 
 # Bevel \(Button-Effekt\) {#bevel}
 
@@ -1184,7 +1184,7 @@ Beispiel: \(8,FFCCCC,330000\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Bevel beim gewünschten Bildtyp ein.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 
 # Persönliche Daten {#persoehnliche_daten}
 
@@ -1227,7 +1227,7 @@ Für das Widerrufsformular stehen unter Shop Einstellungen \> Mein Shop separate
 
 Lege den Namen deines Shops unter Shop Einstellungen \> Mein Shop im Feld Name des Shops fest. Der Name deines Shops wird in automatisch erstellten E-Mails sowie abhängig von der im Kapitel Meta-Titel beschriebenen Einstellungen in der Titelleiste des Webbrowsers angezeigt.
 
-**Parent topic:**[Grundkonfiguration](4_1_Grundkonfiguration.md)
+
 
 # Lagerbestände anzeigen {#lagerbestaende_anzeigen}
 
@@ -1238,7 +1238,7 @@ Lege den Namen deines Shops unter Shop Einstellungen \> Mein Shop im Feld Name d
 
 Setze bzw. entferne den jeweiligen Haken und klicke in der entsprechenden Zeile auf Anwenden um die Einstellung zu ändern.
 
-**Parent topic:**[Allgemeines](4_20_Allgemeines.md)
+
 
 # Allgemeines {#allgemeines}
 
@@ -1253,7 +1253,7 @@ Unter Shop Einstellungen \> Allgemeines befinden sich hauptsächlich Detaileinst
 -   **[Statistiken löschen](4_20_4_StatistikenLoeschen.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Greyscale \(Graustufen\) {#greyscale}
 
@@ -1273,7 +1273,7 @@ CAUTION:
 
 Ein Parameter von \(0,0,0\) färbt dein Artikelbild vollständig schwarz, wohingegen ein Parameter von \(255,255,255\) dein Artikelbild vollständig weiß färbt.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 
 # Artikel & Kategorien {#einstellungen_artikel_und_kategorien}
 
@@ -1366,7 +1366,7 @@ Auf Nicht-Linux/Unix Systemen sollte diese Einstellung ausgeschaltet sein.
 |Ausgeschlossene Zahlungsmodule|Nicht erlaubte Zahlungsweisen für Downloadartikel.|
 |Download-Bestellstatus|Bestellstatus für die Downloads freigegeben sind.|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 
 # Grundeinstellungen {#grundeinstellungen}
 
@@ -1383,7 +1383,7 @@ CAUTION:
 
 Bei Verwenden der GDlib1-Bibliotheken für die Bildbearbeitung werden sämtliche Artikelbilder in schwarz-weiß abgelegt. Wenn du deine Artikelbilder in schwarz-weiß präsentieren möchtest, verwende die dafür vorgesehenen Funktionen für GDlib2. Die Option GDlib processing sollte nicht verändert werden.
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 
 # Lieferstatus {#lieferstatus}
 
@@ -1405,7 +1405,7 @@ Der Button Löschen dient zum Entfernen eines Lieferstatus. Nach Klick auf die S
 
 Die Angabe der Lieferzeit beinhaltet den Link Ausland abweichend. Die Anzeige dieses Links kann unter Shop Einstellungen \> Lieferstatus für jeden einzelnen Status aktiviert bzw. deaktiviert werden. Wähle hierzu den jeweiligen Status aus und klicke auf die Schaltfläche Bearbeiten.
 
-**Parent topic:**[Lager- und Bestandseinstellungen](4_7_Lager_und_Bestandseinstellungen.md)
+
 
 # Sprachen, Länder, Steuern {#einstellungen_sprachen_laender_steuern}
 
@@ -1473,7 +1473,7 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 |--------|------------|
 |Sprachen|Klicke auf aufrufen, um die Konfigurationsseite für die Sprachen anzuzeigen|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 
 # Bild-Optionen {#bild_optionen}
 
@@ -1494,7 +1494,7 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 -   **[Artikelbilder löschen](4_3_6_Artikelbilder%20loeschen.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Logging-Optionen {#logging_optionen}
 
@@ -1578,7 +1578,7 @@ CAUTION:
 
 Änderungen an dieser Stelle können dazu führen, dass wichtige Meldungen nicht mehr im Log verzeichnet werden.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Verbraucherrechterichtlinie {#verbraucherrechterichtline}
 
@@ -1601,7 +1601,7 @@ Das Vorhandensein der Bestandteile ist zur rechtlichen Absicherung deines Shops 
 -   **[Lieferzeiten kennzeichnen](4_5_3f_Lieferzeiten_kennzeichnen.md)**  
 
 
-**Parent topic:**[Rechtliche Einstellungen](4_5_Rechtliche_Einstellung.md)
+
 
 # Download-Optionen {#download_optionen}
 
@@ -1629,7 +1629,7 @@ Typische Zahlungsweisen für diesen Fall sind: banktransfer,cod,invoice,moneyord
 
 Setze hier bei den Bestellstatus einen Haken, für den du den Download freigeben möchtest.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Wasserzeichen {#wasserzeichen}
 
@@ -1660,7 +1660,7 @@ Trage diese Parameter unter Darstellung \> Bild-Optionen kommagetrennt in einfac
 -   Artikel-Info Bilder:Merge \(für die kleinen Artikel-Info-Bilder in der Artikeldetailseite\)
 -   Artikel-Popup Bilder:Merge \(für die großen Artikel-Bilder in der Artikeldetailseite\)
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 
 # Shop {#einstellungen_shop}
 
@@ -1690,7 +1690,7 @@ Trage diese Parameter unter Darstellung \> Bild-Optionen kommagetrennt in einfac
 |Telefonnummer|Telefonnummer des Shopbetreibers|
 |Faxnummer|Faxnummer des Shopbetreibers|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 
 # Einbinden der Rechtstexte {#einbinden_der_rechtstexte}
 
@@ -1717,7 +1717,7 @@ Der Shop enthält ein Muster-Widerrufsformular im PDF-Format. Allerdings besteht
 
 Lade die Datei, wie bereits beschrieben, über Muster-Widerrufsformular in den Shop hoch.
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 
 # Versand-Optionen {#versand_optionen}
 
@@ -1751,7 +1751,7 @@ Diese beiden Punkte stellen sicher, dass die Links zu den Versandkosten-Informat
 
 Wenn du möchtest, kannst du auch das Versandgewicht im Warenkorb anzeigen lassen, wenn du diese Option aktivierst.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Sicherheitscenter {#spamschutz}
 
@@ -1795,7 +1795,7 @@ Damit du dich an reCaptcha v2 beteiligen kannst, musst du dich dafür anmelden. 
 
 Auf Shopseiten mit automatisch generierten Kontaktformularen kann zum Schutz vor Skripten, die Kontaktformulare gezielt mehrfach abschicken, ein Sicherheitscode abgefragt werden. Aktiviere das Kontrollkästchen zu den jeweiligen Seiten, auf denen der Sicherheitscode abgefragt werden soll. In der Grundkonfiguration wird auf allen automatisch generierten Kontaktformularen ein Sicherheitscode abgefragt.
 
-**Parent topic:**[Sicherheitseinstellungen](4_6_Sicherheitseinstellungen.md)
+
 
 # Frame \(Rahmen\) {#frame}
 
@@ -1812,7 +1812,7 @@ Beispiel: \(FFFFFF,000000,3,EEEEEE\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Frame beim gewünschten Bildtyp ein.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 
 # Layout & Design {#einstellungen_layout_und_design}
 
@@ -2026,7 +2026,7 @@ Ausgangsgröße ist nicht gleich angezeigte Bildgröße. In Honeygrid und Malibu
 |Artikel-Popup Bilder: Schatten|Überlappungseffekt, überlappt das gleiche Bild mehrmals übereinander. Standard-Wert: \(4,FFFFFF\) Verwendung: \(Anzahl der Linien/Überlappungen, Hex-Wert der Hintergrundfarbe\)|
 |Artikel-Popup Bilder: Überlappungseffekt|Überlappungseffekt, überlappt das gleiche Bild mehrmals übereinander. Standard-Wert: \(4,FFFFFF\) Verwendung: \(Anzahl der Linien/Überlappungen, Hex-Wert der Hintergrundfarbe\)|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 
 # Artikeltyp festlegen {#artikeltyp_festlegen}
 
@@ -2048,7 +2048,7 @@ Die genannte Einstellung ist auch Bestandteil von Importen und Exporten unter Ar
 
 Unter Import/Export \> Artikeldaten trägt die Spalte die Bezeichnung p\_type.
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 
 # Einstellungen zur Darstellung {#einstellungen_zur_darstellung}
 
@@ -2092,7 +2092,7 @@ Die Tabelle Darstellungsoptionen unter Shop Einstellungen \> Maximum Werte biete
 
 **Note:** Die Einstellung Anzahl an Kategorien pro Zeile wirkt sich nur im EyeCandy aus. Für das Honeygrid wird die Einstellung hierzu im StyleEdit vorgenommen.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Kunden {#einstellungen_kunden}
 
@@ -2158,7 +2158,7 @@ Die Firma kann standardmäßig nicht als Pflichtangabe gesetzt werden. Eine Prü
 |Straße|Mindestlänge der Straßenanschrift|
 |Telefonnummer|Mindestlänge der Telefonnummer|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 
 # Statistiken löschen {#statistiken_loeschen}
 
@@ -2166,7 +2166,7 @@ Die Firma kann standardmäßig nicht als Pflichtangabe gesetzt werden. Eine Prü
 
 Setze die Haken für die gewünschte\(n\) Statisik\(en\) und bestätige mit Klick auf den Button Löschen.
 
-**Parent topic:**[Allgemeines](4_20_Allgemeines.md)
+
 
 # Sessions {#sessions}
 
@@ -2206,7 +2206,7 @@ Legt die Dauer in Minuten fest, wie lange eine Session im Gambio Admin gültig i
 
 Hierdurch kann verhindert werden, dass Bots von Suchmaschinen eine Session im Shop erhalten. Mit einer Session könnten diese Bots Artikel in den Warenkorb legen und würden als normale Besucher gewertet. Die Einstellung ist standardmäßig gesetzt.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 
 # Festlegen der Versand- & Zahlungsbedingungen {#festlegen_der_versand_und_zahlungsbedingungen}
 
@@ -2242,7 +2242,7 @@ Die Eintragung kann nach Sprachen getrennt \(standardmäßig deutsch/englisch\) 
 
 Mit Klick auf Speichern werden die Einstellungen aus beiden Schritten gespeichert. Mit Klick auf Zurück wird die Länderauswahl erneut aufgerufen. Auch beim Wechsel zwischen den beiden Bildschirmen bleiben die im jeweils anderen Teil gemachten Einstellungen erhalten.
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 
 # Sendungsnummer zuordnen {#sendungsnummer_zuordnen}
 
@@ -2257,7 +2257,7 @@ Nun kann der Kunde, wenn er seine Bestellung unter Ihr Konto aufruft, über eine
 
 Die zugewiesene Sendungsnummer, der Paketdienst, sowie das Datum der Zuweisung wird nun in der Detailansicht der Bestellung angezeigt.
 
-**Parent topic:**[Paketdienste](4_19_Paketversender.md)
+
 
 # Einstellen des Widerrufsrechts {#einstellen_des_widerrufsrechts}
 
@@ -2285,7 +2285,7 @@ Diese Einstellung wird nur angezeigt, wenn die vergebene Content ID nicht dem St
 
 Lege hier fest, in welchem Format du das Widerrufsformular anbieten möchtest, als PDF-Download und/oder Online-Formular. Stelle ein, ob die Verlinkung zum Widerrufsrecht unter Ihr Konto angezeigt werden soll. Außerdem kannst du wählen, welche deiner Rechtsinformationen \(AGB, Widerrufsbelehrung, Widerrufsformular\) der Bestellbestätigung als Anhang beigegeben werden soll. Zudem kann eingestellt werden, ob der Verzicht auf das Widerrufsrecht bei Download-Artikeln oder Dienstleitungen als Pflichtangabe gemacht werden soll. Schlussendlich kannst du die sogenannte Downloadverzögerung festlegen, sowohl mit als auch ohne den Verzicht auf das Widerrufsrecht.
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 
 # Lieferung {#einstellungen_lieferung}
 
@@ -2312,7 +2312,7 @@ Lege hier fest, in welchem Format du das Widerrufsformular anbieten möchtest, a
 |--------|------------|
 |Paketdienste|Klicke auf aufrufen, um die Konfigurationsseite für die Paketdienste anzuzeigen.|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 
 # Lagerverwaltungs-Optionen {#lagerverwaltungs_optionen}
 
@@ -2341,7 +2341,7 @@ Wenn Artikel inaktiv gesetzt werden sollen, müssen Überprüfen des Artikelbest
 
 Diese Funktion sollte nur in Verbindung mit Artikel inaktiv setzen verwendet werden, damit Artikel, die nicht mehr auf Lager sind, nicht angezeigt werden. Anderenfalls können Artikel, dessen Attribute nicht mehr auf Lager sind, ohne Attribute in den Warenkorb gelegt werden.
 
-**Parent topic:**[Lager- und Bestandseinstellungen](4_7_Lager_und_Bestandseinstellungen.md)
+
 
 # Paketdienste anlegen und bearbeiten {#paketdienste_anlegen_und_bearbeiten}
 
@@ -2359,5 +2359,5 @@ Mit einem Klick auf Speichern wird der Paketdienst angelegt bzw. die Änderung �
 
 Über das Bleistift-Symbol kannst du einen angelegten Paketdienst bearbeiten. Über das rote X kannst du einen angelegten Paketdienst wieder löschen.
 
-**Parent topic:**[Paketdienste](4_19_Paketversender.md)
+
 

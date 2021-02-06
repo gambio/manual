@@ -9,5 +9,5 @@ Das Shopsystem bietet eine Funktion, über die Händler bei Angabe einer gültig
 -   **[Live-Prüfung deaktivieren](12_2_2_Live_Pruefung_deaktivieren.md)**  
 
 
-**Parent topic:**[Kunden](12_Kunden.md)
+
 

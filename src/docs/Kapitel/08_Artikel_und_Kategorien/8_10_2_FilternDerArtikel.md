@@ -12,5 +12,5 @@ In der oberen Leiste lassen sich verschiedene Filter setzen, um Artikel in der L
 
 mit Sternchen eingibst, dann werden auch entsprechende Artikel gefunden, welche diesen Begriff als Teilbegriff enthalten.
 
-**Parent topic:**[QuickEdit](8_10_QuickEdit.md)
+
 

@@ -27,5 +27,5 @@ Folgende Einstellungen stehen auf der Konfigurationsseite zur Verfügung:
 
 Widget bezeichnet die Anzeige für easyCredit im Artikel bzw. Warenkorb.
 
-**Parent topic:**[easyCredit](7_2_2c_easycredit.md)
+
 

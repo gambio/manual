@@ -4,5 +4,5 @@ Die Zahlungsweise kann unter Module \> Zahlungsweisen im Reiter Gambio Payment H
 
 ![](Bilder/PayPal2Hub/20190611_001.png "Dialog zur Ersteinrichtung")
 
-**Parent topic:**[PayPal und PayPal PLUS per Gambio Hub](7_2_2_PayPal2Hub.md)
+
 

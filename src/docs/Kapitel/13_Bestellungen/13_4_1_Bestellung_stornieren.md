@@ -36,5 +36,5 @@ Wurde zu einer zu stornierenden Bestellung bereits eine Rechnung erstellt, sollt
 |E-Mail|Empfänger der Benachrichtigung|
 |Kommentare|persönlicher Kommentar zur Benachrichtigung|
 
-**Parent topic:**[Bestellung rückabwickeln](13_4_Bestellungen_rueckabwickeln.md)
+
 

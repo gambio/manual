@@ -13,5 +13,5 @@ Nach der Installation kann das Modul eingerichtet werden. Wähle es hierzu unter
 -   **[Datenexport für Review Collector](7_4_9_2_5_DatenexportFuerReviewCollector.md)**  
 
 
-**Parent topic:**[Trusted Shops](7_4_9_TrustedShops.md)
+
 

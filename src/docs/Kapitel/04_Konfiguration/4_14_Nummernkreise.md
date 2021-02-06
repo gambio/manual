@@ -12,5 +12,5 @@ Um den Minimumwert für einen Nummernkreis anzeigen zu lassen, bewege den Mausze
 -   **[Rechnungs- und Lieferscheinnummer](4_14_2_Rechnungs_und_Lieferscheinnummer.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

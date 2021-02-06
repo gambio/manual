@@ -9,5 +9,5 @@ Diese Zahlungsweise ist nur in selbstgehosteten Shops verfügbar.
 -   **[Konfiguration](7_2_3_13_2_Konfiguration.md)**  
 
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

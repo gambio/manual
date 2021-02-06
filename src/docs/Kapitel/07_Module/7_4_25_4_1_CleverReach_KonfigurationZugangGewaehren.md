@@ -17,5 +17,5 @@
 
 |Hier müssen jetzt die Login-Daten eingegeben werden, damit das Modul Zugriff auf das CleverReach-Konto erhält. Die Daten hast du bei der Registrierung per E-Mail erhalten.|
 
-**Parent topic:**[Konfiguration](7_4_25_4_CleverReach_Konfiguration.md)
+
 

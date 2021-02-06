@@ -15,5 +15,5 @@ Auf diese Weise ist es nicht notwendig den HTML-Code direkt einzugeben, der für
 -   **[Link einfügen/editieren](3_4_3_Link_einfuegen_editieren.md)**  
 
 
-**Parent topic:**[Bereiche des Shopsystems](3_Bereiche_des_Shopsystems.md)
+
 

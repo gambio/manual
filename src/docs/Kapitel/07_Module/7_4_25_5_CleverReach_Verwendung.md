@@ -4,5 +4,5 @@ Die Funktionen des Moduls beschränken sich auf die Zuweisung der Gruppen und au
 
 Unter http://support.cleverreach.de/hc/de kann das CleverReach-Helpcenter aufgerufen werden, dort finden sich detaillierte Erklärungen zu allen Funktionen.
 
-**Parent topic:**[CleverReach](7_4_25_CleverReach.md)
+
 

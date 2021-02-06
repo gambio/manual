@@ -7,5 +7,5 @@ Das Janolaw-Modul dient zum Beziehen und Einbinden von Rechtstexten. Es wird im 
 -   **[Konfiguration](7_4_17_2_Konfiguration.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

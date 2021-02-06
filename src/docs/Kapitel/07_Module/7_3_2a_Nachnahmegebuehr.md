@@ -18,5 +18,5 @@ Das Modul zur Berechnung der Nachnahmegebühr kannst du im Gambio Admin deines S
 |Steuerklasse|eine Liste der konfigurierten Steuerklassen; die Gebühr wird anhand der gewählten Steuerklasse berechnet|
 |Übermittlungsentgeld je installierter Versandart|Es kann zusätzlich noch ein Übermittlungsentgeld erhoben werden. Die Konfiguration der Gebühren erfolgt genauso wie bei der Nachnahmegebühr.|
 
-**Parent topic:**[Gebühren](7_3_2_Gebuehren.md)
+
 

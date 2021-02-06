@@ -7,5 +7,5 @@
 -   **[Übersicht der Tabs](7_4_13_3_UebersichtDerTabs.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

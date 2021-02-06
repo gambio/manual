@@ -25,5 +25,5 @@
 
 Du kannst über das Dropdown-Menü aus den verschiedenen Produkten auswählen und diese hinzufügen. Es sollten nur Produkte ausgewählt werden, die du auch gebucht hast. Welche Produkte gebucht wurden und welche Teilnahmenummer zum jeweiligen Produkt gehört, kannst du in deinem Konto bei DHL Versenden, bzw. beim DHL Support erfahren.
 
-**Parent topic:**[Konfiguration](7_7_2_Konfiguration.md)
+
 

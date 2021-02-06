@@ -57,5 +57,5 @@ Die Bestätigungsmail wird automatisch an den Kunden versandt. Sie enthält, mit
 
 Der Mail-Versand erfolgt nach Klick auf die Schaltlfäche Widerruf erklären im Online-Formular. Dies ist sowohl der Fall, wenn der Widerruf durch den Kunden als auch durch den Administrator erstellt wird.
 
-**Parent topic:**[Widerrufe](13_7_Widerrufe.md)
+
 

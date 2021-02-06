@@ -10,5 +10,5 @@ CAUTION:
 
 Bevor du die Logging-Optionen aktivierst, erfrage möglicherweise nötige rechtliche Schritte bei deinem Rechtsberater.
 
-**Parent topic:**[Sicherheitseinstellungen](4_6_Sicherheitseinstellungen.md)
+
 

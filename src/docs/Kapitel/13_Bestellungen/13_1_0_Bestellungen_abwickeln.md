@@ -31,5 +31,5 @@ Die Detailseite zu einer Bestellung enthält zusätzliche Informationen, wie die
 -   **[Rechnung & Lieferschein](13_1_3_Rechnung_UND_Lieferschein.md)**  
 
 
-**Parent topic:**[Bestellungen](13_Bestellungen.md)
+
 

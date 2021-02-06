@@ -31,5 +31,5 @@ Die meisten Sonderzeichen liegen in der Datenbank als HTML-Umlaut vor. Eine Übe
 |&uuml;|ü|
 |&szlig;|ß|
 
-**Parent topic:**[Toolbox](9_Toolbox.md)
+
 

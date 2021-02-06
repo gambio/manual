@@ -105,5 +105,5 @@ Abschließend kann die Sprache unter Land/Steuer \> Sprachen über die Spalte St
 
 **Note:** Wenn du Module externer Hersteller verwendest, müssen hier ggf. weitere Sprachdateien kopiert und übersetzt werden. Diese befinden sich im Regelfall im jeweiligen Modulverzeichnis in einem Unterordner/lang/....
 
-**Parent topic:**[Sprachen](6_2_Sprachen.md)
+
 

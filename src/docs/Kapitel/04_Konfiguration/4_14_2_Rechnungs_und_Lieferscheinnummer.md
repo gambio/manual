@@ -18,5 +18,5 @@ R\_26\_2014, R\_27\_2014, R\_28\_2014, usw.
 
 Beachte, dass diese beiden Nummern fortlaufend sind und jeweils erst bei der Erstellung bzw. dem Versand von Rechnung und Lieferschein generiert werden. Solltest du das Format nachträglich anpassen, so wird das neue Format auch erst in neu generierten Rechnungen und Lieferscheinen angewendet.
 
-**Parent topic:**[Nummernkreise](4_14_Nummernkreise.md)
+
 

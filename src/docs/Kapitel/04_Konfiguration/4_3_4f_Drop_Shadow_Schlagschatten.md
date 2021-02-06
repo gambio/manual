@@ -12,5 +12,5 @@ Beispiel: \(3,333333,FFFFFF\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Drop-Shadow beim gewünschten Bildtyp ein.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 

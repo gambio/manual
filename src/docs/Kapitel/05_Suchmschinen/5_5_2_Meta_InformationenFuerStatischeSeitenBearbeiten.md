@@ -18,5 +18,5 @@ Klicke auf das Bleistift-Symbol, um einen Eintrag zu bearbeiten. Es stehen die f
 |Meta Description|Beschreibung der Seite, freier Text|
 |Meta Keywords|Schlagwörter, unter denen die Seite von Suchmaschinen gefunden werden soll \(kommagetrennt, ohne Leerzeichen\)|
 
-**Parent topic:**[Statische Seiten](5_5_Statische%20Seiten.md)
+
 

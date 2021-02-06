@@ -10,5 +10,5 @@ In der Meta-Angabe robots stehen Anweisungen an Suchmaschinen-Roboter, wie mit d
 
 In der Meta-Angabe keywords \(Schlagwörter\) kannst du eine kommagetrennte Liste von Schlagwörtern zu deinem Onlineshop hinterlegen. Die Schlagwörter können von Suchmaschinen als Suchwörter berücksichtigt werden, unter denen Kunden deinen Shop finden.
 
-**Parent topic:**[Meta-Angaben](5_2_Meta_Angaben.md)
+
 

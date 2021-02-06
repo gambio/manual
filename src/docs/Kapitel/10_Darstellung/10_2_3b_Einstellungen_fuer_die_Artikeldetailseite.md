@@ -17,5 +17,5 @@
 
 ![](Bilder/Abb158_BildergalerieAlsLightbox.PNG "Bildergalerie als Lightbox")
 
-**Parent topic:**[Template Konfiguration](10_2_3_Template_Konfiguration.md)
+
 

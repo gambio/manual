@@ -12,5 +12,5 @@ Die gleiche Schaltfläche steht auch im Adressbuch unter Ihr Konto zur Verfügun
 
 ![](Bilder/dhl_paketshops/20170628_004.png "Anzeige des DHL-Buttons im Adressbuch")
 
-**Parent topic:**[Darstellung im Shop](7_4_5_3_DarstellungImShop.md)
+
 

@@ -17,5 +17,5 @@ Im Gambio Admin unter Module \> Versandarten stehen dir verschiedene Module zur 
 -   **[Liste der Versandarten](7_1_5_Liste_der_Versandarten.md)**  
 
 
-**Parent topic:**[Module](7_Module.md)
+
 

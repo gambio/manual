@@ -15,5 +15,5 @@ Installiere das Modul Rabatt Kupons unter Module \> Zusammenfassung, damit Rabat
 -   **[Neuen Rabatt Kupon anlegen](11_2_2_Neuen_Rabatt_Kupon_anlegen.md)**  
 
 
-**Parent topic:**[Gutscheine und Rabatt Kupons](11_Gutscheine_und_Rabatt_Kupons.md)
+
 

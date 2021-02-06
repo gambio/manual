@@ -35,5 +35,5 @@ Folgende Einstellungen sind sprachabhängig. Klicke eine der Landesflaggen an, u
 
 Bestätige alle gemachten Änderungen mit Klick auf Speichern.
 
-**Parent topic:**[Rechtliche Einstellungen](4_5_Rechtliche_Einstellung.md)
+
 

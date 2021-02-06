@@ -35,5 +35,5 @@ Die vorausgefüllten Werte dienen nur der Illustration.
 ![](Bilder/hermes_hsi/HSI_004.png "Beispiel-Eingaben unter
         Vorgabe-Abmessungen")
 
-**Parent topic:**[Hermes HSI](7_4_23_HermesHSI.md)
+
 

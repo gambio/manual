@@ -44,5 +44,5 @@ Nach dem Speichern sollten, je nach Änderung, unter Toolbox \> Cache die Caches
 
 geleert bzw. neu erzeugt werden.
 
-**Parent topic:**[Suchmaschinen](5_Suchmaschinen.md)
+
 

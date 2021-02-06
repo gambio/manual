@@ -14,5 +14,5 @@ Für das Rechnungs-Logo sollte **keine** Bild-Datei mit **Transparenz**-Effekten
 
 **Note:** Die maximale Breite für das PDF Logo beträgt 10,5 Zentimeter bei 72 dpi, abzüglich des unter Shop Einstellungen \> Rechnung/Lieferschein konfigurierten Abstands vom rechten Seitenrand. Die Höhe für das PDF Logo ist nicht begrenzt.
 
-**Parent topic:**[Logo Manager](10_3_Logo_Manager.md)
+
 

@@ -14,5 +14,5 @@ Mit einem Klick auf Speichern wird der Paketdienst angelegt bzw. die Änderung �
 
 Über das Bleistift-Symbol kannst du einen angelegten Paketdienst bearbeiten. Über das rote X kannst du einen angelegten Paketdienst wieder löschen.
 
-**Parent topic:**[Paketdienste](4_19_Paketversender.md)
+
 

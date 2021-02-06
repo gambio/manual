@@ -8,5 +8,5 @@ Diese Funktion ist standardmäßig aktiviert und der eingegebene Text wird weite
 
 **Note:** Um den HTML-Code einzusehen, kann wahlweise auch die Schaltfläche Quellcode des CK-Editors verwendet werden. Es ist daher hierzu nicht notwendig, den Editor zur Gänze abzuschalten.
 
-**Parent topic:**[Zusatzmodule](7_5_Zusatzmodule.md)
+
 

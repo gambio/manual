@@ -4,5 +4,5 @@ Mit Erstellung des Labels wird der Bestellung automatisch die Sendungsnummer hin
 
 ![](Bilder/GKV2_20170628_018.png "Sendungsnummern in der Bestellung")
 
-**Parent topic:**[DHL Geschäftskundenversand](7_7_DHLGeschaeftskundenversand.md)
+
 

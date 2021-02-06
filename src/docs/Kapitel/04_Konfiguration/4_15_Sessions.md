@@ -36,5 +36,5 @@ Legt die Dauer in Minuten fest, wie lange eine Session im Gambio Admin gültig i
 
 Hierdurch kann verhindert werden, dass Bots von Suchmaschinen eine Session im Shop erhalten. Mit einer Session könnten diese Bots Artikel in den Warenkorb legen und würden als normale Besucher gewertet. Die Einstellung ist standardmäßig gesetzt.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

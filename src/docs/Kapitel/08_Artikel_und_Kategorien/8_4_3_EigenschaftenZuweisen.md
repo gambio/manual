@@ -16,5 +16,5 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 
 Über die mit _**Sonderangebot**_ beschriftete Schaltlfäche kann im Dropdown der Eintrag _**Eigenschaften**_ ausgewählt werden.
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 

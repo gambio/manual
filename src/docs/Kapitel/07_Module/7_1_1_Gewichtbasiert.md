@@ -101,5 +101,5 @@ Beim Eintragen der Staffelungen dürfen **.** und **,** nicht verwechselt werden
 
 5**.**5:7**.**49**,**10**.**5:9**.**72
 
-**Parent topic:**[Versandarten](7_1_Versandarten.md)
+
 

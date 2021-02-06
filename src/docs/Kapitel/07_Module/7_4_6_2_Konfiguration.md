@@ -68,5 +68,5 @@ Hier muss beachtet werden, dass Diensteanbieter hinzukommen oder wegfallen könn
 
 ![](Bilder/shipcloud/shipcloud_Dienstanbieter.png "Auswahl der Dienstanbieter")
 
-**Parent topic:**[Shipcloud](7_4_6_Shipcloud.md)
+
 

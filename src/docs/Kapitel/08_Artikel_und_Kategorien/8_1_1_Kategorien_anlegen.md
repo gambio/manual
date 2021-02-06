@@ -52,5 +52,5 @@ In der Kategorie-Eingabemaske konfigurierst du die neue Kategorie.
 
 Im Abschnitt Kategorie-Filter kannst du Artikel-Filter zur Auswahl in den Artikeln der Kategorie festlegen. Nähere Informationen zu Artikel-Filtern findest du im Kapitel Artikel-Filter.
 
-**Parent topic:**[Kategorien](8_1_Kategorien.md)
+
 

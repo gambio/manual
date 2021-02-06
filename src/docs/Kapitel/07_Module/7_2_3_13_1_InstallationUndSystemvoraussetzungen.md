@@ -8,5 +8,5 @@ Unter Module \> Zahlungsweisen \> Sonstige kann das Modul für Computop Paygate 
 
 Bei Fragen hierzu wende dich bitte an deinen Hosting-Anbieter.
 
-**Parent topic:**[Kreditkartenzahlung via Computop Paygate](7_2_3_13_ComputopPaygate.md)
+
 

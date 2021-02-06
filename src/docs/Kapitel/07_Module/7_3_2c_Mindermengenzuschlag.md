@@ -21,5 +21,5 @@ Mit dem Modul Mindermengenzuschlag kannst du einen Zuschlag auf Bestellungen, de
 |Mindermengenzuschlag nach Zonen berechnen|legt fest, ob der Zuschlag nur bei nationalen, nur bei internationalen oder bei allen Bestellungen erhoben wird|
 |Steuerklasse|eine Liste der konfigurierten Steuerklassen; die Gebühr wird anhand der gewählten Steuerklasse berechnet|
 
-**Parent topic:**[Gebühren](7_3_2_Gebuehren.md)
+
 

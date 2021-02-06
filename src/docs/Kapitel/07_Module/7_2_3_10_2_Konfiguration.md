@@ -13,5 +13,5 @@
 -   **[Zahlungsart hinzufügen](7_2_3_10_2_6_ZahlungsartHinzufuegen.md)**  
 
 
-**Parent topic:**[Payone](7_2_3_10_Payone.md)
+
 

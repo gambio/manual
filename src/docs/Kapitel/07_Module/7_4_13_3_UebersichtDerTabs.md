@@ -31,5 +31,5 @@ Der Tab Konfiguration gruppiert Konfigurations-Einstellungen. Diese Einstellunge
 
 Hier werden einige System-Informationen angezeigt, wie z.B. die Mailbeez-Version und die Domain, für die der Mailbeez-Lizenzschlüssel gültig ist.
 
-**Parent topic:**[Mailbeez](7_4_13_Mailbeez.md)
+
 

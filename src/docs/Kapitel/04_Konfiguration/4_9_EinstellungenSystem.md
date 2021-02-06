@@ -203,5 +203,5 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 |Speichern aller Datenbankabfragen|Speichern der einzelnen Datenbankabfragen in der Logdatei für Berechnungszeiten. Datenbankabfragen sind alle Abrufe von Daten, die im Shop stattfinden.|
 |E-Mail-Fehlerberichte an|E-Mail-Adresse, an die Fehlerberichte gesendet werden sollen. Um keine Berichte zu senden, kann das Feld einfach leer gelassen werden. Zur Sendung von Fehlerberichten an den Gambio Support kann die Adresse debug@gambio-support.de eingetragen werden.|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 

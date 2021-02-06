@@ -21,5 +21,5 @@
 -   **[Funktionstests](7_2_2i_Funktionstests.md)**  
 
 
-**Parent topic:**[Gambio Payment Hub](7_2_1_GambioPaymentHub.md)
+
 

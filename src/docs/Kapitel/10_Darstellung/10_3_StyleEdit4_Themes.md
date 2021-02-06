@@ -13,5 +13,5 @@
 -   **[Bereiche und Einstellungen für das Malibu Theme](10_3_6_BereicheUndEinstellungenFuerDasMalibuTheme.md)**  
 
 
-**Parent topic:**[Darstellung](10_Darstellung.md)
+
 

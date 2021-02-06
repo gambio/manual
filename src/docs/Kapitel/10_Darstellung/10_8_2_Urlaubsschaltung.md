@@ -16,5 +16,5 @@ Um die Farbe zu wählen, klicke bitte auf die Schaltfläche Farbe wählen. Es ö
 
 Über die Landesflaggen kann für jede Sprache ein individueller Inhalt angelegt werden. Sobald du die Einstellung für den jeweiligen Status vorgenommen hast, klicke bitte auf Speichern, damit diese wirksam wird.
 
-**Parent topic:**[Shop Online/Offline](10_8_Shop_Online_Offline.md)
+
 

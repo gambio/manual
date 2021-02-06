@@ -36,5 +36,5 @@ Wenn du deine AGB und das Widerrufsrecht auf der Rechnung verwenden möchtest, w
 
 Auf der Registerkarte Inhalt im Abschnitt E-Mail Rechnung kannst du den Inhalt der Betreffzeile für die Rechnungs E-Mail festlegen. Gib im Feld E-Mail Betreff den E-Mail Betreff für die Rechnungs E-Mail ein und klicke auf Speichern. Es steht ebenfalls ein Feld für einen abweichenden Betreff beim Erzeugen mehrerer Rechnungen zur Verfügung.
 
-**Parent topic:**[Rechnung & Lieferschein konfigurieren](13_6_Rechnung_UND_Lieferschein_konfigurieren.md)
+
 

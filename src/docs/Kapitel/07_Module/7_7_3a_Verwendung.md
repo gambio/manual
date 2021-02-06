@@ -4,5 +4,5 @@ Unter Bestellungen \> Bestellungen kann im Dropdown rechts neben der Bestellung 
 
 ![](Bilder/BestellungenDropdownGKV2_.png "Aufruf von DHL-Label (GKV)")
 
-**Parent topic:**[Verwendung](7_7_3_Verwendung.md)
+
 

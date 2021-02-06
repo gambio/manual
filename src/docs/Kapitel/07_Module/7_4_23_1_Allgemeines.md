@@ -4,5 +4,5 @@ Hermes \(HSI\) ist das Modul für die neue Hermes-Schnittstelle und löst das bi
 
 Hermes \(HSI\) ist ab Shopversion 4.0 im Umfang der Shopsoftware enthalten und steht nach aktuellem Stand \(20.03.2020\) nicht als separates Modul zur Verfügung.
 
-**Parent topic:**[Hermes HSI](7_4_23_HermesHSI.md)
+
 

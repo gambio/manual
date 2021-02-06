@@ -16,5 +16,5 @@ Der Vorgang kann, je nach Anzahl der Artikel-Bilder im Shop, einige Zeit dauern.
 
 Bei Bedarf kann unter Nummer des Startbildes bzw. Dateiname des Startbildes festgelegt werden, dass die Stapelverarbeitung einen Teil der Artikelbilder überspringt.
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 

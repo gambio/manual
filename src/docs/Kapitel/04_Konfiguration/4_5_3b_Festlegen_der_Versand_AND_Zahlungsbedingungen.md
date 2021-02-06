@@ -32,5 +32,5 @@ Die Eintragung kann nach Sprachen getrennt \(standardmäßig deutsch/englisch\) 
 
 Mit Klick auf Speichern werden die Einstellungen aus beiden Schritten gespeichert. Mit Klick auf Zurück wird die Länderauswahl erneut aufgerufen. Auch beim Wechsel zwischen den beiden Bildschirmen bleiben die im jeweils anderen Teil gemachten Einstellungen erhalten.
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 

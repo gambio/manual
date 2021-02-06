@@ -22,5 +22,5 @@ CAUTION:
 
 Wenn das Kontrollkästchen Als Artikelbild verwenden bei allen Artikelbildern deaktiviert wird, werden in Artikellisten, wie beispielsweise Kategorieseiten, für diesen Artikel keine Artikelbilder angezeigt.
 
-**Parent topic:**[Artikelbilder](8_2_3_Artikelbilder.md)
+
 

@@ -13,5 +13,5 @@
 -   **[Muster von Versandlabeln sowie Exportlabeln](7_7_3f_MusterVonVersandlabelnSowieExportlabeln.md)**  
 
 
-**Parent topic:**[DHL Geschäftskundenversand](7_7_DHLGeschaeftskundenversand.md)
+
 

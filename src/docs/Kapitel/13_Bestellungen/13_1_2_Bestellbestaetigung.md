@@ -30,5 +30,5 @@ Die Bestellbestätigung zu einer Bestellung versendest du im Gambio Admin deines
 
 Wenn du Änderungen an einer Bestellung vornimmst, wie unter Bestellung bearbeiten beschrieben, musst du die Bestätigungsmail neu generieren. Wähle in der Bestellübersicht die Bestellung aus, zu der du die Bestätigungsmail neu generieren möchtest und klicke über die Dropdown-Schaltfläche auf Bestellbestätigung neu generieren.
 
-**Parent topic:**[Bestellungen abwickeln](13_1_Bestellungen_abwickeln.md)
+
 

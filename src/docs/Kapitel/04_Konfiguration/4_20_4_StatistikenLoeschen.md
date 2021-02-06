@@ -4,5 +4,5 @@
 
 Setze die Haken für die gewünschte\(n\) Statisik\(en\) und bestätige mit Klick auf den Button Löschen.
 
-**Parent topic:**[Allgemeines](4_20_Allgemeines.md)
+
 

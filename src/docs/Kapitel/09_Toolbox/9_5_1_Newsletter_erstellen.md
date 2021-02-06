@@ -10,5 +10,5 @@ Der Versand eines Newsletters ohne vorherige Zustimmung des Empfängers ist mög
 
 Mit Klick auf Zurück werden die Änderungen verworfen, mit Klick auf Speichern wird der Newsletter angelegt. In beiden Fällen gelangst du zurück zur Newsletter-Übersicht.
 
-**Parent topic:**[Newsletter](9_5_Newsletter.md)
+
 

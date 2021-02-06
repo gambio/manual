@@ -8,5 +8,5 @@ Das E-Mail Logo wird im Kopfbereich der Bestellbestätigungs-Mail eingebunden. D
 4.  Aktiviere das Kontrollkästchen Datei verwenden
 5.  Klicke auf Speichern, um das neue E‑Mail Logo zu verwenden
 
-**Parent topic:**[Logo Manager](10_3_Logo_Manager.md)
+
 

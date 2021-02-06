@@ -11,5 +11,5 @@ Der Link in der Bewertungs-E-Mail führt den Kunden zu einer Seite, auf der dies
 
 ![](Bilder/bewertung.png "Bewertungsseite")
 
-**Parent topic:**[eKomi](7_4_2_ekomi.md)
+
 

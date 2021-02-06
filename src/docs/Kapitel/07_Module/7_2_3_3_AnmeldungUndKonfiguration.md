@@ -13,5 +13,5 @@ Nach der Aktivierung von GiroConnect kann das Anmeldeverfahren begonnen werden.
 -   **[Abschluss](7_2_3_3_5_Abschluss.md)**  
 
 
-**Parent topic:**[GiroConnect](7_2_3_GiroConnect.md)
+
 

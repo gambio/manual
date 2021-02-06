@@ -29,5 +29,5 @@ Nachfolgend ist ein Muster-Label im Format DIN A6 abgebildet.
 
 ![](Bilder/mydpd_iloxx/20190410_012.png "Muster-Label")
 
-**Parent topic:**[MyDPD / Iloxx](7_4_12_MyDPPIloxx.md)
+
 

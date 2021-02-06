@@ -26,5 +26,5 @@ Zu einem vollständigen Import gehören in aller Regel auch die Artikelbilder. D
 
 deines Shopverzeichnisses. Anschließend muss unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung ausgeführt werden, um die verwendeten Bilder für die Artikel zu erzeugen \(z.B. Info-Bild, Thumbnails usw.\).
 
-**Parent topic:**[Import](8_8_2_Import.md)
+
 

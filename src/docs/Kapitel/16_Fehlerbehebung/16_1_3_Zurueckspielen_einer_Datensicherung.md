@@ -16,5 +16,5 @@ Wenn seit der letzten Datensicherung keine Änderungen an den Quelldateien deine
 6.  Klicke auf Durchsuchen und wähle die Datenbanksicherung auf deinem Computer
 7.  Wenn beim Export der Datenbank keine Änderungen an der Konfiguration des Datenbank- Exports vorgenommen wurden, klicke auf OK, um den Import der Datenbanksicherung zu starten
 
-**Parent topic:**[Manuelle Datensicherung](16_1_Manuelle_Datensicherung.md)
+
 

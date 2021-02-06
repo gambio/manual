@@ -68,5 +68,5 @@ Wird der Mauszeiger über ein Kollektionsbild bewegt, werden Steuerelemente ange
 
     Um ein Bild zu verschieben, klicke das erste Icon an und halte die linke Maustaste gedrückt. Ziehe das Bild an die gewünschte Position und lasse die Maustaste wieder los.
 
-**Parent topic:**[Artikel & Kategorien](8_Artikel_UND_Kategorien.md)
+
 

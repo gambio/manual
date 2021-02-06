@@ -14,5 +14,5 @@ Ist die Bild-Datei hochgeladen, wird über der Vorschau ein Häkchen angezeigt.
 
 Die Datei kann nun über einen Mausklick ausgewählt werden.
 
-**Parent topic:**[Artikelbilder](8_2_3_Artikelbilder.md)
+
 

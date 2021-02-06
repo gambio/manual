@@ -48,7 +48,7 @@ Es muss immer zwischen den angelegten Eigenschaften und den zugewiesenen Kombina
 -   **[Kombinationen hinzufügen](8_4_8_KombinationenHinzufuegen.md)**  
 
 
-**Parent topic:**[Artikel & Kategorien](8_Artikel_UND_Kategorien.md)
+
 
 # Kombinationen erstellen {#artikeleigenschaften_kombinationen_erstellen}
 
@@ -104,7 +104,7 @@ Es wird der Dialog zum Anlegen einer neuen Kombination angezeigt. Neben je einem
 
 Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Eintragungen vor. Bestätige die Eingaben mit _**Speichern**_ bzw. _**Speichern & Schließen**_. Über _**Abbrechen**_ kannst du den Dialog wieder verlassen, ohne die Kombination anzulegen.
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 
 # Eigenschaften zuweisen {#artikeleigenschaften_eigenschaften_zuweisen}
 
@@ -124,7 +124,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 
 Über die mit _**Sonderangebot**_ beschriftete Schaltlfäche kann im Dropdown der Eintrag _**Eigenschaften**_ ausgewählt werden.
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 
 # Eigenschaftswerte erstellen und bearbeiten {#artikeleigenschaften_eigenschaftswerte_erstellen_und_bearbeiten}
 
@@ -179,7 +179,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 
     Eigenschaftstwerte sollten auf keinen Fall gelöscht werden, wenn diese noch in Eigenschaften-Kombinationen enthalten sind. Ist dies der Fall, wird eine entsprechende Warnung angezeigt.
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 
 # Kombinationen löschen {#artikeleigenschaften_kombinationen_loeschen}
 
@@ -192,7 +192,7 @@ Kombinationen können wahlweise einzeln, über das Mülltonnen-Icon, oder die Me
 
 Es wird eine Sicherheitsabfrage angezeigt, in der wahlweise auch das Löschen aller Kombinationen durch Setzen des entsprechenden Hakens ausgewählt werden kann.
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 
 # Kombinationen hinzufügen {#artikeleigenschaften_kombinationen_hinzufuegen}
 
@@ -219,7 +219,7 @@ Es wird der Dialog zum Anlegen einer neuen Kombination angezeigt. Neben je einem
 
 Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Eintragungen vor. Bestätige die Eingaben mit _**Speichern**_ bzw. _**Speichern & Schließen**_. Über _**Abbrechen**_ kannst du den Dialog wieder verlassen, ohne die Kombination anzulegen.
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 
 # Kombinationsübersicht {#artikeleigenschaften_kombinationsuebersicht}
 
@@ -307,7 +307,7 @@ Bestandsprüfung|Die Bestandsprüfung verfügt über vier Auswahlmöglichkeiten:
 Lieferzeitanzeige|Mit dieser Einstellung wird festgelegt, welche Lieferzeit für den Lieferstatus verwendet wird:-   _**Artikellieferzeit**_: es wird die im Artikel eingestellte Lieferzeit verwendet
 -   _**Kombinationslieferzeit**_: |es wird die in der ausgewählten Kombination eingestellte Lieferzeit verwendet
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 
 # Kombinationen bearbeiten {#artikeleigenschaften_kombinationen_bearbeiten}
 
@@ -330,7 +330,7 @@ Beim Bearbeiten einer Kombination stehen die gleichen Einstellungen zur Verfügu
 
 Passe die gewünschten Eigenschaftswerte an und bestätige die Eingaben mit _**Speichern**_ bzw. _**Speichern & Schließen**_. Über _**Abbrechen**_ kannst du den Dialog wieder verlassen, ohne die Kombination zu ändern.
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 
 # Eigenschaften erstellen und bearbeiten {#artikeleigenschaften_eigenschaften_erstellen_und_bearbeiten}
 
@@ -399,5 +399,5 @@ In der Eingabemaske können die folgenden Angaben gemacht werden:
 
     Eigenschaften sollten auf keinen Fall gelöscht werden, wenn diese noch in Eigenschaften-Kombinationen enthalten sind. Ist dies der Fall, wird eine entsprechende Warnung angezeigt.
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 

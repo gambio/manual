@@ -42,5 +42,5 @@ CAUTION:
 
 Es erfolgt keine Sicherheitsabfrage, der Linkbereich wird **unwiderruflich gelöscht**.
 
-**Parent topic:**[Teaser-Slider](10_4_Teaser_Slider.md)
+
 

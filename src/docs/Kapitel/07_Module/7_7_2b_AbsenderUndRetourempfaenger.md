@@ -8,5 +8,5 @@ CAUTION:
 
 Das Feld Name muss zwingend ausgefüllt werden, es kommt sonst zu Problemen bei der Labelerstellung.
 
-**Parent topic:**[Konfiguration](7_7_2_Konfiguration.md)
+
 

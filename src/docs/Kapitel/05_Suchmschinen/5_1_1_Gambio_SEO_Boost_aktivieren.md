@@ -10,5 +10,5 @@ Aktiviere im Administrationsbereich deines Shops unter Shop Einstellungen \> SEO
 
 Leere die Caches für die Seiten- und Modulausgabe unter Toolbox \> Cache.
 
-**Parent topic:**[Gambio SEO Boost](5_1_Gambio_SEO_Boost.md)
+
 

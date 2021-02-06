@@ -13,5 +13,5 @@
 6.  Sollte die benötigte Zugriffsrolle für das Administrator-Konto noch nicht angezeigt werden, lege diese über den Bereich Zugriffsrollen verwalten an \(siehe Kapitel Rollen und Berechtigungen\)
 7.  Setze den Haken für die gewünschte Zugriffsrolle, um diese dem Administrator-Konto zuzuweisen
 
-**Parent topic:**[Administrator-Konten](12_4_Administrator_Konten.md)
+
 

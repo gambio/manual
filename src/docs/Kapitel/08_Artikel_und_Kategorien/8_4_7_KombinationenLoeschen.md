@@ -9,5 +9,5 @@ Kombinationen können wahlweise einzeln, über das Mülltonnen-Icon, oder die Me
 
 Es wird eine Sicherheitsabfrage angezeigt, in der wahlweise auch das Löschen aller Kombinationen durch Setzen des entsprechenden Hakens ausgewählt werden kann.
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 

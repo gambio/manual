@@ -62,5 +62,5 @@ Die Gruppen können automatisch über einen CronJob abgeglichen werden. Wird ein
 
 ![](Bilder/cleverreach/20190702_013.png "Cronjob-Passwort auf der Einstellungsseite")
 
-**Parent topic:**[Konfiguration](7_4_25_4_CleverReach_Konfiguration.md)
+
 

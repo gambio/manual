@@ -6,5 +6,5 @@
 |Produktbewertungen in der Produktliste und in der gekachelten Artikelauflistung anzeigen?|Bewertungssterne in Artikelübersichten anzeigen|
 |Produktbewertungen im Tab anzeigen|Kundenrezensionen werden in einem Artikeltab und nicht mehr unterhalb der Artikelbeschreibung angezeigt|
 
-**Parent topic:**[Template Konfiguration](10_2_3_Template_Konfiguration.md)
+
 

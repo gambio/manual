@@ -51,5 +51,5 @@ Die erfolgreiche Anmeldung wird mit einer Meldung bestätigt.
 
 Im Gambio Admin wird das Zahlungsmodul nun als installiert angezeigt. Über einen Klick auf das Bleistift-Symbol - welches angezeigt wird, wenn du den Mauszeiger über den Moduleintrag bewegst - kannst du weitere Einstellungen vornehmen.
 
-**Parent topic:**[PayPal und PayPal PLUS per Gambio Hub](7_2_2_PayPal2Hub.md)
+
 

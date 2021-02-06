@@ -7,5 +7,5 @@ GiroConnect wird über die Module Vorkasse \(MoneyOrderHub\) und Rechnung \(Invo
 
 Klicke auf die Schaltfläche Installieren, um die Installation des Moduls vorzunehmen.
 
-**Parent topic:**[GiroConnect](7_2_3_GiroConnect.md)
+
 

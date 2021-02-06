@@ -11,5 +11,5 @@ In diesem Kapitel geben wir einen kurzen Überblick über die shopseitigen Einst
 -   **[mediafinanz Forderungen](7_4_15_4_mediafinanzForderungen.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

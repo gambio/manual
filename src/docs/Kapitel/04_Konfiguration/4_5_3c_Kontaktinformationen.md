@@ -13,5 +13,5 @@ Zu den formalen Inhalten des Widerrufsformulars gehören auch die Kontaktinforma
 |Telefonnummer|Die Telefonnummer des Shop-Betreibers|
 |Faxnummer|Die Faxnummer des Shop-Betreibers|
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 

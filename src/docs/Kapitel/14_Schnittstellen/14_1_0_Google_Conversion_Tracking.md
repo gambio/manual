@@ -14,5 +14,5 @@ Mit dem Google Conversion-Tracking analysierst du das Kauf- und Kaufabbruchverha
 4.  Gib im Feld Conversion Label das von dir gewünschte Conversion Label ein
 5.  Klicke auf Speichern, um die Einstellungen für Google Conversion-Tracking zu übernehmen
 
-**Parent topic:**[Schnittstellen](14_Schnittstellen.md)
+
 

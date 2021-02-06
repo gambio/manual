@@ -31,5 +31,5 @@ Unter Module \> Zahlungsweisen \> Sonstige werden Zahlungsmodule bereitgestellt,
 -   **[Heidelpay](7_2_3_14_Heidelpay.md)**  
 
 
-**Parent topic:**[Zahlungsweisen](7_2_Zahlungsweisen.md)
+
 

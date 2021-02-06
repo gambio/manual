@@ -7,5 +7,5 @@
 -   **[Marke erstellen](7_4_27_3_Internetmarke_MarkeErstellen.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

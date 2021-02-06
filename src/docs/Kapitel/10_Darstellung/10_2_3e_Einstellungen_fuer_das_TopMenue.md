@@ -6,5 +6,5 @@
 |Wohnort im Top-Menü aktivieren|Wohnortauswahl im Top-Menü wird verwendet|
 |Schnellsuche im TopMenü aktivieren|Schnellsuche im Top-Menü wird verwendet|
 
-**Parent topic:**[Template Konfiguration](10_2_3_Template_Konfiguration.md)
+
 

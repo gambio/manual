@@ -14,5 +14,5 @@ Das Modul kann nun im Gambio Admin unter unter Module \> Modul-Center \(siehe Sc
 ![](Bilder/cleverreach/CR_001.png "Moduleintrag CleverReach unter
         Module > Modul-Center.")
 
-**Parent topic:**[CleverReach](7_4_25_CleverReach.md)
+
 

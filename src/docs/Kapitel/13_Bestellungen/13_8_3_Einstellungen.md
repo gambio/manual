@@ -11,5 +11,5 @@
 
 Klicke mit der Maus die beiden Dreiecke am Ende des Eintrags an und halte die Maustaste gedrückt, um diesen nach oben oder unten zu ziehen. Auf diese Weise änderst du die Reihenfolge der Spalte. Über das Dropdown Höhe kann die Zeilenhöhe eingestellt werden. Bestätige die gemachten Änderungen mit einem Klick auf Speichern. Über Abbrechen kann das Einstellungsfenster verlassen werden, ohne die gemachten Änderungen zu übernehmen. Mit Klick auf den Link Auf Standardeinstellung zurücksetzen werden die Standardeinstellungen vorausgewählt \(zum Übernehmen bitte auf Speichern klicken\).
 
-**Parent topic:**[Rechnungsübersicht](13_8_Rechnungsuebersicht.md)
+
 

@@ -11,5 +11,5 @@ Folgende Informationen werden aufgeführt:
 -   Sells: Verkäufe
 -   Late Sells: Verkäufe aus der Kampagne
 
-**Parent topic:**[Statistiken](15_Statistiken.md)
+
 

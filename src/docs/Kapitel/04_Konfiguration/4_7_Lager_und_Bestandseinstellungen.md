@@ -5,5 +5,5 @@
 -   **[Lieferstatus](4_7_2_Lieferstatus.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

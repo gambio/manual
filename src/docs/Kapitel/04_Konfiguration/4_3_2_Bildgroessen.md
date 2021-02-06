@@ -16,5 +16,5 @@ Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschi
 
 **Note:** Wenn die geänderte Ausgangsgröße auch bei bestehenden Artikelbildern übernommen werden soll, führe unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung aus. Beachte, dass die Ausgabeelemente im Shopbereich nicht automatisch an die neue Größe angepasst werden. Wenn du die Bildgröße der Thumbnails oder Info-Bilder änderst, passe anschließend im Bearbeitungsmodus die betroffenen Bereiche im Shop an.
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 

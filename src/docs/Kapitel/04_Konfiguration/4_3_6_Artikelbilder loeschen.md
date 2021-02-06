@@ -10,5 +10,5 @@ CAUTION:
 
 Die Original-Bilder werden für den Bilderzoom verwendet. Werden diese gelöscht, steht die Vergrößerung nicht mehr in der bisherigen Auflösung zur Verfügung.
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 

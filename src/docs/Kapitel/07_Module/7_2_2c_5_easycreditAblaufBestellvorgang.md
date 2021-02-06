@@ -44,5 +44,5 @@ Die Screenshots enthalten einen Hinweis auf den Testbetrieb. Dieser ist im Liveb
 
 ![](Bilder/easycredit/ec-2020-09-10_017.png "Anzeige des Summenblocks in der Bestellzusammenfassung")
 
-**Parent topic:**[easyCredit](7_2_2c_easycredit.md)
+
 

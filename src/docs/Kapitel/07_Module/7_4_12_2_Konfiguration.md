@@ -17,5 +17,5 @@ Nach der Installation kann das Modul konfiguriert werden. Wähle hierzu den Eint
 |Logging|Aktiviert das Logging.|
 |Sandbox-/Debug-Modus|Aktiviert den Testbetrieb.|
 
-**Parent topic:**[MyDPD / Iloxx](7_4_12_MyDPPIloxx.md)
+
 

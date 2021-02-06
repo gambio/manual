@@ -55,5 +55,5 @@ Nach dem Buchen von Ampify Premium stehen im Reiter Installation weitere Einstel
 
 ![](Bilder/ampify/amp_installation003.png "Reiter Installation")
 
-**Parent topic:**[Ampify](7_4_14_Ampify.md)
+
 

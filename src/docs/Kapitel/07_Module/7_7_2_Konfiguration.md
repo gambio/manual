@@ -11,5 +11,5 @@ Um das Modul zu konfigurieren, wähle es unter Module \> Modul-Center aus und kl
 -   **[Einstellungen](7_7_2d_Einstellungen.md)**  
 
 
-**Parent topic:**[DHL Geschäftskundenversand](7_7_DHLGeschaeftskundenversand.md)
+
 

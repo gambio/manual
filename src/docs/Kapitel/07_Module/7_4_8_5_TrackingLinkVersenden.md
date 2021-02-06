@@ -9,5 +9,5 @@ Der Tracking-Link kann dem Kunden unter Bestellungen \> Bestellungen per E-Mail 
 ![](Bilder/hermes/HE_20170615_018.png "Senden des Tracking-Links über die
       Bestellstatusänderungsmail")
 
-**Parent topic:**[Hermes](7_4_8_Hermes.md)
+
 

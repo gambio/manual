@@ -18,5 +18,5 @@ Der Button Löschen dient zum Entfernen eines Lieferstatus. Nach Klick auf die S
 
 Die Angabe der Lieferzeit beinhaltet den Link Ausland abweichend. Die Anzeige dieses Links kann unter Shop Einstellungen \> Lieferstatus für jeden einzelnen Status aktiviert bzw. deaktiviert werden. Wähle hierzu den jeweiligen Status aus und klicke auf die Schaltfläche Bearbeiten.
 
-**Parent topic:**[Lager- und Bestandseinstellungen](4_7_Lager_und_Bestandseinstellungen.md)
+
 

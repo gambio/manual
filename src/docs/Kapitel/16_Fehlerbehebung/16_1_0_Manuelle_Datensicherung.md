@@ -13,5 +13,5 @@ Eine komplette Sicherung der Daten deines Onlineshops umfasst sämtliche Dateien
 -   **[Zurückspielen einer Datensicherung](16_1_3_Zurueckspielen_einer_Datensicherung.md)**  
 
 
-**Parent topic:**[Fehlerbehebung](16_Fehlerbehebung.md)
+
 

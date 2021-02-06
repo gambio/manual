@@ -8,5 +8,5 @@ Das Modul für den Aufschlag der Käuferschutz-Gebühr kann unter Module \> Zusa
 |Sortierreihenfolge|Die Sortierreihenfolge wirkt sich auf die Position der Ausgabe sowie auf die Berechnung aus. Es sollten daher nach Möglichkeit keine Änderungen daran vorgenommen werden. Sind Änderungen nötig, so sollte geprüft werden, ob die Berechnung noch korrekt ist.|
 |Steuerklasse|Mit Auswahl einer Steuerklasse wird die Rechnungsgebühr als Nettowert betrachtet und die Steuer in der Bestellzusammenfassung aufgeschlagen. Wählt man keinen Steuersatz aus, gilt die hinterlegte Rechnungsgebühr brutto wie netto.|
 
-**Parent topic:**[Trusted Shops Käuferschutz Excellence](7_4_9_5_TrustedShopsKaeuferschutzExcellence.md)
+
 

@@ -33,5 +33,5 @@ Dieser ermittelt sich wie folgt:
 |Yellow|300|
 |Red|100|
 
-**Parent topic:**[Konfiguration](7_2_3_10_2_Konfiguration.md)
+
 

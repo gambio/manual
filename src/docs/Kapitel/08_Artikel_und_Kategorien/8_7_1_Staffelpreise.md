@@ -16,5 +16,5 @@ Der Kundengruppenpreis funktioniert gleichzeitig als Staffelpreis ab 1 Stück. W
 
 **Note:** Du verkaufst einen Artikel, der für Händler mit Staffelpreisen angeboten werden soll. Bis fünf Stück wird der Artikel zu 4.99 EUR angeboten. Fünf bis zehn Stück kosten 4.49 EUR und ab 20 Stück bezahlen Händler 3.99 EUR. Trage in das Preisfeld Händler den Händlerpreis von 4.99 EUR ein. Trage in das Feld Stück den Wert 5 und in das Feld Preis den Preis ab fünf Stück von 4.49 EUR ein. Klicke auf Aktualisieren und trage in das Feld Stück den Wert 20 sowie in das Feld Preis den Preis 3.99 EUR ein.
 
-**Parent topic:**[Rabatte & Sonderangebote](8_7_Rabatte_UND_Sonderangebote.md)
+
 

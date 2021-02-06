@@ -6,5 +6,5 @@ Die Findologic-Suche im Shop unterscheidet sich von der Verwendung und Darstellu
 
 ![](Bilder/findologic/20170330_008.png "Anzeige des Findologic-Logos")
 
-**Parent topic:**[Findologic](7_4_7_Findologic.md)
+
 

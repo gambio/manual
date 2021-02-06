@@ -11,5 +11,5 @@ Der Shop verfügt über sogenannte Zusatzmodule, dies sind kleine Hilfsprogramme
 -   **[Page-Token System](7_5d_Page_Token_System.md)**  
 
 
-**Parent topic:**[Module](7_Module.md)
+
 

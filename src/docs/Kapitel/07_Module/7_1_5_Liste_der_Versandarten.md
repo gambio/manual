@@ -21,5 +21,5 @@
 |Versandkostenfrei \(freeamount\)|versandkostenfrei|
 |Versicherter Versand \(zonese\)|gewichtbasiert, Zonen|
 
-**Parent topic:**[Versandarten](7_1_Versandarten.md)
+
 

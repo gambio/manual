@@ -8,5 +8,5 @@ Die für die Property erfassen Werte werden in den Boxen ausgegeben.
 
 ![](Bilder/GooS-20180920_016.png "Ausgabe der erfassten Werte")
 
-**Parent topic:**[Google Analytics](8_9_4_GoogleAnalytics.md)
+
 

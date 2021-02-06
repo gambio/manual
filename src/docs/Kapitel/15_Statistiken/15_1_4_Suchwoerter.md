@@ -11,5 +11,5 @@ Interne Suchwörter bezeichnen Suchen innerhalb des Shops, die über die üblich
 
 Die Anzahl der berücksichtigten Sucheingaben lässt sich über das Eingabefeld Anzahl Ergebnisse einstellen. Klicke auf Speichern um die Eingabe anzuwenden.
 
-**Parent topic:**[Besucherstatistik](15_1_Besucherstatistik.md)
+
 

@@ -45,5 +45,5 @@ Es kann bei der Ersteinrichtung unter Umständen nötig sein, die Seitenart der 
 
 ![](Bilder/protectedshops/ps-20200213_006.png "Verfügbare Dokumente")
 
-**Parent topic:**[Protected Shops](7_4_22_ProtectedShops.md)
+
 

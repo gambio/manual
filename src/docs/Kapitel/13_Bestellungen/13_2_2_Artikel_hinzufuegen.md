@@ -18,5 +18,5 @@ Wenn du einen Artikel mit Artikelattributen oder Eigenschaften hinzugefügt hast
 3.  Wähle die jeweiligen Optionswerte oder Kombinationen aus und setze den Haken bei Nachbearbeitung beenden und Bestellung neu berechnen. Klicke abschließend auf Schließen
 4.  Die gewählten Optionen sind dem Artikel nun zugewiesen und werden auf der Detailseite der Bestellung ausgegeben
 
-**Parent topic:**[Bestellung manuell anlegen](13_2_Bestellung_manuell_anlegen.md)
+
 

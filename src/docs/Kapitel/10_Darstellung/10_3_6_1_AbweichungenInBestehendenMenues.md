@@ -37,5 +37,5 @@ Einzelne Bereiche sind im StyleEdit 4 bei der Bearbeitung des Malibus anders auf
         Produkte zwischen Honeygrid (links) und Malibu
         (rechts)")
 
-**Parent topic:**[Bereiche und Einstellungen für das Malibu Theme](10_3_6_BereicheUndEinstellungenFuerDasMalibuTheme.md)
+
 

@@ -8,5 +8,5 @@ Templates bieten im Gegensatz zu Themes weniger Einstellungsmöglichkeiten. Die 
 
 Wechsele anschließend im Gambio Admin zum Menü Toolbox \> Cache und leere alle Caches. Betätige hierzu die einzelnen Schaltflächen von unten nach oben und warte jeweils bis die Bestätigungsmeldung oberhalb der Buttons angezeigt wird.
 
-**Parent topic:**[Honeygrid und StyleEdit v3](10_2_Honeygrid_und_StyleEdit_v3.md)
+
 

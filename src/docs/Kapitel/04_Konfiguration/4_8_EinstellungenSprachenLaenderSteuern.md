@@ -64,5 +64,5 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 |--------|------------|
 |Sprachen|Klicke auf aufrufen, um die Konfigurationsseite für die Sprachen anzuzeigen|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 

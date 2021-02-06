@@ -59,5 +59,5 @@ Wenn du eine Währung nicht mehr benötigst, kannst du diese unter Shop Einstell
 2.  Klicke auf Löschen
 3.  Klicke erneut auf Löschen, um das Löschen zu bestätigen
 
-**Parent topic:**[Lokalisierung](6_Lokalisierung.md)
+
 

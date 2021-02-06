@@ -9,5 +9,5 @@
 7.  Wähle unter Artikel \> Artikel/Kategorien in der Eingabemaske des gewünschten Artikels aus der Liste Artikelhersteller den Hersteller des Artikels aus
 8.  Klicke am Ende der Eingabemaske auf Speichern oder Aktualisieren, um die Änderungen am Hersteller des Artikels zu übernehmen
 
-**Parent topic:**[Artikel](8_2_Artikel.md)
+
 

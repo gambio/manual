@@ -33,5 +33,5 @@ Wenn die jeweilige Sicherung erfolgt ist, wird eine entsprechende Statusmeldung 
 
 Um zu verhindern, dass Dateien verschiedener Versionen im Shopverzeichnis vorhanden sind, sollten bestehende Dateien **vor dem Hochladen** in einen Unterordner verschoben werden.
 
-**Parent topic:**[Datensicherung](9_4_Datensicherung.md)
+
 

@@ -34,5 +34,5 @@ Die Eintragung muss jedoch nicht von Hand vorgenommen werden. Klicke auf das nac
 
 Über Klick auf Speichern wird die Spalte angelegt bzw. die Änderung an einer bestehenden Spalte gespeichert. Über Abbrechen gelangst du zurück zur Übersicht ohne eine Spalte anzulgen bzw. ohne die Änderungen zu speichern.
 
-**Parent topic:**[Google Shopping](8_9_2_GoogleShopping.md)
+
 

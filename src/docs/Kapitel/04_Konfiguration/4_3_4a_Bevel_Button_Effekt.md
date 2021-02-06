@@ -12,5 +12,5 @@ Beispiel: \(8,FFCCCC,330000\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Bevel beim gewünschten Bildtyp ein.
 
-**Parent topic:**[Bild-Effekte](4_3_4_Bild_Effekte.md)
+
 

@@ -41,5 +41,5 @@ Unter Darstellung \> Template-Einstellungen kann der Haken für Währungsauswahl
 
 ![](Bilder/MalibuShopansichtHeaderMeinKonto.png "Aufgeklapptes Konto-Dropdown nach dem Anmelden")
 
-**Parent topic:**[Shopbereich](3_1_Shopbereich.md)
+
 

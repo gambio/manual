@@ -9,5 +9,5 @@ Gambio SEO Boost kann nur auf Servern verwendet werden, die mod\_rewrite unterst
 -   **[Gambio SEO Boost aktivieren](5_1_1_Gambio_SEO_Boost_aktivieren.md)**  
 
 
-**Parent topic:**[Suchmaschinen](5_Suchmaschinen.md)
+
 

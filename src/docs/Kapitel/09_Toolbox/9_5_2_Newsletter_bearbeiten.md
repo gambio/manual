@@ -4,5 +4,5 @@ Um einen Newsletter nachträglich zu bearbeiten, klicke in der mittleren Tabelle
 
 Mit Klick auf Löschen wird der Newsletter unwiderruflich entfernt. Nach Klick auf die Schaltfläche findet eine Sicherheitsabfrage statt, klicke auf OK, wenn du den Newsletter löschen möchtest, anderenfalls auf Abbrechen.
 
-**Parent topic:**[Newsletter](9_5_Newsletter.md)
+
 

@@ -39,5 +39,5 @@ Den Teaser-Slider für einen Artikel kannst du im Gambio Admin unter Artikel \> 
 3.  Wähle aus der Liste Produkt Teaser-Slider den Teaser-Slider für die Detailseite dieses Artikels aus
 4.  Klicke am Ende der Seite auf Speichern oder Aktualisieren, um den Teaser‑Slider dem Artikel zuzuweisen
 
-**Parent topic:**[Teaser-Slider](10_4_Teaser_Slider.md)
+
 

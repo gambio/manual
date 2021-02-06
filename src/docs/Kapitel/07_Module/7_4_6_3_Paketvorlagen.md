@@ -6,5 +6,5 @@ Du hast die Möglichkeit, Vorlagen für deine Standard-Paketgrößen anzugeben. 
 
 ![](Bilder/shipcloud/shipcloud_Paketvorlage2.png "Paketvorlage in der Übersicht")
 
-**Parent topic:**[Shipcloud](7_4_6_Shipcloud.md)
+
 

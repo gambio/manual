@@ -4,5 +4,5 @@ Bestehende Label können aufgerufen werden, wenn im Dropdown der Bestellübersic
 
 ![](Bilder/GKV2_20170628_019.png "Bestehende Label")
 
-**Parent topic:**[Verwendung](7_7_3_Verwendung.md)
+
 

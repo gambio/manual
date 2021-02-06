@@ -60,5 +60,5 @@ Um einen solchen Beispielcode zu verwenden, rufe zu der betreffenden Seite den Q
 
 Klicke auf die Schaltfläche Quellcode des CK-Editors, um den Code einzufügen. Klicke erneut auf Quellcode, um die Ansicht umzuschalten. Markiere nun den angezeigten Beispieltext und klicke anschließend auf die Schaltfläche Bild, um das Bild and der betreffenden Position des Rasters einzurichten.
 
-**Parent topic:**[CK-Editor](3_4_CK_Editor.md)
+
 

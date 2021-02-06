@@ -8,5 +8,5 @@ Das Unterschreiten des Minimum-Wertes sorgt für widersprüchliche Einträge in 
 
 Generell gilt, dass die Kundennummern nur heruntergesetzt werden können, wenn zuvor alle Kundenkonten gelöscht wurden.
 
-**Parent topic:**[Nummernkreise](4_14_Nummernkreise.md)
+
 

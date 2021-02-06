@@ -24,5 +24,5 @@ Nach der Installation kann das Modul über den Button Bearbeiten konfiguriert we
 
 Die Benutzung erfolgt direkt über Brickfox, im Shop kann nur die Konfiguration vorgenommen werden. Bei allen Fragen zur Verwendung wende dich bitte an den Support von Brickfox \(https://www.brickfox.de/\).
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

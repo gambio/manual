@@ -20,5 +20,5 @@ Mit Klick auf diese Schaltfläche wird die Robots-Datei erzeugt und direkt auf d
 
 Über diese Schaltfläche wird eine neue Robots-Datei erzeugt und zum Download angeboten. Sie kann bei Bedarf angepasst werden, bevor sie manuell auf den FTP-Server hochgeladen wird. Verbinde dich hierzu über ein FTP-Programm mit deinem FTP-Server und lade die Datei in das Verzeichnis hoch, welches links neben dem Button angezeigt wird.
 
-**Parent topic:**[Suchmaschinen](5_Suchmaschinen.md)
+
 

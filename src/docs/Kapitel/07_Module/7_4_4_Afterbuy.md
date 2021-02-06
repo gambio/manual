@@ -35,5 +35,5 @@ Nach der Übertragung an Afterbuy wird der Bestellstatushistorie ein entsprechen
 
 ![](Bilder/afterbuy/20190404_005.png "Afterbuy-Eintrag in der Bestellstatushistorie")
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

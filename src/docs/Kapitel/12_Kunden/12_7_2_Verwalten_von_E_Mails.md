@@ -23,5 +23,5 @@ Zudem können alte Anlagen bis einschließlich einem bestimmten Datum gelöscht 
 
 **Note:** Gelöschte Anhänge werden weiterhin als Anlage angezeigt, um eine entsprechende Historie bieten zu können. Da die Datei aber nicht mehr vorhanden ist, kann sie nicht heruntergeladen werden.
 
-**Parent topic:**[E-Mails](12_7_E_Mails.md)
+
 

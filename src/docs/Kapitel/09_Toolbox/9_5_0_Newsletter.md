@@ -11,5 +11,5 @@ Unter Toolbox \> Newsletter befindet sich die Newsletter-Funktion des Shops. Der
 -   **[Versandte Newsletter bearbeiten](9_5_4_Versandte_Newsletter_bearbeiten.md)**  
 
 
-**Parent topic:**[Toolbox](9_Toolbox.md)
+
 

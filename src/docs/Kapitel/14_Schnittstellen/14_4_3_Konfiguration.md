@@ -12,5 +12,5 @@ Es werden im unteren Bereich die Einstellungen Spezifische Werbung für Ratenzah
 
 ![](Bilder/rppm-konkret.png "repräsentativer Hinweis")
 
-**Parent topic:**[Ratenzahlung Powered by PayPal](14_4_RatenzahlungPoweredByPayPal.md)
+
 

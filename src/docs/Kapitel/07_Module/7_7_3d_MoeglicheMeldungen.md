@@ -16,5 +16,5 @@ Bitte prüfe und korrigiere die angegebenen Gewichte.
 
 Die Meldung Versandetikett wurde erzeugt ist eine Erfolgsmeldung. Darunter finden sich die Sendungsnummer sowie in der Spalte Label ein Link zum Versandlabel und ein Link zum Exportlabel.
 
-**Parent topic:**[Verwendung](7_7_3_Verwendung.md)
+
 

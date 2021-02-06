@@ -4,5 +4,5 @@ Das Modul kann unter Module \> Modul-Center installiert werden. Wähle hierzu de
 
 ![](Bilder/mediafinanz/mediafinanz_001.png "Mediafinanz-Modul nach der Installation")
 
-**Parent topic:**[Mediafinanz](7_4_15_Mediafinanz.md)
+
 

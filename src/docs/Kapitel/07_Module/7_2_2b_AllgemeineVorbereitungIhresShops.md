@@ -8,5 +8,5 @@ Die dem Kunden zu zeigenden Rechtstexte findest du unter https://developers.klar
 
 **Note:** Bei Bedarf können die Rechtstexte automatisch übernommen werden, dies ist jedoch erst ab den Shopversionen v3.8.3.x bzw. v3.9.3.x oder mit dem Hub Connector ab v1.7.0 möglich.
 
-**Parent topic:**[Gambio secured Payments - powered by Klarna](7_2_2_GambioSecuredPayments_poweredByKlarna.md)
+
 

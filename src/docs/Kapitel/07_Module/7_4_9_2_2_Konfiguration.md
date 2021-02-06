@@ -24,5 +24,5 @@ Nach erfolgreicher Aktivierung wird die folgende Box angezeigt:
 
 Darunter können die Zugangsdaten geprüft und ggf. korrigiert werden.
 
-**Parent topic:**[Einrichtung](7_4_9_2_Einrichtung.md)
+
 

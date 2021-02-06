@@ -53,5 +53,5 @@ Bestätige die nun folgende Anzeige mit einem Klick auf Fertig. Die angelegte Ak
 
 Unter dem Reiter Conversion Tracking findest du nun weitere Angaben und kannst das Conversion Tracking aktivieren.
 
-**Parent topic:**[Google Services](8_9_GoogleServices.md)
+
 

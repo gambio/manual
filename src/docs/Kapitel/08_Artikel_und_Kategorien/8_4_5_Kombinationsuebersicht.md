@@ -84,5 +84,5 @@ Bestandsprüfung|Die Bestandsprüfung verfügt über vier Auswahlmöglichkeiten:
 Lieferzeitanzeige|Mit dieser Einstellung wird festgelegt, welche Lieferzeit für den Lieferstatus verwendet wird:-   _**Artikellieferzeit**_: es wird die im Artikel eingestellte Lieferzeit verwendet
 -   _**Kombinationslieferzeit**_: |es wird die in der ausgewählten Kombination eingestellte Lieferzeit verwendet
 
-**Parent topic:**[Artikeleigenschaften](8_4_Artikeleigenschaften_.md)
+
 

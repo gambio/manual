@@ -34,5 +34,5 @@ Ganz unten befindet sich der Button für den Expertenmodus, über den noch weite
 
 Über die Schaltfläche Zurück kannst du die Bearbeitung abbrechen, ohne die Änderungen an den Einstellungen zu speichern. Mit einem Klick auf Speichern werden diese übernommen. Mit Klick auf Deinstallieren kann das Modul deinstalliert werden.
 
-**Parent topic:**[Weitere Einstellungen](7_2_2_3_WeitereEinstellungen.md)
+
 

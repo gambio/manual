@@ -24,5 +24,5 @@ Im Tab Alle veröffentlichen kannst du über Klick auf Ausführen die Haken für
 
 **Note:** Durch den Klick auf Ausführen im Tab Alle veröffentlichen wird noch **keine** Sitemap erzeugt. Wechsele hierzu in den Tab Sitemap generieren.
 
-**Parent topic:**[Suchmaschinen](5_Suchmaschinen.md)
+
 

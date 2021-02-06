@@ -9,5 +9,5 @@
 -   **[Tabs im Artikel](8_2_4c_Tabs_im_Artikel.md)**  
 
 
-**Parent topic:**[Artikel](8_2_Artikel.md)
+
 

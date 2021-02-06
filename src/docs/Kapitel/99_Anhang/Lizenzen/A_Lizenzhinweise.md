@@ -9,5 +9,5 @@ Bitte beachte nachfolgende Lizenzhinweise zum Shopsystem, dem PdfCreator sowie d
 -   **[Handbuch](A_d_Handbuch.md)**  
 
 
-**Parent topic:**[Anhang](Anhang.md)
+
 

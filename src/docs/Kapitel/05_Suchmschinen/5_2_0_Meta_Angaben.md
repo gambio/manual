@@ -11,5 +11,5 @@ Unter Shop Einstellungen \> SEO \> Meta-Angaben können die bestehenden Einstell
 -   **[Meta-Titel](5_2_3_Meta_Titel.md)**  
 
 
-**Parent topic:**[Suchmaschinen](5_Suchmaschinen.md)
+
 

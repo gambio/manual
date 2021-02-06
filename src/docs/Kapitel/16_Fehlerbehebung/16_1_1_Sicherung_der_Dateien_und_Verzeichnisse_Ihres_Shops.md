@@ -4,5 +4,5 @@ Die Dateien und Verzeichnisse deines Shops kannst du direkt von deinem Webserver
 
 Bitte beachte, dass dieser Vorgang, je nach Umfang deines Shops, einige Zeit in Anspruch nehmen kann. Wenn alle Dateien und Verzeichnisse heruntergeladen wurden, hast du die für deine Shopdatenbank erforderlichen Dateien und Verzeichnisse gesichert. Sämtliche Artikel-, Kunden- und Bestelldaten befinden sich in der Datenbank deines Shops.
 
-**Parent topic:**[Manuelle Datensicherung](16_1_Manuelle_Datensicherung.md)
+
 

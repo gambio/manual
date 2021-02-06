@@ -125,5 +125,5 @@ Gehe hierzu unter Shop Einstellungen \> Land/Steuer \> Steuerzonen und wechsele 
 
 Wähle nun die Steuerzone EU aus und öffne dort ebenfalls die Detail-Ansicht, wie oben beschrieben. Klicke auf Erstellen, um die zuvor gelöschten Länder unter der neuen Steuerzone anzulegen.
 
-**Parent topic:**[Lokalisierung](6_Lokalisierung.md)
+
 

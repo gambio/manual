@@ -16,5 +16,5 @@
 -   **[Footer](3_1_3_Footer.md)**  
 
 
-**Parent topic:**[Bereiche des Shopsystems](3_Bereiche_des_Shopsystems.md)
+
 

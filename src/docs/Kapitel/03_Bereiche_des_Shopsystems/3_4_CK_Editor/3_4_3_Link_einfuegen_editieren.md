@@ -10,5 +10,5 @@ Kopiere die Adresse, auf die du verlinken möchtest, in das Feld URL. Über den 
 
 Es ist auch möglich Bilder mit einem Link zu versehen. Klicke hierzu mit der linken Maustaste auf das Bild und danach auf den Button mit den Kettengliedern \(Link einfügen/editieren\). Alternativ kannst du auch über einen Rechtsklick auf das Bild die Bildeigenschaften aufrufen und die zugehörige URL direkt im Reiter Link hinterlegen.
 
-**Parent topic:**[CK-Editor](3_4_CK_Editor.md)
+
 

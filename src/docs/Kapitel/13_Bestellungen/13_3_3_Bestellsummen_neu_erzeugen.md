@@ -17,5 +17,5 @@ Die Bestellsummen kannst du auf der Bestell-Eingabemaske erzeugen. Klicke auf de
 
 Die Versandkosten werden automatisch in die Zusammenfassung eingetragen.
 
-**Parent topic:**[Bestellung bearbeiten](13_3_Bestellung_bearbeiten.md)
+
 

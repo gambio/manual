@@ -17,5 +17,5 @@ Die im Shop erstellten Rechnungen werden in Form einer Tabelle aufgelistet. Es s
 -   Zahlung
 -   Status
 
-**Parent topic:**[Rechnungsübersicht](13_8_Rechnungsuebersicht.md)
+
 

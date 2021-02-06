@@ -40,5 +40,5 @@ Die Tabelle Darstellungsoptionen unter Shop Einstellungen \> Maximum Werte biete
 
 **Note:** Die Einstellung Anzahl an Kategorien pro Zeile wirkt sich nur im EyeCandy aus. Für das Honeygrid wird die Einstellung hierzu im StyleEdit vorgenommen.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

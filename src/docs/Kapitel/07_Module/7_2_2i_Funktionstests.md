@@ -18,5 +18,5 @@ Laufen all diese Schritte fehlerfrei ab, ist die Integration des Zahlungsmoduls 
 
 Bei Fragen oder Problemen in diesen Schritten wende dich bitte über die bekannten Kontaktmöglichkeiten an Klarna, um die offenen Punkte zu klären.
 
-**Parent topic:**[Gambio secured Payments - powered by Klarna](7_2_2_GambioSecuredPayments_poweredByKlarna.md)
+
 

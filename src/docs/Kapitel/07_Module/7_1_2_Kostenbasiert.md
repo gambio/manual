@@ -14,5 +14,5 @@ Wähle unter Versandkosten Methode die Einstellung Preis, nun wird für die Staf
 
 **Note:** Die eingetragene Staffelung kann eins zu eins für Gewichte übernommen werden, ändere hierzu die Versandkosten Methode von Preis nach Gewicht. Statt der eingestellten Währung wird nun das Versandgewicht verwendet.
 
-**Parent topic:**[Versandarten](7_1_Versandarten.md)
+
 

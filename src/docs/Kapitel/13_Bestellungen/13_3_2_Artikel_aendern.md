@@ -33,5 +33,5 @@ Wenn du einen Artikel mit Artikelattributen hinzugefügt hast, musst du die verf
 2.  Klicke neben dem Artikel, den du löschen möchtest, auf Löschen
 3.  Klicke auf Nachbearbeitung beenden und Bestellung neu berechnen. und abschließend auf Schließen
 
-**Parent topic:**[Bestellung bearbeiten](13_3_Bestellung_bearbeiten.md)
+
 

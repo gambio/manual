@@ -40,5 +40,5 @@ Damit du dich an reCaptcha v2 beteiligen kannst, musst du dich dafür anmelden. 
 
 Auf Shopseiten mit automatisch generierten Kontaktformularen kann zum Schutz vor Skripten, die Kontaktformulare gezielt mehrfach abschicken, ein Sicherheitscode abgefragt werden. Aktiviere das Kontrollkästchen zu den jeweiligen Seiten, auf denen der Sicherheitscode abgefragt werden soll. In der Grundkonfiguration wird auf allen automatisch generierten Kontaktformularen ein Sicherheitscode abgefragt.
 
-**Parent topic:**[Sicherheitseinstellungen](4_6_Sicherheitseinstellungen.md)
+
 

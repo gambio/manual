@@ -11,5 +11,5 @@
 -   **[Label abrufen](7_4_23_5_LabelAbrufen.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

@@ -18,5 +18,5 @@ Das Modul Versandkosten berechnet im Shop die Versandkosten, die du unter Module
 |Versandkostenfrei nach Zonen|legt fest, ob die Versandkosten nur bei nationalen, nur bei internationalen oder bei allen Bestellungen erstattet werden|
 |Steuerklasse|eine Liste der konfigurierten Steuerklassen; die Gebühr wird anhand der gewählten Steuerklasse berechnet|
 
-**Parent topic:**[Gebühren](7_3_2_Gebuehren.md)
+
 

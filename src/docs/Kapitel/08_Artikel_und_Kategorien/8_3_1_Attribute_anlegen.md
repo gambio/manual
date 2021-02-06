@@ -22,5 +22,5 @@ Wahlweise kann über Durchsuchen ein Bild für den jeweiligen Optionswert hinter
 
 Klicke auf Einfügen um den neuen Optionswert anzulegen. Wiederhole den Vorgang für alle Optionswerte des neuen Attributs.
 
-**Parent topic:**[Artikelattribute](8_3_Artikelattribute.md)
+
 

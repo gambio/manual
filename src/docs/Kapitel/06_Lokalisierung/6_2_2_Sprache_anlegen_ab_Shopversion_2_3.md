@@ -103,5 +103,5 @@ CAUTION:
 
 Bei Änderungen an den Sprachen ist ein Leeren der Caches immer erforderlich. Anderenfalls kann es zu **Fehlermeldungen und fehlerhaften Darstellungen** im Shop kommen.
 
-**Parent topic:**[Sprachen](6_2_Sprachen.md)
+
 

@@ -9,5 +9,5 @@
 -   **[Attributverwaltung](8_3_3_Attributverwaltung.md)**  
 
 
-**Parent topic:**[Artikel & Kategorien](8_Artikel_UND_Kategorien.md)
+
 

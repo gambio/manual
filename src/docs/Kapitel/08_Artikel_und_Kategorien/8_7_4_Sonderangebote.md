@@ -27,5 +27,5 @@ Neue Sonderangebote kannst du im Gambio Admin deines Shops unter Artikel \> Sond
 
 7.  Klicke auf Speichern um das Sonderangebot hinzuzufügen
 
-**Parent topic:**[Rabatte & Sonderangebote](8_7_Rabatte_UND_Sonderangebote.md)
+
 

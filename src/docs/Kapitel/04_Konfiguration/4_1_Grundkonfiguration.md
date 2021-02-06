@@ -7,5 +7,5 @@ Nehme nach der Installation des Shopsystems die erstmalige Konfiguration des Sho
 -   **[Shop-Key](4_1_2_Shop_Key.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

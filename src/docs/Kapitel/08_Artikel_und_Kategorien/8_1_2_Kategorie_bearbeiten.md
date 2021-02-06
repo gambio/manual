@@ -6,5 +6,5 @@ Zum Bearbeiten von Kategorien, klicke in der Artikel- und Kategorieübersicht au
 
 Nimm die gewünschten Änderungen an den Konfigurationsfeldern der Kategorie vor. Eine Übersicht über die Bedeutung der Felder in der Kategorie-Eingabemaske findest du in der Tabelle Übersicht über die Kategorie-Eingabemaske.
 
-**Parent topic:**[Kategorien](8_1_Kategorien.md)
+
 

@@ -89,5 +89,5 @@ Auf Nicht-Linux/Unix Systemen sollte diese Einstellung ausgeschaltet sein.
 |Ausgeschlossene Zahlungsmodule|Nicht erlaubte Zahlungsweisen für Downloadartikel.|
 |Download-Bestellstatus|Bestellstatus für die Downloads freigegeben sind.|
 
-**Parent topic:**[Einstellungen](4_Einstellungen.md)
+
 

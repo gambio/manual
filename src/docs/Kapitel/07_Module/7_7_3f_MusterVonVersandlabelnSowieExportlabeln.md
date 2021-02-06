@@ -6,5 +6,5 @@
 
 ![](Bilder/GKV2_20180417_007.png "Exportlabel Seite 2")
 
-**Parent topic:**[Verwendung](7_7_3_Verwendung.md)
+
 

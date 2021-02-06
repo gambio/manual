@@ -7,5 +7,5 @@
 -   **[Gutschrift erstellen](13_4_2_Gutschrift_erstellen.md)**  
 
 
-**Parent topic:**[Bestellungen](13_Bestellungen.md)
+
 

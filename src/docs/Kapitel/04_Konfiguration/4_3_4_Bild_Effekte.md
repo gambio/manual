@@ -19,5 +19,5 @@ Das Shopsystem bietet verschiedene Funktionen an, mit denen du einen oder mehrer
 -   **[Motion-Blur \(Bewegungs-Effekt\)](4_3_4g_Motion_Blur_Bewegungs_Effekt.md)**  
 
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 

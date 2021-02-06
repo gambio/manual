@@ -15,5 +15,5 @@ Das Modul DHL Geschäftskundenversand \(GKV2\) ist ab Shopversion v3.5.x.x im Sh
 -   **[Sandbox-Modus](7_7_6_Sandbox_Modus.md)**  
 
 
-**Parent topic:**[Module](7_Module.md)
+
 

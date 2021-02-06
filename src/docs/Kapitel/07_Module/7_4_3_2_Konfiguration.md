@@ -7,5 +7,5 @@ Nach der Installation kann das Modul konfiguriert werden. Wähle hierzu unter Mo
 -   **[Empfangene Texte](7_4_3_2_2_EmpfangeneTexte.md)**  
 
 
-**Parent topic:**[IT-Recht Kanzlei](7_4_3_ItRechtKanzlei.md)
+
 

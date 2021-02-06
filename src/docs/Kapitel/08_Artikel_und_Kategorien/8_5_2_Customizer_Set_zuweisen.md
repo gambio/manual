@@ -14,5 +14,5 @@ Das Customizer Set kannst du deinem Artikel über die Artikel-Eingabemaske unter
 3.  Wähle aus der Liste GX-Customizer Set das gewünschte Customizer-Set aus
 4.  Klicke am Ende der Eingabemaske auf Speichern oder Aktualisieren, um die Änderungen am GX-Customizer Set zu speichern
 
-**Parent topic:**[GX-Customizer](8_5_GX_Customizer.md)
+
 

@@ -18,5 +18,5 @@ Die Adressprüfung dient zur Verfikation der eingebenen Adressen im Checkout.
 |Fehlermeldung|Meldung die dem Kunden im Checkout angezeigt wird, falls nicht korrekte Daten eingegeben wurden. Es muss eine Variable existieren, die ersetzt werden kann durch die Rückmeldung der Payone Plattform.|
 |Personenstatusmapping|Je nach Ergebnis der Adressprüfung in der Detailtiefe Person kann dem Ergebnis ein Ampelwert \(green, yellow, red\) zugeordnet werden. Dies hat in der Folge die Konsequenz, dass dem Kunden später bestimmte Zahlarten nicht zur Auswahl bereit stehen.|
 
-**Parent topic:**[Konfiguration](7_2_3_10_2_Konfiguration.md)
+
 

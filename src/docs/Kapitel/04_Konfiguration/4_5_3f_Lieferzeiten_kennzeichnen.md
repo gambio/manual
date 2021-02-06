@@ -8,5 +8,5 @@ Die Anzeige dieses Links kann unter Shop Einstellungen \> Lieferstatus für jede
 
 ![](Bilder/Abb037_EinstellenDesLinksAuslandAbweichend.PNG "Einstellen des Links Ausland abweichend")
 
-**Parent topic:**[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)
+
 

@@ -38,5 +38,5 @@ Es können automatisch Zahlungseingangsbestätigungen an den Kunden versendet we
 
 Beil Klick auf Verlauf öffnet sich eine Liste der Mails.
 
-**Parent topic:**[GiroConnect](7_2_3_GiroConnect.md)
+
 

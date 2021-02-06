@@ -137,5 +137,5 @@ Sind die Widgets platziert, können diese mit einem Klick auf das Bleistift-Symb
 
 Unterhalb der angezeigten Sektionen kann über einen Klick auf das in der Abbildung hervorgehobene Plus-Zeichen eine weitere Sektion hinzugefügt werden. Innerhalb der Spalten wird mit einem Klick auf das entsprechende Plus der Widget-Bereich des StyleEdits aufgerufen.
 
-**Parent topic:**[Theme mit StyleEdit 4 bearbeiten](10_3_5_ThemeBearbeiten.md)
+
 

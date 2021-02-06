@@ -10,5 +10,5 @@ Da der Gutscheinwert beim Kauf von Gutschein-Artikeln direkt dem Guthabenkonto d
 3.  Du erhältst eine E-Mail mit dem Gutschein-Code
 4.  Trage den Gutschein-Code auf deiner Gutscheinkarte ein
 
-**Parent topic:**[Gutscheine](11_1_Gutscheine.md)
+
 

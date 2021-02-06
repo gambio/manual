@@ -24,5 +24,5 @@ https://console.developers.google.com
 
 verwendet werden.
 
-**Parent topic:**[Konfiguration](7_4_5_2_Konfiguration.md)
+
 

@@ -41,5 +41,5 @@ Kundenkonten kannst du im Gambio Admin deines Shops unter Kunden \> Kunden von H
 
 **Note:** Die Trennung von Straße und Hausnummer kann unter Kunden \> Kunden im Reiter Kunden-Details an- und abgeschaltet werden. Ist die Trennung abgeschaltet, steht das Feld Hausnummer nicht zur Verfügung.
 
-**Parent topic:**[Kundenkonten verwalten](12_3_Kundenkonten_verwalten.md)
+
 

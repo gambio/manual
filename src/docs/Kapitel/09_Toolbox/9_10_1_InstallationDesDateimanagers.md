@@ -18,5 +18,5 @@ und du erhältst den Ordner auf dem FTP-Server.
 
 Der Dateinamanger kann unter Module \> Modul-Center installiert werden. Wähle hier den Eintrag Dateimanager aus und klicke unten rechts auf Installieren. Anschließend steht das Modul zur Verfügung und wird im Shop verwendet.
 
-**Parent topic:**[Dateimanager](9_10_Dateimanager.md)
+
 

@@ -78,5 +78,5 @@ Am unteren Ende des StyleEdits werden drei Schaltflächen angezeigt. Über Speic
 
 Mit einem Klick auf Zurück gelangst du wieder zur Auswahl der Styles. Wenn seit dem letzten Speichern Änderungen vorgenommen wurden, wird eine Sicherheitsabfrage angezeigt. Wenn du die Bearbeitung des Styles abbrechen möchtest, bestätige dies mit einem Klick auf Ja, alle Änderungen die seit dem letzten Speichern vorgenommen worden sind, gehen hierbei verloren. Mit einem Klick auf Nein wird die Aktion abgebrochen und du kehrst zur Bearbeitung des Styles zurück.
 
-**Parent topic:**[Template-Einstellungen](10_2_2_Template_Einstellungen.md)
+
 

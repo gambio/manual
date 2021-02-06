@@ -49,5 +49,5 @@ Rechts sind die Steuerungen
 -   Sprache wechseln
 -   über...
 
-**Parent topic:**[Dateimanager](9_10_Dateimanager.md)
+
 

@@ -41,5 +41,5 @@ Um eine Bilddatei für einen bestimmten Anwendungsfall einzurichten, bewege den 
 
 Über einen Klick auf das Mülltonen-Symbol in der grauen Titel-Leiste des Slides kann ein Slide gelöscht werden. Mit dem - bzw. + kann ein Slide minimiert bzw. wiederhergestellt werden.
 
-**Parent topic:**[Teaser-Slider](10_4_Teaser_Slider.md)
+
 

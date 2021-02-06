@@ -14,5 +14,5 @@ Wenn du ein neu angelegtes Land nicht mehr benötigst, kannst du es wieder aus d
 3.  Klicke auf Löschen
 4.  Klicke erneut auf Löschen, um das Löschen zu bestätigen
 
-**Parent topic:**[Länder](6_1_Laender.md)
+
 

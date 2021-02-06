@@ -16,5 +16,5 @@ So aktivierst du ein einzelnes Land zur Auswahl in Adressformularen:
 2.  Suche das gewünschte Land aus der Liste aus
 3.  Klicke auf das Kästchen in der Spalte Status, sodass dort ein Haken angezeigt wird.
 
-**Parent topic:**[Länder](6_1_Laender.md)
+
 

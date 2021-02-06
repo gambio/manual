@@ -15,5 +15,5 @@ Unter Shop Einstellungen \> SEO \> Meta-Angaben \> Meta-Titel Einstellungen kann
 
 **Note:** Die Meta-Informationen im Bereich Shop Einstellungen \> SEO werden nur für Seiten ohne eigene Meta-Angaben verwendet. Individuelle Meta-Einträge auf anderen Seiten haben Vorrang vor den allgemeinen Angaben.
 
-**Parent topic:**[Meta-Angaben](5_2_Meta_Angaben.md)
+
 

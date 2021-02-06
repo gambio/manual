@@ -42,5 +42,5 @@ Eine Liste der zugehörigen IDs kann über den Link Anzeigen aufgerufen werden. 
 |gültig ab|das Datum, ab dem der Kupon eingelöst werden kann \[aktuelles Datum\]|
 |gültig bis|das Datum, an dem der Kupon abläuft \[aktueller Tag im nächsten Jahr\]|
 
-**Parent topic:**[Rabatt Kupons](11_2_Rabatt_Kupons.md)
+
 

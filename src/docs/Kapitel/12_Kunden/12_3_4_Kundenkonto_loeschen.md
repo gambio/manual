@@ -12,5 +12,5 @@ Wenn ein Kunde im Shopbereich auf Kundenkonto löschen klickt, erhältst du eine
 
 **Note:** Wenn du ein Kundenkonto löscht, werden nur die Stammdaten des Kunden aus dem System gelöscht. Sämtliche Bestellungen und Artikelbewertungen des Kunden bleiben erhalten.
 
-**Parent topic:**[Kundenkonten verwalten](12_3_Kundenkonten_verwalten.md)
+
 

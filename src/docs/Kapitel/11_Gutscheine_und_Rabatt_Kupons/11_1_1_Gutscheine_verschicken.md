@@ -33,5 +33,5 @@ Der Gutschein-Empfänger erhält eine E-Mail mit dem gewählten Betreff. Die E-M
 
 **Note:** Der Gutschein-Empfänger kann den Gutschein-Code weitergeben, sodass ein anderer Kunde den Gutschein einlösen kann. Der Gutscheinwert wird dem Gutscheinkonto des einlösenden Kunden gutgeschrieben.
 
-**Parent topic:**[Gutscheine](11_1_Gutscheine.md)
+
 

@@ -14,5 +14,5 @@ sowie die letzte, aufgerufene URL. Unterhalb der Tabelle wird die Anzahl der der
 
 **Note:** Bei Kunden, die sich nicht im Shop angemeldet haben, wird als Name Guest und als ID 0 ausgegeben.
 
-**Parent topic:**[Statistiken](15_Statistiken.md)
+
 

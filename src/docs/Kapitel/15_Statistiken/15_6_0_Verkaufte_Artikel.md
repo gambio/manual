@@ -6,5 +6,5 @@ Hat der Kunde die Bestseller-Box aktiviert, so werden darin die Artikel aus dies
 
 Unter Shop Einstellungen \> Allgemeines \> Statistiken löschen kann diese Statistik gezielt gelöscht werden.
 
-**Parent topic:**[Statistiken](15_Statistiken.md)
+
 

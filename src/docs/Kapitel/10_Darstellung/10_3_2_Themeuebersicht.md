@@ -36,5 +36,5 @@ Wird ein Theme aktiviert, wird es im Shop verwendet. Der Shop ist also nach auß
 
 Mit einem Klick auf Bearbeiten wird das StyleEdit 4 aufgerufen und das jeweilige Theme kann darin bearbeitet werden.
 
-**Parent topic:**[StyleEdit 4 / Themes](10_3_StyleEdit4_Themes.md)
+
 

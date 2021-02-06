@@ -30,5 +30,5 @@ Diese beiden Punkte stellen sicher, dass die Links zu den Versandkosten-Informat
 
 Wenn du möchtest, kannst du auch das Versandgewicht im Warenkorb anzeigen lassen, wenn du diese Option aktivierst.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

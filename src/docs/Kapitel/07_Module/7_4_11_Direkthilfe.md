@@ -12,5 +12,5 @@ Die Installation kann im Gambio Admin unter Module \> Modul-Center vorgenommen w
 
 Die Konfiguration des Moduls beschränkt sich auf das An- und Abschalten der Direkthilfe. Wähle hierzu den Eintrag Direkthilfe unter Module \> Modul-Center aus und klicke auf die Schaltfläche Bearbeiten in der rechten, unteren Bildschirmecke. Setze bzw. entferne den Haken bei Aktiv um das Modul zu aktivieren, respektive zu deaktivieren.
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

@@ -20,5 +20,5 @@ Wenn du dir nicht sicher bist, in welchem Ordner auf deinem Server sich dein Sho
 
 Das Modul releva.nz ist nun unter Module \> Modul-Center zu finden und kann hier mit wenigen Mausklicks installiert werden. Wähle hierzu den Eintrag aus der Liste aus und klicke auf die Schaltfläche Installieren in der rechten, unteren Bildschirmecke. Über eine Klick auf Deinstallieren kann dieser Schritt wieder rückgängig gemacht werden.
 
-**Parent topic:**[releva.nz](7_4_24_relevanz.md)
+
 

@@ -11,5 +11,5 @@
 -   **[Google Analytics](8_9_4_GoogleAnalytics.md)**  
 
 
-**Parent topic:**[Artikel & Kategorien](8_Artikel_UND_Kategorien.md)
+
 

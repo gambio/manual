@@ -4,5 +4,5 @@
 -   In Cloud Shops ist das CleverReach-Modul standardmäßig enthalten.
 -   Voraussetzung für den Einsatz ist die Verwendung des Honeygrid-Templates oder Honeygrid-basierter Themes; dies umfasst auch das aktuelle Malibu Theme, das auf Honeygrid basiert.
 
-**Parent topic:**[CleverReach](7_4_25_CleverReach.md)
+
 

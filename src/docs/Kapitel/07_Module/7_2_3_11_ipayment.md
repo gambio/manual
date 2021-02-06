@@ -56,5 +56,5 @@ Nachdem das jeweilige Modul installiert und unter Module \> Zahlungsweisen \> So
 
 |
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

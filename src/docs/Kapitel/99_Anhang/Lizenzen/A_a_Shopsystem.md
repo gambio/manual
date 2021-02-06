@@ -8,5 +8,5 @@ Eine deutsche Übersetzung der Lizenz findest du unter:
 
 http://www.gambio.de/hinweise/gplgerman.html
 
-**Parent topic:**[Lizenzhinweise](A_Lizenzhinweise.md)
+
 

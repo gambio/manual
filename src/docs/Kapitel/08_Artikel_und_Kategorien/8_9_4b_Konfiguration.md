@@ -49,5 +49,5 @@ CAUTION:
 
 Im normalen Betrieb sollte der Entwickler-Modus unbedingt deaktiviert werden!
 
-**Parent topic:**[Google Analytics](8_9_4_GoogleAnalytics.md)
+
 

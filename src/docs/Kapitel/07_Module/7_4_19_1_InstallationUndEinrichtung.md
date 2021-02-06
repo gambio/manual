@@ -42,5 +42,5 @@ Erhält man die Rückmeldung, der eingegebene Code sei nicht korrekt, so kann di
 -   Der Code wurde erst Minuten nach dem Erstellen eingetippt und ist daher nicht mehr gültig
 -   Die Serverzeit weicht von der tatsächlichen Zeit ab, was im Ergebnis dem vorherigen Fall entspricht. Wende dich hier bitte an deinen Hosting-Anbieter, damit dieser die Serverzeit korrigieren kann.
 
-**Parent topic:**[Zwei-Faktor-Authentifizierung](7_4_19_ZweiFaktorAuthentifizierung.md)
+
 

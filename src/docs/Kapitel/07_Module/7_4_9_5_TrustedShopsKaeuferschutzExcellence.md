@@ -9,5 +9,5 @@ Aktuell kann der Excellence Käufterschutz noch nicht zusammen mit den Zahlungsw
 -   **[Darstellung von Käuferschutz Exellence im Bestellvorgang](7_4_9_5_2_Darstellung.md)**  
 
 
-**Parent topic:**[Trusted Shops](7_4_9_TrustedShops.md)
+
 

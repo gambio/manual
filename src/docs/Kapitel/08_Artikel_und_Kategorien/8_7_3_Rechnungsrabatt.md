@@ -18,5 +18,5 @@ Mit dem Rechnungsrabatt kannst du unter Kunden \> Kundengruppen einer Kundengrup
 
 **Note:** Vergib für eine neue Kundengruppe Stammkunde einen Rechnungsrabatt von 10 %. Der Kunde legt Artikel für 99 Euro in den Warenkorb und erhält einen Rabatt von 9,90 Euro auf den Bestellwert.
 
-**Parent topic:**[Rabatte & Sonderangebote](8_7_Rabatte_UND_Sonderangebote.md)
+
 

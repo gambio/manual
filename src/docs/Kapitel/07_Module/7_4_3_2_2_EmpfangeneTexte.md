@@ -13,5 +13,5 @@ Am Ende der Zeile wird für den jeweiligen Rechtstext der zugehörige Status inn
 |wird im Content Manager verwendet|Diese Meldung erscheint, wenn ein Text erfolgreich im Content hinterlegt wurde.|
 |HTML-Datei liegt nicht vor|In diesem Fall muss der API-Token und die Shop-URL bei IT-Recht Kanzlei erneut hinterlegt werden, damit die Daten nochmals übertragen werden können.|
 
-**Parent topic:**[Konfiguration](7_4_3_2_Konfiguration.md)
+
 

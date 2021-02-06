@@ -12,5 +12,5 @@ Das Apple Touch Icon kann unter Darstellung \> Logo Manager wie folgt eingericht
 
 Für Apple Touch Icons ist das PNG-Format vorgesehen. Die Bilddatei sollte quadratische Abmessungen haben.
 
-**Parent topic:**[Logo Manager](10_3_Logo_Manager.md)
+
 

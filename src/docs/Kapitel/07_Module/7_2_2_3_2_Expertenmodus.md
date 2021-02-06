@@ -20,5 +20,5 @@ Die Direkt zu PayPal-Buttons sind auf der Artikeldetailseite nur bei Artikeln oh
 |Rechenbeispiel in Ratenzahlungs-Info im Bestellvorgang|Wenn aktiv, werden statt eines allgemeinen Hinweises auf Ratenzahlung konkrete Rechenbeispiele im Bestellvorgang angezeigt.|
 |Rechenbeispiel für Ratenzahlung sofort anzeigen|Sollen die Ratenbeispiele direkt oder erst nach einem Klick auf den Hinweis angezeigt werden?|
 
-**Parent topic:**[Weitere Einstellungen](7_2_2_3_WeitereEinstellungen.md)
+
 

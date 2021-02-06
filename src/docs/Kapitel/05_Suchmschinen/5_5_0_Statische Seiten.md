@@ -22,5 +22,5 @@ Statische Seiten bezeichnet Teiles des Shops, die mit vordefiniertem Inhalt gef√
 -   **[Statische Seite erstellen](5_5_3_StatischeSeiteErstellen.md)**  
 
 
-**Parent topic:**[Suchmaschinen](5_Suchmaschinen.md)
+
 

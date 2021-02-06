@@ -7,5 +7,5 @@ In der Grundkonfiguration des Shopsystems ist die Live-Prüfung der Umsatzsteuer
 3.  Wähle aus den Listen Kundengruppe für USt-IdNr.-geprüfte Kunden die Kundengruppen für in- und ausländische Kunden aus
 4.  Klicke auf Speichern, um die Änderungen an der Umsatzsteuer-Prüfung zu speichern
 
-**Parent topic:**[Händlerkunden](12_2_Haendlerkunden.md)
+
 

@@ -8,5 +8,5 @@ Setze den Haken für Alle angezeigten Kategorien auswählen / Auswahl aufheben u
 
 Ist der Haken für Alle zuküftig angelegten Kategorien mit exportieren gesetzt, werden neu angelegte Kategorien automatisch für den Export hinzugefügt.
 
-**Parent topic:**[Google Shopping](8_9_2_GoogleShopping.md)
+
 

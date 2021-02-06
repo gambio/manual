@@ -13,5 +13,5 @@ Es gibt verschiedene Arten von Cookies, die je nach Zweck andere Funktionen erf�
 
 Im Reiter Kategorien können die Namen und Beschreibungstexte dieser Kategorien pro aktive Sprache angepasst werden. Klicke hierzu auf die jeweilige Landesflagge, nimm die Änderungen nach Bedarf vor und bestätige mit einem Klick auf Speichern am unteren Ende der Seite.
 
-**Parent topic:**[Bearbeiten](7_4_21_3_Bearbeiten.md)
+
 

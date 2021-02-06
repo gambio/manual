@@ -9,5 +9,5 @@ Kunden haben im Shop die Möglichkeit Artikel zu bewerten und zu kommentieren. B
 -   **[Rezensionen administrieren](12_6_3_Rezensionen_administrieren.md)**  
 
 
-**Parent topic:**[Kunden](12_Kunden.md)
+
 

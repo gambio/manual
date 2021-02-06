@@ -17,5 +17,5 @@ CAUTION:
 
 Beim Tracking werden Daten deiner Kunden aufgezeichnet. Gegebenenfalls sind beim Verwenden eines Trackings Änderungen an deinen Datenschutzbestimmungen nötig. Bitte wende dich dahingehend an deinen Rechtsberater.
 
-**Parent topic:**[Suchmaschinen](5_Suchmaschinen.md)
+
 

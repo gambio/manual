@@ -10,5 +10,5 @@ Das Flash Logo wird im Shopbereich an der Position des Shop Logos wie in der Abb
 4.  Aktiviere das Kontrollkästchen Datei verwenden
 5.  Klicke auf Speichern, um das neue Flash Logo zu verwenden
 
-**Parent topic:**[Logo Manager](10_3_Logo_Manager.md)
+
 

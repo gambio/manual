@@ -4,5 +4,5 @@ Eine direkte Gutschrift kann ohne Hilfsmittel, wie ein angebundenes Warenwirtsch
 
 **Note:** Das Gutscheinsystem unter Shop Einstellungen \> Zusatzmodule muss aktiviert sein, damit deine Kunden Gutschein-Codes im Shop einlösen können.
 
-**Parent topic:**[Bestellung rückabwickeln](13_4_Bestellungen_rueckabwickeln.md)
+
 

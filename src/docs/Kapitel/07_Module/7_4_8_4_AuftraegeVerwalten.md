@@ -35,5 +35,5 @@ Da die Konditionen von dem jeweiligen Vertrag abhängen, können die aufgeführt
 
 ![](Bilder/hermes/HE_20170615_011.png "Account-Infos")
 
-**Parent topic:**[Hermes](7_4_8_Hermes.md)
+
 

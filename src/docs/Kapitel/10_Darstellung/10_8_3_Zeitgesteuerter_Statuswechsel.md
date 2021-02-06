@@ -16,5 +16,5 @@ Mit einem Klick auf das Mülltonen-Symbol kann ein bestehender Vorgang gelöscht
 
 In der Zeile Status kann der jeweilige Status eines angelegten Vorgangs eingesehen werden. Bewege hierzu den Mauszeiger über das angezeigte Symbol, es wird eine entsprechende Meldung angezeigt.
 
-**Parent topic:**[Shop Online/Offline](10_8_Shop_Online_Offline.md)
+
 

@@ -9,5 +9,5 @@ Das Shopsystem verfügt in den Varianten GX2 \(ab 2.7.1.0\) und GX3 \(bis 3.3.3.
 
 ![](Bilder/Abb014_StyleEditv3UndStyleEdit.PNG "StyleEdit v3 und StyleEdit")
 
-**Parent topic:**[Bereiche des Shopsystems](3_Bereiche_des_Shopsystems.md)
+
 

@@ -21,5 +21,5 @@ Bestätige vorgenommene Einstellungen mit einem Klick auf Speichern. Über Zurü
 
 **Note:** Wenn du eine Zahlungsweise nicht mehr anbieten möchtest, kann diese auch durch Entfernen des Hakens Aktiviert aus dem Bestellvorgang entfernt werden.
 
-**Parent topic:**[Gambio Payment Hub](7_2_1_GambioPaymentHub.md)
+
 

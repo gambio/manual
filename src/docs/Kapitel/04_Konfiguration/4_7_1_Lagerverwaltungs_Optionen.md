@@ -25,5 +25,5 @@ Wenn Artikel inaktiv gesetzt werden sollen, müssen Überprüfen des Artikelbest
 
 Diese Funktion sollte nur in Verbindung mit Artikel inaktiv setzen verwendet werden, damit Artikel, die nicht mehr auf Lager sind, nicht angezeigt werden. Anderenfalls können Artikel, dessen Attribute nicht mehr auf Lager sind, ohne Attribute in den Warenkorb gelegt werden.
 
-**Parent topic:**[Lager- und Bestandseinstellungen](4_7_Lager_und_Bestandseinstellungen.md)
+
 

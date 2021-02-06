@@ -44,5 +44,5 @@ CAUTION:
 
 Je nach gewähltem Zahlungsmodul sind verschiedene Testaccounts/Testdaten notwendig, damit eine Testbestellung erfolgreich durchgeführt werden kann.
 
-**Parent topic:**[Sonstige](7_2_3_Sonstige.md)
+
 

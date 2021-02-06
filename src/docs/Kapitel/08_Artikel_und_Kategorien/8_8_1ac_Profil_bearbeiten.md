@@ -73,5 +73,5 @@ Wenn du Änderungen in einem Reiter vorgenommen hast und in einen anderen Reiter
 
 Für jeden Reiter kannst du die Änderungen mit Klick auf Speichern sichern. Mit Klick auf Schließen wird die Bearbeitung des Profils abgebrochen. Bei ungespeicherten Änderungen findet erneut eine Abfrage zum Verwerfen der Änderungen statt.
 
-**Parent topic:**[CSV-Artikelexport](8_8_1a_CSV_Artikel_Export.md)
+
 

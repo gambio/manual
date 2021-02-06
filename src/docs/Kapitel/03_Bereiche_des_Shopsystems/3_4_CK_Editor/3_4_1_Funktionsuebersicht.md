@@ -88,5 +88,5 @@ Die meisten Funktionen ähneln denen von herkömmlichen Textverarbeitungen, es g
 -   Maximieren: Editorfenster maximieren
 -   Blöcke anzeigen
 
-**Parent topic:**[CK-Editor](3_4_CK_Editor.md)
+
 

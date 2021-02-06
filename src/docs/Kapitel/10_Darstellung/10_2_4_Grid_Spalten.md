@@ -9,5 +9,5 @@ In der obenstehenden Abbildung werden 3 von 12 Grid-Spalten für die linke Spalt
 
 Wichtig bei der Einstellung ist, dass die Gesamtzahl der Grid-Spalten für alle Einstellungen in der **Summe** immer **12** ergeben müssen - dies entspricht 100% der Breite.
 
-**Parent topic:**[Honeygrid und StyleEdit v3](10_2_Honeygrid_und_StyleEdit_v3.md)
+
 

@@ -27,5 +27,5 @@ Trage diese Parameter unter Darstellung \> Bild-Optionen kommagetrennt in einfac
 -   Artikel-Info Bilder:Merge \(für die kleinen Artikel-Info-Bilder in der Artikeldetailseite\)
 -   Artikel-Popup Bilder:Merge \(für die großen Artikel-Bilder in der Artikeldetailseite\)
 
-**Parent topic:**[Bild-Optionen](4_3_Bild_Optionen.md)
+
 

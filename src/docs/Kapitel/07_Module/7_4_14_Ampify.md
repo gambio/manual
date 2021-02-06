@@ -14,5 +14,5 @@ Im Vergleich hier eine herkömmliche Produktseite \(links\) gegenüber einer Amp
 -   **[Einstellungen im Shop](7_4_14_3_EinstellungenImShop.md)**  
 
 
-**Parent topic:**[Modul-Center](7_4_Modul_Center.md)
+
 

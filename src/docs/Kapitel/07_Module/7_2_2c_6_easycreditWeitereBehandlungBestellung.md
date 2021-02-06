@@ -9,5 +9,5 @@ In den Bestelldetails der easyCredit-Bestellung findet sich nun ein Block mit Za
 
 Eine easyCredit-Bestellung kann nicht nachträglich bearbeitet und die Werte darin geändert werden!
 
-**Parent topic:**[easyCredit](7_2_2c_easycredit.md)
+
 

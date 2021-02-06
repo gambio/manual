@@ -9,5 +9,5 @@
 -   **[Verwalten von E-Mails](12_7_2_Verwalten_von_E_Mails.md)**  
 
 
-**Parent topic:**[Kunden](12_Kunden.md)
+
 

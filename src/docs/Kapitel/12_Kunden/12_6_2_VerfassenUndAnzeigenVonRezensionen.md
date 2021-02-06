@@ -6,5 +6,5 @@ Im Feld Ihre Meinung wird der Kommentar zum Artikel eingetragen. Bitte beachte, 
 
 Sobald eine Rezension verfasst wurde, wird diese im Artikel unterhalb der Artikelbeschreibung und der Tabs \(sofern vorhanden\) angezeigt.
 
-**Parent topic:**[Kundenrezensionen](12_6_Kundenrezensionen.md)
+
 

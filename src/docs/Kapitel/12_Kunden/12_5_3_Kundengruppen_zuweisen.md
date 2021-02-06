@@ -11,5 +11,5 @@ Bestehende Kundenkonten kannst du unter Kunden \> Kunden einer Kundengruppe zuwe
 3.  Wähle die gewünschte Kundengruppe aus, der der gewählte Kunde zugewiesen werden soll
 4.  Klicke auf Aktualisieren, um den Kunden der neuen Kundengruppe zuzuweisen
 
-**Parent topic:**[Kundengruppen](12_5_Kundengruppen.md)
+
 

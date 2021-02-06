@@ -6,5 +6,5 @@ CAUTION:
 
 Diese Auswahl wird nur dann angezeigt, wenn eine echte Auswahl aus verschiedenen Herstellern besteht. Das heißt, es müssen zum einen unter Artikel \> Hersteller verschiedene Hersteller angelegt worden sein und sich in der betreffenden Übersicht auch Artikel befinden, die verschiedenen Herstellern zugeordnet wurden. Gibt es nur Artikel eines Herstellers, erscheint diese Auswahl nicht.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

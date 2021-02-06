@@ -28,5 +28,5 @@ Unter Darstellung \> Template-Einstellungen befindet sich die Themeauswahl. Hier
 -   **[Allgemeine Template-Einstellungen](10_2_3i_AllgemeineTemplateEinstellungen.md)**  
 
 
-**Parent topic:**[Honeygrid und StyleEdit v3](10_2_Honeygrid_und_StyleEdit_v3.md)
+
 

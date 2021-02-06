@@ -80,5 +80,5 @@ CAUTION:
 
 Änderungen an dieser Stelle können dazu führen, dass wichtige Meldungen nicht mehr im Log verzeichnet werden.
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

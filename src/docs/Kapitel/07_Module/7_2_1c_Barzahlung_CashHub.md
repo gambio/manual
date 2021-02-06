@@ -25,5 +25,5 @@ Die Zahlungsweise steht im Bestellvorgang nur zur Verfügung, wenn Selbstabholun
 
 **Note:** Wenn du eine Zahlungsweise nicht mehr anbieten möchtest, kann diese auch durch Entfernen des Hakens Aktiviert aus dem Bestellvorgang entfernt werden.
 
-**Parent topic:**[Gambio Payment Hub](7_2_1_GambioPaymentHub.md)
+
 

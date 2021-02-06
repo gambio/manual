@@ -19,5 +19,5 @@ Artikel-Exporte zu Preisportalen können über den Reiter Preis-Portal vorgenomm
 -   **[Funktionen der Profilseite](8_8_1cf_Preis_Portal.md)**  
 
 
-**Parent topic:**[Export](8_8_1_Export.md)
+
 

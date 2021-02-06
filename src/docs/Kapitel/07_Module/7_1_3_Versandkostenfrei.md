@@ -15,5 +15,5 @@ Unter Module \> Zusammenfassung findest du das Modul Versandkosten. Bearbeite di
 
 Wenn du für das In- und Ausland jeweils einen unterschiedlichen Schwellenwert für kostenlose Lieferungen anbieten möchtest, kannst du beide Module kombinieren.
 
-**Parent topic:**[Versandarten](7_1_Versandarten.md)
+
 

@@ -13,5 +13,5 @@
 
 |
 
-**Parent topic:**[Einrichtung](7_4_9_2_Einrichtung.md)
+
 

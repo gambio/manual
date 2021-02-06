@@ -7,5 +7,5 @@
 -   **[Vorhandene Sprachen für Shopversion 2.3 umwandeln](6_2_3_Vorhadene_Sprachen_fuer_Shopversion_2_3_umwandeln.md)**  
 
 
-**Parent topic:**[Lokalisierung](6_Lokalisierung.md)
+
 

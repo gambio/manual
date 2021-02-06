@@ -30,5 +30,5 @@ Auf der Registerkarte Konfiguration im Abschnitt Bestellstatus und Rechnungsdatu
 
 Klicke nach vorgenommenen Änderungen auf Speichern, um die Änderungen für zukünftige Rechnungen zu übernehmen.
 
-**Parent topic:**[Rechnung & Lieferschein konfigurieren](13_6_Rechnung_UND_Lieferschein_konfigurieren.md)
+
 

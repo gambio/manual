@@ -70,5 +70,5 @@ Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzu
 
 Diese Einstellungen haben derzeit keine Funktion und werden in einer zukünftigen Version entfernt.
 
-**Parent topic:**[Bereiche](10_3_5_1_2_Bereiche.md)
+
 

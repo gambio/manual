@@ -63,5 +63,5 @@ Nimm die Eintragungen nach Bedarf vor. Mit einem Klick auf Speichern speicherst 
 
 ![](Bilder/Abb189_ContentManager_ArtikelinhalteAnzeigeArtikel.PNG "Artikelinhalte auf der Artikeldetailseite")
 
-**Parent topic:**[Content Manager](10_6_Content_Manager.md)
+
 

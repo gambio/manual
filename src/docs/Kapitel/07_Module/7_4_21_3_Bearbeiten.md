@@ -9,5 +9,5 @@
 -   **[Zwecke](7_4_21_3_3_Zwecke.md)**  
 
 
-**Parent topic:**[Cookie Consent-Panel](7_4_21_CookieConsent.md)
+
 

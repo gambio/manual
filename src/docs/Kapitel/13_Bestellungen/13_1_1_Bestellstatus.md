@@ -62,5 +62,5 @@ CAUTION:
 
 Lösche nur Bestellstatus, die keiner Bestellung zugewiesen sind. Bestellungen, deren Bestellstatus gelöscht wurde, werden in der Bestellübersicht nicht mehr angezeigt und sind nur noch über die Direktsuche aufrufbar.
 
-**Parent topic:**[Bestellungen abwickeln](13_1_Bestellungen_abwickeln.md)
+
 

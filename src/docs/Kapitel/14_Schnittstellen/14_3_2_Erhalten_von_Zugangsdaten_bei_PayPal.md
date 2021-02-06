@@ -32,5 +32,5 @@ Kopiere diese \(Client ID und Secret\) bitte in die Zugangsdaten-Felder des PayP
 
 Abgefragte Felder für Return URL, etc. können unbeachtet bleiben. Sie sind für die Funktion des Moduls nicht relevant. Die App feature options können auf Standardwerten belassen werden.
 
-**Parent topic:**[PayPal und PayPal Plus](14_3_PayPal_und_PayPal_Plus.md)
+
 

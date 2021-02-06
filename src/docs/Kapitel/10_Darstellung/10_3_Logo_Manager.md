@@ -21,5 +21,5 @@ Das Shopsystem verwendet verschiedene Logos. Die vom System verwendeten Logos ka
 -   **[Kategorie Icon](10_3_7_Kategorie_Icon.md)**  
 
 
-**Parent topic:**[Darstellung](10_Darstellung.md)
+
 

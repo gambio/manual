@@ -15,5 +15,5 @@
 -   **[Informationen des Zahlungsdienstleisters](7_2_2c_7_easycreditInformationenZahlungsdienstleister.md)**  
 
 
-**Parent topic:**[Gambio Payment Hub](7_2_1_GambioPaymentHub.md)
+
 

@@ -24,5 +24,5 @@ Der Text des Links im Footer kann bei Bedarf √ºber Toolbox \> Texte anpassen ge√
 ![](Bilder/cookie_consent/cookieconsent_shopansicht_cookieEinstellungen_preference.png "Anzeige des Cookie-Preference-Center nach Klick auf
       Cookie Einstellungen")
 
-**Parent topic:**[Cookie Consent-Panel](7_4_21_CookieConsent.md)
+
 

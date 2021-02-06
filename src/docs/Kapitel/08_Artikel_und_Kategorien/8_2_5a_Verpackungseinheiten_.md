@@ -106,5 +106,5 @@ Bei einem Verkaufspreis von 49 Cent errechnet sich der Grundpreis entsprechend:
 
 ![](Bilder/vpe/vpe_075_artikel_.png "Anzeige des Grundpreises auf der Artikeldetailseite")
 
-**Parent topic:**[Verpackungseinheiten & Mengeneinheiten](8_2_5_Verpackungseinheiten_UND_Mengeneinheiten.md)
+
 

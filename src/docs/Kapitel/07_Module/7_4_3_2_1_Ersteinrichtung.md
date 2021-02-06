@@ -32,5 +32,5 @@ Wird dieser Punkt aktiviert, wird der AGB-Text in die PDF-Rechnung übernommen. 
 
 Wird dieser Punkt aktiviert, wird der Widerrufstext in die PDF-Rechnung übernommen. Der Text von IT-Recht Kanzlei ersetzt dann den Text, der ggf. unter Shop Einstellungen \> Rechnung/Lieferschein im Tab Inhalt für AGB/Widerruf hinterlegt worden ist.
 
-**Parent topic:**[Konfiguration](7_4_3_2_Konfiguration.md)
+
 

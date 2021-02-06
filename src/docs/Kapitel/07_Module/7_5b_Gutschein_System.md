@@ -20,5 +20,5 @@ Das Feld Länge des Gutschein-Codes kann keinen eigenen Code aufnehmen, sondern 
 
 Bitte beachte ebenfalls den Höchstwert von 16.
 
-**Parent topic:**[Zusatzmodule](7_5_Zusatzmodule.md)
+
 

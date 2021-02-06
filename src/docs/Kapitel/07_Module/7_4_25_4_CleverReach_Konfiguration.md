@@ -5,5 +5,5 @@
 -   **[Konfigurationsseite](7_4_25_4_2_CleverReach_KonfigurationKonfigurationsseite.md)**  
 
 
-**Parent topic:**[CleverReach](7_4_25_CleverReach.md)
+
 

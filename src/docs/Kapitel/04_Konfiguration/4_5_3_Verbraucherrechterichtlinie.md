@@ -19,5 +19,5 @@ Das Vorhandensein der Bestandteile ist zur rechtlichen Absicherung deines Shops 
 -   **[Lieferzeiten kennzeichnen](4_5_3f_Lieferzeiten_kennzeichnen.md)**  
 
 
-**Parent topic:**[Rechtliche Einstellungen](4_5_Rechtliche_Einstellung.md)
+
 

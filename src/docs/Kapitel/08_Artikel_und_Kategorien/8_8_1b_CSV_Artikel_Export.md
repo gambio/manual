@@ -12,5 +12,5 @@ Hierbei ist zu beachten, dass beim Abbrechen die CSV-Datei eines teilweise vorge
 
 Über Cronjob-URL anzeigen wird die URL zum Ausführen des Exports angezeigt. Diese URL muss in einen neu eingerichteten Cronjob bei deinem Hosting-Provider eingetragen werden. Weitere Details zu den Einstellungen erhältst du, wenn du auf das grüne Info-Symbol am Ende der Cronjob-URL klickst.
 
-**Parent topic:**[CSV-Artikelexport](8_8_1a_CSV_Artikel_Export.md)
+
 

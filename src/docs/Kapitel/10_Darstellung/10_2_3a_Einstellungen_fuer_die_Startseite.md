@@ -9,5 +9,5 @@
 
 ![](Bilder/Abb157_ArtikelImSwiper.PNG "Artikel in einem Swiper")
 
-**Parent topic:**[Template Konfiguration](10_2_3_Template_Konfiguration.md)
+
 

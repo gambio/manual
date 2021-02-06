@@ -11,5 +11,5 @@ Die Kundengruppen Admin und Gast haben spezielle Aufgaben und verhalten sich ste
 3.  Nimm die gewünschten Änderungen anhand der Tabelle Übersicht über die Kundengruppen-Eingabemaske vor
 4.  Klicke auf Aktualisieren, um die Änderungen zu übernehmen
 
-**Parent topic:**[Kundengruppen](12_5_Kundengruppen.md)
+
 

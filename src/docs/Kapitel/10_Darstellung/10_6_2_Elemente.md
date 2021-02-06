@@ -74,5 +74,5 @@ Die Eingabemaske, welche beim Anlegen oder Bearbeiten eines Contents angezeigt w
 
 Nimm die Eintragungen nach Bedarf vor. Mit einem Klick auf Speichern speicherst du die Änderungen ab und verlässt die Eingabemaske. Über Aktualisieren werden die Änderungen gespeichert, ohne jedoch die Eingabemaske zu verlassen. Mit Zurück verlässt du die Eingabemaske, die zuletzt gemachten Änderungen werden verworfen.
 
-**Parent topic:**[Content Manager](10_6_Content_Manager.md)
+
 

@@ -11,5 +11,5 @@ Bei einer vorhandenen Bestellung kannst du die Kundendaten, wie die Versand- und
 4.  Ändere die Felder E-Mail, Telefon und USt-IdNr. bei Bedarf ab
 5.  Klicke auf Übernehmen, um die Änderungen an den Kundendaten zu speichern
 
-**Parent topic:**[Bestellung bearbeiten](13_3_Bestellung_bearbeiten.md)
+
 

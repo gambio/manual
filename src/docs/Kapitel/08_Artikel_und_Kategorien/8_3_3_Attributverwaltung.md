@@ -49,5 +49,5 @@ Hierbei werden die eingestellten Optionswert des Artikels aus dem unteren Dropdo
 
 Abschließend werden die Optionswerte des Ziel-Artikels nochmals angezeigt. Du hast so die Möglichkeit noch abschließende Änderungen vorzunehmen, diese müssen anschließend mit Klick auf Speichern bestätigt werden.
 
-**Parent topic:**[Artikelattribute](8_3_Artikelattribute.md)
+
 

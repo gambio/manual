@@ -4,5 +4,5 @@ Die Sonderangebote öffnen sich ebenfalls in einem separaten Fenster und können
 
 ![](Bilder/Abb136_Sonderangebote.png "Sonderangebote")
 
-**Parent topic:**[QuickEdit](8_10_QuickEdit.md)
+
 

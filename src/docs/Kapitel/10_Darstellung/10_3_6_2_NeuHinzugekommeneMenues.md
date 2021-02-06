@@ -399,5 +399,5 @@ DIe Einstellungen für die Produktseite ändern sich mit der Auswahl der Produkt
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
-**Parent topic:**[Bereiche und Einstellungen für das Malibu Theme](10_3_6_BereicheUndEinstellungenFuerDasMalibuTheme.md)
+
 

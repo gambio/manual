@@ -34,5 +34,5 @@ Hier kann der Nachnahme-Betrag manuell festgelegt werden. Bei Bestellungen über
 
 Die Absenderangaben werden automatisch mit den Werten befüllt, die zuvor im Modul selbst vorgenommen wurden. Änderungen sind jedoch möglich.
 
-**Parent topic:**[Hermes HSI](7_4_23_HermesHSI.md)
+
 

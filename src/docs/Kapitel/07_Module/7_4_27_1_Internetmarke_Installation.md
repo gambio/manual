@@ -6,5 +6,5 @@ Anschließend kann es unter Module \> Modul-Center ausgewählt und der Vorgang m
 
 In Cloud-Shops ist das Modul bereits enthalten und kann direkt unter Module \> Modul-Center installiert werden.
 
-**Parent topic:**[Internetmarke](7_4_27_Internetmarke.md)
+
 

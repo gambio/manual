@@ -13,5 +13,5 @@ Die Anzeige der Zahlungsweise Ratenzahlung Powered by PayPal im Bestellvorgang h
 
 Sollte die Zahlungsweise nicht angezeigt werden, prüfe bitte die oben genannten Punkte.
 
-**Parent topic:**[Ratenzahlung Powered by PayPal](14_4_RatenzahlungPoweredByPayPal.md)
+
 

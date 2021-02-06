@@ -169,5 +169,5 @@ Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzu
 |Hintergrundfarbe|Hintergrundfarbe des Ribbons|
 |Schriftfarbe|Schriftfarbe des Ribbons|
 
-**Parent topic:**[Bereiche](10_3_5_1_2_Bereiche.md)
+
 

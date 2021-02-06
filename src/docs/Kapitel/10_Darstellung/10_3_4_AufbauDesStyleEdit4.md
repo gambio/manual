@@ -51,5 +51,5 @@ Darunter befindet sich eine Leiste, in der die aktuelle Größe des angezeigten 
 -   Tablet Portrait
 -   Smartphone
 
-**Parent topic:**[StyleEdit 4 / Themes](10_3_StyleEdit4_Themes.md)
+
 

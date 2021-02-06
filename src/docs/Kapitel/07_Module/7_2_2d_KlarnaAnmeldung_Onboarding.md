@@ -46,5 +46,5 @@ Bis das Onboarding abgeschlossen ist, wird das Klarna Modul mit einem gelben Sta
 
 Erst wenn das Symbol grün dargestellt wird, erfolgen Auszahlungen seitens Klarna.
 
-**Parent topic:**[Gambio secured Payments - powered by Klarna](7_2_2_GambioSecuredPayments_poweredByKlarna.md)
+
 

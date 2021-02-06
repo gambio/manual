@@ -11,5 +11,5 @@ Die einzelnen Bereiche können über die Reiter Artikelexport, Preis-Portal und 
 -   **[Import](8_8_2_Import.md)**  
 
 
-**Parent topic:**[Artikel & Kategorien](8_Artikel_UND_Kategorien.md)
+
 

@@ -11,5 +11,5 @@ CAUTION:
 -   **[E-Mail Vorlagen](4_2_2_E_Mail_Vorlagen.md)**  
 
 
-**Parent topic:**[Konfiguration](4_Konfiguration.md)
+
 

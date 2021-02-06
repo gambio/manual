@@ -18,5 +18,5 @@ Der Vorgang kann als abgeschlossen gemeldet werden. Danach können keine weitere
 
 Die Zahlung wird normalerweise automatisch autorisiert, dies muss nur in Ausnahmefällen manuell erfolgen.
 
-**Parent topic:**[Bezahlen über Amazon \(amazonadvpay\)](7_2_4_BezahlenUeberAmazon.md)
+
 
