@@ -1,3 +1,5 @@
+# Allgemeine Hinweise
+
 !!! Info "Hinweis"
     Dieses Kapitel enthält Empfehlungen für die ersten Schritte mit deinem neuen Onlineshop. Diese Schritte sollten nach der Installation deines Shops durchgeführt werden. Diese Hinweise beziehen sich auf die detaillierteren Ausführungen aus den jeweiligen Kapiteln.
 
@@ -39,7 +41,7 @@ Sofern dein Server es zulässt, empfehlen wir, die Gambio SEO Boost URLs zu verw
     Installiere anschließend jeweils mindestens eine Versandart und ein Zahlungsmodul. Die Zahlungsweisen findest du im Gambio Admin unter Module \> Zahlungsweisen, die Versandarten unter Module \> Versandarten.
 
 !!! Info "Hinweis für Kleinunternehmer"
-   Aktiviere die Kleinunternehmer-Regelung, bevor du beginnst, Preise einzugeben. Die Kleinunternehmer-Regelung aktivierst du im Gambio Admin unter Shop Einstellungen \> Allgemeines sowie unter Module \> Zusammenfassung. Wähle anschließend bei allen Preisangaben den Standardsteuersatz aus.
+    Aktiviere die Kleinunternehmer-Regelung, bevor du beginnst, Preise einzugeben. Die Kleinunternehmer-Regelung aktivierst du im Gambio Admin unter Shop Einstellungen \> Allgemeines sowie unter Module \> Zusammenfassung. Wähle anschließend bei allen Preisangaben den Standardsteuersatz aus.
 
 !!! Info "Hinweis"
     Wenn du die Zahlung per PayPal anbieten möchtest, trage die API Daten, die du von PayPal erhältst, auf der Konfigurationsseite des Moduls ein. Gehe hierzu unter Module \> Zahlungsweisen, wähle das Modul PayPal und PayPal Plus aus und klicke auf die Schaltflächen Installieren\(sofern noch nicht geschehen\) und Konfiguration. Nähere Informationen zu den Zahlungsmodulen von Drittanbietern erhältst du beim jeweiligen Anbieter.
@@ -50,12 +52,14 @@ Sofern dein Server es zulässt, empfehlen wir, die Gambio SEO Boost URLs zu verw
 !!! Info "Hinweis"
     Kleinunternehmer sollten vor dem Anlegen von Artikeln die Kleinunternehmerregelung aktivieren.
 
-Wenn du deine Artikel mit dem Import Assistenten aus einem bestehenden Shop importierst, führe nun den Import aus. Wenn du das erste Mal einen Shop installierst, füge Kategorien und Artikel über die jeweiligen Eingabemasken hinzu.
+!!! Info "Hinweis"
+    Wenn du deine Artikel mit dem Import Assistenten aus einem bestehenden Shop importierst, führe nun den Import aus. Wenn du das erste Mal einen Shop installierst, füge Kategorien und Artikel über die jeweiligen Eingabemasken hinzu.
 
 !!! Info "Hinweis"
     Leere nach Änderungen an den Artikeln und Kategorien die jeweiligen Caches unter Toolbox \> Cache.
 
-Wenn du große Mengen von Artikeln einpflegen möchtest, zu denen du bereits eine Liste führst, verwende zum Einstellen von Artikeln und Kategorien die CSV Import-Schnittstelle. Der CSV Import ist auch beim Import von Artikeldaten von deinem Großhändler geeignet. Beachte, dass CSV Dateien von Dritten in der Regel an das von Gambio verwendete Format angepasst werden müssen.
+!!! Info "Hinweis"
+    Wenn du große Mengen von Artikeln einpflegen möchtest, zu denen du bereits eine Liste führst, verwende zum Einstellen von Artikeln und Kategorien die CSV Import-Schnittstelle. Der CSV Import ist auch beim Import von Artikeldaten von deinem Großhändler geeignet. Beachte, dass CSV Dateien von Dritten in der Regel an das von Gambio verwendete Format angepasst werden müssen.
 
 ## Rechtliches und Informationen {#rechliches_und_informationen}
 
@@ -92,7 +96,8 @@ Bitte beachte, dass vor der SSL Aktivierung bereits ein gültiges SSL-Zertifikat
 
     define\('HTTPS\_SERVER', 'https://www.meinshop.de'\);
 
-    **Note:** Bitte beachte, dass hier http durch https ersetzt wurde
+    !!! Info "Hinweis"
+        Bitte beachte, dass hier http durch https ersetzt wurde
 
     define\('ENABLE\_SSL', true\);
 
@@ -114,11 +119,13 @@ Bitte beachte, dass vor der SSL Aktivierung bereits ein gültiges SSL-Zertifikat
 
     define\('HTTP\_SERVER', 'https://www.meinshop.de'\);
 
-    **Note:** Bitte beachte, dass hier http durch https ersetzt wurde
+    !!! Info "Hinweis"
+        Bitte beachte, dass hier http durch https ersetzt wurde
 
     define\('HTTP\_CATALOG\_SERVER', 'https://www.meinshop.de'\);
 
-    **Note:** Bitte beachte, dass hier http durch https ersetzt wurde
+    !!! Info "Hinweis"
+        Bitte beachte, dass hier http durch https ersetzt wurde
 
     define\('HTTPS\_CATALOG\_SERVER', 'https://www.meinshop.de'\);
 
@@ -144,5 +151,6 @@ Teste abschließend alle relevanten Funktionen. Führe mit Testkunden aus jeder 
 
 Wenn du die Grundkonfiguration des Shops und das Einstellen von Artikeln abgeschlossen sowie das Layout angepasst hast, ist dein Shop bereit, im Internet veröffentlicht zu werden. Stelle den Shop unter Darstellung \> Shop online/offline wieder online und melde ihn in den gängigen Suchmaschinen an.
 
-Wenn du einen älteren Shop auf die aktuelle Shopversion aktualisiert hast, solltest du vor dem Onlinestellen den alten Shop ebenfalls offline stellen und zunächst die Shops wie in der Anleitung zum Import Assistenten beschrieben umstellen. Schalte den neuen Shop erst anschließend online.
+!!! Info "Hinweis"
+    Wenn du einen älteren Shop auf die aktuelle Shopversion aktualisiert hast, solltest du vor dem Onlinestellen den alten Shop ebenfalls offline stellen und zunächst die Shops wie in der Anleitung zum Import Assistenten beschrieben umstellen. Schalte den neuen Shop erst anschließend online.
 
