@@ -20,7 +20,7 @@ Die Reihenfolge der einzelnen Contens und Artikelzusammenstellzungen auf der Sta
 9.  Neue Artikel
 10. Index \(Unten\) \(ID 11\)
 
-!!! Info "Hinweis
+!!! Info "Hinweis"
 	 Contents bezeichnen Informationsseiten. Diese können unter Darstellung \> Content Manager bearbeitet oder neu angelegt werden \(siehe auch Kapitel Content Manager\).
 
 
