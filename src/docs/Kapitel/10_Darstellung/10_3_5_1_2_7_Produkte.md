@@ -23,7 +23,8 @@
 |Bild einfügen|Hintergrundbild des Artikelbildbereichs|
 |Farbverlauf einfügen|Farbverlauf als Hintergrund des Artikelbildbereichs|
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Der Artikelbildbereich legt fest, wie viel Platz dem jeweiligen Artikelbild zur Verfügung steht. Da bei der Änderung einer Dimension \(Höhe oder Breite\) die jeweils andere entsprechend skaliert wird, kann der Bildbereich nicht unbegrenzt vergrößert werden.
 
@@ -74,7 +75,8 @@ Produktlisten können sowohl Kategorien als auch andere Produktseiten sein, wie 
 |Breite der Galerie|Breite des Galeriebereichs der gekachelten Ansicht \(Mouseover/Hover\)|
 |Lieferzeit in Kachel immer anzeigen|Lieferzeit wird durchgängig angezeigt, nicht nur beim Mouseover|
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Hovern bzw. Flyover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken.
 
@@ -114,7 +116,8 @@ Hovern bzw. Flyover bezeichnet das Platzieren des Mauszeigers über ein Element,
 |Button Rahmenfarbe Hover|Rahmenfarbe der Buttons unterhalb des Warenkorb-Buttons beim Mouseover/Hover|
 |Preisbox mitscrollen|soll die Produktdetailbox mitscrollen?|
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken.
 

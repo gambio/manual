@@ -4,7 +4,8 @@ Artikelinhalte, auch Artikelcontents genannt, können einem Artikel als zusätzl
 
 ![](Bilder/Abb186_ContentManager_Artikelinhalte.PNG "Artikelinhalte im Content Manager")
 
-**Note:** Im Gegensatz zu Download-Artikeln ist das Herunterladen dieser Dateien immer möglich. Der Artikel muss hierzu nicht bestellt werden.
+!!! Info "Hinweis"
+	 Im Gegensatz zu Download-Artikeln ist das Herunterladen dieser Dateien immer möglich. Der Artikel muss hierzu nicht bestellt werden.
 
 ## Aktionen zu einem Artikelinhalt 
 
@@ -25,7 +26,8 @@ Bewege den Mauszeiger über das Mülltonnen-Symbol des zu löschenden Contents u
 -   Neue Datei: der Artikelcontent enthält eine Datei, die auf dem FTP-Server abgelegt wird
 -   Neuer Link: der Artikelcontent enthält einen Link auf das gewünschte Ziel
 
-**Note:** Es können aus Sicherheitsgründen keine Skriptdateien mit ausführbarem Programmcode über den Dateimanager hochgeladen werden.
+!!! Info "Hinweis"
+	 Es können aus Sicherheitsgründen keine Skriptdateien mit ausführbarem Programmcode über den Dateimanager hochgeladen werden.
 
 ## Eingabemaske 
 

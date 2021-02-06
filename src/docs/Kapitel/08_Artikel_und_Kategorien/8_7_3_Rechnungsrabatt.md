@@ -12,11 +12,14 @@ Mit dem Rechnungsrabatt kannst du unter Kunden \> Kundengruppen einer Kundengrup
 3.  Gib im Feld Rabattauf gesamte Bestellung den gewünschten Rechnungsrabatt für die Kundengruppe an
 4.  Klicke auf Aktualisieren, um die Änderungen zu speichern
 
-**Note:** Wenn ein Artikel einen Artikelrabatt besitzt und eine Kundengruppe sowohl den Artikelrabatt als auch den Rechnungsrabatt nutzen kann, dann werden beide Rabatte berücksichtigt.
+!!! Info "Hinweis"
+	 Wenn ein Artikel einen Artikelrabatt besitzt und eine Kundengruppe sowohl den Artikelrabatt als auch den Rechnungsrabatt nutzen kann, dann werden beide Rabatte berücksichtigt.
 
-**Note:** Damit eine Berechnung des Rechnungsrabattes im Bestellvorgang erfolgt, installiere unter Module \> Zusammenfassung das Modul Rabatt \(ot\_discount\).
+!!! Info "Hinweis"
+	 Damit eine Berechnung des Rechnungsrabattes im Bestellvorgang erfolgt, installiere unter Module \> Zusammenfassung das Modul Rabatt \(ot\_discount\).
 
-**Note:** Vergib für eine neue Kundengruppe Stammkunde einen Rechnungsrabatt von 10 %. Der Kunde legt Artikel für 99 Euro in den Warenkorb und erhält einen Rabatt von 9,90 Euro auf den Bestellwert.
+!!! Info "Hinweis"
+	 Vergib für eine neue Kundengruppe Stammkunde einen Rechnungsrabatt von 10 %. Der Kunde legt Artikel für 99 Euro in den Warenkorb und erhält einen Rabatt von 9,90 Euro auf den Bestellwert.
 
 
 

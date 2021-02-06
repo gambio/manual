@@ -1,6 +1,7 @@
 # Google Analytics 
 
-**Note:** Wurde Google Analytics bisher noch nicht verwendet, erfolgt die Aufforderung seitens Google, das E-Commerce-Tracking zu aktivieren. Diese Einstellung findest du in deinem Google Analytics-Konto unter dem Menüpunkt Verwaltung. Anschließend müssen Nutzerkonto und Property ausgewählt werden, dann kannst du in der dritten Spalte den Punkt E-Commerce-Einstellungen aktivieren und dort E-Commerce aktivieren auswählen.
+!!! Info "Hinweis"
+	 Wurde Google Analytics bisher noch nicht verwendet, erfolgt die Aufforderung seitens Google, das E-Commerce-Tracking zu aktivieren. Diese Einstellung findest du in deinem Google Analytics-Konto unter dem Menüpunkt Verwaltung. Anschließend müssen Nutzerkonto und Property ausgewählt werden, dann kannst du in der dritten Spalte den Punkt E-Commerce-Einstellungen aktivieren und dort E-Commerce aktivieren auswählen.
 
 ![](Bilder/Goo-20181018_013.png "Aufrufen von Verwaltung")
 

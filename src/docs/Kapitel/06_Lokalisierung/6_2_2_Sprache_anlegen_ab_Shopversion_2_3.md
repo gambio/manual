@@ -8,7 +8,8 @@ Das Shopsystem wird vollständig in Englisch und Deutsch lokalisiert ausgeliefer
 
 ![](Bilder/Abb055_VerzeichnisSpanishAufDemFTP_Server.png "Verzeichnis spanish auf dem FTP-Server")
 
-**Note:** Eine im Gambio Admin neu angelegte Sprache kann so lange nicht aktiviert werden, bis die Installation des Sprach-Verzeichnisses auf dem FTP-Server abgeschlossen ist. Ausstehende Dateien und Verzeichnisse werden mit einem entsprechenden Hinweis angezeigt.
+!!! Info "Hinweis"
+	 Eine im Gambio Admin neu angelegte Sprache kann so lange nicht aktiviert werden, bis die Installation des Sprach-Verzeichnisses auf dem FTP-Server abgeschlossen ist. Ausstehende Dateien und Verzeichnisse werden mit einem entsprechenden Hinweis angezeigt.
 
 Du hast beim Anlegen der Sprache im Gambio Admin folgende Einstellungsmöglichkeiten: Wähle zunächst ob du eine neue Sprache anlegen oder vohandene Sprache kopieren möchtest. Letzteres ist die vorgesehene Auswahl, da Datenbankinhalte der Quellsprache so übernommen werden. Stelle in diesem Fall unter Quellsprache die Sprache ein, aus der du die Inhalte kopieren möchtest \(Standard: Deutsch\).
 
@@ -65,7 +66,8 @@ ausgetauscht werden. Typische Größen sind
 -   icon.gif: 32x35 px \(sichtbar: 23x16 px\)
 -   /admin/images/icon.gif: 18x13px
 
-**Note:** Die standardmäßig im Gambio Admin verwendete icon.gif kann wahlweise auch durch eine Datei mit anderem Namen ersetzt werden. Der Dateiname kann hierbei beim Bearbeiten der Sprache unter Land/Steuer \> Sprachen bzw. Shop Einstellungen \> Land/Steuer \> Sprachen im Eingabefeld Symbol angepasst werden. Bitte beachte, dass diese Datei sowohl im Sprachverzeichnis, also z.B. /lang/spanish/ als auch im Unterordner /admin/images/ des Sprachverzeichnisses \(z.B. /lang/spanish/admin/images/\) hinterlegt werden muss.
+!!! Info "Hinweis"
+	 Die standardmäßig im Gambio Admin verwendete icon.gif kann wahlweise auch durch eine Datei mit anderem Namen ersetzt werden. Der Dateiname kann hierbei beim Bearbeiten der Sprache unter Land/Steuer \> Sprachen bzw. Shop Einstellungen \> Land/Steuer \> Sprachen im Eingabefeld Symbol angepasst werden. Bitte beachte, dass diese Datei sowohl im Sprachverzeichnis, also z.B. /lang/spanish/ als auch im Unterordner /admin/images/ des Sprachverzeichnisses \(z.B. /lang/spanish/admin/images/\) hinterlegt werden muss.
 
 ## Anpassungen und Übersetzungen für Zusatzmodule 
 

@@ -31,15 +31,11 @@ Der Header im Malibu unterscheidet sich in seiner Darstellung und Andordnung der
 
 ![](Bilder/MalibuShopansichtHeaderLokalisierungSprachauswahlWaehrungsauswahl.png "Ausgeklappte Lokalisierung")
 
-**Note:**
-
-Standardmäßig ist die Währungsauswahl abgeschaltet.
-
-![](Bilder/MalibuShopansichtHeaderLokalisierungSprachauswahl.png "Lokalisierung mit abgeschalteter Währungsauswahl")
-
-Unter Darstellung \> Template-Einstellungen kann der Haken für Währungsauswahl im Top-Menü aktivieren gesetzt werden, um die Währungsauswahl anzuzeigen.
-
-![](Bilder/MalibuShopansichtHeaderMeinKonto.png "Aufgeklapptes Konto-Dropdown nach dem Anmelden")
+!!! Info "Hinweis"
+    Standardmäßig ist die Währungsauswahl abgeschaltet.
+    ![](Bilder/MalibuShopansichtHeaderLokalisierungSprachauswahl.png "Lokalisierung mit abgeschalteter Währungsauswahl")
+    Unter Darstellung \> Template-Einstellungen kann der Haken für Währungsauswahl im Top-Menü aktivieren gesetzt werden, um die Währungsauswahl anzuzeigen.
+    ![](Bilder/MalibuShopansichtHeaderMeinKonto.png "Aufgeklapptes Konto-Dropdown nach dem Anmelden")
 
 
 

@@ -16,11 +16,13 @@ Die Versandkosten werden im Feld Versandkosten, beziehungsweise bei Versand nach
 |Zone \[1,...,n\] Versandkosten|Kommagetrennte Liste der Versandkosten für Zone \[1,...,n\] im Format GewichtBis:Kosten \(Beispiel: 4:2.5 =\> 2.50 EUR bis 4 kg\)|
 |Zone \[1,...,n\] Handling Gebühren|Handlinggebühren für den Versand in die Zone \[1,...,n\]|
 
-**Note:** Gewichtbasierte Versandmodule, die für bestimmte Transportunternehmen entwickelt wurden, enthalten spezielle Felder, die nur für dieses Unternehmen relevant sind. Informationen zu der Bedeutung der einzelnen Felder kannst du dem Angebot des Transportunternehmens entnehmen.
+!!! Info "Hinweis"
+	 Gewichtbasierte Versandmodule, die für bestimmte Transportunternehmen entwickelt wurden, enthalten spezielle Felder, die nur für dieses Unternehmen relevant sind. Informationen zu der Bedeutung der einzelnen Felder kannst du dem Angebot des Transportunternehmens entnehmen.
 
 ## Beispielhafte Konfiguration eines gewichtbasierten Moduls 
 
-**Note:** Alle aufgelisteten Versandkosten und Gewichtsangaben sind rein fiktiv und werden nur für dieses Beispiel verwendet.
+!!! Info "Hinweis"
+	 Alle aufgelisteten Versandkosten und Gewichtsangaben sind rein fiktiv und werden nur für dieses Beispiel verwendet.
 
 In diesem Beispiel gehen wir davon aus, du möchtest Waren in mehrere Länder versenden und die Kosten richten sich nach dem Versandgewicht. Zudem bestehen für verschiedene Länder verschiedene Versandkosten.
 
@@ -28,7 +30,8 @@ Hier bietet sich ein zonenbasiertes Modul an, wie etwa Unversicherter Versand \(
 
 Klicke auf Bearbeiten, um die Einstellungen für das Modul vorzunehmen. Wir gehen davon aus, dass neben Deutschland in die Schweiz, nach Österreich und Großbritannien versendet werden soll.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 |Deutschland:|Österreich:|
 |------------|-----------|
@@ -55,7 +58,8 @@ Bitte stelle sicher, dass alle Länder, in die du versenden möchtest, unter Sho
 
 Dann folgt das Verteilen der Länder auf die eigentlichen Versandzonen. Da wir für Österreich und die Schweiz identische Versandkosten annehmen, können beide Länder in eine Zone eingetragen werden. Zusammengefasst sieht dies folgendermaßen aus:
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Zone 1 Länder
 
@@ -71,7 +75,8 @@ GB
 
 Nun können die Versandkosten für jede Zone nach Gewicht gestaffelt werden:
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Zone 1 Versandkosten
 
@@ -87,7 +92,8 @@ Zone 3 Versandkosten
 
 In den Zonen 1 und 3 sind als letzte Staffel fiktive Obergrenzen angegeben, um die Vorgabe alles darüber abzudecken. Hierbei wird davon ausgegangen, dass 999999 Kilo Gewicht bei keiner Bestellung erreicht wird.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Die fiktive Staffelung kann auch verwendet werden, um pauschale Versandkosten für mehrere Zonen zu definieren. Hierbei wird eine Staffel mit dem fiktiven Wert angelegt:
 

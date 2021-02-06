@@ -12,7 +12,8 @@ Für das Rechnungs-Effekten verwendet werden \(z.B. bei Bildern im PNG-Format\),
 4.  Aktiviere das Kontrollkästchen Datei verwenden
 5.  Klicke auf Speichern, um das neue PDF Logo zu verwenden
 
-**Note:** Die maximale Breite für das PDF Logo beträgt 10,5 Zentimeter bei 72 dpi, abzüglich des unter Shop Einstellungen \> Rechnung/Lieferschein konfigurierten Abstands vom rechten Seitenrand. Die Höhe für das PDF Logo ist nicht begrenzt.
+!!! Info "Hinweis"
+	 Die maximale Breite für das PDF Logo beträgt 10,5 Zentimeter bei 72 dpi, abzüglich des unter Shop Einstellungen \> Rechnung/Lieferschein konfigurierten Abstands vom rechten Seitenrand. Die Höhe für das PDF Logo ist nicht begrenzt.
 
 
 

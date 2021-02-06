@@ -14,7 +14,8 @@ Wir empfehlen als Trennzeichen **\|** \(Pipe \(doppeltes Anführungszeichen\) zu
 
 Exporte und Importe sind auf die Dateiformate .csv bzw. .txt beschränkt. Hierbei muss immer der Zeichensatz UTF-8 ohne BOM \(BOM steht für Byte Order Mark\) verwendet werden. Der Einsatz anderer Zeichencodierungen kann zu Problemen beim Import oder fehlerhaften Einträgen in der Datenbank führen.
 
-**Note:** Beim Export von Artikeleigenschaften werden lediglich die Zuordnungen der Kombinationen zu den Artikeln durchgeführt. Durch den Import werden **keine neuen Eigenschaften** erzeugt. Diese müssen im Zielshop manuell angelegt und vorkonfiguriert werden.
+!!! Info "Hinweis"
+	 Beim Export von Artikeleigenschaften werden lediglich die Zuordnungen der Kombinationen zu den Artikeln durchgeführt. Durch den Import werden **keine neuen Eigenschaften** erzeugt. Diese müssen im Zielshop manuell angelegt und vorkonfiguriert werden.
 
 CAUTION:
 

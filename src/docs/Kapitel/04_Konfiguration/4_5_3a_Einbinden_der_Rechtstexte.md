@@ -12,14 +12,16 @@ Um deine Texte für das Widerrufsrecht zu hinterlegen, klicke bitte bei einem de
 
 Die Widerrufstexte können im Shop auch als PDF-Datei heruntergeladen werden. Im Normalfall werden diese Dateien im Shop aus den jeweiligen Inhalten der einzelnen Contents \(3889896 bis 3889899\) erzeugt. Alternativ kann jedoch auch eine separate Datei zu diesem Zweck hinterlegt werden. Diese Datei muss nicht zwingend im PDF-Format vorliegen. Beim Bearbeiten des Contents Widerrufsrecht & Muster-Widerrufsformular \(ID 3889895\) kann diese über Als Download in den Shop hochgeladen werden. Eine Datei, die hier eingestellt wurde, wird anstelle der automatisch generierten PDF zum Download bereitgestellt.
 
-**Note:** Im Gegensatz zu Texten kann für eine zu hinterlegende PDF-Datei auch der Content Widerrufsrecht & Muster-Widerrufsformular \(Gruppe 3889895\) verwendet werden. Dieser Content verfügt auch über eine zusätzliche Einstellungsoption für das Muster-Widerrufsformular.
+!!! Info "Hinweis"
+	 Im Gegensatz zu Texten kann für eine zu hinterlegende PDF-Datei auch der Content Widerrufsrecht & Muster-Widerrufsformular \(Gruppe 3889895\) verwendet werden. Dieser Content verfügt auch über eine zusätzliche Einstellungsoption für das Muster-Widerrufsformular.
 
 Der Shop enthält ein Muster-Widerrufsformular im PDF-Format. Allerdings besteht auch die Möglichkeit, diese Datei durch ein eigenes Formular zu ersetzen. Diese Einstellung kann unter Darstellung \> Content Manager im Content Widerrufsrecht & Muster-Widerrufsformular \(ID 3889895\) vorgenommen werden.
 
 ![](Bilder/Abb030_EinstellungZurAuswahlDesMusterWiderrufsfomularImContentWiderrufsrechtMusterWiderrufsformular.png "Einstellung zur Auswahl des Muster- Widerrufsformular im Content
       Widerrufsrecht & Muster- Widerrufsfomular")
 
-**Note:** Weitere Informationen zum Hochladen von Dateien findest du im Kapitel Verwenden des Dateimanagers.
+!!! Info "Hinweis"
+	 Weitere Informationen zum Hochladen von Dateien findest du im Kapitel Verwenden des Dateimanagers.
 
 Lade die Datei, wie bereits beschrieben, über Muster-Widerrufsformular in den Shop hoch.
 

@@ -38,7 +38,8 @@ https://wiki.selfhtml.org/wiki/Referenz:CSS/Eigenschaften/box-shadow
 |Description Font Size|Schriftgröße des Beschreibungstextes des Cookie Consent-Panels|
 |Description Font Family|Schriftart des Beschreibungstextes des Cookie Consent-Panels|
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 

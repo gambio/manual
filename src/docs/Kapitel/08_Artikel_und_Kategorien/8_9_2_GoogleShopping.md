@@ -2,7 +2,8 @@
 
 Über Google \> Google Shopping kannst du Google Shopping-Profile erstellen und diese verwalten.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Wenn du für deine Exporte zu Google Shopping bisher Export-Profile unter Import/Export \> Artikeldaten verwendet hast, so werden diese nicht für das Google Services Modul übernommen.
 

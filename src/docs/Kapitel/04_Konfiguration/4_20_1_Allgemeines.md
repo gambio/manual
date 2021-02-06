@@ -27,7 +27,8 @@ Die Informationen enthalten dabei keine personen- oder handelsbezogenen Daten. D
 -   Vorname kürzen: Es wird nur der erste Buchstaben des Vornamens und der Nachname angezeigt
 -   Nachname kürzen: Es wird der Vorname und nur der erste Buchstabe des Nachnamens angezeigt
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Bestehende Rezensionen bleiben in der Darstellung des Verfassers unverändert.
 

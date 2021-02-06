@@ -2,13 +2,15 @@
 
 In der Artikel- und Kategorieübersicht unter Artikel \> Artikel/Kategorien kannst du neue Kategorien über die Schaltfläche Erstellen \> Kategorie hinzufügen. Neue Kategorien werden immer in der Kategorie angelegt, die in der Übersicht aufgelistet wird. Im Listenfeld Gehe zu oberhalb der Artikel- und Kategorieliste wird dir die aktive Kategorie angezeigt.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Wechsele zunächst in die gewünschte Oberkategorie, wenn du Unterkategorien anlegen möchtest.
 
 ![](Bilder/Abb080_KategorieOeffnen.png "Kategorie öffnen")
 
-**Note:** Um in eine Kategorie zu wechseln, klicke auf das schwarze Ordnersymbol vor dem Kategorienamen, oder wähle die gewünschte Kategorie aus der Liste Gehe zu rechts in der Leiste am unteren Bildschirmrand aus.
+!!! Info "Hinweis"
+	 Um in eine Kategorie zu wechseln, klicke auf das schwarze Ordnersymbol vor dem Kategorienamen, oder wähle die gewünschte Kategorie aus der Liste Gehe zu rechts in der Leiste am unteren Bildschirmrand aus.
 
 ![](Bilder/Abb081_NeueKategorieHinzufuegen.png "Neue Kategorie hinzufügen")
 
@@ -19,9 +21,11 @@ In der Kategorie-Eingabemaske konfigurierst du die neue Kategorie.
 3.  Eine Übersicht über die Bedeutung der Felder in der Kategorie-Eingabemaske findest du in der Tabelle Übersicht über die Kategorie-Eingabemaske
 4.  Klicke auf Speichern, um die neue Kategorie anzulegen
 
-**Note:** Nach dem Hinzufügen einer Kategorie müssen die Caches für Artikel- und Kategoriezuordnungen, Modulinformationen und die Seitenausgabe unter Toolbox \> Cache gelöscht bzw. neu erzeugt werden.
+!!! Info "Hinweis"
+	 Nach dem Hinzufügen einer Kategorie müssen die Caches für Artikel- und Kategoriezuordnungen, Modulinformationen und die Seitenausgabe unter Toolbox \> Cache gelöscht bzw. neu erzeugt werden.
 
-**Note:** Alle Felder in der Eingabemaske sind optional und sollten nur verwendet werden, wenn die entsprechende Information zur Verfügung steht.
+!!! Info "Hinweis"
+	 Alle Felder in der Eingabemaske sind optional und sollten nur verwendet werden, wenn die entsprechende Information zur Verfügung steht.
 
 ![](Bilder/Abb082_KategorieEingabemaske.png "Kategorie-Eingabemaske")
 

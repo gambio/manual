@@ -36,7 +36,8 @@ Die Einstellung Gewerbetreibender-Status wurde mit dem Gambio GX2 Mwst-Update ei
 
 Beim Anlegen eines Kundenkontos ist es möglich anzugeben, ob der Kunde als Gewerbetreibender aufritt. Zudem kann der Standardwert für diese Einstellung festgelegt werden.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Bitte beachte, dass der Administrator immer wie ein Gewerbetreibender behandelt wird. Unabhängig von seinem ausgewählten Wohnort, sieht der Administrator immer die Mehrwertsteuer, die für das unter Shop Einstellungen \> Mein Shop ausgewählte Land des Shopbetreibers gilt.
 

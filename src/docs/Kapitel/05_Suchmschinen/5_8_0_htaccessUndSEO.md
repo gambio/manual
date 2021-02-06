@@ -2,7 +2,8 @@
 
 Aktuelle Shopversionen werden standardmäßig mit einer .htaccess-Datei im Hauptverzeichnis ausgeliefert. Über die .htaccess-Datei werden serverseitige Einstellungen vorgenommen. Die mitgelieferte Variante wird für verschiedene Shopfunktionen benötigt, darunter den Gambio SEO Boost.
 
-**Note:** In früheren Versionen war es notwendig die .htaccess-Datei aus dem Unterordner /gm/seo\_boost\_an/ zu kopieren. In Shops ab Version v3.5.1.0 ist dies nicht mehr erforderlich, da sich die Datei bereits vom Grundumfang her im Hauptverzeichnis befindet.
+!!! Info "Hinweis"
+	 In früheren Versionen war es notwendig die .htaccess-Datei aus dem Unterordner /gm/seo\_boost\_an/ zu kopieren. In Shops ab Version v3.5.1.0 ist dies nicht mehr erforderlich, da sich die Datei bereits vom Grundumfang her im Hauptverzeichnis befindet.
 
 Im Allgemeinen ist die Datei in ihrer unveränderten Form problemlos nutzbar. Jedoch kann es unter Umständen nötig sein eigene URL-Umleitungen anzulgen, die nicht über die shopinterne URL Rewrite-Funtktion realisiert werden können. In diesem Fall kann auf 301-Weiterleitungen zurückgegriffen werden.
 

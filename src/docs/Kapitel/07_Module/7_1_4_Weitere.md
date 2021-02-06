@@ -8,7 +8,8 @@ Im Artikel-Versandkosten-Modul werden die grundsätzlichen Versandkosten gewicht
 
 ![](Bilder/Abb063_ArtikelVesandkostenInDerArtikelEingabemaske.png "Artikel-Versandkosten in der Artikel-Eingabemaske")
 
-**Note:** Die Artikel-Versandkosten sollten nicht gemeinsam mit dem Zusammenfassungs-Modul Versandkostenzuschlag verwendet werden. Beide Module arbeiten mit dem Versandkosten- Feld der Artikel-Eingabemaske, die zusätzlichen Versandkosten werden bei gleichzeitiger Verwendung doppelt berechnet.
+!!! Info "Hinweis"
+	 Die Artikel-Versandkosten sollten nicht gemeinsam mit dem Zusammenfassungs-Modul Versandkostenzuschlag verwendet werden. Beide Module arbeiten mit dem Versandkosten- Feld der Artikel-Eingabemaske, die zusätzlichen Versandkosten werden bei gleichzeitiger Verwendung doppelt berechnet.
 
 CAUTION:
 
@@ -30,7 +31,8 @@ Um den Mindestversand zu gewährleisten, legen wir für Zone 1 Versandkosten mit
 
 Die Versandkosten pro Exemplar der verschiedenen Artikel und der eingetragenen Staffelung im Modul werden addiert. Als Beispiel folgende Bestellung:
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 |Artikel|Anzahl|Einzelversand|Gesamtversand|
 |-------|------|-------------|-------------|

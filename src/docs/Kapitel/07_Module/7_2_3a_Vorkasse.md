@@ -19,7 +19,8 @@ Bei der Zahlung per Vorkasse wird deinem Kunden nach dem Aufgeben der Bestellung
 |Anzeigereihenfolge|Reihenfolge, in der installierte Zahlungsmodule im Bestellprozess angezeigt werden \(je größer die Zahl, desto weiter unten wird das Modul angezeigt\); einmaliger Wert je Modul \[0\]|
 |Zahlbar an|Bankverbindung, an die die Überweisung zu richten ist|
 
-**Note:** Das Zahlungsmodul Vorkasse wendet sich vorrangig an Zahlungen aus dem Land, aus dem du deinen Shop betreibst. Wenn du die Zahlung per Vorkasse auch international anbieten möchtest, verwende zusätzlich das Modul EU-Standard Bank Transfer.
+!!! Info "Hinweis"
+	 Das Zahlungsmodul Vorkasse wendet sich vorrangig an Zahlungen aus dem Land, aus dem du deinen Shop betreibst. Wenn du die Zahlung per Vorkasse auch international anbieten möchtest, verwende zusätzlich das Modul EU-Standard Bank Transfer.
 
 ![](Bilder/Abb065_KonfigurationsmaskeEUStandardBankTrasnfer.png "Konfigurationsmaske EU-Standard Bank
       Transfer")

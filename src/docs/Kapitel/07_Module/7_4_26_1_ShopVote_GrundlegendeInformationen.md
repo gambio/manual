@@ -2,7 +2,8 @@
 
 Das ShopVote-Modul ist im Umfang der Cloud-Shops enthalten. Für selbst gehostete Shops mit Version 3.14.x bis 3.15.x steht das Modul bei Shopvote unter https://plugins.shopvote.de/shopvote-integrationsanleitung-fuer-gambio-gx3/ zum Download bereit.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Das Modul für Shopversionen von 3.0.x bis 3.12.x stammt nicht von Gambio, die Anleitung auf der Webseite von ShopVote bezieht sich auf das Modul von ShopVote.
 
@@ -12,7 +13,8 @@ Die folgenden Informationen beziehen sich ausschließlich auf das Modul von Gamb
 
 ## Installation 
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Die Schritte 1 und 2 sind nur bei Shops mit eigenem Hosting erforderlich. Betreibst du einen Cloud-Shop, kannst du direkt mit Schritt 3 beginnen, um das Modul zu installieren.
 

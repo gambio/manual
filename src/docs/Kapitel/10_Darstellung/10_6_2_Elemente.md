@@ -6,7 +6,8 @@ Elemente sind Bestandteile einer anderen Seite. Zu den Seiten, welche mehrere El
 
 Um die möglichen Aktionen für einen Content anzuzeigen, bewege zunächst den Mauszeiger in die jeweilige Zeile des Contents. Es werden mehrere Symbole angezeigt, diese sind von links nach rechts: Vorschau, Bearbeiten, Löschen. Klicke das jeweilige Symbol an, um eine Aktion auszuführen.
 
-**Note:** Bei vordefinierten Contents wird kein Löschen-Symbol angezeigt. Diese Contents können nicht entfernt werden, da der Shop diese benötigt.
+!!! Info "Hinweis"
+	 Bei vordefinierten Contents wird kein Löschen-Symbol angezeigt. Diese Contents können nicht entfernt werden, da der Shop diese benötigt.
 
 **Vorschau aufrufen**
 
@@ -31,7 +32,8 @@ Bewege den Mauszeiger über das Mülltonnen-Symbol des zu löschenden Contents u
 -   Widerruf - der Content wird als Bestandteil der Seite Widerrufsrecht & Muster-Widerrufsformular angezeigt
 -   Sonstige - der Content wird an einer anderen Stelle im Shop angezeigt
 
-**Note:** Standardmäßig sind die folgenden Contents im Bereich Sonstige angelegt:
+!!! Info "Hinweis"
+	 Standardmäßig sind die folgenden Contents im Bereich Sonstige angelegt:
 
 Bestellzusammenfassung Information - dieser Content wird auf der letzten Seite des Bestellvorgangs angezeigt, am unteren Ende, neben der Schaltfläche kostenpflichtig bestellen
 
@@ -44,7 +46,8 @@ Datenweitergabe an Transportunternehmen - dieser Content wird auf der Seite Vers
 -   Neue Inhaltsseite: eine normale Informationsseite, die Texte, Bilder, Tabellen und ähnliches enthalten kann
 -   Neue Skriptdatei: der Content enthält z.B. eine HTML- oder TXT-Datei, welche als Inhalt verwendet wird
 
-**Note:** Es können aus Sicherheitsgründen keine Skriptdateien mit ausführbarem Programmcode über den Dateimanager hochgeladen werden.
+!!! Info "Hinweis"
+	 Es können aus Sicherheitsgründen keine Skriptdateien mit ausführbarem Programmcode über den Dateimanager hochgeladen werden.
 
 ## Eingabemaske 
 

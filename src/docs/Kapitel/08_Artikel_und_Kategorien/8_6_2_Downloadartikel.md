@@ -28,13 +28,15 @@ Trage im Feld Lager einen fiktiven Lagerstand ein, dieser wird benötigt, damit 
 
 Im Dropdown-Menü unterhalb des Namens PDF-Download kannst du die vorher hochgeladene Datei auswählen.
 
-**Note:** Wenn die Datei nicht angezeigt wird, kann ein Problem mit dem Dateinamen vorliegen. Prüfe in diesem Fall, ob dieser Umlaute oder Sonderzeichen enthält und ändere diese entsprechend ab.
+!!! Info "Hinweis"
+	 Wenn die Datei nicht angezeigt wird, kann ein Problem mit dem Dateinamen vorliegen. Prüfe in diesem Fall, ob dieser Umlaute oder Sonderzeichen enthält und ändere diese entsprechend ab.
 
 Unter Mögl. Downloads wird hinterlegt, wie oft die Datei von einem Kunden heruntergeladen werden kann. Unter Downloadzeit \(Tage\) wird festgelegt, wie lange der Download-Link für den jeweiligen Kunden gültig ist. Beide Einträge müssen vorgenommen werden und größer als 0 sein, damit die Datei vom Kunden heruntergeladen werden kann.
 
 Der Download-Link wird für den Kunden verfügbar, sodass er den Artikel in seinem Konto herunterladen kann, wenn ein bestimmter Bestellstatus erreicht wurde. Diesen kannst du selber unter Shop Einstellungen \> Download-Optionen im Bereich Download-Bestellstatus festlegen. Du kannst wahlweise einen \(oder mehrere\) bestehende\(n\) Bestellstatus verwenden oder einen neuen Status \(z.B. Download erlaubt\) unter Bestellungen \> Bestellstatus zu diesem Zweck anlegen.
 
-**Note:** Über die Einstellung Download Zahlungsmodule unter Shop Einstellungen \> Download-Optionen kannst du festlegen, welche Zahlungsweisen bei Download-Artikeln nicht verwendet werden dürfen. Standardmäßig sind hier die Module banktransfer, cod, invoice und moneyorder eingetragen.
+!!! Info "Hinweis"
+	 Über die Einstellung Download Zahlungsmodule unter Shop Einstellungen \> Download-Optionen kannst du festlegen, welche Zahlungsweisen bei Download-Artikeln nicht verwendet werden dürfen. Standardmäßig sind hier die Module banktransfer, cod, invoice und moneyorder eingetragen.
 
 CAUTION:
 

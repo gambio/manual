@@ -21,11 +21,13 @@
 |Bild einfügen|Hintergrundbild der Sekundärnavigationsleiste|
 |Farbverlauf einfügen|Farbverlauf als Hintergrund der Sekundärnavigationsleiste|
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Sticky bezeichnet die reduzierte Form des Headers, die verwendet wird, wenn mit fixierter Kopfzeile nach unten gescrollt wird.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
@@ -62,7 +64,8 @@ Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzu
 |Farbverlauf einfügen|Farbverlauf als Hintergrund der Menüeinträge der Sekundärnavigation beim Ausklappen eines Dropdowns|
 |Link Abstand|innerer Abstand des Textes nach oben und unten bzw. links und rechts zum Rand des Buttons, vorbelegt mit 6px 15px|
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 

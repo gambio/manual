@@ -48,7 +48,8 @@ img-responsive
 
 Bestätige die Änderung mit Klick auf OK und speichere den jeweiligen Bereich \(Artikel, Kategorie, Content\) ab, um diese im Shop zu verwenden.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 **Bilder nebeneinander anzeigen**
 

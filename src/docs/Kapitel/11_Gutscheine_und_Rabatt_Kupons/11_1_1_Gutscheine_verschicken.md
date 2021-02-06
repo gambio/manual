@@ -8,7 +8,8 @@ Das Shopsystem kann neuen Kunden mit der Registrierungsbestätigung einen Willko
 
 Trage den gewünschten Willkommens-Gutscheinwert unter Shop Einstellungen \> Zusatzmodule in das Feld Willkommens-Geschenk Gutscheinwert ein.
 
-**Note:** Wenn du sowohl einen Willkommens-Gutschein als auch einen Willkommens-Rabatt Kupon einrichtest, wird dem Kunden bei der Registrierung ein Gutschein-Code und ein Rabatt Kupon-Code zugeschickt.
+!!! Info "Hinweis"
+	 Wenn du sowohl einen Willkommens-Gutschein als auch einen Willkommens-Rabatt Kupon einrichtest, wird dem Kunden bei der Registrierung ein Gutschein-Code und ein Rabatt Kupon-Code zugeschickt.
 
 ## Gutschein E-Mail 
 
@@ -31,7 +32,8 @@ Der Gutschein-Empfänger erhält eine E-Mail mit dem gewählten Betreff. Die E-M
 
 ![](Bilder/Abb154_BestaetigungsseiteFuerGutscheinEMails.png "Bestätigungsseite für Gutschein E-Mails")
 
-**Note:** Der Gutschein-Empfänger kann den Gutschein-Code weitergeben, sodass ein anderer Kunde den Gutschein einlösen kann. Der Gutscheinwert wird dem Gutscheinkonto des einlösenden Kunden gutgeschrieben.
+!!! Info "Hinweis"
+	 Der Gutschein-Empfänger kann den Gutschein-Code weitergeben, sodass ein anderer Kunde den Gutschein einlösen kann. Der Gutscheinwert wird dem Gutscheinkonto des einlösenden Kunden gutgeschrieben.
 
 
 

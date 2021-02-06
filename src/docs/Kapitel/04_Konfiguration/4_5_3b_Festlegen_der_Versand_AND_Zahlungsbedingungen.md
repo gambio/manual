@@ -16,7 +16,8 @@ Um diesen Inhalt für deinen Shop zu erzeugen, öffne Darstellung \> Content Man
 
 Im ersten Schritt werden die Versandländer bestätigt. Diese werden in alphabetischer Reihenfolge mit ihrem jeweiligen Status aufgelistet. Mit Hilfe des Hakens, der für das Feld Nur Länder anzeigen, die im Shop aktiv sind gesetzt werden kann, lässt sich die Auswahl entsprechend einschränken. Aktiviere bzw. deaktiviere die Länder, indem du den zugehörigen Haken in der Spalte Status setzt respektive entfernst, um die Zusammenstellung deiner Versandländer festzulegen.
 
-**Note:** Die für den Versand aktivierten und für die Matrix aktivierten Länder sind unabhängig voneinander. Die in der Matrix als aktiviert angezeigten Länder müssen also nicht zwangsläufig unter Shop Einstellungen \> Land/Steuer \> Länder aktiviert sein. Änderungen in einem Bereich haben keine Auswirkungen auf den anderen Bereich.
+!!! Info "Hinweis"
+	 Die für den Versand aktivierten und für die Matrix aktivierten Länder sind unabhängig voneinander. Die in der Matrix als aktiviert angezeigten Länder müssen also nicht zwangsläufig unter Shop Einstellungen \> Land/Steuer \> Länder aktiviert sein. Änderungen in einem Bereich haben keine Auswirkungen auf den anderen Bereich.
 
 Mit Klick auf Weiter wird die Auswahl bestätigt und die Ansicht wechselt zu den Eingabebereichen der Matrix.
 

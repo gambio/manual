@@ -8,7 +8,8 @@ Um einen zeitgesteuerten Vorgang festzulegen trage bitte in das Eingabefeld Name
 
 Welche Aktion durchgeführt werden soll, kann über die Checkboxen in den Spalten Offline schalten, Top-Bar und Pop-Up festgelegt werden. Setze hier jeweils die Einstellung, um die Funktion zu aktivieren bzw. entferne sie, um die Funktion wieder zu deaktivieren. Über das Bleistift-Symbol wird für den automatisierten Vorgang jeweils ein eigener Text festgelegt. Mit Klick auf Hinzufügen wird der Vorgang angelegt.
 
-**Note:** Lieferstatus und Artikelstatus können ebenfalls zeitgesteuert angepasst werden. Weitere Informationen hierzu findest du im Kapitel Timer.
+!!! Info "Hinweis"
+	 Lieferstatus und Artikelstatus können ebenfalls zeitgesteuert angepasst werden. Weitere Informationen hierzu findest du im Kapitel Timer.
 
 Über das Bleistift-Symbol kann ein bestehender Vorgang bearbeitet werden. Nimm die gewünschten Änderungen vor und klicke auf Speichern, um diese zu übernehmen. Mit Klick auf Abbrechen gelangst du zurück, ohne die Änderungen zu speichern.
 

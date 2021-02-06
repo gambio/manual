@@ -1,6 +1,7 @@
 # Rechnung & Lieferschein 
 
-**Note:** Die Optionen für Rechnung und Lieferschein stehen nur in Verbindung mit dem PDFCreator-Zusatzmodul zur Verfügung, das separat installiert werden muss. Die notwendigen Schritte sind in der Installationsanleitung beschrieben.
+!!! Info "Hinweis"
+	 Die Optionen für Rechnung und Lieferschein stehen nur in Verbindung mit dem PDFCreator-Zusatzmodul zur Verfügung, das separat installiert werden muss. Die notwendigen Schritte sind in der Installationsanleitung beschrieben.
 
 Die Rechnung und den Lieferschein zu einer Bestellung kannst du auf der Detailseite der Bestellung im Gambio Admin deines Shops unter Bestellungen \> Bestellungen erzeugen. Eine Anleitung zur Konfiguration von Rechnung und Lieferschein findest du im Kapitel Rechnung & Lieferschein konfigurieren.
 

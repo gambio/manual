@@ -35,7 +35,8 @@
 
 ## E-Mail Rechnungsadressen 
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Dieser Bereich betrifft das sogenannte Verrechnungsystem des Shops. Hierüber werden zum Beispiel Bestellbestätigungen oder Bestellstatus-Änderungen versendet.
 
@@ -50,7 +51,8 @@ Dieser Bereich betrifft das sogenannte Verrechnungsystem des Shops. Hierüber we
 
 ## E-Mail Supportadressen 
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden zum Beispiel Kontoerstellungsmails oder Bestätigugnsmails für Passwortänderungen versendet.
 
@@ -107,7 +109,8 @@ Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden
 |Art der Sicherheitsabfrage|-   Standard: wird shopseitig generiert; es wird ein Buchstaben- und Zahlencode in einem Bild aus Linien angezeigt, der vom Kunden eingegeben werden muss
 -   reCAPTCHA v2: ist eine andere, sicherere Form der Sicherheitsabfrage und kann von Bots nicht so leicht überwunden werden, stellt also einen besseren Schutz gegen Spam dar.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Damit du dich an reCaptcha v2 beteiligen kannst, musst du dich dafür anmelden. Dies kannst du unter https://developers.google.com/recaptcha/ tun. Public Key und Private Key erhältst du nach der Anmeldung für reCaptcha v2. Gebe diese dann im Sicherheitscenter im Shop ein. Den API-Key kannst du auch unter folgendem Link erhalten, wenn du dich schon für reCAPTCHA v2 angemeldet hast: https://www.google.com/recaptcha/admin/create Bitte beachte, dass dies keine Auswirkungen auf den Spam über das Widerrufsformular haben wird. Das Widerrufsformular darf keine Sicherheitsabfrage enthalten, somit wird auch das reCAPTCHA v2 dort nicht angezeigt.
 

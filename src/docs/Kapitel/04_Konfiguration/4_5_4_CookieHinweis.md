@@ -2,7 +2,8 @@
 
 Der Cookie Hinweis kann unter Shop Einstellungen \> Rechtliches über den Reiter Cookie Hinweis konfiguriert werden. Der Hinweis erscheint beim ersten Aufruf des Shops und kann durch den Kunden bestätigt oder \(je nach Konfiguration\) geschlossen werden. Zur Bestätigung des Hinweises wird ein eigener Button angezeigt, dessen Beschriftung du frei festlegen kannst.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Wenn eine andere Seite des Shops oder die Startseite nochmals geladen wird, erfolgt keine erneute Anzeige des Cookie Hinweises.
 
@@ -31,7 +32,8 @@ Folgende Einstellungen sind sprachabhängig. Klicke eine der Landesflaggen an, u
 -   Button-Link: Link der beim Anklicken des Buttons aufgerufen werden kann
 -   Inhalt: Hier kann der Text für den Cookie Hinweis hinterlegt werden
 
-**Note:** Eine Übersicht über die einzelnen Schaltflächen des Editor-Fensters findest du im Kapitel CK-Editor unter Funktionsübersicht
+!!! Info "Hinweis"
+	 Eine Übersicht über die einzelnen Schaltflächen des Editor-Fensters findest du im Kapitel CK-Editor unter Funktionsübersicht
 
 Bestätige alle gemachten Änderungen mit Klick auf Speichern.
 

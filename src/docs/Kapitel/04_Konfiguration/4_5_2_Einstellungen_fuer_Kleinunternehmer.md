@@ -8,7 +8,8 @@ Kleinunternehmer führen in Deutschland unter bestimmten Voraussetzungen keine U
 
 Bei Artikelpreisen und zukünftigen Bestellungen wird anstatt der Umsatzsteuer ein Hinweis angezeigt, dass die Steuer aufgrund der Kleinunternehmerregelung nicht ausgewiesen wird.
 
-**Note:** Wähle beim Einstellen von Artikeln auf der Artikel-Detailseite aus der Liste Steuersatz den regulären Steuersatz für deine Artikel aus. Wenn die Voraussetzungen nicht mehr erfüllt werden, müssen dadurch nicht alle Artikelpreise neu angelegt werden.
+!!! Info "Hinweis"
+	 Wähle beim Einstellen von Artikeln auf der Artikel-Detailseite aus der Liste Steuersatz den regulären Steuersatz für deine Artikel aus. Wenn die Voraussetzungen nicht mehr erfüllt werden, müssen dadurch nicht alle Artikelpreise neu angelegt werden.
 
 
 

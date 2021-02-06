@@ -2,7 +2,8 @@
 
 Verbinde dein FTP unter /Shopsystem/Dateien/
 
-**Note:** Wenn dir die .htaccess-Datei nicht angezeigt wird, ist dein FTP-Programm gegebenenfalls so konfiguriert, dass unsichtbare Dateien ausgeblendet werden. Wie du die Funktion deaktivieren kannst, erfährst du beim Hersteller deines FTP-Programms. Wenn die Datei auch mit der aktivierten Darstellung unsichtbarer Dateien nicht angezeigt werden kann, lade die Datei aus dem entsprechenden Verzeichnis von der Installations-CD oder dem Installation-Archiv in das Hauptverzeichnis deines Shops auf deinen FTP-Server hoch.
+!!! Info "Hinweis"
+	 Wenn dir die .htaccess-Datei nicht angezeigt wird, ist dein FTP-Programm gegebenenfalls so konfiguriert, dass unsichtbare Dateien ausgeblendet werden. Wie du die Funktion deaktivieren kannst, erfährst du beim Hersteller deines FTP-Programms. Wenn die Datei auch mit der aktivierten Darstellung unsichtbarer Dateien nicht angezeigt werden kann, lade die Datei aus dem entsprechenden Verzeichnis von der Installations-CD oder dem Installation-Archiv in das Hauptverzeichnis deines Shops auf deinen FTP-Server hoch.
 
 ![](Bilder/Abb007_SEO_Boost_aktivieren.png "Gambio SEO Boost Einstellungen")
 

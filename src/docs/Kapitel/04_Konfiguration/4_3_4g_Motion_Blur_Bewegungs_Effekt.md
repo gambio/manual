@@ -11,7 +11,8 @@ Beispiel: \(4,FFFFFF\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Motion-Blur beim gewünschten Bildtyp ein.
 
-**Note:** Die Änderungen an den Bild-Effekten werden nur für über die Artikel-Eingabemaske neu hochgeladene Artikelbilder übernommen. Wenn die Änderungen auch auf bereits vorhandene Artikelbilder angewendet werden sollen, führe anschließend die Stapelverarbeitung für Bildbearbeitung unter Darstellung \> Bild-Optionen \> Image Processing aus.
+!!! Info "Hinweis"
+	 Die Änderungen an den Bild-Effekten werden nur für über die Artikel-Eingabemaske neu hochgeladene Artikelbilder übernommen. Wenn die Änderungen auch auf bereits vorhandene Artikelbilder angewendet werden sollen, führe anschließend die Stapelverarbeitung für Bildbearbeitung unter Darstellung \> Bild-Optionen \> Image Processing aus.
 
 
 

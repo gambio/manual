@@ -28,7 +28,8 @@ Damit die Label mit den nötigen Angaben erstellt werden können, musst du hier 
 
 Wenn du häufig bestimmte Kartongrößen verwendest, so kannst du die Abmessungen dafür hier eintragen. So muss diese bei der Labelerstellung dann nur noch ausgewählt werden, statt die Maße manuell eintragen zu müssen.
 
-**Note:**
+!!! Info "Hinweis"
+	
 
 Die vorausgefüllten Werte dienen nur der Illustration.
 
