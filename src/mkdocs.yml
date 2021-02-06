@@ -57,4 +57,4 @@ markdown_extensions:
 plugins:
   - search:
       lang: de
-      separator: '[\s]+'
+      separator: '[\s\-\.]+'
