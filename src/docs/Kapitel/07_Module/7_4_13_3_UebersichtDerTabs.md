@@ -1,4 +1,4 @@
-# Übersicht der Tabs {#mailbeez_uebersicht_der_tabs}
+# Übersicht der Tabs 
 
 ## 1. Tab { .section}
 

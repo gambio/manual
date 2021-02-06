@@ -1,4 +1,4 @@
-# Kombinationsübersicht {#artikeleigenschaften_kombinationsuebersicht}
+# Kombinationsübersicht 
 
 ## Aufruf der Kombinationsübersicht aus der Artikelübersicht { .section}
 

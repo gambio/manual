@@ -1,4 +1,4 @@
-# Verwalten der Widerrufe im Gambio Admin {#verwalten_der_widerrufe_im_gambio_admin}
+# Verwalten der Widerrufe im Gambio Admin 
 
 Unter Bestellungen \> Widerrufe werden die eingegangenen Widerrufe nach Datum absteigend sortiert aufgelistet. Über einen Klick auf die Schaltfläche Bearbeiten lassen sich die Details zum ausgewählten Widerruf anzeigen.
 

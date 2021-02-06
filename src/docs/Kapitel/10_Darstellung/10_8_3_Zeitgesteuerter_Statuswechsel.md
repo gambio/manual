@@ -1,4 +1,4 @@
-# Zeitgesteuerter Statuswechsel {#shop_online_offline_zeitgesteuerter_statuswechsel}
+# Zeitgesteuerter Statuswechsel 
 
 Sowohl der Shopstatus \(online/offline\) als auch die einzelnen Varianten der Urlaubsschaltung können zeitgesteuert geändert werden. Hierzu ist bei deinem Hosting-Anbieter die Einrichtung eines sogenannten Cronjobs notwendig. Die vorgesehene URL zur Einrichtung dieses Cronjobs kannst du aus dem Feld Cronjob-URL am unteren Ende der Seite herauskopieren.
 

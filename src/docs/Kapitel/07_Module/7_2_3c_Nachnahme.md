@@ -1,4 +1,4 @@
-# Nachnahme {#nachnahme}
+# Nachnahme 
 
 Bei der Zahlung per Nachnahme bezahlt der Kunde die Ware direkt bei der Zustellung beim ausliefernden Postboten. Nach der erfolgten Zustellung erhältst du den vom Kunden an den Zusteller gezahlten Rechnungsbetrag vom zustellenden Unternehmen.
 

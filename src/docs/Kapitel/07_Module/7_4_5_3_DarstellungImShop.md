@@ -1,4 +1,4 @@
-# Darstellung im Shop {#dhl_paketshops_darstellung_im_shop}
+# Darstellung im Shop 
 
 -   **[Aufruf im Shop](7_4_5_3_1_AufrufImShop.md)**  
 

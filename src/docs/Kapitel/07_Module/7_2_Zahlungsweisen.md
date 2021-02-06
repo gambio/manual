@@ -1,4 +1,4 @@
-# Zahlungsweisen {#zahlungsweisen}
+# Zahlungsweisen 
 
 Im Gambio Admin deines Shops unter Module \> Zahlungsweisen stehen dir verschiedene Zahlungsweisen und Schnittstellenmodule für Zahlungsdienstleister zur Verfügung.
 

@@ -1,4 +1,4 @@
-# Allgemeines {#allgemeines_allgemeines}
+# Allgemeines 
 
 Im Reiter Allgemeines stehen folgende Einstellungen zur Verfügung:
 

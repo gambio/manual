@@ -1,4 +1,4 @@
-# E-Mail Vorlagen {#e_mail_vorlagen}
+# E-Mail Vorlagen 
 
 Das Shopsystem versendet automatisierte E-Mails. Die Vorlagen kannst du unter Kunden \> E-Mails \> E-Mail Vorlagen anpassen.
 

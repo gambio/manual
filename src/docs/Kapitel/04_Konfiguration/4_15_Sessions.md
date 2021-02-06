@@ -1,4 +1,4 @@
-# Sessions {#sessions}
+# Sessions 
 
 Unter Shop Einstellungen \> System Einstellungen \> Sessions werden die Einstellungen vorgenommen die Auswirkungen auf die Funktionen der jeweiligen Session haben, wie z.B. das Einloggen, den Warenkorb und Merkzettel.
 

@@ -1,4 +1,4 @@
-# Kampagnen {#kampagnen}
+# Kampagnen 
 
 Kampagnen sind dafür gedacht, die Herkunft der Kunden zu identifizieren. Es ist möglich, die Artikellinks um eine ID zu ergänzen, bevor man diese in ein Portal wie z.B. idealo.de hochlädt. Kommen Kunden nun über dieses Portal in den Shop, enthalten die Bewegungen des Kunden die Referenznummer der Kampagne und der Shopbetreiber weiß, aus welcher Quelle welche Käufe generiert wurden.
 

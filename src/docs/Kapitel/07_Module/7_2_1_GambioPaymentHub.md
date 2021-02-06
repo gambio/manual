@@ -1,4 +1,4 @@
-# Gambio Payment Hub {#gambio_payment_hub}
+# Gambio Payment Hub 
 
 Das Gambio Payment Hub stellt verschiedene Zahlungsweisen über eine shopeigene Schnittstelle zu einem Server zur Verfügung. Die Zahlungsmodule werden hierbei an zentraler Stelle bereitgestellt und gepflegt. Auf diese Weise können immer die aktuellsten Module verwendet werden, ohne dass der Shop selbst upgedatet werden muss.
 

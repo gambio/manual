@@ -1,4 +1,4 @@
-# DHL Paketshops {#dhl_paketshops}
+# DHL Paketshops 
 
 -   **[Installation](7_4_5_1_Installation.md)**  
 

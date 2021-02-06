@@ -1,4 +1,4 @@
-# Artikel {#artikel}
+# Artikel 
 
 -   **[Artikel anlegen](8_2_1_Artikel_anlegen.md)**  
 

@@ -1,4 +1,4 @@
-# Konfigurationsseite {#cleverreach_konfiguration_konfigurationsseite}
+# Konfigurationsseite 
 
 |Abbildung|Erläuterung|
 |---------|-----------|

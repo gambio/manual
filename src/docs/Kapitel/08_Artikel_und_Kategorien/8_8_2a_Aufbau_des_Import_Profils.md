@@ -1,4 +1,4 @@
-# Aufbau des Import-Profils {#aufbau_des_import_profils}
+# Aufbau des Import-Profils 
 
 **Note:** Für eine Aktualisierung deiner Artikel empfehlen wir zunächst einen Export mit dem unveränderten Standardprofil vorzunehmen. Die so erzeugte Datei kann als Ausgangspunkt für die gewünschten Änderungen verwendet werden.
 

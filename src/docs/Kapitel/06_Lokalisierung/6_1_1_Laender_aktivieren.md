@@ -1,4 +1,4 @@
-# Länder aktivieren {#laender_aktivieren}
+# Länder aktivieren 
 
 Länder, die Kunden beim Anlegen einer Adresse auswählen können, müssen einzeln aktiviert werden. Für die Ländergruppe Deutschland, Österreich und Schweiz sowie für alle Länder findest du unterhalb der Länderliste Schaltflächen zum gleichzeitigen Aktivieren.
 

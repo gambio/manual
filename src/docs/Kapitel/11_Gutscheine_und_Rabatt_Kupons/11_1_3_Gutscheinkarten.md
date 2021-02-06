@@ -1,4 +1,4 @@
-# Gutscheinkarten {#gutscheinkarten}
+# Gutscheinkarten 
 
 Da der Gutscheinwert beim Kauf von Gutschein-Artikeln direkt dem Guthabenkonto des Käufers gutgeschrieben wird, ist ein Verkauf von Gutscheinkarten nicht direkt möglich.
 

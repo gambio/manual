@@ -1,4 +1,4 @@
-# StyleEdit 4 / Themes {#styleedit4_themes}
+# StyleEdit 4 / Themes 
 
 -   **[Einleitung](10_3_1_Einleitung.md)**  
 

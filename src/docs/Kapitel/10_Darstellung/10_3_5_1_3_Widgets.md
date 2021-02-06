@@ -1,4 +1,4 @@
-# Widgets {#styleedit4_themes_theme_bearbeiten_menues_widgets}
+# Widgets 
 
 Widgets sind in vorgesehenen Bereichen frei platzierbare Inhalte. Derzeit gibt es die folgenden Widgets:
 

@@ -1,4 +1,4 @@
-# Einstellungen für Kleinunternehmer {#einstellungen_fuer_kleinunternehmer}
+# Einstellungen für Kleinunternehmer 
 
 Kleinunternehmer führen in Deutschland unter bestimmten Voraussetzungen keine Umsatzsteuer ab und müssen im Shop daher keine Umsatzsteuer ausweisen. Das Shopsystem bietet eine Funktion an, mit der der Artikelpreis regulär eingegeben, die enthaltene Steuer jedoch nicht ausgewiesen wird.
 

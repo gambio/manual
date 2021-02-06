@@ -1,4 +1,4 @@
-# Protected Shops {#protected_shops}
+# Protected Shops 
 
 -   **[Installation](7_4_22_1_Installation.md)**  
 

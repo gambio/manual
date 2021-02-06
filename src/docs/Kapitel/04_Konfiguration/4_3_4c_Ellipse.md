@@ -1,4 +1,4 @@
-# Ellipse {#ellipse}
+# Ellipse 
 
 Mit der Ellipse-Funktion wird ein Ausschnitt des Artikelbilds in Form einer Ellipse ausgeschnitten und anstatt des ganzen Bildes angezeigt.
 

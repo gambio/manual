@@ -1,4 +1,4 @@
-# Zugang gewähren {#cleverreach_konfiguration_zugang_gewaehren}
+# Zugang gewähren 
 
 |Abbildung|Erläuterung|
 |---------|-----------|

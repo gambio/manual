@@ -1,4 +1,4 @@
-# Live-Prüfung aktivieren {#haendlerkunden_live_pruefung_aktivieren}
+# Live-Prüfung aktivieren 
 
 In der Grundkonfiguration des Shopsystems ist die Live-Prüfung der Umsatzsteuer ID-Nummer bereits aktiviert. Wenn du die Live-Prüfung zwischenzeitlich deaktiviert hast, führe die folgenden Schritte aus.
 

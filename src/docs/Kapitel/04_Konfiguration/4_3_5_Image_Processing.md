@@ -1,4 +1,4 @@
-# Image Processing {#image_processing}
+# Image Processing 
 
 Änderungen die an den Einstellungen unter Darstellung \> Bild-Optionen \> Bild-Optionen vorgenommen werden, wirken sich immer nur auf neu hochgeladene Bilder aus. Um den bestehenden Bild-Bestand anzupassen, muss unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung durchgeführt werden.
 

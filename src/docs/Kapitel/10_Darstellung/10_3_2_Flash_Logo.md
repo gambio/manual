@@ -1,4 +1,4 @@
-# Flash Logo {#logo_manager_flash_logo}
+# Flash Logo 
 
 Das Flash Logo wird im Shopbereich an der Position des Shop Logos wie in der Abbildung Shopbereich eingebunden. Das Flash Logo kannst du im Gambio Admin unter Darstellung \> Logo Manager auf der Registerkarte Flash Logo hochladen.
 

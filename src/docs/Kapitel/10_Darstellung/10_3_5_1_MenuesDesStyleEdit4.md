@@ -1,4 +1,4 @@
-# Menüs des StyleEdit 4 {#styleedit4_themes_theme_bearbeiten_menues}
+# Menüs des StyleEdit 4 
 
 Das StyleEdit 4 ist in drei Menüs gegliedert, auf die verschiedene Arten von Einstellungen aufgeteilt sind:
 

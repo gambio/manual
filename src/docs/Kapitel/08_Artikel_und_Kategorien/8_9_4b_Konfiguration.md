@@ -1,4 +1,4 @@
-# Konfiguration {#google_analytics_konfiguration}
+# Konfiguration 
 
 Bevor Daten erfasst werden können, muss das Modul im Reiter Konfiguration eingerichtet werden.
 

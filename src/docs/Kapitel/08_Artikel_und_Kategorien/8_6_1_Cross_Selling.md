@@ -1,4 +1,4 @@
-# Cross Selling {#cross_selling}
+# Cross Selling 
 
 Cross Selling ist eine Marketing-Funktion, mit der du einem Artikel weitere Artikel als Empfehlung hinzufügst. Die Empfehlungen werden im Shopbereich unterhalb der Artikelbeschreibung angezeigt.
 

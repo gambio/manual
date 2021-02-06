@@ -1,4 +1,4 @@
-# Gutscheine verschicken {#gutscheine_verschicken}
+# Gutscheine verschicken 
 
 ## Willkommens-Gutschein { .section}
 

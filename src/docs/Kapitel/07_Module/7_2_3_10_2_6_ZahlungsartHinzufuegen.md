@@ -1,4 +1,4 @@
-# Zahlungsart hinzufügen {#payone_konfiguration_zahlungsart_hinzufuegen}
+# Zahlungsart hinzufügen 
 
 ![](Bilder/payone/P1-cc_006.png "Ansicht bevor eine Zahlungsart hinzugefügt worden ist")
 

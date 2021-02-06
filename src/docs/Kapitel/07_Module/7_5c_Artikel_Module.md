@@ -1,4 +1,4 @@
-# Artikel-Module {#artikel_module}
+# Artikel-Module 
 
 ## Kundengruppencheck { .section}
 

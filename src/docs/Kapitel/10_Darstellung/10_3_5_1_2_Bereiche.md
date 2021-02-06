@@ -1,4 +1,4 @@
-# Bereiche {#styleedit4_themes_theme_bearbeiten_menues_bereiche}
+# Bereiche 
 
 Das Menü Bereiche beinhaltet Einstellungen für die einzelnen Bereiche des Shops.
 

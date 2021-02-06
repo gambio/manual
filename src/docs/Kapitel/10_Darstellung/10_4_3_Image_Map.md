@@ -1,4 +1,4 @@
-# Image-Map {#teaser_slider_image_map}
+# Image-Map 
 
 Jedem Bild im Teaser-Slider \(außer Vorschaubildern\) kann eine sogenannte Image-Map zugeordnet werden. Hierüber lassen sich einzelne Bereiche eines Bilds als Links festlegen und mit Verweisen zu anderen Seiten versehen. Auf diese Weise können z.B. mehrere Artikel in einem Bild direkt verlinkt werden.
 

@@ -1,4 +1,4 @@
-# Sonstige {#sonstige}
+# Sonstige 
 
 Unter Module \> Zahlungsweisen \> Sonstige werden Zahlungsmodule bereitgestellt, die keine Verbindung zum Gambio Hub benötigen.
 

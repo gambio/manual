@@ -1,4 +1,4 @@
-# Zurückspielen einer Datensicherung {#manuelle_datensicherung_zurueckspielen}
+# Zurückspielen einer Datensicherung 
 
 CAUTION:
 

@@ -1,4 +1,4 @@
-# Shop {#einstellungen_shop}
+# Shop 
 
 ## Allgemein { .section}
 

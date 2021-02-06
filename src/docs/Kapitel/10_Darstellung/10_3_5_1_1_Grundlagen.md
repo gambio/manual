@@ -1,4 +1,4 @@
-# Grundlagen {#styleedit4_themes_theme_bearbeiten_menues_grundlagen}
+# Grundlagen 
 
 Das Menü Grundlagen beinhaltet die Abschnitte Allgemein, Typografie, Hintergrund und Navigation Menü. Die Abschnitte lassen sich über einen Klick auf den Namen auf- und zuklappen.
 

@@ -1,4 +1,4 @@
-# Grundlegende Informationen {#mailbeez_grundlegende_informationen}
+# Grundlegende Informationen 
 
 Bei Mailbeez handelt es sich um ein Drittanbieter-Modul, welches Teil des Grundunfangs ist, jedoch nicht von Gambio entwickelt wurde. Dieses Kapitel enthält daher nur einen allgemeinen Überblick und beschreibt das Modul nicht zur Gänze.
 

@@ -1,4 +1,4 @@
-# Logging-Optionen {#logging_optionen}
+# Logging-Optionen 
 
 **Note:**
 

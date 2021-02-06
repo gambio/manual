@@ -1,4 +1,4 @@
-# CleverReach {#cleverreach}
+# CleverReach 
 
 -   **[Verfügbarkeit](7_4_25_1_CleverReach_Verfuegbarkeit.md)**  
 

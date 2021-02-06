@@ -1,4 +1,4 @@
-# Liste der Versandarten {#liste_der_versandarten}
+# Liste der Versandarten 
 
 |Versandart \(Modulname\)|Typ|
 |------------------------|---|

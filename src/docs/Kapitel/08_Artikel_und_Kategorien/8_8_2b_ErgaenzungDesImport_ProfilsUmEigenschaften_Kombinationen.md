@@ -1,4 +1,4 @@
-# Ergänzung des Import-Profils um Eigenschaften-Kombinationen {#ergaenzung_des_import_profils_um_eigenschaften_kombinationen}
+# Ergänzung des Import-Profils um Eigenschaften-Kombinationen 
 
 Wenn Eigenschaften-Kombinationen beim Import berücksichtigt werden sollen, können für die Kombinationsdaten \(siehe auch Kapitel Export, Unterpunkt CSV-Artikelexport, Profil bearbeiten \> Spalten\) ausgewählt werden. Diese sind der Reihe nach:
 

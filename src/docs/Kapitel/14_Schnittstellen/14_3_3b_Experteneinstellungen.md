@@ -1,4 +1,4 @@
-# Experteneinstellungen {#paypal_und_paypal_plus_konfiguration_experteneinstellungen}
+# Experteneinstellungen 
 
 ## Bestellstatusänderungen nach Aktionen { .section}
 

@@ -3,7 +3,7 @@
 !!! Info "Hinweis"
     Dieses Kapitel enthält Empfehlungen für die ersten Schritte mit deinem neuen Onlineshop. Diese Schritte sollten nach der Installation deines Shops durchgeführt werden. Diese Hinweise beziehen sich auf die detaillierteren Ausführungen aus den jeweiligen Kapiteln.
 
-## Im Shop anmelden {#im_shop_anmelden}
+## Im Shop anmelden 
 
 Bevor du Deinen neuen Onlineshop administrieren kannst, musst du dich im System anmelden. Die Zugangsdaten zu deinem Administratorkonto legst du während des Installationsprozesses fest.
 
@@ -14,7 +14,7 @@ Im oberen rechten Menü erscheint nun der Button Gambio Admin.
 ![](Bilder/Abb006a_GambioAdminButton.PNG "Einloggen als Administrator über den Shopbereich") ![](Bilder/Abb006b_GambioAdminButton.PNG "Einloggen als Administrator über den Shopbereich")
 
 
-## Shop offline stellen {#shop_offline_stellen}
+## Shop offline stellen 
 
 Direkt nach der Installation ist der Shop noch nicht für die Öffentlichkeit geeignet. Zunächst muss die Grundkonfiguration vorgenommen, die Artikeldaten eingefügt und das Layout angepasst werden. Versetze deinen Shop unter Darstellung \> Shop online/offline in den Offline-Modus. Die im Offline-Modus angezeigte Seite dient als Platzhalter und enthält kein Anmeldeformular. Ein spezielles Anmeldeformular für Administratoren kannst du jederzeit über www.DeinShop.de/login\_admin.php aufrufen \(ersetze hierbei www.DeinShop.de durch deine tatsächliche Shopadresse\).
 
@@ -22,7 +22,7 @@ Direkt nach der Installation ist der Shop noch nicht für die Öffentlichkeit ge
     Bei Arbeiten am Shop sollte dieser unbedingt offline geschaltet werden. Geschieht dies nicht, werden dem Kunden z.B. unvollständige AGBs oder Testartikel angezeigt, die nicht lieferbar sind. Hier besteht die Gefahr einer Abmahnung, ein einfacher Hinweis wie *Dieser Shop ist nur zu Testtzwecken online.*, ist **nicht ausreichend**.
 
 
-## Grundkonfiguration vornehmen {#grundkonfiguration_vornehmen}
+## Grundkonfiguration vornehmen 
 
 In verschiedenen Bereichen muss dein neuer Onlineshop nach der Installation erstmalig konfiguriert werden. Überprüfe zunächst sämtliche Angaben unter Shop Einstellungen \> Mein Shop. Beachte hier besonders die Felder Name des Shops, Inhaber sowie Land, Region und Geschäftsadresse und Telefonnummer etc..
 
@@ -47,7 +47,7 @@ Sofern dein Server es zulässt, empfehlen wir, die Gambio SEO Boost URLs zu verw
     Wenn du die Zahlung per PayPal anbieten möchtest, trage die API Daten, die du von PayPal erhältst, auf der Konfigurationsseite des Moduls ein. Gehe hierzu unter Module \> Zahlungsweisen, wähle das Modul PayPal und PayPal Plus aus und klicke auf die Schaltflächen Installieren\(sofern noch nicht geschehen\) und Konfiguration. Nähere Informationen zu den Zahlungsmodulen von Drittanbietern erhältst du beim jeweiligen Anbieter.
 
 
-## Artikel einpflegen {#artikel_einpflegen}
+## Artikel einpflegen 
 
 !!! Info "Hinweis"
     Kleinunternehmer sollten vor dem Anlegen von Artikeln die Kleinunternehmerregelung aktivieren.
@@ -61,7 +61,7 @@ Sofern dein Server es zulässt, empfehlen wir, die Gambio SEO Boost URLs zu verw
 !!! Info "Hinweis"
     Wenn du große Mengen von Artikeln einpflegen möchtest, zu denen du bereits eine Liste führst, verwende zum Einstellen von Artikeln und Kategorien die CSV Import-Schnittstelle. Der CSV Import ist auch beim Import von Artikeldaten von deinem Großhändler geeignet. Beachte, dass CSV Dateien von Dritten in der Regel an das von Gambio verwendete Format angepasst werden müssen.
 
-## Rechtliches und Informationen {#rechliches_und_informationen}
+## Rechtliches und Informationen 
 
 !!! Warning "Achtung!"
     Lasse den nachfolgenden Schritt abschließend von deinem Rechts- und/oder Steuerberater prüfen! Falsche oder fehlerhafte Texte bergen die Gefahr einer Abmahnung!
@@ -69,7 +69,7 @@ Sofern dein Server es zulässt, empfehlen wir, die Gambio SEO Boost URLs zu verw
     Wenn du zusätzliche Informationen hinterlegen möchtest, bearbeite einen der vorhandenen Contents im Content Manager oder legen neue Contents an. Informationsseiten können dabei automatisch in einer der Navigationen verlinkt werden.
 
 
-## SSL im Shop aktivieren {#ssl_im_shop_aktivieren}
+## SSL im Shop aktivieren 
 
 !!! Warning "Achtung!"
     Dieser Schritt darf erst dann durchgeführt werden, wenn für deine Shop-Domain ein SSL-Zertifikat eingerichtet ist. Nimmst du die Änderungen vor, bevor dein Hoster die Einrichtung abgeschlossen hat, ist dein Shop im schlimmsten Fall **nicht mehr erreichbar**.
@@ -137,17 +137,17 @@ Bitte beachte, dass vor der SSL Aktivierung bereits ein gültiges SSL-Zertifikat
 6.  Der gesamte Shop ist nun über HTTPS zu erreichen.
 
 
-## Layout anpassen {#layout_anpassen}
+## Layout anpassen 
 
 Wenn Artikel und Contents angelegt und Zahlungsweisen und Versandarten konfiguriert sind, starte den Shop unter Darstellung \> Template-Einstellungen im Bearbeitungsmodus. Im Bearbeitungsmodus kannst du das Aussehen des mitgelieferten Templates bzw. Themes an deine Bedürfnisse anpassen.
 
 
-## Testen {#testen}
+## Testen 
 
 Teste abschließend alle relevanten Funktionen. Führe mit Testkunden aus jeder verwendeten Kundengruppe Testbestellungen durch. Teste dabei jede Versandart und jede Zahlungsweise auf korrekte Funktion. Wenn beim Testen keine Probleme und Fehler mehr auftreten, ist die Grundkonfiguration deines Shops abgeschlossen.
 
 
-## Shop online stellen {#shop_online_stellen}
+## Shop online stellen 
 
 Wenn du die Grundkonfiguration des Shops und das Einstellen von Artikeln abgeschlossen sowie das Layout angepasst hast, ist dein Shop bereit, im Internet veröffentlicht zu werden. Stelle den Shop unter Darstellung \> Shop online/offline wieder online und melde ihn in den gängigen Suchmaschinen an.
 

@@ -1,4 +1,4 @@
-# Kombinationen hinzufügen {#artikeleigenschaften_kombinationen_hinzufuegen}
+# Kombinationen hinzufügen 
 
 ![](Bilder/ArtikelEigenschaften_KombinationsuebersichtMaskeKombinationHinzufuegen.png "Maske _**Kombination hinzufügen**_")
 

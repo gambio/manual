@@ -1,4 +1,4 @@
-# Funktionen der Profilseite {#funktionen_der_profilseite}
+# Funktionen der Profilseite 
 
 Unterhalb der Auflistung kann über die Schaltfläche Profil hinzufügen ein neues Profil erzeugt werden. Es stehen die gleichen Konfigurationsmöglichkeiten zur Verfügung wie im Reiter Einstellungen für die Funktion Profil bearbeiten.
 

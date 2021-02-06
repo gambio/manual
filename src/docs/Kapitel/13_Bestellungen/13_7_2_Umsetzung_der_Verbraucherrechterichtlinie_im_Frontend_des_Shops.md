@@ -1,4 +1,4 @@
-# Umsetzung der Verbraucherrechterichtlinie im Frontend des Shops {#umsetzung_der_verbraucherrechterichtlinie_im_frontend_des_shops}
+# Umsetzung der Verbraucherrechterichtlinie im Frontend des Shops 
 
 ## Warenkorb { .section}
 

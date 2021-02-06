@@ -1,4 +1,4 @@
-# Verwendung {#findologic_verwendung}
+# Verwendung 
 
 Mit dem Speichern wird eine CSV-Datei erstellt, die bei Findologic importiert werden muss, damit die Suche im Shop auf die Findologic-Ergebnisse zurückgreifen kann. Der Import der CSV-Datei kann auch über einen CronJob erfolgen, hierüber kann dich der Support von Findologic näher informieren.
 

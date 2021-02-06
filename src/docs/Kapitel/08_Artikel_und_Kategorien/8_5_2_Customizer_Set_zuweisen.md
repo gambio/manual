@@ -1,4 +1,4 @@
-# Customizer-Set zuweisen {#gx_customizer_set_zuweisen}
+# Customizer-Set zuweisen 
 
 ## Einem Artikel zuweisen { .section}
 

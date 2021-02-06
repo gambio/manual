@@ -1,4 +1,4 @@
-# Aktionen {#rechnungsuebersicht_aktionen}
+# Aktionen 
 
 Mit einem Klick auf die Spaltenüberschrift kann die Tabelle nach der jeweiligen Spalte sortiert werden \(ein Klick: aufsteigende Sortierung, erneuter Klick: absteigende Sortierung\). Rechts neben den Spaltenüberschriften befindet sich die Seitenanzeige und die Seitenauswahl. Oberhalb der Seitenauswahl kann über das Zahnrad-Symbol die Einstellungsseite aufgerufen werden \(siehe Einstellungen\).
 

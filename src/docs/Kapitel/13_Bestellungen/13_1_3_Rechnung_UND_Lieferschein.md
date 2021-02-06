@@ -1,4 +1,4 @@
-# Rechnung & Lieferschein {#bestellungen_rechnung_und_lieferschein}
+# Rechnung & Lieferschein 
 
 **Note:** Die Optionen für Rechnung und Lieferschein stehen nur in Verbindung mit dem PDFCreator-Zusatzmodul zur Verfügung, das separat installiert werden muss. Die notwendigen Schritte sind in der Installationsanleitung beschrieben.
 

@@ -1,4 +1,4 @@
-# Kundenkonto löschen {#kundenkonto_loeschen}
+# Kundenkonto löschen 
 
 Wenn ein Kunde im Shopbereich auf Kundenkonto löschen klickt, erhältst du eine E-Mail, die dich über den Löschwunsch des Kunden in Kenntnis setzt. Kunden können ihre Konten nicht selbständig löschen, Kundenkonten löscht du im Gambio Admin deines Shops unter Kunden \> Kunden.
 

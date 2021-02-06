@@ -1,4 +1,4 @@
-# Honeygrid und StyleEdit v3 {#darstellung_styleedit_honeygrid_und_styleedit_v3}
+# Honeygrid und StyleEdit v3 
 
 Das Honeygrid ist eine responsive Benutzeroberfläche, passt sich also an die jeweilige Bildschirmauflösung an und ist daher sowohl für Desktop-Computer als auch mobile Endgeräte verwendbar.
 

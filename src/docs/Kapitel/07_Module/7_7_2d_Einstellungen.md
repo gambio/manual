@@ -1,4 +1,4 @@
-# Einstellungen {#dhl_geschaeftskundenversand_konfiguration_einstellungen}
+# Einstellungen 
 
 ![](Bilder/GKV2_20180417_009.png "Einstellungen")
 

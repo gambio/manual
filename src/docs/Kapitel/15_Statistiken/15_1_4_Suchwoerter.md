@@ -1,4 +1,4 @@
-# Suchwörter {#besucherstatistik_suchwoerter}
+# Suchwörter 
 
 Dieser Bereich listet das Vorkommen der eingegebenen Suchbegriffe auf. Dabei besteht die Wahlmöglichkeit zwischen
 

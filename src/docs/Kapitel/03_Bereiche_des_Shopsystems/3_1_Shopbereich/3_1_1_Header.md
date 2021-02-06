@@ -1,4 +1,4 @@
-# Header {#header}
+# Header 
 
 ![](Bilder/Abb009_Header_.png "Header des Shopbereichs")
 

@@ -1,4 +1,4 @@
-# Widerrufe {#widerrufe}
+# Widerrufe 
 
 -   **[Verwalten der Widerrufe im Gambio Admin](13_7_1_Verwalten_der_Widerrufe_im_Gambio_Admin.md)**  
 

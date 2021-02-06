@@ -1,4 +1,4 @@
-# Kategorien {#styleedit4_themes_theme_bearbeiten_menues_bereiche_kategorien}
+# Kategorien 
 
 ![](Bilder/styleedit4/se4_0045_BereicheKategorien.png "Unterabschnitte unter Bereiche /
       Kategorien")

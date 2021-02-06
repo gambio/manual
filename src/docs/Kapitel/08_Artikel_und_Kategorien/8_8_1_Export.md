@@ -1,4 +1,4 @@
-# Export {#export}
+# Export 
 
 Über die Reiter Artikelexport und Preis-Portal können Artikel aus dem Shop heraus exportiert werden. In den meisten Fällen werden die Artikel in eine sogenannte CSV-Datei geschrieben, die mit einem Tabellenkalkulationsprogramm geöffnet und bearbeitet werden kann.
 

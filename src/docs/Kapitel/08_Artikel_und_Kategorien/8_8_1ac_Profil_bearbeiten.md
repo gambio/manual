@@ -1,4 +1,4 @@
-# Profil bearbeiten {#profil_bearbeiten}
+# Profil bearbeiten 
 
 ![](Bilder/Abb108_Artikelexport_ProfilBearbeiten.png "Artikelexport - Profil bearbeiten")
 

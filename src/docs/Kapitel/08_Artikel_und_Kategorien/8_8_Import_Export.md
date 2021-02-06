@@ -1,4 +1,4 @@
-# Import/Export {#import_export}
+# Import/Export 
 
 Über den Menüpunkt Import / Export \> Artikeldaten können neben dem Export zu Preis-Suchmaschinen und -Portalen auch reguläre CSV Exporte nach eigenen Profilen vorgenommen und Importe durchgeführt werden.
 

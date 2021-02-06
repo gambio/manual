@@ -1,4 +1,4 @@
-# Vorgaben {#vorgaben}
+# Vorgaben 
 
 ![](Bilder/Abb049_voreingestellteMetaAngaben.png "Voreingestellte Meta-Angaben")
 

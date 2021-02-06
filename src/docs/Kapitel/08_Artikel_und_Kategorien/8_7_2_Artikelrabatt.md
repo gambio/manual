@@ -1,4 +1,4 @@
-# Artikelrabatt {#artikelrabatt}
+# Artikelrabatt 
 
 Du hast in jedem Artikel die Möglichkeit, einen Artikelrabatt festzulegen, den bestimmte Kundengruppen dann ganz oder zum Teil in Anspruch nehmen können.
 

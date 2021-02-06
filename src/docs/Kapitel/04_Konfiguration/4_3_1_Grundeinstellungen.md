@@ -1,4 +1,4 @@
-# Grundeinstellungen {#grundeinstellungen}
+# Grundeinstellungen 
 
 Im Administrationsbereich deines Shops werden unter Darstellung \> Bild-Optionen die Einstellungen für die automatische Bildberechnung der Artikelbilder vorgenommen.
 

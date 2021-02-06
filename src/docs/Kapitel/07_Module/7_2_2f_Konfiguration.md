@@ -1,4 +1,4 @@
-# Konfiguration {#gambio_secured_payments_konfiguration}
+# Konfiguration 
 
 Die Konfigurationsseite des Moduls kann dann über das Stift-Symbol geöffnet werden. Gehe hierzu unter Module \> Zahlungsweisen \> Gambio Payment Hub und bewege den Mauszeiger über den Eintrag Gambio secured Payments - powered by Klarna, bis das StiftIcon angezeigt wird und klicke darauf.
 

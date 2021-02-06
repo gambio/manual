@@ -1,4 +1,4 @@
-# Installation und Einrichtung {#zwei_faktor_authentifizierung_installation_und_einrichtung}
+# Installation und Einrichtung 
 
 Das Modul kann unter Module \> Modul-Center installiert werden. Wähle hierzu den Eintrag Zwei-Faktor-Authentifizierung aus der Liste aus und klicke auf die Schaltfläche Installieren, in der rechten, unteren Bildschirmecke.
 

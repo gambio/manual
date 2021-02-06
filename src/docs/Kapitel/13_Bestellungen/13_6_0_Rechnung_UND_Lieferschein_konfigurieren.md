@@ -1,4 +1,4 @@
-# Rechnung & Lieferschein konfigurieren {#rechnung_und_lieferschein_konfigurieren}
+# Rechnung & Lieferschein konfigurieren 
 
 Die Darstellung von Rechnung und Lieferschein kannst du unter Shop Einstellungen \> Rechnung/Lieferschein anpassen.
 

@@ -1,4 +1,4 @@
-# Heidelpay {#heidelpay}
+# Heidelpay 
 
 **Note:**
 

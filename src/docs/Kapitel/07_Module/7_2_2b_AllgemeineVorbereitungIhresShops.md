@@ -1,4 +1,4 @@
-# Allgemeine Vorbereitung deines Shops {#allgemeine_vorbereitung_deines_shops}
+# Allgemeine Vorbereitung deines Shops 
 
 Das Klarna Logo sollte auf deiner Startseite und überall, wo du ein Logo eines Zahlungsanbieters darstellst, hinzugefügt werden. Auf entsprechende Bild-Dateien kannst du über die Experteneinstellungen des Moduls zugreifen.
 

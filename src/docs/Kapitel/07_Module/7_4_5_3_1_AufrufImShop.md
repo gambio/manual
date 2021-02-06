@@ -1,4 +1,4 @@
-# Aufruf im Shop {#dhl_paketshops_darstellung_im_shop_aufruf}
+# Aufruf im Shop 
 
 Um eine Packstation oder einen Paketshop auszuwählen, kann der Kunde im Bestellvorgang die Versandadresse ändern:
 

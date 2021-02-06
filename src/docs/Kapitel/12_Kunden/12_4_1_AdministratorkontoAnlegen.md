@@ -1,4 +1,4 @@
-# Administrator-Konto anlegen {#administrator_konten_anlegen}
+# Administrator-Konto anlegen 
 
 ![](Bilder/Abb166_AdminrechteVergeben.png "Adminrechte vergeben")
 

@@ -1,4 +1,4 @@
-# Sprachen anlegen ab Shopversion 2.1 {#sprachen_anlegen_ab_shopversion_2_1}
+# Sprachen anlegen ab Shopversion 2.1 
 
 CAUTION:
 

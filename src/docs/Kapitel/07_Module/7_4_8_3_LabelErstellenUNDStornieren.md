@@ -1,4 +1,4 @@
-# Label erstellen und stornieren {#hermes_label_erstellen_und_stornieren}
+# Label erstellen und stornieren 
 
 ## ProfiPaketService { .section}
 

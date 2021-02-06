@@ -1,4 +1,4 @@
-# Google Ads {#google_adwords}
+# Google Ads 
 
 ![](Bilder/GooS-20180920_011.png "Anzeige der AdWords-Kampagnen")
 

@@ -1,4 +1,4 @@
-# Drop-Shadow \(Schlagschatten\) {#drop_shadow}
+# Drop-Shadow \(Schlagschatten\) 
 
 Mit der Drop-Shadow-Funktion wird ein Schlagschatten nach unten rechts hinter das Artikelbild gelegt. Der Schatten wird nicht massiv als Rahmen dargestellt, sondern mit einer zusätzlichen Hintergrundfarbe in einem dynamischen Spektrum berechnet.
 

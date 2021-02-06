@@ -1,4 +1,4 @@
-# Eventuell nötige Updates {#eventuell_noetige_updates}
+# Eventuell nötige Updates 
 
 Zur Verwendung der Klarna-Zahlungsmodule ist eine aktuelle Version des Gambio Hub Connectors erforderlich. Dieser sollte daher unbedingt über den Gambio Store \(Eintrag Gambio Store im Menü des Gambio Admin\) auf dem neusten Stand gehalten werden.
 

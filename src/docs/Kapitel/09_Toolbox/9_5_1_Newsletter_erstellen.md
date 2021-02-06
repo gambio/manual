@@ -1,4 +1,4 @@
-# Newsletter erstellen {#toolbox_newsletter_newsletter_erstellen}
+# Newsletter erstellen 
 
 Um einen neuen Newsletter zu erstellen, klicke auf die Schaltfläche Neuer Newsletter. Das sich nun öffnende Fenster bietet Eingabefelder für den Betreff, Cc und den eigentlichen Inhalt. Letzterer wird mit Hilfe des CK-Editors festgelegt, eine Übersicht über die Funktionen findest du im Kapitel CK-Editor.
 

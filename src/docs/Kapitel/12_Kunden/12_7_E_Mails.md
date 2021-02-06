@@ -1,4 +1,4 @@
-# E-Mails {#e_mails}
+# E-Mails 
 
 Über Kunden \> E-Mails hast du die Möglichkeit E-Mails an Kunden zu verschicken und zu verwalten.
 

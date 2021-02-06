@@ -1,4 +1,4 @@
-# Tracking-Link versenden {#hermes_tracking_link_versenden}
+# Tracking-Link versenden 
 
 Mit dem Druck des Hermes-Labels erfolgt automatisch ein Eintrag der Sendungsnummer in die jeweilige Bestellung. Der Tracking-Link setzt sich, je nach gewähltem Dienst \(PriPS oder ProPS\), aus dem Link unter Shop Einstellungen \> Paketdienste und der Sendungsnummer zusammen.
 

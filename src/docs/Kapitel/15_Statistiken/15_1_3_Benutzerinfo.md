@@ -1,4 +1,4 @@
-# Benutzerinfo {#besucherstatistik_benutzerinfo}
+# Benutzerinfo 
 
 Unter Benutzerinfo können folgende Informationen angezeigt werden:
 

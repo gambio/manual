@@ -1,4 +1,4 @@
-# Kollektionen {#kollektionen}
+# Kollektionen 
 
 Kollektionen bzw. Bilderlisten werden verwendet, um Sammlungen von Bildern zu erstellen. Die Kollektionen können z.B. bei Artikelattributen und Artikeleigenschaften verwendet werden, um ein oder mehrere Bilder einem Optionswert \(Artikelattribute\) bzw. einer Kombintion \(Artikeleigenschaften\) zuzuordnen.
 

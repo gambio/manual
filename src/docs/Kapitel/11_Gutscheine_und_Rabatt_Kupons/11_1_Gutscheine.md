@@ -1,4 +1,4 @@
-# Gutscheine {#gutscheine}
+# Gutscheine 
 
 Gutscheine können von dir im Shop zum Kauf angeboten werden. Außerdem hast du die Möglichkeit, Gutscheine gezielt an bestimmte Kunden oder potentielle Neukunden zu versenden.
 

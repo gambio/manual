@@ -1,4 +1,4 @@
-# Konfiguration {#ekomi_konfiguration}
+# Konfiguration 
 
 Nach der Installation steht der Button Bearbeiten zur Verfügung. Hierüber kann die Konfigurationsseite aufgerufen werden. Die Einstellungen sind auf 3 verschiedene Tabs aufgeteilt.
 

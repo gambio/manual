@@ -1,4 +1,4 @@
-# Bestellung stornieren {#bestellung_stornieren}
+# Bestellung stornieren 
 
 Bestellungen kannst du im Gambio Admin deines Shops unter Bestellungen \> Bestellungen stornieren. Der Bestellstatus einer stornierten Bestellung kann nachträglich nicht mehr verändert werden.
 

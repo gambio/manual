@@ -1,4 +1,4 @@
-# Unterschiede in bestehenden Menüs {#styleedit4_themes_malibu_unterschiede}
+# Unterschiede in bestehenden Menüs 
 
 Einzelne Bereiche sind im StyleEdit 4 bei der Bearbeitung des Malibus anders aufgeteilt als es beim Honeygrid der Fall ist.
 

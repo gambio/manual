@@ -1,4 +1,4 @@
-# Checkout Loading-Spinner {#checkout_loading_spinner}
+# Checkout Loading-Spinner 
 
 Der Checkout Loading-Spinner soll bei längeren Ladeprozessen im Bestellvorgang eine animierte Grafik anzeigen, die dem Kunden verdeutlicht, dass seine Eingaben verarbeitet werden. Dies soll verhindern, dass die Kunden annehmen, der Shop würde nicht reagieren und den Kauf womöglich abbrechen.
 

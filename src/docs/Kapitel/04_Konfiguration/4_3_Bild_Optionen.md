@@ -1,4 +1,4 @@
-# Bild-Optionen {#bild_optionen}
+# Bild-Optionen 
 
 **Note:**
 

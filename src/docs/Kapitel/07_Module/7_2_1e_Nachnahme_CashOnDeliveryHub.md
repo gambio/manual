@@ -1,4 +1,4 @@
-# Nachnahme \(CashOnDeliveryHub\) {#cashondeliveryhub}
+# Nachnahme \(CashOnDeliveryHub\) 
 
 Installiere das Modul Nachnahme um Zahlungen per Nachnahme im Shop zu ermöglichen.
 

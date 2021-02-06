@@ -1,4 +1,4 @@
-# Vornehmen von Einstellungen {#styleedit4_themes_theme_bearbeiten_einstellungen_vornehmen}
+# Vornehmen von Einstellungen 
 
 ## Farbeinstellungen { .section}
 

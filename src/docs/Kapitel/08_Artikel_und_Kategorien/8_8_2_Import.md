@@ -1,4 +1,4 @@
-# Import {#import}
+# Import 
 
 Über den Reiter Import können CSV-Dateien aus einem anderen Shop oder aus einer externen Quelle in den Shop importiert und die Artikel so in den Shop geladen werden.
 

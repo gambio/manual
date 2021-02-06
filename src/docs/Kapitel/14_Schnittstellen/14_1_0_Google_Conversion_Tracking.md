@@ -1,4 +1,4 @@
-# Google Conversion-Tracking {#schnittstellen_google_conversion_tracking}
+# Google Conversion-Tracking 
 
 **Note:**
 

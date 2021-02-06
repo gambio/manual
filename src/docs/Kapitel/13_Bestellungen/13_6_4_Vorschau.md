@@ -1,4 +1,4 @@
-# Vorschau {#rechnung_und_lieferschein_konfigurieren_vorschau}
+# Vorschau 
 
 Auf der Registerkarte Vorschau kannst du eine Vorschau einer Rechnung oder eines Lieferscheins mit der aktuellen Konfiguration erstellen.
 

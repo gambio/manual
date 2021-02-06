@@ -1,4 +1,4 @@
-# Bildgröße {#bildgroesse}
+# Bildgröße 
 
 Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschiedenen Ausgangsgrößen angepasst. Für jedes Artikelbild werden dabei die Kopien aus der Tabelle Artikelbild-Varianten angelegt. Die tatsächliche Anzeigegröße hängt hierbei von den Einstellungen im StyleEdit ab. Jedoch kann eine Änderung der Ausgangsgrößen unter Darstellung \> Bild-Optionen erhebliche Auswirkungen auf Bildqualität und Ladezeit haben.
 

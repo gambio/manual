@@ -1,4 +1,4 @@
-# Konfiguration {#computop_paygate_konfiguration}
+# Konfiguration 
 
 ## Paygate-Modul aktivieren { .section}
 

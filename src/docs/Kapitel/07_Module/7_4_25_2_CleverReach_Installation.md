@@ -1,4 +1,4 @@
-# Installation {#cleverreach_installation}
+# Installation 
 
 ## Installation in selbstgehosteten Shops { .section}
 

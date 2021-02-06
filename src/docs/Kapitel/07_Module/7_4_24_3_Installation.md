@@ -1,4 +1,4 @@
-# Installation {#relevanz_installation}
+# Installation 
 
 ## Dateiupload in selbst gehosteten Shops { .section}
 

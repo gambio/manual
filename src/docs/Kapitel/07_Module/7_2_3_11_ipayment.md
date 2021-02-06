@@ -1,4 +1,4 @@
-# iPayment {#ipayment}
+# iPayment 
 
 **Note:**
 

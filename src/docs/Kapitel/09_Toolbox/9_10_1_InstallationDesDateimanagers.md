@@ -1,4 +1,4 @@
-# Installation des Dateimanagers {#dateimanager_installation_des_dateimanagers}
+# Installation des Dateimanagers 
 
 ## Hochladen auf den FTP-Server { .section}
 

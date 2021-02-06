@@ -1,4 +1,4 @@
-# Erfasste Daten und Auswahl der Quelle {#google_analytics_erfasste_daten_und_auswahl_der_quellen}
+# Erfasste Daten und Auswahl der Quelle 
 
 Hier werden alle Daten ausgegeben, die von Google Analytics getrackt wurden. In der oberen Menüleiste kann ausgewählt werden, welche Daten angezeigt werden sollen. Es ist die Auswahl nach Property \(Domain\), Art der Daten und Zeitraum möglich.
 

@@ -1,4 +1,4 @@
-# Funktionsübersicht des Dateimanagers {#dateimanager_funktionsuebersicht_des_dateimanagers}
+# Funktionsübersicht des Dateimanagers 
 
 Das Fenster des Dateimanagers besteht aus einem zentralen Bereich, in dem Dateien und Verzeichnisse angezeigt werden, sowie zwei Leisten über die Einstellungen vorgenommen werden können.
 

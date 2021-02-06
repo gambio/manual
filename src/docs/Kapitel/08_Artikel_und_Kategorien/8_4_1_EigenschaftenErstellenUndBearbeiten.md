@@ -1,4 +1,4 @@
-# Eigenschaften erstellen und bearbeiten {#artikeleigenschaften_eigenschaften_erstellen_und_bearbeiten}
+# Eigenschaften erstellen und bearbeiten 
 
 ![](Bilder/ArtikelEigenschaftenUebersicht.png "Übersicht der Eigenschaften unter _**Artikel >
       Artikeleigenschaften**_ im Gambio Admin")

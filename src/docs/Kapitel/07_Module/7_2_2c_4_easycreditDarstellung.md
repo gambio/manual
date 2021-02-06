@@ -1,4 +1,4 @@
-# Darstellung im Shop {#easycredit_darstellung_im_shop}
+# Darstellung im Shop 
 
 ## Anzeige des Widgets in der Preisbox auf der Artikeldetailseite { .section}
 

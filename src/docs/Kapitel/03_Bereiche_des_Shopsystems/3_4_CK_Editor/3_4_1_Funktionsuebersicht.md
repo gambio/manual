@@ -1,4 +1,4 @@
-# Funktionsübersicht {#funktionuebersicht}
+# Funktionsübersicht 
 
 Die meisten Funktionen ähneln denen von herkömmlichen Textverarbeitungen, es gibt aber auch speziellere Leistungsmerkmale. Die einzelnen Buttons bedeuten der Reihe nach von links nach rechts sowie von oben nach unten:
 

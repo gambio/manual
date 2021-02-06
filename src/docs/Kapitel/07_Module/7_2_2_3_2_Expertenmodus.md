@@ -1,4 +1,4 @@
-# Expertenmodus {#paypal2hub_weitere_einstellungen_expertenmodus}
+# Expertenmodus 
 
 Über den Expertenmodus sind weitergehende Einstellungen möglich.
 

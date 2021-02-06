@@ -1,4 +1,4 @@
-# IP-Logging {#ip_logging}
+# IP-Logging 
 
 Unter Shop Einstellungen \> Rechtliches stehen dir im Abschnitt IP-Logging Funktionen für das Speichern der IP Adresse deines Kunden beim Einloggen und Registrieren sowie bei Bestellungen zur Verfügung.
 

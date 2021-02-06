@@ -1,4 +1,4 @@
-# Rechnung \(InvoiceHub\) {#invoicehub}
+# Rechnung \(InvoiceHub\) 
 
 Installiere das Modul Rechnung um Zahlungen per Rechnung im Shop zu ermöglichen.
 

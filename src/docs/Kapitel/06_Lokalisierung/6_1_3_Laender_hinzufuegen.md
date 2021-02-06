@@ -1,4 +1,4 @@
-# Länder hinzufügen {#laender_hinzufuegen}
+# Länder hinzufügen 
 
 Wenn du den Versand in ein Land erlauben möchtest, das in der Liste nicht erfasst ist, füge das Land unter Shop Einstellungen \> Land/Steuer \> Länder hinzu.
 

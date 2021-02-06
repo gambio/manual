@@ -1,4 +1,4 @@
-# Kundenregistrierung {#kundenregistrierung}
+# Kundenregistrierung 
 
 ![](Bilder/Abb160_RegistrierungsformularInDerShopansicht.PNG "Registrierungsformular in der Shopansicht")
 

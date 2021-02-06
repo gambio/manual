@@ -1,4 +1,4 @@
-# Installation {#mailbeez_installation}
+# Installation 
 
 Das Mailbeez-Modul kann im Gambio Admin unter Module \> Modul-Center installiert werden. Wähle hierzu den Eintrag MailBeez aus der Liste aus und klicke auf die Schaltfläche Installieren, in der rechten, unteren Bildschirmecke.
 

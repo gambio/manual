@@ -1,4 +1,4 @@
-# Artikel bearbeiten {#quickedit_artikel_bearbeiten}
+# Artikel bearbeiten 
 
 Einzelne Artikel können direkt über die Optionen rechts vom Artikelnamen bearbeitet werden. Will man mehrere Artikel gleichzeitig bearbeiten, kann man diese über die Checkboxen auswählen und dann aus dem Dropdown unten oder dem kleinen Menü neben der Checkbox die Art der Bearbeitung auswählen.
 

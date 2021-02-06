@@ -1,4 +1,4 @@
-# Sonderangebote {#sonderangebote}
+# Sonderangebote 
 
 Mit Sonderangeboten bietest du ausgewählte Mengen eines Artikels zu einem Sonderpreis an. Sonderpreise können sowohl höher als auch geringer als der reguläre Artikelpreis sein.
 

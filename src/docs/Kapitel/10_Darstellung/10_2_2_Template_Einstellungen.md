@@ -1,4 +1,4 @@
-# Template-Einstellungen {#template_einstellungen}
+# Template-Einstellungen 
 
 Über Darstellung \> Template-Einstellungen kann das StyleEdit v3 gestartet werden. Klicke hierzu auf Shop im Bearbeitungsmodus laden.
 

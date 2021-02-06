@@ -1,4 +1,4 @@
-# DHL Services {#dhl_geschaeftskundenversand_dhl_services}
+# DHL Services 
 
 Unter dem folgenden Link kann man sich bei DHL über die verschiedenen Services informieren:
 

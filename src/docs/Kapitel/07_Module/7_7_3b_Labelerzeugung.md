@@ -1,4 +1,4 @@
-# Labelerzeugung {#dhl_geschaeftskundenversand_verwendung_labelerzeugung}
+# Labelerzeugung 
 
 ## Einfache Ansicht { .section}
 

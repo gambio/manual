@@ -1,4 +1,4 @@
-# Installation {#trusted_shops_kaeuferschutz_excellence_installation}
+# Installation 
 
 Das Modul für den Aufschlag der Käuferschutz-Gebühr kann unter Module \> Zusammenfassung installiert werden und bewirkt, dass die Gebühr für den Trusted Shops Käuferschutz in der Bestellzusammenfassung ausgegeben wird. Wähle hierzu den Eintrag Trusted Shops Käuferschutz Excellence \(ot\_tsexcellence\) aus der Liste aus und klicke auf die Schaltfläche Installieren, in der rechten, unteren Bildschirmecke. Nachdem das Modul installiert worden ist, kann es über Klick auf Bearbeiten konfiguriert werden.
 

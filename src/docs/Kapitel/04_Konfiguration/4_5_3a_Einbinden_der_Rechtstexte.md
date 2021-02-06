@@ -1,4 +1,4 @@
-# Einbinden der Rechtstexte {#einbinden_der_rechtstexte}
+# Einbinden der Rechtstexte 
 
 Zuallererst sollten die Rechtstexte zum Widerrufsrecht hinterlegt werden. Dies geschieht unter Darstellung \> Content Manager \> Elemente, hier stehen mehrere Contents zur Verfügung, über die die Widerrufstexte verwaltet werden. Hierzu zählen die Inhalte Widerrufsrecht 1 bis Widerrufsrecht 4 \(ID 3889896 bis 3889899\). Auf diese Contents kann der Widerrufstext, je nach thematischer Abgrenzung, verteilt werden. Er wird dann grafisch unterteilt in separaten Textboxen im Bestellvorgang angezeigt. Es ist nicht notwendig alle Contents zu verwenden, aber der Text muss in mindestens einem dieser Contents hinterlegt werden. Zusammenfassend für die Widerrufstexte steht der Content Widerrufsrecht & Muster-Widerrufsformular \(ID 3889895\) im Bereich Seiten des Content Managers, unter dem die einzelnen Widerrufstexte kombiniert werden und der ebenfalls eine Download-Möglichkeit für das Widerrufsformular beinhaltet.
 

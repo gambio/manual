@@ -1,4 +1,4 @@
-# Ersteinrichtung {#itrecht_konfiguration_ersteinrichtung}
+# Ersteinrichtung 
 
 Wechsele in den Reiter Konfiguration, um die Ersteinrichtung vorzunehmen und deinen Shop mit IT-Recht Kanzlei zu verbinden.
 

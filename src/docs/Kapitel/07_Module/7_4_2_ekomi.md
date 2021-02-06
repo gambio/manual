@@ -1,4 +1,4 @@
-# eKomi {#ekomi}
+# eKomi 
 
 -   **[Installation](7_4_2_1_Installation.md)**  
 

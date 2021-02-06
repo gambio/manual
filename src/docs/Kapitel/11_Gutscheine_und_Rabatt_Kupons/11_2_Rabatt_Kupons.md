@@ -1,4 +1,4 @@
-# Rabatt Kupons {#rabatt_kupons}
+# Rabatt Kupons 
 
 Mit Rabatt Kupons bietest du deinen Kunden eine Vergünstigung auf bestimmte Artikel oder Artikel aus bestimmten Kategorien an. Der Preisnachlass wird prozentual vom Warenwert berechnet oder als fester Betrag hinterlegt.
 

@@ -1,4 +1,4 @@
-# Einstellungen für die Trusted Shops-ID {#trusted_shops_einrichtung_einstellungen_fuer_die_trusted_shops_id}
+# Einstellungen für die Trusted Shops-ID 
 
 Rechts neben der Trusted Shops-ID befindet sich der Button bearbeiten über den weitere Einstellungen aufgerufen werden können.
 

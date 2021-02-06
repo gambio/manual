@@ -1,4 +1,4 @@
-# Sprachen {#sprachen}
+# Sprachen 
 
 -   **[Sprachen anlegen ab Shopversion 2.1](6_2_1_Sprachen_anlegen_ab_Shopversion_2_1.md)**  
 

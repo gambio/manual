@@ -1,4 +1,4 @@
-# Artikeldaten {#google_shopping_artikeldaten}
+# Artikeldaten 
 
 Über den Reiter Artikeldaten werden die Spalten des Export-Profils aufgeführt. Durch Setzen oder Entfernen des Hakens neben dem Spaltennamen kann festgelegt werden ob eine Spalte exportiert werden soll.
 

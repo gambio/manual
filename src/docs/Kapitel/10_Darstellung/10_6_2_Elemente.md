@@ -1,4 +1,4 @@
-# Elemente {#content_manager_elemente}
+# Elemente 
 
 Elemente sind Bestandteile einer anderen Seite. Zu den Seiten, welche mehrere Elemente verwenden, zählt vor allem die Startseite des Shops sowie der Content Widerrufsrecht & Muster-Widerrufsformular \(siehe Kapitel Verbraucherrechterichtlinie\).
 

@@ -1,4 +1,4 @@
-# Wer ist online? {#wer_ist_online}
+# Wer ist online? 
 
 Unter Statistiken \> Wer ist online? kannst du anzeigen, wer derzeit deinen Shop besucht. Dabei werden folgende Informationen aufgelistet:
 

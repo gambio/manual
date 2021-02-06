@@ -1,4 +1,4 @@
-# Empfangene Texte {#itrecht_konfiguration_empfangene_texte}
+# Empfangene Texte 
 
 Über diesen Abschnitt können die Rechtstexte in die Contents übernommen werden.
 

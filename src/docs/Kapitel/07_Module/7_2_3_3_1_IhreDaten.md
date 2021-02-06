@@ -1,4 +1,4 @@
-# Ihre Daten {#giro_connect_anmeldung_und_konfiguration_ihre_daten}
+# Ihre Daten 
 
 ![](Bilder/20180906_VKplus_003.png "Adressdaten des Shopbetreibers")
 

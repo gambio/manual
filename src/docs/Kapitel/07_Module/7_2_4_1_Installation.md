@@ -1,4 +1,4 @@
-# Installation {#bezahlen_ueber_amazon_installation}
+# Installation 
 
 ![](Bilder/amazonadv-20180920_001.png "Bezahlen mit Amazon unter Module > Zahlungsweisen >
       Sonstige")

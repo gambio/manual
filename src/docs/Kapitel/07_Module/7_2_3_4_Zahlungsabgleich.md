@@ -1,4 +1,4 @@
-# Zahlungsabgleich {#giro_connect_zahlungsabgleich}
+# Zahlungsabgleich 
 
 Bei Aufruf des Menüpunkts Bestellungen \> Zahlungsabgleich werden zuerst die Daten aktualisiert, unter Umständen wird erneut PIN/Kennwort zum hinterlegten Bankkonto abgefragt. Liegen noch keine Zahlungen und Vorkasse-Bestellungen vor, enthält die Seite nur Hilfetexte.
 

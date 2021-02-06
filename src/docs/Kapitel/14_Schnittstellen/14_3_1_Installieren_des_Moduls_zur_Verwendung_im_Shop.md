@@ -1,4 +1,4 @@
-# Installieren des Moduls zur Verwendung im Shop {#paypal_und_paypal_plus_installieren}
+# Installieren des Moduls zur Verwendung im Shop 
 
 ![](Bilder/Abb205_ModulPayPalPaypal3UnterModuleZahlungsweisen.png "Modul PayPal (paypal3) unter Module > Zahlungsweisen >
       Sonstige")

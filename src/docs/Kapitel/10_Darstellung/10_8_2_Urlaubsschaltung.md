@@ -1,4 +1,4 @@
-# Urlaubsschaltung {#shop_online_offline_urlaubsschaltung}
+# Urlaubsschaltung 
 
 Die Nachricht der Urlaubsschaltung kann wahlweise in einer sogenannten TopBar erfolgen, hierbei wird der Hinweis in einer Leiste am oberen Rand des Shopfensters angezeigt, oder in einem Popup-Fenster. Klicke jeweils auf den Reiter Top-Bar bzw. Pop-Up, um die jeweilige Einstellung vorzunehmen.
 

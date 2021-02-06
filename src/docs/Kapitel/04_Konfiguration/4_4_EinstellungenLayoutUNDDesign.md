@@ -1,4 +1,4 @@
-# Layout & Design {#einstellungen_layout_und_design}
+# Layout & Design 
 
 ## Layout & Design { .section}
 

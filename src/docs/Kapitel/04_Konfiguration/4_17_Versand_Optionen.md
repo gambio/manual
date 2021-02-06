@@ -1,4 +1,4 @@
-# Versand-Optionen {#versand_optionen}
+# Versand-Optionen 
 
 Unter Module \> Versandarten \> Versand-Optionen findest du folgende Einstellungsmöglichkeiten:
 

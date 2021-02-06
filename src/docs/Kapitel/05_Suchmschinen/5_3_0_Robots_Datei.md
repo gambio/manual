@@ -1,4 +1,4 @@
-# Robots-Datei {#robots_datei}
+# Robots-Datei 
 
 Die Robots-Datei enthält informationen für Suchmaschinen-Roboter darüber, welche Seiten deiner Internetseite nicht indexiert und in Suchmaschinen aufgelistet werden dürfen. Die Robots-Datei kann vom Shopsystem automatisch generiert werden. Die Datei wird während der Installations-Routine erstmalig automatisch erstellt.
 

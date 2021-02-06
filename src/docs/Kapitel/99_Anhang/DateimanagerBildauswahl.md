@@ -1,4 +1,4 @@
-# Auswahl des Bildes mit dem Responsive FileManager {#DateimanagerBildauswahl}
+# Auswahl des Bildes mit dem Responsive FileManager 
 
 Befindet sich das Bild bereits auf dem Server, kann es direkt ausgewählt werden:
 

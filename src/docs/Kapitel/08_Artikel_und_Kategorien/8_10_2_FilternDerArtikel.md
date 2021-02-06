@@ -1,4 +1,4 @@
-# Filtern der Artikel {#filtern_der_artikel}
+# Filtern der Artikel 
 
 In der oberen Leiste lassen sich verschiedene Filter setzen, um Artikel in der Liste besser finden zu können. Es können mehrere Kategorien ausgewählt und zugleich auch Suchbegriffe verwendet werden. Hierbei muss beachtet werden, dass einige Felder die Verwendung von Wildcards, also Platzhaltern, voraussetzen um die Suche nach Teilbegriffen zu ermöglichen.
 

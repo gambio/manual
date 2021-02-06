@@ -1,4 +1,4 @@
-# Willkommens-Rabatt Kupon {#willkommens_rabatt_kupon}
+# Willkommens-Rabatt Kupon 
 
 Das Shopsystem kann neuen Kunden mit der Registrierungsbestätigung einen Willkommens- Rabatt Kupon ausstellen. Der Kupon muss vom Kunden aktiv eingelöst werden, damit er verwendet werden kann. Beachte, dass du den Willkommens-Rabatt Kupon zuerst anlegen musst, bevor du den Code einträgst.
 

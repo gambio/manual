@@ -1,4 +1,4 @@
-# Motion-Blur \(Bewegungs-Effekt\) {#motion_blur}
+# Motion-Blur \(Bewegungs-Effekt\) 
 
 Mit der Motion-Blur-Funktion wird ein Ausschnitt des Artikelbilds nach unten rechts multipliziert. Durch die Wiederholung entsteht ein Bewegungs-Effekt.
 

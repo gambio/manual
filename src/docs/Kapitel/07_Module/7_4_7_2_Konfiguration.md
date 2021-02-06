@@ -1,4 +1,4 @@
-# Konfiguration {#findologic_konfiguration}
+# Konfiguration 
 
 Nach der Installation kann das Findologic-Modul konfiguriert werden. Rufe hierzu unter Module \> Modul-Center den Eintrag Findologic auf und klicke auf die Schaltfläche Bearbeiten, in der rechten, unteren Bildschirmecke.
 

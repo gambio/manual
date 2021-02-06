@@ -1,4 +1,4 @@
-# Konfiguration {#payone_konfiguration}
+# Konfiguration 
 
 -   **[Konfiguration der Bestellstatus](7_2_3_10_2_1_KonfigurationDerBestellstatus.md)**  
 

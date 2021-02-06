@@ -1,4 +1,4 @@
-# Grundlegende Informationen {#shopvote_grundlegende_informationen}
+# Grundlegende Informationen 
 
 Das ShopVote-Modul ist im Umfang der Cloud-Shops enthalten. Für selbst gehostete Shops mit Version 3.14.x bis 3.15.x steht das Modul bei Shopvote unter https://plugins.shopvote.de/shopvote-integrationsanleitung-fuer-gambio-gx3/ zum Download bereit.
 

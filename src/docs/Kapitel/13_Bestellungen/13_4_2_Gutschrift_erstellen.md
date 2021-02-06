@@ -1,4 +1,4 @@
-# Gutschrift erstellen {#gutschrift_erstellen}
+# Gutschrift erstellen 
 
 Eine direkte Gutschrift kann ohne Hilfsmittel, wie ein angebundenes Warenwirtschaftssystem, nicht erstellt werden. Für vollständige Stornierungen kannst du deinem Kunden unter Gutscheine \> Gutschein E-Mail einen Gutschein per E-Mail senden.
 

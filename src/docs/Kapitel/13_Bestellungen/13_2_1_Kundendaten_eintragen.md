@@ -1,4 +1,4 @@
-# Kundendaten eintragen {#bestellung_manuell_anlegen_kundendaten_eintragen}
+# Kundendaten eintragen 
 
 Bei einer vorhandenen Bestellung kannst du die Kundendaten, wie die Versand- und Rechnungsadresse, in der Bestell-Eingabemaske eintragen. Klicke auf der Detailseite der Bestellung im Bereich Bestellinformation auf Bearbeiten, um die Bestell-Eingabemaske aufzurufen.
 

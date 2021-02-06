@@ -1,4 +1,4 @@
-# Darstellung von Käuferschutz Exellence im Bestellvorgang {#trusted_shops_kaeuferschutz_excellence_darstellung}
+# Darstellung von Käuferschutz Exellence im Bestellvorgang 
 
 Auf der Bestellbestätigungsseite kann der Kunde sich entscheiden, ob er den Käuferschutz dazu buchen möchte.
 

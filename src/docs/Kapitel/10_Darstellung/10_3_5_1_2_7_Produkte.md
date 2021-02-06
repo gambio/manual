@@ -1,4 +1,4 @@
-# Produkte {#styleedit4_themes_theme_bearbeiten_menues_bereiche_produkte}
+# Produkte 
 
 ## Artikelbild { .section}
 

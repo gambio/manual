@@ -1,4 +1,4 @@
-# Verwendung {#ekomi_verwendung}
+# Verwendung 
 
 Das eKomi-Modul versendet die Bewertungs-E-Mails standardmäßig automatisch. Zusätzlich gibt es in den Bestelldetails die Option ekomi-E-Mail senden, über die der Versand ausgelöst werden kann.
 

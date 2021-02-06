@@ -1,4 +1,4 @@
-# Kategorien {#cookie_consent_bearbeiten_kategorien}
+# Kategorien 
 
 ![](Bilder/cookie_consent/cookieconsent_kategorien.png "Reiter Kategorien des Cookie
       Consent-Moduls")

@@ -1,4 +1,4 @@
-# Kontaktinformationen {#kontaktinformationen}
+# Kontaktinformationen 
 
 Zu den formalen Inhalten des Widerrufsformulars gehören auch die Kontaktinformationen. Sie werden unter Shop Einstellungen \> Mein Shop eingetragen.
 

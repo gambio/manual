@@ -1,4 +1,4 @@
-# Ampify {#ampify}
+# Ampify 
 
 Ampify hat die Aufgabe, von den Produktdetailseiten im Shop reduzierte Versionen bereitzustellen, die dann auf Mobilgeräten schneller geladen werden können. Diese Seiten sind reduziert auf Produktbilder und Beschreibung und enthalten einen Link zum Shop.
 

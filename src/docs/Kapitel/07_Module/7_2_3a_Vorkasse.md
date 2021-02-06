@@ -1,4 +1,4 @@
-# Vorkasse {#vorkasse}
+# Vorkasse 
 
 Bei der Zahlung per Vorkasse wird deinem Kunden nach dem Aufgeben der Bestellung in der Bestellbestätigung deine Kontoverbindung und eine Zahlungsaufforderung übermittelt. Der Versand der Ware erfolgt bei dieser Zahlungsweise in der Regel nach der Gutschrift auf deinem Konto.
 

@@ -1,4 +1,4 @@
-# Konfiguration {#besucherstatistik_konfiguration}
+# Konfiguration 
 
 Unter dem Reiter Konfiguration hast du die Möglichkeit den Startwert für deinen Besucherzähler festzulegen. Dies kann z.B. dann nützlich sein, wenn du mit deinem Shop umgezogen bist bzw. diesen neu installiert hast. So kann der Zählerstand des alten Shops manuell eingetragen und somit weitergeführt werden.
 

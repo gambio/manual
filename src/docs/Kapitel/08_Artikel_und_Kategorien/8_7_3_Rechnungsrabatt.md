@@ -1,4 +1,4 @@
-# Rechnungsrabatt {#rechnungsrabatt}
+# Rechnungsrabatt 
 
 Mit dem Rechnungsrabatt kannst du unter Kunden \> Kundengruppen einer Kundengruppe einen prozentualen Rabatt auf den gesamten Bestellwert gewähren. Im Gegensatz zum Artikelrabatt gilt der Rechnungsrabatt für alle Artikel im Warenkorb. Der aktuell zugewiesene Rechnungsrabatt steht in der Übersicht in der Spalte Rabatt.
 

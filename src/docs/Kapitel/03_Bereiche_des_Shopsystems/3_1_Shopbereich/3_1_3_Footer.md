@@ -1,4 +1,4 @@
-# Footer {#footer}
+# Footer 
 
 ![](Bilder/Abb012_Footer_.png "Footer")
 

@@ -1,4 +1,4 @@
-# Datei mit Tabellenkalkulation bearbeiten {#datei_mit_tabellenkalkulation_bearbeiten}
+# Datei mit Tabellenkalkulation bearbeiten 
 
 ## Datei öffnen { .section}
 

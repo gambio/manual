@@ -1,4 +1,4 @@
-# Statische Seiten {#statische_seiten}
+# Statische Seiten 
 
 Statische Seiten bezeichnet Teiles des Shops, die mit vordefiniertem Inhalt gefüllt werden und daher nicht frei konfiguriert werden können. Unter Shop Einstellungen \> SEO \> Statische Seiten kann festgelegt werden ob diese Seiten in die Sitemap respektive die Robots- Datei aufgenommen werden sollen. Diese sind der Reihe nach:
 

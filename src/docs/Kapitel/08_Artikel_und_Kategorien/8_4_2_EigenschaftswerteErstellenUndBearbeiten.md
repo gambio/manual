@@ -1,4 +1,4 @@
-# Eigenschaftswerte erstellen und bearbeiten {#artikeleigenschaften_eigenschaftswerte_erstellen_und_bearbeiten}
+# Eigenschaftswerte erstellen und bearbeiten 
 
 ## Eigenschaftswert hinzufügen { .section}
 

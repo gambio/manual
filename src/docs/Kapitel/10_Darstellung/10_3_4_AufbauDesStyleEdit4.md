@@ -1,4 +1,4 @@
-# Aufbau des StyleEdit 4 {#styleedit4_themes_aufbau}
+# Aufbau des StyleEdit 4 
 
 Das StyleEdit lässt sich in vier Bestandteile unterteilen:
 

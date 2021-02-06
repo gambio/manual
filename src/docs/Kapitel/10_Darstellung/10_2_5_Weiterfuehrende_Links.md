@@ -1,4 +1,4 @@
-# Weiterführende Links {#template_einstellungen_weiterfuehrende_links}
+# Weiterführende Links 
 
 Ergänzend zu den bisherigen Unterkapiteln findest du im Gambio Blog Tutorien zu verschiedenen Themen, rund um das StyleEdit v3. Nachfolgend findest du die entsprechenden Links \(letzter Aufruf 08.08.2018\):
 

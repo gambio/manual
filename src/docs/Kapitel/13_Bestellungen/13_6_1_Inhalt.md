@@ -1,4 +1,4 @@
-# Inhalt {#rechnung_und_lieferschein_konfigurieren_inhalt}
+# Inhalt 
 
 Auf der Registerkarte Inhalt kannst du Inhalte vorgeben, die auf allen Rechnungen erscheinen sollen.
 

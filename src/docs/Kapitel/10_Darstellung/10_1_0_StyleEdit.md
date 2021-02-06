@@ -1,4 +1,4 @@
-# StyleEdit {#darstellung_styleedit}
+# StyleEdit 
 
 CAUTION:
 

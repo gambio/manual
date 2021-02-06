@@ -1,4 +1,4 @@
-# Globale Parameter {#payone_konfiguration_globale_parameter}
+# Globale Parameter 
 
 Hier werden die Login-Daten zu Payone hinterlegt.
 

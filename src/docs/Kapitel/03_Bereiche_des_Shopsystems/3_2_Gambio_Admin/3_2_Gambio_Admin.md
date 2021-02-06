@@ -1,4 +1,4 @@
-# Gambio Admin {#gambio_admin}
+# Gambio Admin 
 
 ![](Bilder/Abb013_GambioAdmin.PNG "Gambio Admin")
 

@@ -1,4 +1,4 @@
-# Artikel anlegen {#artikel_anlegen}
+# Artikel anlegen 
 
 Neue Artikel kannst du in der Artikel- und Kategorieübersicht unter Artikel \> Artikel/Kategorien hinzufügen. Neue Artikel werden immer in der Kategorie angelegt, die in der Übersicht aufgelistet wird. Im Listenfeld Gehe zu oberhalb der Artikel- und Kategorieliste wird dir die aktive Kategorie angezeigt.
 

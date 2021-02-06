@@ -1,4 +1,4 @@
-# Kreditkartenzahlung via Computop Paygate {#computop_paygate}
+# Kreditkartenzahlung via Computop Paygate 
 
 **Note:**
 

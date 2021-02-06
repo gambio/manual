@@ -1,4 +1,4 @@
-# Rollen und Berechtigungen {#rollen_und_berechtigungen}
+# Rollen und Berechtigungen 
 
 Mit Rollen und Berechtigungen werden ab Shopversion 3.9 die Zugriffsrechte für Administratoren gesteuert. Für jede Rolle können die einzelnen Rechte individuell eingestellt werden. Die Rolle kann wiederum den jeweiligen Administrator-Konten zugeordnet werden.
 

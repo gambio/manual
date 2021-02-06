@@ -1,4 +1,4 @@
-# Newsletter bearbeiten {#toolbox_newsletter_newsletter_bearbeiten}
+# Newsletter bearbeiten 
 
 Um einen Newsletter nachträglich zu bearbeiten, klicke in der mittleren Tabelle auf den zugehörigen Titel. Über die Schaltfläche Bearbeiten wird der Newsletter erneut geöffnet, die Ansicht entspricht dem erneuten Erstellen eines Newsletters.
 

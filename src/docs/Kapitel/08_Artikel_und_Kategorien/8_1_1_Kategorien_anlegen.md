@@ -1,4 +1,4 @@
-# Kategorie anlegen {#kategorien_anlegen}
+# Kategorie anlegen 
 
 In der Artikel- und Kategorieübersicht unter Artikel \> Artikel/Kategorien kannst du neue Kategorien über die Schaltfläche Erstellen \> Kategorie hinzufügen. Neue Kategorien werden immer in der Kategorie angelegt, die in der Übersicht aufgelistet wird. Im Listenfeld Gehe zu oberhalb der Artikel- und Kategorieliste wird dir die aktive Kategorie angezeigt.
 

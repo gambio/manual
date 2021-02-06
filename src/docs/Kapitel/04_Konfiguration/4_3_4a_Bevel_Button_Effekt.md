@@ -1,4 +1,4 @@
-# Bevel \(Button-Effekt\) {#bevel}
+# Bevel \(Button-Effekt\) 
 
 Mit der Bevel-Funktion werden Artikelbilder erhaben dargestellt und wirken dadurch wie eine Schaltfläche.
 

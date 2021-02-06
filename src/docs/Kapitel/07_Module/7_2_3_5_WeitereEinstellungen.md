@@ -1,4 +1,4 @@
-# Weitere Einstellungen {#giro_connect_weitere_einstellungen}
+# Weitere Einstellungen 
 
 Ist GiroConnect eingerichtet, findet man dort einen weiteren Tab Weitere Einstellungen, der wiederrum auf 6 Tabs aufgeteilt ist.
 

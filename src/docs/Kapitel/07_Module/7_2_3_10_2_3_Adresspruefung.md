@@ -1,4 +1,4 @@
-# Adressprüfung {#payone_konfiguration_adresspruefung}
+# Adressprüfung 
 
 Die Adressprüfung dient zur Verfikation der eingebenen Adressen im Checkout.
 

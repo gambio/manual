@@ -1,4 +1,4 @@
-# Label in Länder außerhalb der EU erstellen {#dhl_geschaeftskundenversand_verwendung_label_ausserhalb_eu}
+# Label in Länder außerhalb der EU erstellen 
 
 Bei Sendungen in Länder außerhalb der EU gilt es, die Ausfuhrangaben bei der Labelerstellung korrekt zu tätigen.
 

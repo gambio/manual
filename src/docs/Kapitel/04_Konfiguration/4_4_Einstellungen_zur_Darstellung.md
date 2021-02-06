@@ -1,4 +1,4 @@
-# Einstellungen zur Darstellung {#einstellungen_zur_darstellung}
+# Einstellungen zur Darstellung 
 
 An mehreren Stellen unter dem Menüpunkt Shop Einstellungen kannst du allgemeine Einstellungen zu Darstellungsoptionen deines Shops vornehmen. Einstellungen zum Aussehen deines Shops nimmst du mit dem Zusatzmodul StyleEdit vor. Nähere Informationen zu StyleEdit erhältst du im Kapitel Darstellung.
 

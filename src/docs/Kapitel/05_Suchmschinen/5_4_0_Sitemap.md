@@ -1,4 +1,4 @@
-# Sitemap {#sitemap}
+# Sitemap 
 
 Mit der SEO Funktion Sitemap Generator unter Shop Einstellungen \> SEO \> Sitemap Generator kannst du eine Sitemap für Suchmaschinen erstellen. Eine Sitemap enthält eine strukturierte Auflistung aller Seiten wie Artikel-Detailseiten, Kategorieseiten und Contents deines Shops. Zu jeder Seite deines Shops werden in einer Sitemap für Suchmaschinen zudem Meta-Informationen gespeichert. Sitemap-Dateien werden von vielen Suchmaschinen für die Anmeldung oder für besondere Suchmaschinen-Funktionen vorausgesetzt.
 

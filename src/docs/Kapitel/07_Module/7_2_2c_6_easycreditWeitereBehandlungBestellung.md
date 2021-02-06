@@ -1,4 +1,4 @@
-# Weitere Behandlung der Bestellung {#easycredit_weitere_behandlung_der_bestellung}
+# Weitere Behandlung der Bestellung 
 
 In den Bestelldetails der easyCredit-Bestellung findet sich nun ein Block mit Zahlungsinformationen. Hierüber kann die Lieferung oder auch Rückgaben und komplette Widerrufe an easyCredit übermittelt werden.
 

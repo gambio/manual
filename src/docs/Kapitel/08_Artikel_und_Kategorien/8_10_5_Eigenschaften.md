@@ -1,4 +1,4 @@
-# Eigenschaften {#quickedit_eigenschaften}
+# Eigenschaften 
 
 Will man die Eigenschaften mehrerer Artikel bearbeiten, so kann man im Dropdown Eigenschaften auswählen. Es öffnet sich ein Fenster, in dem die angelegten Eigenschaftskombinationen aufgeführt werden. Die Bearbeitung erfolgt hier genauso wie in der Artikelübersicht des QuickEdit.
 

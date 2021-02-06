@@ -1,4 +1,4 @@
-# Einstellungen für die Artikelübersicht {#template_konfiguration_einstellungen_fuer_die_artikeluebersicht}
+# Einstellungen für die Artikelübersicht 
 
 |Feldname|Beschreibung|
 |--------|------------|

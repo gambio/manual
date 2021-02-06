@@ -1,4 +1,4 @@
-# Länder deaktivieren {#laender_deaktivieren}
+# Länder deaktivieren 
 
 Länder, die Kunden beim Anlegen einer Adresse nicht mehr auswählen dürfen, müssen einzeln deaktiviert werden.
 

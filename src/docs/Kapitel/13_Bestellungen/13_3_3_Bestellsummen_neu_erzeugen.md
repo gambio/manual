@@ -1,4 +1,4 @@
-# Bestellsummen neu erzeugen {#bestellung_bearbeiten_bestellsummen_neu_erzeugen}
+# Bestellsummen neu erzeugen 
 
 Die Bestellsummen kannst du auf der Bestell-Eingabemaske erzeugen. Klicke auf der Detailseite der Bestellung auf Bearbeiten, um die Bestell-Eingabemaske aufzurufen
 

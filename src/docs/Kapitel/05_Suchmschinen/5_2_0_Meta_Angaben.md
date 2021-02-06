@@ -1,4 +1,4 @@
-# Meta-Angaben {#meta_angaben}
+# Meta-Angaben 
 
 Unter Shop Einstellungen \> SEO \> Meta-Angaben können die bestehenden Einstellungen zu den Meta-Informationen deines Shops eingesehen, bearbeitet und ergänzt werden.
 

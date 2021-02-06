@@ -1,4 +1,4 @@
-# Manuelle Datensicherung {#manuelle_datensicherung}
+# Manuelle Datensicherung 
 
 Die im Kapitel Datensicherung beschriebenen Funktionen können aus technischen Gründen nur bis zu einem serverabhängigen Shopumfang verwendet werden. Sollte die Verwendung dieser Funktionen bei dir zu Fehlern führen, müssen Datensicherungen manuell angelegt werden.
 

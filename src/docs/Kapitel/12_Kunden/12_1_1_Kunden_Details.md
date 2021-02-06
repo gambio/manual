@@ -1,4 +1,4 @@
-# Kunden-Details {#kunden_details}
+# Kunden-Details 
 
 Über den Bereich Kunden \> Kunden \> Kunden-Details wird die Zusammenstellung des Registrierungsformulars festgelegt und die Art der anlegbaren Kundenkonten konfiguriert.
 

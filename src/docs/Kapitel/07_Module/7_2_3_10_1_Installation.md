@@ -1,4 +1,4 @@
-# Installation {#payone_installation}
+# Installation 
 
 Die Payone-Zahlungsweisen können unter Module \> Zahlungsweisen \> Sonstige installiert werden. Klicke hierzu zunächst auf den Eintrag PAYONE hinter dem Plus-Zeichen, es wird die Liste der verfügbaren Payone-Module aufgeklappt. Wähle jeweils die Modul-Einträge aus, die den Zahlungsweisen entsprechen, welche du anbieten möchtest und verwende die Schaltfläche Installieren. Über Deinstallieren kann die jeweilige Zahlungsweise wieder aus dem Bestellvorgang entfernt werden.
 

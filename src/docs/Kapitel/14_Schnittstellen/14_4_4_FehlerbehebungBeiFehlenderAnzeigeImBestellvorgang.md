@@ -1,4 +1,4 @@
-# Fehlerbehebung bei fehlender Anzeige im Bestellvorgang {#ratenzahlung_powered_by_paypal_fehlerbehebung}
+# Fehlerbehebung bei fehlender Anzeige im Bestellvorgang 
 
 Die Anzeige der Zahlungsweise Ratenzahlung Powered by PayPal im Bestellvorgang hängt von verschiedenen Voraussetzungen ab:
 

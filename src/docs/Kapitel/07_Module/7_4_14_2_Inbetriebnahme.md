@@ -1,4 +1,4 @@
-# Inbetriebnahme {#ampify_inbetriebnahme}
+# Inbetriebnahme 
 
 Für die Inbetriebnahme müssen mehrere Schritte durchlaufen werden.
 

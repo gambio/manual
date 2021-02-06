@@ -1,4 +1,4 @@
-# Installation {#gambio_secured_payments_installation}
+# Installation 
 
 Das Modul kann im Gambio Admin unter Module \> Zahlungsweisen \> Gambio Payment Hub installiert werden. Bewege hierzu deinen Mauszeiger über den Eintrag, es wird die Schaltfläche Installieren angezeigt.
 

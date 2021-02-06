@@ -1,4 +1,4 @@
-# Tagesabschlussliste {#mydpd_iloxx_tagesabschlussliste}
+# Tagesabschlussliste 
 
 Hierüber kann eine Liste der am gewählten Tag erstellten Label erzeugt werden.
 

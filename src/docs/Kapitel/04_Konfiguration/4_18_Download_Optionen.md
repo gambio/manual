@@ -1,4 +1,4 @@
-# Download-Optionen {#download_optionen}
+# Download-Optionen 
 
 Unter Shop Einstellungen \> Download-Optionen können die Grundeinstellungen für den Verkauf von Download-Artikeln vorgenommen werden. Es stehen der Reihe nach folgende Konfigurationsmöglichkeiten zur Verfügung:
 

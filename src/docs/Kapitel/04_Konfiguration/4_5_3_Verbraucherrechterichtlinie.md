@@ -1,4 +1,4 @@
-# Verbraucherrechterichtlinie {#verbraucherrechterichtline}
+# Verbraucherrechterichtlinie 
 
 Mit Inkrafttreten der Verbraucherrechterichtlinie hat es im Shop zahlreiche Veränderungen gegeben. Dieser Teil des Handbuches zeigt dir in einer Schritt-Für-Schritt-Anleitung, wie sich die einzelnen Komponenten einstellen lassen.
 

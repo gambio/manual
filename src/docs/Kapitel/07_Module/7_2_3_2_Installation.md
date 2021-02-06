@@ -1,4 +1,4 @@
-# Installation {#giro_connect_installation}
+# Installation 
 
 GiroConnect wird über die Module Vorkasse \(MoneyOrderHub\) und Rechnung \(InvoiceHub\) des Gambio Payment Hubs aktiviert. Die Module können im Gambio Admin unter Module \> Zahlungsweisen im Reiter Gambio Payment Hub installiert werden. Bitte beachte, dass GiroConnect nur in Shops mit aktuellem Hub-Connector zur Verfügung steht. Der Hub-Connector kann unter Toolbox \> AutoUpdater bzw. den Menüpunkt Gambio Store im Gambio Admin aktualisiert werden.
 

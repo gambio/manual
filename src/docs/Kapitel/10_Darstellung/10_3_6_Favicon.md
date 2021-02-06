@@ -1,4 +1,4 @@
-# Favicon {#logo_manager_favicon}
+# Favicon 
 
 Das Favicon wird in der Adressleiste des Browsers eingebunden, bei den meisten Browsern steht das Favicon links neben der URL. Das Favicon kannst du im Gambio Admin unter Darstellung \> Logo Manager auf der Registerkarte Favicon hochladen.
 

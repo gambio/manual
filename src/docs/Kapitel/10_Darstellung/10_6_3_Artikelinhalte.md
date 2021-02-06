@@ -1,4 +1,4 @@
-# Artikelinhalte {#content_manager_artikelinhalte}
+# Artikelinhalte 
 
 Artikelinhalte, auch Artikelcontents genannt, können einem Artikel als zusätzlicher Download zugeordnet werden. Dies eignet sich beispielsweise dazu zu einem Produkt eine PDF-Anleitung zum Download anbieten zu können.
 

@@ -1,4 +1,4 @@
-# Sendungsnummer zuordnen {#sendungsnummer_zuordnen}
+# Sendungsnummer zuordnen 
 
 Um einen Paketdienst einer Bestellung zuzuordnen, gehe bitte im Gambio Admin in das Menü Bestellungen \> Bestellungen. Wähle die Bestellung durch einen Klick aus, sodass sie blau hinterlegt ist und klicke auf das Augen-Symbol, um die Bestellung aufzurufen.
 

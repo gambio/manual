@@ -1,4 +1,4 @@
-# StyleEdit 4 aufrufen {#styleedit4_themes_styleedit4_aufrufen}
+# StyleEdit 4 aufrufen 
 
 Das StyleEdit 4 kann unter Darstellung \> Template-Einstellungen aufgerufen werden:
 

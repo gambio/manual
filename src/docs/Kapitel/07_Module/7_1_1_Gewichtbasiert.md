@@ -1,4 +1,4 @@
-# Gewichtbasiert {#gewichtbasiert}
+# Gewichtbasiert 
 
 Im Grundumfang des Systems stehen hauptsächlich Versandarten zur Verfügung, über die die Versandkosten anhand des Gesamtgewichts der Bestellung ermittelt werden. Einige Versandarten bieten mehrere Zonen für die Versandkosten-Staffelung an, sodass die Versandkosten für unterschiedliche Lieferzonen konfiguriert werden können.
 

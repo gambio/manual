@@ -1,4 +1,4 @@
-# SEPA-Lastschriftverfahren {#sepa_lastschriftverfahren}
+# SEPA-Lastschriftverfahren 
 
 Bei der Zahlungsweise SEPA-Lastschriftverfahren übermittelt dein Kunde dir mit Absenden der Bestellung seine Bankdaten mit dem Einverständnis, dass du den fälligen Rechnungsbetrag von seinem Bankkonto abbuchst.
 

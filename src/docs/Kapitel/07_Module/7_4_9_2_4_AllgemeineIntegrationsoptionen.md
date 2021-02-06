@@ -1,4 +1,4 @@
-# Allgemeine Integrationsoptionen {#trusted_shops_einrichtung_allgemeine_integrationsoptionen}
+# Allgemeine Integrationsoptionen 
 
 ![](Bilder/trusted_shops/TS-2016-12-14_005.png "Allgemeine Integrationsoptionen")
 

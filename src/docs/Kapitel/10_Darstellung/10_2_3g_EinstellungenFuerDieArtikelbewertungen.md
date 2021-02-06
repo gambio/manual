@@ -1,4 +1,4 @@
-# Einstellungen für die Artikelbewertungen {#template_konfiguration_einstellungen_fuer_die_artikelbewertungen}
+# Einstellungen für die Artikelbewertungen 
 
 |Feldname|Beschreibung|
 |--------|------------|

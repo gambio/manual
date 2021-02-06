@@ -1,4 +1,4 @@
-# Checkout {#styleedit4_themes_theme_bearbeiten_menues_bereiche_checkout}
+# Checkout 
 
 ## Allgemein { .section}
 

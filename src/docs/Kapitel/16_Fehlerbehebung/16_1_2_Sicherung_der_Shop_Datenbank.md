@@ -1,4 +1,4 @@
-# Sicherung der Shop-Datenbank {#manuelle_datensicherung_shop_datenbank}
+# Sicherung der Shop-Datenbank 
 
 Viele Hosting-Provider bieten zur Verwaltung von MySQL-Datenbanken die Software phpMyAdmin an, die in der Regel über das Kundenportal des Providers aufgerufen werden kann. Mit phpMyAdmin kann die komplette Datenbank gesichert und zu einem späteren Zeitpunkt bei Bedarf wieder eingespielt werden.
 

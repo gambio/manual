@@ -1,4 +1,4 @@
-# Rabatte {#rabatte}
+# Rabatte 
 
 ## Rabatt Kupons { .section}
 

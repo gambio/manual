@@ -1,4 +1,4 @@
-# Mengeneinheiten {#mengeneinheiten}
+# Mengeneinheiten 
 
 1.  Lege im Gambio Admin unter Artikel \> Mengeneinheiten die benötigten Mengeneinheiten an
 2.  Wähle unter Artikel \> Artikel/Kategorien in der Eingabemaske des gewünschten Artikels aus der Liste Mengeineheit die gewünschte Mengeneinheit aus

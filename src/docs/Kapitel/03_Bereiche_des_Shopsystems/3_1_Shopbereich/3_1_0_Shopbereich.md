@@ -1,4 +1,4 @@
-# Shopbereich {#shopbereich}
+# Shopbereich 
 
 ![](Bilder/Abb008a_UbersichtOben___.png "Shopbereich")
 

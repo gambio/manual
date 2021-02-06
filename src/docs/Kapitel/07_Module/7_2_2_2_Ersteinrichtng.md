@@ -1,4 +1,4 @@
-# Ersteinrichtung {#paypal2hub_ersteinrichtung}
+# Ersteinrichtung 
 
 Über den Ersteinrichtungsdialog wird wird der Shop mit deinem PayPal-Konto verknüpft.
 

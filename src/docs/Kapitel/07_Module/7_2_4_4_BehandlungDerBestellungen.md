@@ -1,4 +1,4 @@
-# Behandlung der Bestellungen {#bezahlen_ueber_amazon_behandlung_der_bestellung}
+# Behandlung der Bestellungen 
 
 Bei Bestellungen mit der Zahlungsweise Bezahlen über Amazon gibt es in den Bestelldetails einen zusätzlichen Abschnitt, über den verschiedene Funktionen ausgelöst werden können:
 

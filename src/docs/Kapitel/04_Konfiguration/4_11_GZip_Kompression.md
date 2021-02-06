@@ -1,4 +1,4 @@
-# Performance {#gzip_kompression}
+# Performance 
 
 Die Gzip-Kompression dient der Verbesserung der Ladezeiten und kann verwendet werden, um die Seitenaufbaugeschwindikeit zu optimieren. Um die GZip-Kompression zu verwenden, aktiviere unter Shop Einstellungen \> System Einstellungen \> Performance die Einstellung GZip Kompression einschalten.
 

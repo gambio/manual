@@ -1,4 +1,4 @@
-# Konfiguration des G-Protectors {#konfiguration_des_gprotectors}
+# Konfiguration des G-Protectors 
 
 Die Grundeinstellungen des G-Protectors sind bereits mit dem Kopieren des zugehörigen Ordners in das Shopverzeichnis abgeschlossen. Darüber hinaus besteht die Möglichkeit IP-Adressen zu sperren.
 

@@ -1,4 +1,4 @@
-# Seiten {#content_manager_seiten}
+# Seiten 
 
 Die hier angelegten Inhalte stellen eigenständige Seiten dar, die alleine für sich aufgerufen werden können. Der Shop bringt hier eine ganze Auswahl vorgegebener Seiten mit, die ihren eigenen Verwendungszweck haben, z.B. AGB, Impressum, Widerrufsrecht & Muster- Widerrufsformular und dergleichen mehr.
 

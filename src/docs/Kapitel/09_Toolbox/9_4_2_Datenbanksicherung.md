@@ -1,4 +1,4 @@
-# Datenbanksicherung {#toolbox_datensicherung_datenbanksicherung}
+# Datenbanksicherung 
 
 **Note:** Diese Sicherungs-Funktion ist stark serverabhängig. Wenn bestimmte Voraussetzungen nicht gegeben sind, kann es hier zu Fehlern kommen. In diesem Fall sollte eine manuelle Sicherung angelegt werden, wie im Kapitel Manuelle Datensicherung beschrieben.
 

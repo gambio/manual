@@ -1,4 +1,4 @@
-# Verwendung {#dhl_geschaeftskundenversand_verwendung}
+# Verwendung 
 
 -   **[Verwendung](7_7_3a_Verwendung.md)**  
 

@@ -1,4 +1,4 @@
-# Statistiken löschen {#statistiken_loeschen}
+# Statistiken löschen 
 
 Über den Reiter Statistiken löschen können bei Bedarf die shopeigenen Statistiken geleert werden. Dies kann z.B. dann sinnvoll sein, wenn auf Basis einer bestehenden Shopdatenbank ein neuer Shop erstellt worden ist.
 

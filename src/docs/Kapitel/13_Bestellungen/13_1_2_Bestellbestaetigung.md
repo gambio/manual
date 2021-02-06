@@ -1,4 +1,4 @@
-# Bestellbestätigung {#bestellbestaetigung}
+# Bestellbestätigung 
 
 Die Bestellbestätigung wird in der Grundkonfiguration automatisch nach dem Eingang einer Bestellung an den Kunden und an die unter Kunden \> E-Mails \> E-Mail-Optionen im Feld Verrechnung - Weiterleitungsadressen hinterlegten E-Mail Adressen geschickt. Wenn zu einer Bestellung vom Shopsystem keine Bestellbestätigung versendet wurde, wird die betroffene Bestellung in der Bestellübersicht unter Bestellungen \> Bestellungen mit einem Briefumschlag-Symbol markiert.
 

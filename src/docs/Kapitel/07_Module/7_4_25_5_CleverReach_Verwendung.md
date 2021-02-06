@@ -1,4 +1,4 @@
-# Verwendung {#cleverreach_verwendung}
+# Verwendung 
 
 Die Funktionen des Moduls beschränken sich auf die Zuweisung der Gruppen und auf die anderen oben erwähnten Einstellungen. Die Anlage von Mailings sowie deren Versand erfolgt über das Kundenkonto bei CleverReach.
 

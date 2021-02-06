@@ -1,4 +1,4 @@
-# Konfiguration {#janolaw_konfiguration}
+# Konfiguration 
 
 Über den Button Bearbeiten kann man die Moduleinstellungen aufrufen. Es wird der Inhalt des ersten Tabs AGB Hosting Service angezeigt, der über die Anmeldung bei Janolaw informiert. Im zweiten Reiter findet die Konfiguration des Moduls selbst statt.
 

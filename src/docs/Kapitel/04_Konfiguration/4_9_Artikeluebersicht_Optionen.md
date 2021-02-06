@@ -1,4 +1,4 @@
-# Artikelübersicht-Optionen {#artikeluebersicht_optionen}
+# Artikelübersicht-Optionen 
 
 Unter Shop Einstellungen \> Mein Shop hast du die Möglichkeit, die Anzeige des Hersteller- und Kategorie-Filters an- bzw. abzuschalten. Trage hierzu in das Eingabefeld Hersteller- und Kategorie-Filter anzeigen? eine 1 \(aktivieren\) bzw. eine 0 \(deaktivieren\) ein, um die Anzeige des Kategorie- bzw. Hersteller-Dropdowns in der Artikelübersicht zu steuern. Bestätige deine Eingabe mit einem Klick auf Speichern.
 

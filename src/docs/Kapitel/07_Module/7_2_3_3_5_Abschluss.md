@@ -1,4 +1,4 @@
-# Abschluss {#giro_connect_anmeldung_und_konfiguration_abschluss}
+# Abschluss 
 
 ![](Bilder/20180906_VKplus_015.png "Anzeige bei abgeschlossener Konfiguration")
 

@@ -1,4 +1,4 @@
-# Versandkostenfrei {#versandkostenfrei}
+# Versandkostenfrei 
 
 Für kostenfreie Lieferungen stehen dir zwei Methoden zur Verfügung:
 

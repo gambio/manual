@@ -1,4 +1,4 @@
-# Tabs bearbeiten und löschen {#tabs_bearbeiten_und_loeschen}
+# Tabs bearbeiten und löschen 
 
 Angelegte Tabs können nachträglich bearbeitet werden. Bearbeite hierzu den Artikel, wie bereits beschrieben und scrolle zum Bereich Tabs, unterhalb der Artikelbeschreibung. Die Tabs werden untereinander aufgeführt, auf der rechten Seite dieser Liste findest du zwei Symbole: einen Bleistift und einen Mülleimer. Über das Stift-Symbol lässt sich der Tab bearbeiten, es öffnet sich das bekannte Eingabefenster mit dem Inhalt des Tabs.
 

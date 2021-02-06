@@ -1,4 +1,4 @@
-# Menüboxen {#styleedit4_themes_theme_bearbeiten_menues_bereiche_menueboxen}
+# Menüboxen 
 
 ## Kopfzeile { .section}
 

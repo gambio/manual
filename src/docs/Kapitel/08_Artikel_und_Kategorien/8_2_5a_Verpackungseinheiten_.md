@@ -1,4 +1,4 @@
-# Verpackungseinheiten {#verpackungseinheiten}
+# Verpackungseinheiten 
 
 Mit Verpackungseinheiten \(VPE\) wird angegeben in welchen Einheiten ein Artikel verkauft wird, wie z.B. Stück, Liter, Kilogramm usw. Diese Angabe wird für die Grundpreisangabe benötigt.
 

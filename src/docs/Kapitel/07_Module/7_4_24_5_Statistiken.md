@@ -1,4 +1,4 @@
-# Statistiken {#relevanz_statistiken}
+# Statistiken 
 
 In den Statistiken finden sich drei neue Bereiche:
 

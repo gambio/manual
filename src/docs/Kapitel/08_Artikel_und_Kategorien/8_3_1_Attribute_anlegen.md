@@ -1,4 +1,4 @@
-# Attribute anlegen {#attribute_anlegen}
+# Attribute anlegen 
 
 Mit Artikelattributen kannst du Variationen deiner Artikel erstellen. Zu jedem Artikelattribut kannst du beliebig viele Optionswerte anlegen. Jedem Optionswert kann zusätzlich ein Attribut-Bild zugewiesen werden, das im Shopbereich unterhalb der Attributauswahl auf der Artikel-Detailseite angezeigt wird. Beachte, dass das Attribut-System nicht an das Imageprocessing angeschlossen ist und Attribut-Bilder daher unverändert angezeigt werden.
 

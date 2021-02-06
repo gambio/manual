@@ -1,4 +1,4 @@
-# Spaltenaufteilung {#styleedit4_themes_theme_bearbeiten_menues_bereiche_spaltenaufteilung}
+# Spaltenaufteilung 
 
 ![](Bilder/styleedit4/se4_0073_BereicheSpaltenaufteilung.png "Unterabschnitte unter Bereiche /
       Spaltenaufteilung")

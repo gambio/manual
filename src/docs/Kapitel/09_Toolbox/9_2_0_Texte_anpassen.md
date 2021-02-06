@@ -1,4 +1,4 @@
-# Texte anpassen {#toolbox_texte_anpassen}
+# Texte anpassen 
 
 Die im Shopbereich ausgegebenen Texte, wie die Beschriftungen von Schaltflächen, kannst du im Gambio Admin deines Shops unter Toolbox \> Texte anpassen ändern.
 

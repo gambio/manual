@@ -1,4 +1,4 @@
-# Teaser-Slider verwalten {#teaser_slider_verwalten}
+# Teaser-Slider verwalten 
 
 Neue Teaser-Slider kannst du im Gambio Admin deines Shops unter Darstellung \> Teaser-Slider anlegen.
 

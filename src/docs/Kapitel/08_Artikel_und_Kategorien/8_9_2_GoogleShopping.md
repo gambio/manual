@@ -1,4 +1,4 @@
-# Google Shopping {#google_shopping}
+# Google Shopping 
 
 Über Google \> Google Shopping kannst du Google Shopping-Profile erstellen und diese verwalten.
 

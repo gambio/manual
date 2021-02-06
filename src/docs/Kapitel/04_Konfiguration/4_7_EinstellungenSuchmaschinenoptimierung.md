@@ -1,4 +1,4 @@
-# Suchmaschinenoptimierung {#t4_7_EinstellungenSuchmaschinenoptimierung}
+# Suchmaschinenoptimierung 
 
 ## Kampagnen { .section}
 

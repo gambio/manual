@@ -1,4 +1,4 @@
-# Kundenkonto bearbeiten {#kundenkonto_bearbeiten}
+# Kundenkonto bearbeiten 
 
 Die meisten Änderungen an Kundenkonten können direkt vom Kunden im Shopbereich vorgenommen werden. Im Gambio Admin unter Kunden \> Kunden kannst du von bestehenden Kundenkonten die Standardanschrift und Kontaktdaten ändern.
 

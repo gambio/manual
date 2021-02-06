@@ -1,4 +1,4 @@
-# E-Mail Logo {#logo_manager_email_logo}
+# E-Mail Logo 
 
 Das E-Mail Logo wird im Kopfbereich der Bestellbestätigungs-Mail eingebunden. Das E‑Mail Logo kannst du im Gambio Admin unter Darstellung \> Logo Manager auf der Registerkarte E-Mail Logo hochladen.
 

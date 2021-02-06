@@ -1,4 +1,4 @@
-# Information {#trusted_shops_einrichtung_information}
+# Information 
 
 Der Abschnitt Information enthält Angaben zur generellen Bedienung des Moduls, er lässt sich über einen Klick auf die Überschrift einklappen.
 

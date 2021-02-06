@@ -1,4 +1,4 @@
-# IT-Recht Kanzlei {#itrecht}
+# IT-Recht Kanzlei 
 
 -   **[Installation](7_4_3_1_Installation.md)**  
 

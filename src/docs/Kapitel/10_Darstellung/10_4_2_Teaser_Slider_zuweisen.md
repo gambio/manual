@@ -1,4 +1,4 @@
-# Teaser-Slider zuweisen {#teaser_slider_zuweisen}
+# Teaser-Slider zuweisen 
 
 Teaser-Slider kannst du einer oder mehreren Kategorien, Artikeln und Content-Seiten sowie der Startseite zuweisen.
 

@@ -1,4 +1,4 @@
-# Gutscheine als Artikel {#gutscheine_als_artikel}
+# Gutscheine als Artikel 
 
 Gutscheine können als Artikel im Shop angeboten werden. Deine Kunden kaufen mit einem Gutschein-Artikel Guthaben für ihr Guthabenkonto, das sie einer anderen Person per E-Mail schenken oder bei einem späteren Einkauf verrechnen lassen können.
 

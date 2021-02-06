@@ -1,4 +1,4 @@
-# Downloadartikel {#downloadartikel}
+# Downloadartikel 
 
 CAUTION:
 

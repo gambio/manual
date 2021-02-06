@@ -1,4 +1,4 @@
-# Darstellung im Bestellvorgang {#skrill_darstellung_im_bestellvorgang}
+# Darstellung im Bestellvorgang 
 
 ![](Bilder/skrill/skrill_005.png "Darstellung der Skrill-Zahlungsweisen im Bestellvorgang")
 

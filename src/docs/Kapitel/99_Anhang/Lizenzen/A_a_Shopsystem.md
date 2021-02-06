@@ -1,4 +1,4 @@
-# Shopsystem {#anhang_lizenzhinweise_shopsystem}
+# Shopsystem 
 
 Das Shopsystem steht unter der GNU General Public License Version 2 \(GPL\). Eine Kopie der Lizenz findest du auf unserer Internetseite unter:
 

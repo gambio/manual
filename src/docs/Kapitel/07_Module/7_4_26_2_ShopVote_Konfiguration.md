@@ -1,4 +1,4 @@
-# Konfiguration {#shopvote_konfiguration}
+# Konfiguration 
 
 ![](Bilder/shopvote/shopvote-20200206_006.png "Konfigurationsseite des ShopVote-Moduls")
 

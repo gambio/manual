@@ -1,4 +1,4 @@
-# Mindermengenzuschlag {#mindermengenzuschlag}
+# Mindermengenzuschlag 
 
 Mit dem Modul Mindermengenzuschlag kannst du einen Zuschlag auf Bestellungen, deren Warenwert unter einem festgelegten Schwellenwert liegt, berechnen. Das Modul für den Mindermengenzuschlag kann im Gambio Admin deines Shops unter Module \> Zusammenfassung installiert werden.
 

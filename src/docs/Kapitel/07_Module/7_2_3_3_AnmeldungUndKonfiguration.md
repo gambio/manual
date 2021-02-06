@@ -1,4 +1,4 @@
-# Anmeldung und Konfiguration {#giro_connect_anmeldung_und_konfiguration}
+# Anmeldung und Konfiguration 
 
 Nach der Aktivierung von GiroConnect kann das Anmeldeverfahren begonnen werden.
 

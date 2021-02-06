@@ -1,4 +1,4 @@
-# PayPal und PayPal PLUS per Gambio Hub {#paypal2hub}
+# PayPal und PayPal PLUS per Gambio Hub 
 
 -   **[Installation](7_2_2_1_Installation.md)**  
 

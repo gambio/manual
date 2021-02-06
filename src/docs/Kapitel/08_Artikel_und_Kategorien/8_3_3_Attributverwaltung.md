@@ -1,4 +1,4 @@
-# Attributverwaltung {#attributverwaltung}
+# Attributverwaltung 
 
 Über die Attributverwaltung können die Optionswerte eines Artikels geändert \(Attribute editieren\) bzw. einem beliebigen Artikel neue Attribute und Optionswerte zugewiesen werden.
 

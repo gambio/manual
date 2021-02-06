@@ -1,4 +1,4 @@
-# Barzahlung \(CashHub\) {#cashhub}
+# Barzahlung \(CashHub\) 
 
 Installiere das Modul Barzahlung um Barzahlungen bei Selbstabholung im Shop zu ermöglichen.
 

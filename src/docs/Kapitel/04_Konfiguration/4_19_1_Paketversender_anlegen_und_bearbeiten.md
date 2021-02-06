@@ -1,4 +1,4 @@
-# Paketdienste anlegen und bearbeiten {#paketdienste_anlegen_und_bearbeiten}
+# Paketdienste anlegen und bearbeiten 
 
 Unter Shop Einstellungen \> Paketdienste kannst du die Dienstleister hinterlegen und bearbeiten. Klicke auf Hinzufügen, um einen neuen Paketversender anzulegen. Gib unter Name einen allgemeinen Bezeichner ein, z.B. DHL.
 

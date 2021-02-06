@@ -1,4 +1,4 @@
-# Besucher {#besucherstatistik_besucher}
+# Besucher 
 
 Der Bereich Besucher verfügt neben der Tagesübersicht über eine Monatsübersicht und eine Jahresübersicht. Diese können über die weiß hinterlegten Reiter aufgerufen werden.
 

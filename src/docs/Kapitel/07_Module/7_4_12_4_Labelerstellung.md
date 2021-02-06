@@ -1,4 +1,4 @@
-# Labelerstellung {#mydpd_iloxx_labelerstellung}
+# Labelerstellung 
 
 ## Menüpunkt aufrufen { .section}
 

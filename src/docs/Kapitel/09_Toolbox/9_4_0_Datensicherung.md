@@ -1,4 +1,4 @@
-# Datensicherung {#toolbox_datensicherung}
+# Datensicherung 
 
 -   **[Dateien sichern](9_4_1_Dateien_sichern.md)**  
 

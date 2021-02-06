@@ -1,4 +1,4 @@
-# Barzahlung bei Abholung {#barzahlung_bei_abholung}
+# Barzahlung bei Abholung 
 
 Die Zahlungsweise Barzahlung ist im Shopbereich ausschließlich in Verbindung mit der Versandart Selbstabholung auswählbar. Bei der Zahlungsweise Barzahlung bezahlt der Kunde die Ware bei Abholung aus deinem Lager oder deiner Filiale in bar.
 

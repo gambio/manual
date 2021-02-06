@@ -1,4 +1,4 @@
-# Grid-Spalten {#grid_spalten}
+# Grid-Spalten 
 
 Viele Einstellungen über das StyleEdit v3 definieren die Anzahl sogenannter Grid-Spalten. Die gesamte Breite des Shopbereichs ist auf 12 gleichgroße Streifen, die Grid-Spalten, verteilt. Indem für einen Bereich, z.B. die linke Spalte \(Zusatzboxen, vertikales Kategoriemenü\) eine bestimmte Anzahl an Grid-Spalten verwendet wird, kann die Breite im Verhältnis zum gesamten Shop festgelegt werden.
 

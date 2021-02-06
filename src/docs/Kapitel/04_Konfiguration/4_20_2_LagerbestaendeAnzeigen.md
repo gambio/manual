@@ -1,4 +1,4 @@
-# Lagerbestände anzeigen {#lagerbestaende_anzeigen}
+# Lagerbestände anzeigen 
 
 Über den Reiter Lagerbestände anzeigen stehen folgende Einstellungen zur Verfügung:
 

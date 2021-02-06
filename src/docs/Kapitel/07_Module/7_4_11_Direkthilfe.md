@@ -1,4 +1,4 @@
-# Direkthilfe {#direkthilfe}
+# Direkthilfe 
 
 Über die Direkthilfe kann das zugehörige Handbuch-Kapitel zur jeweiligen Unterseite des Gambio Admins aufgerufen werden. Gibt es zu der aufgerufenen Seite keine Kapitel-Zuordnung, wird der Anfang des Handbuchs geladen. Klicke zum Laden der Seite auf das Glühbirnen-Symbol am unteren Bildrand.
 

@@ -1,4 +1,4 @@
-# OpenSearch Plugin {#toolbox_opensearch_plugin}
+# OpenSearch Plugin 
 
 Mit dem OpenSearch Plugin kann dem Suchfeld im Internet Explorer und Firefox die Shopsuche als Suchmaschine hinzugefügt werden. Unter Toolbox \> OpenSearch Plugin kann das Modul konfiguriert werden. Hier kannst du auswählen, wo der Installationslink erscheinen soll. Setze hierzu die Haken in die entsprechenden Boxen.
 

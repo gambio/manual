@@ -1,4 +1,4 @@
-# Wasserzeichen {#logo_manager_wasserzeichen}
+# Wasserzeichen 
 
 Das Wasserzeichen wird im Shopbereich als Kopierschutz über den Artikelbildern angezeigt. Das Wasserzeichen kannst du im Gambio Admin unter Darstellung \> Logo Manager auf der Registerkarte Wasserzeichen hochladen.
 

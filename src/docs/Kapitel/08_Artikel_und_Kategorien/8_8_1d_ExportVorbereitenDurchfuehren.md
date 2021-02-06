@@ -1,4 +1,4 @@
-# Vorbereiten und Durchführen eines CSV-Exports {#csv_export_vorbereiten_und_durchfuehren}
+# Vorbereiten und Durchführen eines CSV-Exports 
 
 In diesem Kapitel betrachten wir Schritt für Schritt wie ein Export vorbereitet und durchgeführt wird. Hierbei verwenden wir das Standard-Profil aus dem Reiter Artikelexport, die Schritte lassen sich jedoch auch ohne Weiteres auf den Bereich Preis-Portal übertragen.
 

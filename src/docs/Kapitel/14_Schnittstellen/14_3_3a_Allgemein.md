@@ -1,4 +1,4 @@
-# Allgemein {#paypal_und_paypal_plus_konfiguration_allgemein}
+# Allgemein 
 
 PayPal 3 wird weitestmöglich vorkonfiguriert. Für die Ersteinrichtung ist zunächst die Eingabe der Zugangsdaten notwendig:
 

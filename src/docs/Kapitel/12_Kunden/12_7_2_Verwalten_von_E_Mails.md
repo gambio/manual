@@ -1,4 +1,4 @@
-# Verwalten von E-Mails {#verwalten_von_e_mails}
+# Verwalten von E-Mails 
 
 Versendete und gespeicherte Mails werden in einer Tabelle aufgeführt. Mit Hilfe des Dropdown- Menüs ...pro Seite kann die Anzahl der E-Mails pro Seite wahlweise auf 20, 30, 50 oder 100 Einträge festgelegt werden.
 

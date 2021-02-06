@@ -1,4 +1,4 @@
-# Allgemeine Template-Einstellungen {#template_konfiguration_allgemeines}
+# Allgemeine Template-Einstellungen 
 
 |Feldname|Beschreibung|
 |--------|------------|

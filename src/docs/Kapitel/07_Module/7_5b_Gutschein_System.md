@@ -1,4 +1,4 @@
-# Gutschein-System {#gutschein_system}
+# Gutschein-System 
 
 Über das Gutschein-System können Gutschein- und Rabatt Kupon-Codes im Warenkorb eingegeben werden. Ist die Einstellung Gutscheinsystem aktivieren? auf ✔ gesetzt, wird die zugehörige Box im Warenkorb angezeigt.
 

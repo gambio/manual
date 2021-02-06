@@ -1,4 +1,4 @@
-# Allgemeines {#rechtliche_einstellungen_allgemeines}
+# Allgemeines 
 
 Die allgemeine rechtliche Konfiguration kannst du unter Shop Einstellungen \> Rechtliches vornehmen.
 

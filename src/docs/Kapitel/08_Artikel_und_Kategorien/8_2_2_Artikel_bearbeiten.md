@@ -1,4 +1,4 @@
-# Artikel bearbeiten {#artikel_bearbeiten}
+# Artikel bearbeiten 
 
 Zum Bearbeiten von Artikeln, klicke zunächst in der Artikel- und Kategorieübersicht auf den Namen des Artikels und anschließend auf die Schaltfläche Bearbeiten.
 

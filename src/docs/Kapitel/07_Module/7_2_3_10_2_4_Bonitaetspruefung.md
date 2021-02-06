@@ -1,4 +1,4 @@
-# Bonitätsprüfung {#payone_konfiguration_bonitaetspruefung}
+# Bonitätsprüfung 
 
 Die Bonitätsprüfung soll zur Auswahl der angebotenen Zahlarten dienen. Diese soll im Checkout-Prozess nach dem Adresscheck \(als Folgeaktion\) oder eigenständig durchgeführt werden.
 

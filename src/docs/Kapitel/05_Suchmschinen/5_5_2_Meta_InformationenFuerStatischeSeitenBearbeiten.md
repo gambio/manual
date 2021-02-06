@@ -1,4 +1,4 @@
-# Meta-Informationen für statische Seiten bearbeiten {#meta_informationen_fuer_statische_seiten_bearbeiten}
+# Meta-Informationen für statische Seiten bearbeiten 
 
 Unter Shop Einstellungen \> SEO \> Statische Seiten können die Meta-Informationen für die betreffenden Seiten festgelegt werden. Bewege hierzu den Mauszeiger in die jeweilige Zeile, es werden die Symbole \(bearbeiten, löschen\) angezeigt.
 

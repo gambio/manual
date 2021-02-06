@@ -1,4 +1,4 @@
-# Mailbeez {#mailbeez}
+# Mailbeez 
 
 -   **[Grundlegende Informationen](7_4_13_1_GrundlegendeInformationen.md)**  
 

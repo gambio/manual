@@ -1,4 +1,4 @@
-# Trusted Shops Käuferschutz Excellence {#trusted_shops_kaeuferschutz_excellence}
+# Trusted Shops Käuferschutz Excellence 
 
 CAUTION:
 

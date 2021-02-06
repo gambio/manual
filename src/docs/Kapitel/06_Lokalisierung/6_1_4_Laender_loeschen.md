@@ -1,4 +1,4 @@
-# Länder löschen {#laender_loeschen}
+# Länder löschen 
 
 CAUTION:
 

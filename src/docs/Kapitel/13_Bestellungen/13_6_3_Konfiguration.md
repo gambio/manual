@@ -1,4 +1,4 @@
-# Konfiguration {#rechnung_und_lieferschein_konfigurieren_konfiguration}
+# Konfiguration 
 
 Auf der Registerkarte Konfiguration kannst du steuern, welche Inhalte auf der Rechnung angzeigt werden sollen und wie die gewählten Inhalte angezeigt werden.
 

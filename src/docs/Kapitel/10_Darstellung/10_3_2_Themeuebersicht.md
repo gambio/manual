@@ -1,4 +1,4 @@
-# Themeübersicht 'Meine Themes' {#styleedit4_themes_themeuebersicht}
+# Themeübersicht 'Meine Themes' 
 
 ![](Bilder/styleedit4/se4_0076_MeineThemesUebersicht.png "Themeübersicht Meine Themes")
 

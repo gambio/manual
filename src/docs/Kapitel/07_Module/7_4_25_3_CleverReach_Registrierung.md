@@ -1,4 +1,4 @@
-# Registrierung bei CleverReach {#cleverreach_registrierung}
+# Registrierung bei CleverReach 
 
 Wer CleverReach benutzen möchte, kann sich unter https://www.cleverreach.com/de/ über den Button Jetzt kostenlos testen ein Konto anlegen.
 

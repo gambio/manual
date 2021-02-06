@@ -1,4 +1,4 @@
-# Einstellungen für die Artikeldetailseite {#template_konfiguration_einstellungen_fuer_die_artikeldetailseite}
+# Einstellungen für die Artikeldetailseite 
 
 |Feldname|Beschreibung|
 |--------|------------|

@@ -1,4 +1,4 @@
-# MyDPD / Iloxx {#mydpd_iloxx}
+# MyDPD / Iloxx 
 
 -   **[Installation](7_4_12_1_Installation.md)**  
 

@@ -1,4 +1,4 @@
-# Seiten in Sitemap und Robots-Datei aufnehmen {#seiten_in_sitemap_und_robots_datei_aufnehmen}
+# Seiten in Sitemap und Robots-Datei aufnehmen 
 
 Setze einen Haken, um die jeweilige Seite in die Sitemap bzw. Robots-Datei aufnehmen zu lassen. Entfernst du den Haken, wird der Eintrag aus der jeweiligen Datei entfernt.
 

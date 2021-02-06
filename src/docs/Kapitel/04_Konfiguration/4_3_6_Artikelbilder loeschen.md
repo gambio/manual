@@ -1,4 +1,4 @@
-# Artikelbilder löschen {#artikelbilder_loeschen}
+# Artikelbilder löschen 
 
 Unter Shop Einstellungen \> Allgemeines \> Artikelbilder löschen besteht die Möglichkeit Artikelbilder bei Bedarf zu löschen. Es können die Originalbilder \(Verzeichnis /images/product\_images/original\_images\) sowie nicht benötigte Artikelbilder, die keinem Artikel mehr zugeordnet sind, entfernt werden.
 

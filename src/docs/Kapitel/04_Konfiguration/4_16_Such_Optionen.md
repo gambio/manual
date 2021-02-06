@@ -1,4 +1,4 @@
-# Such-Optionen {#such_optionen}
+# Such-Optionen 
 
 Unter Shop Einstellungen \> Mein Shop kannst du auswählen, ob die Shopsuche in den Artikelbeschreibungen und in den Artikelattributen suchen soll.
 

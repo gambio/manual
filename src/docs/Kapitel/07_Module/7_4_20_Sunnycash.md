@@ -1,4 +1,4 @@
-# Sunnycash {#sunnycash}
+# Sunnycash 
 
 Das SunnyCash-Modul \(früher Ovisto\) blendet nach dem Bestellvorgang für den Kunden Gutscheine ein, die dieser als Dankeschön für die Bestellung in Anspruch nehmen kann. Aktuell \(2019-07-16\) sind dies Gutscheine von anderen Shops, jedoch sind für die Zukunft Erweiterungen geplant, damit die Zusammenstellung der Gutscheine gezielter eingestellt werden kann.
 

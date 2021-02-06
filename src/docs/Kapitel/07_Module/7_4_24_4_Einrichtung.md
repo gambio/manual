@@ -1,4 +1,4 @@
-# Einrichtung {#relevanz_einrichtung}
+# Einrichtung 
 
 Direkt nach der Installation besteht die Konfigurationsseite des Moduls nur aus dem Eingabefeld für den API-Key, den du von releva.nz erhältst, nachdem du dort ein Konto eröffnet hast.
 

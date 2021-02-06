@@ -1,4 +1,4 @@
-# Bearbeiten {#template_einstellungen_bearbeiten}
+# Bearbeiten 
 
 Wähle den jeweiligen Style aus, welchen du bearbeiten möchtest und öffne das Menü über einen Klick auf das nach unten weisende Dreieck. Klicke auf Bearbeiten.
 

@@ -1,4 +1,4 @@
-# Trusted Shops {#trusted_shops}
+# Trusted Shops 
 
 -   **[Installation](7_4_9_1_Installation.md)**  
 

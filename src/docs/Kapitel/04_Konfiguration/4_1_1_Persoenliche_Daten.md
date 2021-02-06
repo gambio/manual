@@ -1,4 +1,4 @@
-# Persönliche Daten {#persoehnliche_daten}
+# Persönliche Daten 
 
 ## Shopbetreiber-Anschrift { .section}
 

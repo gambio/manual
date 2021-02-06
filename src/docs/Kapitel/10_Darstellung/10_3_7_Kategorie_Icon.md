@@ -1,4 +1,4 @@
-# Kategorie Icon {#logo_manager_kategorie_icon}
+# Kategorie Icon 
 
 Das Kategorie Icon wird vor dem Kategorienamen in der Kategorienavigation im Menü links eingebunden. Das Kategorie Icon kannst du im Gambio Admin unter Darstellung \> Logo Manager auf der Registerkarte Kategorie Icon hochladen.
 

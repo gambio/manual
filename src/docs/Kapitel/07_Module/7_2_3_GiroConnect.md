@@ -1,4 +1,4 @@
-# GiroConnect {#giro_connect}
+# GiroConnect 
 
 -   **[Einleitung](7_2_3_1_Einleitung.md)**  
 

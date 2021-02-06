@@ -1,4 +1,4 @@
-# Konfiguration {#hermes_hsi_konfiguration}
+# Konfiguration 
 
 ## API-Zugangsdaten { .section}
 

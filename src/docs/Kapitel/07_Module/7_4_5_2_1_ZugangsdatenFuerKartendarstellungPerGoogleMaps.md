@@ -1,4 +1,4 @@
-# Zugangsdaten für Kartendarstellung per Google Maps \(optional\) {#dhl_paketshops_konfiguration_zugangsdaten_fuer_kartendarstellung_per_google_maps}
+# Zugangsdaten für Kartendarstellung per Google Maps \(optional\) 
 
 |Feldname|Beschreibung|
 |--------|------------|

@@ -1,4 +1,4 @@
-# Datenexport für Review Collector {#trusted_shops_einrichtung_datenexport_fuer_review_collector}
+# Datenexport für Review Collector 
 
 ![](Bilder/trusted_shops/TS-2016-12-14_003.png "Datenexport für Review Collector")
 

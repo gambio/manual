@@ -1,4 +1,4 @@
-# Gambio Hub Anmeldung {#gambio_hub_anmeldung}
+# Gambio Hub Anmeldung 
 
 Sofern du noch nicht am Gambio Hub angemeldet bist, führe nun im Backend deines Gambio Shops die Anmeldung durch. Klicke hierzu auf den Menüpunkt Gambio Hub im linken Menü des Adminbereichs deines Shops. Die Anmeldung findet schnell und einfach aus dem Shop heraus statt und ist sofort wirksam.
 

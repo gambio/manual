@@ -1,4 +1,4 @@
-# Mögliche Meldungen {#dhl_geschaeftskundenversand_verwendung_moegliche_meldungen}
+# Mögliche Meldungen 
 
 ![](Bilder/GKV2_20180417_003.png "Die angegebene Art der Sendung ist nicht gültig")
 

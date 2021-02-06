@@ -1,4 +1,4 @@
-# Verfassen und Anzeigen von Rezensionen {#verfassen_und_anzeigen_von_rezensionen}
+# Verfassen und Anzeigen von Rezensionen 
 
 Wenn ein Artikel in der Detailansicht geöffnet wird, kann über diese Box eine entsprechende Bewertung erstellt werden. Klicke hierzu auf Ihre Meinung.
 

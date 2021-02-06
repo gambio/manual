@@ -1,4 +1,4 @@
-# GX-Customizer konfigurieren {#gx_customizer_konfiguration}
+# GX-Customizer konfigurieren 
 
 Über den Reiter Konfiguration können Einstellungen zur Verwendung des GX-Customizers vorgenommen werden. Hierbei kann schwerpunktmäßig festgelegt werden, wo das sogenannte Customizer-Set angezeigt und wie es dargestellt werden soll. Zudem kann die Anzahl der Datei-Uploads zur Spam-Vermeidung eingeschränkt werden.
 

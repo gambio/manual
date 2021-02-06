@@ -1,4 +1,4 @@
-# Bezahlen über Amazon \(amazonadvpay\) {#bezahlen_ueber_amazon}
+# Bezahlen über Amazon \(amazonadvpay\) 
 
 Das Modul Bezahlen über Amazon verwendet die Schnittstelle Amazon Advanced Payments zur Zahlungsabwicklung.
 

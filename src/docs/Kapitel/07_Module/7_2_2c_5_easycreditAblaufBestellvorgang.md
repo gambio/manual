@@ -1,4 +1,4 @@
-# Ablauf im Bestellvorgang {#easycredit_ablauf_im_bestellvorgang}
+# Ablauf im Bestellvorgang 
 
 ## Darstellung des Moduls vor der Prüfung durch easyCredit { .section}
 

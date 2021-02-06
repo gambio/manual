@@ -1,4 +1,4 @@
-# Logs anzeigen {#toolbox_logs_anzeigen}
+# Logs anzeigen 
 
 **Note:**
 

@@ -1,4 +1,4 @@
-# Hermes HSI {#hermes_hsi}
+# Hermes HSI 
 
 -   **[Allgemeines](7_4_23_1_Allgemeines.md)**  
 

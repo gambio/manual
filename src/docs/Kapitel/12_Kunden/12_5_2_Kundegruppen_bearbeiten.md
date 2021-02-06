@@ -1,4 +1,4 @@
-# Kundengruppen bearbeiten {#kundengruppen_bearbeiten}
+# Kundengruppen bearbeiten 
 
 Die Einstellungen von vorhandenen Kundengruppen kannst du im Gambio Admin deines Shops unter Kunden \> Kundengruppen anpassen.
 

@@ -1,4 +1,4 @@
-# Schreiben, Bearbeiten und Weiterleiten von E-Mails {#schreiben_bearbeiten_und_weiterleiten_von_e_mails}
+# Schreiben, Bearbeiten und Weiterleiten von E-Mails 
 
 Mit einem Klick auf Neue E-Mail kannst du eine E-Mail schreiben. Es öffnet sich ein neues Fenster im Reiter Details. Das gleiche Fenster steht dir zur Verfügung, wenn du eine bestehende E-Mail bearbeitest bzw. weiterleitest. Genaueres hierzu findest du im Kapitel Verwalten von E-Mails.
 

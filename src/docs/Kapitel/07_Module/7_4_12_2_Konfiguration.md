@@ -1,4 +1,4 @@
-# Konfiguration {#mydpd_iloxx_konfiguration}
+# Konfiguration 
 
 Nach der Installation kann das Modul konfiguriert werden. Wähle hierzu den Eintrag MyDPD Business / iloxx unter Module \> Modul-Center aus und klicke auf die Schaltfläche Bearbeiten, in der unteren, rechten Bildschirmecke.
 

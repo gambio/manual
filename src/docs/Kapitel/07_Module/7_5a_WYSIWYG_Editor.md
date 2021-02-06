@@ -1,4 +1,4 @@
-# WYSIWYG-Editor {#wysiwyg_editor}
+# WYSIWYG-Editor 
 
 ## WYSIWYG-Editor aktivieren { .section}
 

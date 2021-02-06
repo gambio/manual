@@ -1,4 +1,4 @@
-# Kundendaten ändern {#bestellung_bearbeiten_kundendaten_aendern}
+# Kundendaten ändern 
 
 Bei einer vorhandenen Bestellung kannst du die Kundendaten, wie die Versand- und Rechnungsadresse, in der Bestell-Eingabemaske ändern. Klicke auf der Detailseite der Bestellung auf Bearbeiten, um die Bestell-Eingabemaske aufzurufen.
 

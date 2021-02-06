@@ -1,4 +1,4 @@
-# Varianten {#styleedit4_themes_theme_bearbeiten_menues_bereiche_header_varianten}
+# Varianten 
 
 ![](Bilder/styleedit4/se4a_0021_BereichHeaderVarianten.png "Variante Standard unter Bereiche /
       Header / Varianten")

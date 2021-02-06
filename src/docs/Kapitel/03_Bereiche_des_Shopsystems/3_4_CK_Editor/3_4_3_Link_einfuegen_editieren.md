@@ -1,4 +1,4 @@
-# Link einfügen/editieren {#link_einfuegen_editieren}
+# Link einfügen/editieren 
 
 Über die Schaltfläche Link einfügen/editieren kann ein Link gesetzt werden. Schreibe hierzu zunächst den Text, welchen du als Link verwenden möchtest. Markiere den Text anschließend und klicke auf den Button mit den Kettengliedern \(Link einfügen/editieren\). Als Link-Typ ist standardmäßig URL und als Protokoll http:// ausgewählt. Diese Einstellungen können im Normalfall beibehalten werden; wenn dein Shop jedoch vollständig SSL-verschlüsselt ist, sollte als Protokoll stattdessen https:// eingestellt werden.
 

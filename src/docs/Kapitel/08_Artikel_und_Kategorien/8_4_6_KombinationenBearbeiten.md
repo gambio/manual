@@ -1,4 +1,4 @@
-# Kombinationen bearbeiten {#artikeleigenschaften_kombinationen_bearbeiten}
+# Kombinationen bearbeiten 
 
 ![](Bilder/ArtikelEigenschaften_MaskeKombinationBearbeiten.png "Maske _**Kombination bearbeiten**_")
 

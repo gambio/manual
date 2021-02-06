@@ -1,4 +1,4 @@
-# Shopstatus {#shop_online_offline_shopstatus}
+# Shopstatus 
 
 Über den Schalter Aktueller Shopstatus kann der Shop an bzw. aus geschaltet werden. Der aktuelle Status wird durch die Darstellung des Buttons angezeigt:
 

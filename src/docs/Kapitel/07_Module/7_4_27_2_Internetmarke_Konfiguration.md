@@ -1,4 +1,4 @@
-# Konfiguration {#internetmarke_konfiguration}
+# Konfiguration 
 
 Um das Modul zu konfigurieren, wird dieses unter Module \> Modul-Center ausgewählt. Klicke anschließend auf Bearbeiten.
 

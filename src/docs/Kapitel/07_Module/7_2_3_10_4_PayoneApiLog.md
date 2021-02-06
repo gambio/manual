@@ -1,4 +1,4 @@
-# Payone API Log {#payone_apilog}
+# Payone API Log 
 
 ![](Bilder/payone/2016-12-02_002.png "Anzeige der Transaktionen im API Log")
 

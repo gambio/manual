@@ -1,4 +1,4 @@
-# Einrichten des Honeygrids als aktuelles Template {#einrichten_des_honeygrids_als_aktuelles_template}
+# Einrichten des Honeygrids als aktuelles Template 
 
 Das Template kann unter Darstellung \> Template-Einstellungen festgelegt werden. Verwende hierzu das Dropdown-Menü Templateset \(Theme\) und wähle den Eintrag Honeygrid \(Template\) aus. Bestätige die Änderung mit einem Klick auf Speichern.
 

@@ -1,4 +1,4 @@
-# Konfiguration der Zahlungsarten {#payone_konfiguration_zahlungsarten}
+# Konfiguration der Zahlungsarten 
 
 Hier können die aktivierten Zahlungsarten konfiguriert werden, die vorher über Zahlungsart hinzufügen angelegt wurden. Die sechs grundlegenden Arten von Zahlungsmodulen werden hier beschrieben, da alle zusätzlich hinzugefügten Zahlungsweisen einer dieser Arten entsprechen, wird hier nicht auf jede Eventualität eingegangen. Payone unterstützt verschiedene Zahlungsweisen, für weitere Details wende dich bitte für eine Beratung an Payone.
 

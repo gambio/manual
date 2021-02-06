@@ -1,4 +1,4 @@
-# Cookie Consent Panel {#styleedit4_themes_theme_bearbeiten_menues_bereiche_cookie_consent_panel}
+# Cookie Consent Panel 
 
 ## General { .section}
 

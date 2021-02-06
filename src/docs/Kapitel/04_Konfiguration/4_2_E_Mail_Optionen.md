@@ -1,4 +1,4 @@
-# E-Mail-Optionen {#e_mail_optionen}
+# E-Mail-Optionen 
 
 CAUTION:
 

@@ -1,4 +1,4 @@
-# Summen {#summen}
+# Summen 
 
 Mit den folgenden Modulen bildest du in der Bestellzusammenfassung die Zwischensummen und das Total ab. Die Module findest du im Gambio Admin deines Shops unter Module \> Zusammenfassung.
 

@@ -1,4 +1,4 @@
-# Zeitgesteuerte Aufgaben {#zeitgesteuerte_aufgaben}
+# Zeitgesteuerte Aufgaben 
 
 Über zeitgesteuerte Aufgaben lassen sich bestimmte Aktionen automatisch ausführen. Gehe hierzu im Gambio Admin unter Toolbox \> Zeitgesteuerte Aufgaben. Mögliche Aktionen sind:
 

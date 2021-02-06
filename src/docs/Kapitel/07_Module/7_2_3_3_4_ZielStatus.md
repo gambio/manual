@@ -1,4 +1,4 @@
-# Ziel-Status {#giro_connect_anmeldung_und_konfiguration_ziel_status}
+# Ziel-Status 
 
 ![](Bilder/20180906_VKplus_013.png "Auswahl des Ziel-Status‘")
 

@@ -1,4 +1,4 @@
-# Kundenkonto manuell anlegen {#kundenkonto_manuell_anlegen}
+# Kundenkonto manuell anlegen 
 
 Kundenkonten kannst du im Gambio Admin deines Shops unter Kunden \> Kunden von Hand erstellen.
 

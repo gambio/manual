@@ -1,4 +1,4 @@
-# Darstellung im Bestellvorgang {#bezahlen_ueber_amazon_darstellung_im_bestellvorgang}
+# Darstellung im Bestellvorgang 
 
 CAUTION:
 

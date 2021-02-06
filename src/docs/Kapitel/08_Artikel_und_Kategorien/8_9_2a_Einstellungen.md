@@ -1,4 +1,4 @@
-# Einstellungen {#google_shopping_einstellungen}
+# Einstellungen 
 
 Wenn du ein Export-Profil anlegst oder bearbeitest, gelangst du in den Reiter Einstellungen, den wir nachfolgend erläutern. Standard-Belegungen eines Felds sind in eckigen Klammern \[ \] angegeben.
 

@@ -1,4 +1,4 @@
-# Einstellungen für die Artikelbilder {#template_konfiguration_einstellungen_fuer_die_artikelbilder}
+# Einstellungen für die Artikelbilder 
 
 |Feldname|Beschreibung|
 |--------|------------|

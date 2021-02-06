@@ -1,4 +1,4 @@
-# Warenkorb teilen {#warenkorb_teilen}
+# Warenkorb teilen 
 
 Über das Modul Warenkorb teilen ist es möglich, den Inhalt des Warenkorbs über einen Link an eine andere Person zu schicken.
 

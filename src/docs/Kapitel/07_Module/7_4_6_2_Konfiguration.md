@@ -1,4 +1,4 @@
-# Konfiguration {#shipcloud_konfiguration}
+# Konfiguration 
 
 ## Zugangsdaten { .section}
 

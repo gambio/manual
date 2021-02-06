@@ -1,4 +1,4 @@
-# Absender und Retourempfänger {#dhl_geschaeftskundenversand_konfiguration_absender_und_retourempfaenger}
+# Absender und Retourempfänger 
 
 ![](Bilder/GKV2_20170628_003.png "Absender und Retourempfänger")
 

@@ -1,4 +1,4 @@
-# Neuen Rabatt Kupon anlegen {#neuen_rabatt_kupon_anlegen}
+# Neuen Rabatt Kupon anlegen 
 
 ![](Bilder/Abb158_RabattKuponEingabemaske.png "Rabatt Kupon Eingabemaske")
 

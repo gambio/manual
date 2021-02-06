@@ -1,4 +1,4 @@
-# Afterbuy {#afterbuy}
+# Afterbuy 
 
 ## Installation { .section}
 

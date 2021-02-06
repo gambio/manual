@@ -1,4 +1,4 @@
-# Zusatzfunktionen {#zusatzfunktionen}
+# Zusatzfunktionen 
 
 -   **[Cross Selling](8_6_1_Cross_Selling.md)**  
 

@@ -1,4 +1,4 @@
-# E-Mail-Optionen {#e_mail_optionen_email_optionen}
+# E-Mail-Optionen 
 
 An der Grundkonfiguration der E-Mail-Optionen muss bei Verwenden der E-Mail Transport- Methode mail keine Änderung vorgenommen werden.
 

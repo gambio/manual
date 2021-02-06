@@ -1,4 +1,4 @@
-# Internetmarke {#internetmarke}
+# Internetmarke 
 
 -   **[Installation](7_4_27_1_Internetmarke_Installation.md)**  
 

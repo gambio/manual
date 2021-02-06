@@ -1,4 +1,4 @@
-# Kundenkonten einschränken {#kundenkonten_einschraenken}
+# Kundenkonten einschränken 
 
 Im Gambio Admin deines Shops unter Kunden \> Kunden kannst du für Kundenkonten einzelner Kunden die erlaubten Zahlungsweisen und Versandarten einschränken.
 

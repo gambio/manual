@@ -1,4 +1,4 @@
-# Kundengruppen zuweisen {#kundengruppen_zuweisen}
+# Kundengruppen zuweisen 
 
 Bestehende Kundenkonten kannst du unter Kunden \> Kunden einer Kundengruppe zuweisen.
 

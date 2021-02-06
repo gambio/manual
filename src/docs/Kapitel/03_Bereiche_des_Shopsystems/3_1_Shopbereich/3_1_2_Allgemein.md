@@ -1,4 +1,4 @@
-# Allgemein {#allgemein}
+# Allgemein 
 
 ![](Bilder/Abb011_ShopbereichSwiper_.png "Allgemeiner Shop-Bereich")
 

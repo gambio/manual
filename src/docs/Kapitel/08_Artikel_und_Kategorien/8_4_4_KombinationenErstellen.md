@@ -1,4 +1,4 @@
-# Kombinationen erstellen {#artikeleigenschaften_kombinationen_erstellen}
+# Kombinationen erstellen 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenEigenschaftenAuswaehlen.png "Auswahl der Eigenschaften für das Erstellen von
       Kombinationen")

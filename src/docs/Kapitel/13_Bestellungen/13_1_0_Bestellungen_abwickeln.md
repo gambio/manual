@@ -1,4 +1,4 @@
-# Bestellungen abwickeln {#bestellungen_abwickeln}
+# Bestellungen abwickeln 
 
 Im Gambio Admin deines Shops unter Bestellungen \> Bestellungen findest du eine Übersicht über alle Bestellungen, die im Shopbereich getätigt oder im Gambio Admin manuell angelegt wurden. Der aktuelle Stand einer Bestellung wird über Bestellstatus festgelegt, die in der Spalte Status angezeigt werden.
 

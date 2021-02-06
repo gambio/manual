@@ -1,4 +1,4 @@
-# Artikel ändern {#bestellung_bearbeiten_artikel_aendern}
+# Artikel ändern 
 
 Einer vorhandenen Bestellung kannst du neue Artikel über die Bestell-Eingabemaske hinzufügen. Klicke auf der Detailseite der Bestellung im Bereich Artikel auf Bearbeiten, um die Bestell-Eingabemaske aufzurufen.
 

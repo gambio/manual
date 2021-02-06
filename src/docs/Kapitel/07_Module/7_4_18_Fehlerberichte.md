@@ -1,4 +1,4 @@
-# Fehlerberichte {#fehlerberichte}
+# Fehlerberichte 
 
 Das Modul Fehlerberichte senden dient beim Auftreten einer Fehlermeldung der Übermittlung von Detailinformationen an Gambio. Anhand der übermittelten Daten können wir neben der Meldung selbst auch Rahmenbedingungen auswerten, die zum Zeitpunkt der Meldung bestanden haben und die Ergebnisse dieser Auswertung in die Entwicklung zukünftiger Versionen einfließen lassen.
 

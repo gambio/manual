@@ -1,4 +1,4 @@
-# Kundengruppen anlegen {#kundengruppen_anlegen}
+# Kundengruppen anlegen 
 
 Neue Kundengruppen kannst du im Gambio Admin deines Shops unter Kunden \> Kundengruppen anlegen.
 

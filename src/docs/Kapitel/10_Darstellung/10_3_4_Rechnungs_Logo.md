@@ -1,4 +1,4 @@
-# Rechnungs Logo {#logo_manager_rechnungs_logo}
+# Rechnungs Logo 
 
 Das Rechnungs Logo wird auf der PDF-Rechnung und dem PDF-Lieferschein im oberen rechten Bereich eingebunden. Das Rechnungs Logo kannst du im Gambio Admin unter Darstellung \> Logo Manager auf der Registerkarte Rechnungs Logo hochladen.
 

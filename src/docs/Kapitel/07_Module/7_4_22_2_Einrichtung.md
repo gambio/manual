@@ -1,4 +1,4 @@
-# Einrichtung {#protected_shops_einrichtung}
+# Einrichtung 
 
 Nach der Installation kommt man mit Klick auf Bearbeiten auf die Konfigurationsseite. Im ersten Tab werden allgemeine Informationen zu Protected Shops, der Hinweis auf ein Angebot für Gambio-Kunden sowie eine Kurzanleitung für die Anmeldung bei Protected Shops angezeigt.
 

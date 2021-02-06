@@ -1,4 +1,4 @@
-# mediafinanz Konfiguration {#mediafinanz_konfiguration}
+# mediafinanz Konfiguration 
 
 ## Allgemeine Optionen { .section}
 

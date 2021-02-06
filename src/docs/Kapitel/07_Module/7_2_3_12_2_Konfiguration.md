@@ -1,4 +1,4 @@
-# Konfiguration {#skrill_konfiguration}
+# Konfiguration 
 
 ![](Bilder/skrill/skrill_001_.png "Eingabefelder für E-Mail-Adresse, Geheimwort und Händler
       ID")

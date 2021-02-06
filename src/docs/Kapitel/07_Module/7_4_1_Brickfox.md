@@ -1,4 +1,4 @@
-# Brickfox {#brickfox}
+# Brickfox 
 
 ## Installation { .section}
 

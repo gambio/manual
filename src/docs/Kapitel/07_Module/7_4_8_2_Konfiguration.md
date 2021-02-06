@@ -1,4 +1,4 @@
-# Konfiguration {#hermes_konfiguration}
+# Konfiguration 
 
 Du erreichst die Konfigurationsseite wahlweise unter Module \> Modul-Center, indem du den Eintrag Hermes-Versand auswählst und auf Bearbeiten klickst, oder den neuen Menüeintrag Hermes \> Konfiguration aufrufst.
 

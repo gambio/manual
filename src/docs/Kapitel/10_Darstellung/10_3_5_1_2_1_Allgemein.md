@@ -1,4 +1,4 @@
-# Allgemein {#styleedit4_themes_theme_bearbeiten_menues_bereiche_allgemein}
+# Allgemein 
 
 ## Layout { .section}
 

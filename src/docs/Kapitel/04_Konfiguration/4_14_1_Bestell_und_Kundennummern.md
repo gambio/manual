@@ -1,4 +1,4 @@
-# Bestell- und Kundennummern {#bestell_und_kundennummern}
+# Bestell- und Kundennummern 
 
 Die kommenden, zu vergebenen Bestell- und Kundennummer werden in den Eingabefeldern Nächste Bestellnummer bzw. Nächste Kundennummer angezeigt. Dort können die Nummern auch geändert werden. Hierbei ist zu beachten, dass die neu vergebenen Nummern nicht unter dem angezeigten Minimum liegen dürfen. Zudem kann 1 nicht als Kundennummer vergeben werden, da diese Nummer für den Hauptadministrator vorgesehen ist.
 

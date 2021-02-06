@@ -1,4 +1,4 @@
-# Einstellungen für das Top-Menü {#template_konfiguration_einstellungen_fuer_das_top_menue}
+# Einstellungen für das Top-Menü 
 
 |Feldname|Beschreibung|
 |--------|------------|

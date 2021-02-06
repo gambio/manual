@@ -1,4 +1,4 @@
-# Konfiguration {#easycredit_konfiguration}
+# Konfiguration 
 
 ![](Bilder/easycredit/ec-2020-09-10_001.png "Konfigurationsseite des easyCredit-Moduls.")
 

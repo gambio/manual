@@ -1,4 +1,4 @@
-# Auswirkung auf die Anmeldung {#zwei_faktor_authentifizierung_auswirkung_auf_die_anmeldung}
+# Auswirkung auf die Anmeldung 
 
 Künftig erhält der Kunde bei jeder Anmeldung zusätzlich noch eine Abfrage des 6-stelligen Codes, den er in seiner App ablesen kann.
 

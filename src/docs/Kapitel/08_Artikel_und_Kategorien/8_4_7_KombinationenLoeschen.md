@@ -1,4 +1,4 @@
-# Kombinationen löschen {#artikeleigenschaften_kombinationen_loeschen}
+# Kombinationen löschen 
 
 Kombinationen können wahlweise einzeln, über das Mülltonnen-Icon, oder die Mehrfachauswahl gelöscht werden. Wird mindestens ein Haken gesetzt, wird der Button _**Kombinationen löschen**_ angezeigt.
 

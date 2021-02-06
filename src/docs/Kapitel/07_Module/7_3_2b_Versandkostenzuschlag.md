@@ -1,4 +1,4 @@
-# Versandkostenzuschlag {#versandkostenzuschlag}
+# Versandkostenzuschlag 
 
 Mit dem Modul Versandkostenzuschlag kannst du einen Zuschlag auf die regulären Versandkosten berechnen. Die Höhe des Zuschlags legst du je Artikel fest. Das Modul für den Versandkostenzuschlag kann im Gambio Admin deines Shops unter Module \> Zusammenfassung installiert werden.
 

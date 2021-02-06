@@ -1,4 +1,4 @@
-# Attribute zuweisen {#attribute_zuweisen}
+# Attribute zuweisen 
 
 Damit du deine neuen Attribute im Shop nutzen kannst, müssen diese einem Artikel zugewiesen werden. Markiere unter Artikel \> Artikel/Kategorien den Artikel, dem du neue Variationen zuweisen möchtest und wähle über die Dropdown-Schaltfläche Attribute editieren. Über den Reiter Attributverwaltung kann zudem ein Artikel für die Zuweisung ausgewählt oder die Zuweisung eines anderen Artikels kopiert werden.
 

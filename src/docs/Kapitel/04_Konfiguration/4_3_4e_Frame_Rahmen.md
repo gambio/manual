@@ -1,4 +1,4 @@
-# Frame \(Rahmen\) {#frame}
+# Frame \(Rahmen\) 
 
 Mit der Frame-Funktion wird um das Artikelbild ein 3D-Rahmen gezeichnet.
 

@@ -1,4 +1,4 @@
-# Nummernkreise {#nummernkreise}
+# Nummernkreise 
 
 Über Nummernkreise wird die automatische Vergabe von Bestell-, Kunden-, Rechnungs- und Lieferscheinnummern konfiguriert. Die entsprechenden Einstellungen findest du unter Shop Einstellungen \> Nummernkreise.
 

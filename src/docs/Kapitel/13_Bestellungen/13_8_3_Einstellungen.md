@@ -1,4 +1,4 @@
-# Einstellungen {#rechnungsuebersicht_einstellungen}
+# Einstellungen 
 
 Öffne das Einstellungsfenster mit einem Klick auf das Zahnrad-Symbol.
 

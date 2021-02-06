@@ -1,4 +1,4 @@
-# Labelerstellung {#shipcloud_labelerstellung}
+# Labelerstellung 
 
 ## Funktion aufrufen { .section}
 

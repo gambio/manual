@@ -1,4 +1,4 @@
-# Aufbau des Cookie Consent-Panels im Shop {#cookie_consent_panels_im_shop}
+# Aufbau des Cookie Consent-Panels im Shop 
 
 ![](Bilder/cookie_consent/cookieconsent_shopansicht.png "Das Cookie Consent-Panel wird am unteren Rand des Browserfensters
       angezeigt")

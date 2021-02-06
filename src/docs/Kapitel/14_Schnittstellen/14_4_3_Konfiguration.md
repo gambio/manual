@@ -1,4 +1,4 @@
-# Konfiguration {#ratenzahlung_powered_by_paypal_konfiguration}
+# Konfiguration 
 
 Die Konfiguration erfolgt über die Experteneinstellungen von PayPal und Paypal Plus. Wähle hierzu unter Module \> Zahlungsweisen \> Sonstige eines der installierten Module - PayPal und PayPal Plus bzw. Ratenzahlung Powered by PayPal - aus und klicke auf die Schaltfläche Konfiguration. Wähle anschließend den Bereich Experteneinstellungen und öffne dort den Abschnitt Darstellung im Shop.
 

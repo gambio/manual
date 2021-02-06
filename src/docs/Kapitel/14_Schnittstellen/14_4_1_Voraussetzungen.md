@@ -1,4 +1,4 @@
-# Voraussetzungen {#ratenzahlung_powered_by_paypal_voraussetzungen}
+# Voraussetzungen 
 
 Damit Ratenzahlung Powered by PayPal im Shop angeboten werden kann, benötigst du eine Freischaltung von Paypal sowohl für Paypal Plus als auch für Ratenzahlung Powered by PayPal.
 

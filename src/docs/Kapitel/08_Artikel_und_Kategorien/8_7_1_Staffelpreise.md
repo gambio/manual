@@ -1,4 +1,4 @@
-# Staffelpreise {#staffelpreise}
+# Staffelpreise 
 
 Mit Staffelpreisen hast du die Möglichkeit, deine Artikelpreise abhängig von der verkauften Stückzahl je Bestellung zu gestalten. Staffelpreise werden in der Artikel-Eingabemaske angelegt und müssen für jede Kundengruppe explizit aktiviert werden. Je Kundengruppe können eigene Staffelpreise angelegt werden, sodass die Preismodelle für Händler und Endverbraucher getrennt gehalten werden können. Bei Artikeln mit Varianten über die Artikeleigenschaften oder Artikelattribute wird nur der Preis des Hauptartikels als Grundlage für die Berechnung der Staffelpreise verwendet.
 

@@ -1,4 +1,4 @@
-# Konfiguration der Bestellstatus {#payone_konfiguration_bestellstatus}
+# Konfiguration der Bestellstatus 
 
 Hier können die Bestellstatus konfiguriert werden.
 

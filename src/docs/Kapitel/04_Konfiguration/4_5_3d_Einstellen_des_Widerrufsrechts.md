@@ -1,4 +1,4 @@
-# Einstellen des Widerrufsrechts {#einstellen_des_widerrufsrechts}
+# Einstellen des Widerrufsrechts 
 
 Die Grundeinstellungen zum Widerrufsrecht werden unter Shop Einstellungen \> Rechtliches vorgenommen. Hierzu zählen der Reihe nach:
 

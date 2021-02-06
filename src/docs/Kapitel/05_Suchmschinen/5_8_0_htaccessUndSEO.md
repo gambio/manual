@@ -1,4 +1,4 @@
-# .htaccess und SEO {#htaccess_und_seo}
+# .htaccess und SEO 
 
 Aktuelle Shopversionen werden standardmäßig mit einer .htaccess-Datei im Hauptverzeichnis ausgeliefert. Über die .htaccess-Datei werden serverseitige Einstellungen vorgenommen. Die mitgelieferte Variante wird für verschiedene Shopfunktionen benötigt, darunter den Gambio SEO Boost.
 

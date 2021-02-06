@@ -1,4 +1,4 @@
-# Verwenden des Dateimanagers {#dateimanager_verwenden_des_dateimanagers}
+# Verwenden des Dateimanagers 
 
 Der Dateimanager kann wahlweise unter Toolbox \> Dateimanager bzw. in dem jeweiligen Bereich, in dem dieser eingebunden wird, aufgerufen werden. Klicke hierzu auf die Schaltfläche mit dem Datei-Upload-Symbol. Je nach Bereich, aus dem der Dateimanager heraus aufgerufen worden ist, wird das zugeorndete Verzeichnis auf dem FTP-Server angezeigt. Beim Aufruf über Toolbox \> Dateimanager wird das Hauptverzeichnis des Shops angezeigt.
 

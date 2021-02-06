@@ -1,4 +1,4 @@
-# G-Motion verwenden {#g_motion_verwenden}
+# G-Motion verwenden 
 
 Mit G-Motion werden starre Artikelbilder animiert. Bei der Animation kannst du zwischen Schwenk, Zoom und einer Kombination aus Schwenk und Zoom auswählen. G-Motion-Bilder werden ausschließlich auf der Artikel-Detailseite angezeigt.
 

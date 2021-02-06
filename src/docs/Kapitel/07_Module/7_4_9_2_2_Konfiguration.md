@@ -1,4 +1,4 @@
-# Konfiguration {#trusted_shops_einrichtung_konfiguration}
+# Konfiguration 
 
 ## TSID hinzufügen { .section}
 

@@ -1,4 +1,4 @@
-# SOFORT Überweisung \(SofortHub\) {#soforthub}
+# SOFORT Überweisung \(SofortHub\) 
 
 Installiere das Modul SOFORT Überweisung um Zahlungen über SOFORT Überweisung im Shop zu ermöglichen.
 

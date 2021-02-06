@@ -1,4 +1,4 @@
-# Kunden {#einstellungen_kunden}
+# Kunden 
 
 ## Kunden { .section}
 

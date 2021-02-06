@@ -1,4 +1,4 @@
-# Konfiguration {#single_sign_on_konfiguration}
+# Konfiguration 
 
 Nach Installation des Moduls kann dieses mit Klick auf Bearbeiten konfiguriert werden. Für die verschiedenen Anbieter müssen jeweils die benötigten Zugangsdaten hinterlegt werden.
 

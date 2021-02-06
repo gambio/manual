@@ -1,4 +1,4 @@
-# Cross-Marketing Gruppen {#cross_marketing_gruppen}
+# Cross-Marketing Gruppen 
 
 Mit Hilfe von Cross-Marketing Gruppen können Cross Selling Artikel mit einem Gruppen-Bezeichner versehen werden.
 

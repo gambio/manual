@@ -1,4 +1,4 @@
-# Artikel & Kategorien {#einstellungen_artikel_und_kategorien}
+# Artikel & Kategorien 
 
 ## Produkte { .section}
 

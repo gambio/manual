@@ -1,4 +1,4 @@
-# Kategorie bearbeiten {#kategorien_bearbeiten}
+# Kategorie bearbeiten 
 
 Zum Bearbeiten von Kategorien, klicke in der Artikel- und Kategorieübersicht auf den Namen der Kategorie und klicke in der zugehörigen Zeile auf die Schaltfläche Bearbeiten.
 

@@ -1,4 +1,4 @@
-# Vorkasse \(Überweisung\) \(MoneyOrderHub\) {#moneyorderhub}
+# Vorkasse \(Überweisung\) \(MoneyOrderHub\) 
 
 Installiere das Modul Vorkasse \(Überweisung\) um Zahlungen per Vorkasse im Shop zu ermöglichen.
 

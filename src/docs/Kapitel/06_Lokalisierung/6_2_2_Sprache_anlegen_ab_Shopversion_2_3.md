@@ -1,4 +1,4 @@
-# Sprachen anlegen ab Shopversion 2.3 {#sprachen_anlegen_ab_shopversion_2_3}
+# Sprachen anlegen ab Shopversion 2.3 
 
 Das Shopsystem wird vollständig in Englisch und Deutsch lokalisiert ausgeliefert. Zusätzliche Sprachen können nachträglich hinzugefügt werden. Hierzu sind sowohl Schritte im Administrationsbereich/Gambio Admin des Shops als auch auf dem FTP-Server notwendig.
 

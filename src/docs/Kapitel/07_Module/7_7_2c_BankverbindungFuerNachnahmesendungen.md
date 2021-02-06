@@ -1,4 +1,4 @@
-# Bankverbindung für Nachnahmesendungen {#dhl_geschaeftskundenversand_konfiguration_bankverbindung}
+# Bankverbindung für Nachnahmesendungen 
 
 Wenn im Shop Bestellungen per Nachnahme möglich sind, müssen diese Bankdaten unbedingt hinterlegt werden
 

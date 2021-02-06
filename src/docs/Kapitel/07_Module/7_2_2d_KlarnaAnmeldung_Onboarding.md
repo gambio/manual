@@ -1,4 +1,4 @@
-# Klarna Anmeldung / Onboarding {#klarna_anmeldung_onboarding}
+# Klarna Anmeldung / Onboarding 
 
 Der erste Schritt der Klarna Anmeldung besteht in der Angabe deines Unternehmens. Wähle hierzu zunächst deine Branche aus, der Rest des Formulars wird nach und nach eingeblendet.
 

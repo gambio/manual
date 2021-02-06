@@ -1,4 +1,4 @@
-# Profil bearbeiten {#preis_portal_profil_bearbeiten}
+# Profil bearbeiten 
 
 Über einen Klick auf Profil bearbeiten können die Einstellungen zu dem jeweiligen Profil aufgerufen werden. Es öffnet sich ein Fenster, das standardmäßig mit dem ausgewählten Reiter Einstellungen angezeigt wird. Weitere Reiter sind Spalten, Kollektivspalten und Kategorien. Zudem wird in der oberen Leiste der Name des ausgewählten Profils angegeben.
 

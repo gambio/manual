@@ -1,4 +1,4 @@
-# Bilder einbinden {#bilder_einbinden}
+# Bilder einbinden 
 
 ![](Bilder/Abb016_Bild_Eigenschaften.png "Bild-Eigenschaften")
 

@@ -1,4 +1,4 @@
-# Eigenschaften zuweisen {#artikeleigenschaften_eigenschaften_zuweisen}
+# Eigenschaften zuweisen 
 
 Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zugewiesen werden.
 

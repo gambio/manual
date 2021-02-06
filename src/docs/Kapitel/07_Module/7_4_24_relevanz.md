@@ -1,4 +1,4 @@
-# releva.nz {#relevanz}
+# releva.nz 
 
 -   **[Allgemeines](7_4_24_1_Allgemeines.md)**  
 

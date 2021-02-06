@@ -1,4 +1,4 @@
-# Rechtliches {#rechtliches}
+# Rechtliches 
 
 ## Kleinunternehmerregelung { .section}
 

@@ -1,4 +1,4 @@
-# Pflichtfelder festlegen {#kundenregistrierung_pflichtfelder_festlegen}
+# Pflichtfelder festlegen 
 
 Im Gambio Admin deines Shops unter Shop Einstellungen \> Minimum-Werte kannst du festlegen, welche der abgefragten Werte bei der Registrierung Pflichtangaben sind.
 

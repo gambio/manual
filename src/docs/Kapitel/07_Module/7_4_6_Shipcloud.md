@@ -1,4 +1,4 @@
-# Shipcloud {#shipcloud}
+# Shipcloud 
 
 -   **[Installation](7_4_6_1_Installation.md)**  
 

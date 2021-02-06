@@ -1,4 +1,4 @@
-# Einstellungen für den Warenkorb {#template_konfiguration_einstellungen_fuer_den_warenkorb}
+# Einstellungen für den Warenkorb 
 
 |Feldname|Beschreibung|
 |--------|------------|

@@ -1,4 +1,4 @@
-# URL Rewrite {#url_rewrite}
+# URL Rewrite 
 
 Über URL Rewrite können die URLs zu Artikeln, Kategorien und Content-Seiten individuell angepasst werden. Die URL der jeweiligen Seite ist unabhängig von bestehenden URL Keywords.
 

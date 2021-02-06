@@ -1,4 +1,4 @@
-# Customizer-Set anlegen {#gx_customizer_set_anlegen}
+# Customizer-Set anlegen 
 
 Neue Customizer-Sets kannst du im Gambio Admin unter Artikel \> GX-Customizer anlegen. Trage in das Feld Bezeichnung eine Bezeichnung für das neue Customizer-Set ein und klicke auf Erstellen.
 

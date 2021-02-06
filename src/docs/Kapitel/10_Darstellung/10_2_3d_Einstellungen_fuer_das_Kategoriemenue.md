@@ -1,4 +1,4 @@
-# Einstellungen für das Kategoriemenü {#template_konfiguration_einstellungen_fuer_das_kategoriemenue}
+# Einstellungen für das Kategoriemenü 
 
 |Feldname|Beschreibung|
 |--------|------------|

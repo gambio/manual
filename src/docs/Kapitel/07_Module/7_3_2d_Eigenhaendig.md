@@ -1,4 +1,4 @@
-# Eigenhändig {#eigenhaendig}
+# Eigenhändig 
 
 Wenn du Ware versendest, die eigenhändig vom Empfänger entgegengenommen werden muss, kannst du bei deinem Versandunternehmen die Option Eigenhändig buchen. Die Kosten für die eigenhändige Zustellung werden im Shop mit dem Modul Eigenhändig berechnet. Das Modul installierst du im Gambio Admin deines Shops unter Module \> Zusammenfassung.
 

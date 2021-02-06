@@ -1,4 +1,4 @@
-# Kunden-Bestellstatistik {#kunden_bestellstatistik}
+# Kunden-Bestellstatistik 
 
 Unter Statistiken \> Kunden-Bestellstatistik werden die Kunden mit den höchsten Umsätzen aufgeführt. Für die angezeigten Angaben sind keine Filtereinstellungen vorhanden.
 

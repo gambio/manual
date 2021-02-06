@@ -1,4 +1,4 @@
-# ShopVote {#shopvote}
+# ShopVote 
 
 -   **[Grundlegende Informationen](7_4_26_1_ShopVote_GrundlegendeInformationen.md)**  
 

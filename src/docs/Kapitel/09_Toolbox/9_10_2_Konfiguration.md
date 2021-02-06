@@ -1,4 +1,4 @@
-# Konfiguration {#dateimanager_konfiguration}
+# Konfiguration 
 
 ![](Bilder/Abb160_KonfigurationDateimanager.PNG "Konfiguration des Dateimanagers")
 

@@ -1,4 +1,4 @@
-# Versandarten {#versandarten}
+# Versandarten 
 
 Im Gambio Admin unter Module \> Versandarten stehen dir verschiedene Module zur Verfügung, mit denen du deine Versandkosten konfigurieren kannst.
 

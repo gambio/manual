@@ -1,4 +1,4 @@
-# Konfiguration {#bezahlen_ueber_amazon_konfiguration}
+# Konfiguration 
 
 Wurde das Modul installiert, kann über die Schaltfläche konfigurieren die Konfigurationsseite des Moduls aufgerufen werden.
 

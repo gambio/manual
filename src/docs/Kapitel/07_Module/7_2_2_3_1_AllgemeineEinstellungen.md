@@ -1,4 +1,4 @@
-# Allgemeine Einstellungen {#paypal2hub_weitere_einstellungen_allgemeine_einstellungen}
+# Allgemeine Einstellungen 
 
 ![](Bilder/PayPal2Hub/20190611_008.png "Eingabemaske beim Bearbeiten des Moduls")
 

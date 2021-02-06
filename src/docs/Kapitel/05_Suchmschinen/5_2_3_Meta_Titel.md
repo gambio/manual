@@ -1,4 +1,4 @@
-# Meta-Titel {#meta_titel}
+# Meta-Titel 
 
 Unter Shop Einstellungen \> SEO \> Meta-Angaben \> Meta-Titel Einstellungen kannst du den Titel deines Onlineshops festlegen, der je nach Browser in der Tableiste oder im Browsertitel ausgegeben wird. Zusätzlich zum Seitentitel wird der Titel der aktuell angezeigten Seite ausgegeben.
 

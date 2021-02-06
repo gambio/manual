@@ -1,4 +1,4 @@
-# Statische Seite erstellen {#statische_seiten_erstellen}
+# Statische Seite erstellen 
 
 Über die Schaltfläche Erstellen können weitere Einträge für statische Seiten hinzugefügt werden. Es ist also möglich Seiten des Shops, die bisher nicht aufgenommen worden oder neu hinzugekommen sind, zu ergänzen.
 

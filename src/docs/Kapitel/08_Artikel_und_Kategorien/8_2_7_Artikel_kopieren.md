@@ -1,4 +1,4 @@
-# Artikel kopieren {#artikel_kopieren}
+# Artikel kopieren 
 
 Artikel lassen sich unter Artikel \> Artikel / Kategorien kopieren. Markiere die Artikel, die du kopieren möchtest, indem du in den zugehörigen Boxen die Haken setzt. In der Leiste unter der Auflistung wird nun der Dropdown-Button angezeigt. Klicke auf der rechten Seite des Buttons auf den nach unten weisenden Pfeil und anschließend auf Kopieren.
 

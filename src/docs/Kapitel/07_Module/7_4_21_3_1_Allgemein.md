@@ -1,4 +1,4 @@
-# Allgemein {#cookie_consent_bearbeiten_allgemein}
+# Allgemein 
 
 ![](Bilder/cookie_consent/cookieconsent_allgemein.png "Ansicht beim Bearbeiten des Cookie Consent-Moduls, Reiter
       Allgemein")

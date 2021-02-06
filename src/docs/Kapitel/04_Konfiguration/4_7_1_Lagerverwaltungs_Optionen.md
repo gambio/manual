@@ -1,4 +1,4 @@
-# Lagerverwaltungs-Optionen {#lagerverwaltungs_optionen}
+# Lagerverwaltungs-Optionen 
 
 Unter Shop Einstellungen \> Lagerverwaltungs-Optionen lässt sich die shopeigene Lagerverwaltung einrichten. Folgende Einstellungsmöglichkeiten sind gegeben:
 

@@ -1,4 +1,4 @@
-# Kostenbasiert {#kostenbasiert}
+# Kostenbasiert 
 
 Neben den gewichtbasierten Versandarten können über das Modul Versand nach Preis/Gewicht die Versandkosten anhand des Gesamtwertes des Warenkorbs berechnet werden.
 

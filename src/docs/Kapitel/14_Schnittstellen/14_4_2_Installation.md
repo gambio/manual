@@ -1,4 +1,4 @@
-# Installation {#ratenzahlung_powered_by_paypal_installation}
+# Installation 
 
 Die Installation wird an zwei Punkten im Shop vorgenomen.
 

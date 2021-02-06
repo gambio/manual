@@ -1,4 +1,4 @@
-# Gambio SEO Boost {#gambio_seo_boost}
+# Gambio SEO Boost 
 
 Das Shopsystem kann die URLs der Artikelseiten in einer für Suchmaschinen besser lesbare Form darstellen. Die lesbaren URLs kannst du unter Shop Einstellungen \> SEO \> Gambio SEO Boost separat für Artikel-, Kategorie- und Inhaltsseiten einstellen. Die Funktion für lesbare URLs greift auf die Funktionen von mod\_rewrite zurück.
 

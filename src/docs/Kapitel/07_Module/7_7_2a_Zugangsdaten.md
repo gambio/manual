@@ -1,4 +1,4 @@
-# Zugangsdaten {#dhl_geschaeftskundenversand_konfiguration_zugangsdaten}
+# Zugangsdaten 
 
 ![](Bilder/GKV2_20170628_001.png "Zugangsdaten für DHL Geschäftskundenversand")
 

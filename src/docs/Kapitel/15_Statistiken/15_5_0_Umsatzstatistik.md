@@ -1,4 +1,4 @@
-# Umsatzstatistik {#umsatzstatistik}
+# Umsatzstatistik 
 
 Unter Statistiken \> Umsatzstatistik werden die für einen defnierten Zeitraum gemachten Umsätze aufgeführt. Die zeitliche Begrenzung kann mit Hilfe der Einstellungen Jährlich, Montalich, Wöchentlich, Täglich erfolgen. Der anzuzeigende Zeitraum lässt sich über die Datumseingabe beliebig festlegen. Zudem kann die Ausgabe auf Bestellungen mit einem bestimmten Bestellstatus bzw. einer ausgewählten Zahlungsweise eingeschränkt werden.
 

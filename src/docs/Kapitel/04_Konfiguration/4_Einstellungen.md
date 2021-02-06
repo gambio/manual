@@ -1,4 +1,4 @@
-# Einstellungen {#einstellungen}
+# Einstellungen 
 
 ![](Bilder/einstellungen_uebersicht.png "Ansicht beim Laden der Einstellungsseite")
 
@@ -37,7 +37,7 @@ Am unteren Ende der Seite befindet sich der Speichern-Button. Dieser ist ausgegr
 -   **[System](4_9_EinstellungenSystem.md)**  
 
 
-# E-Mail-Optionen {#e_mail_optionen_email_optionen}
+# E-Mail-Optionen 
 
 An der Grundkonfiguration der E-Mail-Optionen muss bei Verwenden der E-Mail Transport- Methode mail keine Änderung vorgenommen werden.
 
@@ -107,7 +107,7 @@ Jedem E-Mail Konto sind die folgenden Konfigurationsvariablen zugewiesen. Das Fe
 
 
 
-# Performance {#gzip_kompression}
+# Performance 
 
 Die Gzip-Kompression dient der Verbesserung der Ladezeiten und kann verwendet werden, um die Seitenaufbaugeschwindikeit zu optimieren. Um die GZip-Kompression zu verwenden, aktiviere unter Shop Einstellungen \> System Einstellungen \> Performance die Einstellung GZip Kompression einschalten.
 
@@ -123,7 +123,7 @@ Wird der Haken CSS inline im Head ausgeben gesetzt, wird der CSS-Code im Head-Be
 
 
 
-# Rechtliches {#einstellungen_rechtliches}
+# Rechtliches 
 
 ## Link zur Datenschutzerklärung anzeigen { .section}
 
@@ -267,7 +267,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 
 
 
-# Paketdienste {#paketdienste}
+# Paketdienste 
 
 Über den Paketdienste ist es möglich Bestellungen im Shop mit dem Tracking des jeweiligen Versanddienstleisters zu verknüpfen.
 
@@ -278,7 +278,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 
 
 
-# Image Processing {#image_processing}
+# Image Processing 
 
 Änderungen die an den Einstellungen unter Darstellung \> Bild-Optionen \> Bild-Optionen vorgenommen werden, wirken sich immer nur auf neu hochgeladene Bilder aus. Um den bestehenden Bild-Bestand anzupassen, muss unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung durchgeführt werden.
 
@@ -298,7 +298,7 @@ Bei Bedarf kann unter Nummer des Startbildes bzw. Dateiname des Startbildes fest
 
 
 
-# System {#einstellungen_system}
+# System 
 
 ## E-Mail Optionen { .section}
 
@@ -505,7 +505,7 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 
 
 
-# Drop-Shadow \(Schlagschatten\) {#drop_shadow}
+# Drop-Shadow \(Schlagschatten\) 
 
 Mit der Drop-Shadow-Funktion wird ein Schlagschatten nach unten rechts hinter das Artikelbild gelegt. Der Schatten wird nicht massiv als Rahmen dargestellt, sondern mit einer zusätzlichen Hintergrundfarbe in einem dynamischen Spektrum berechnet.
 
@@ -521,7 +521,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Konfiguration {#konfiguration}
+# Konfiguration 
 
 Dieses Kapitel beschreibt die Grundkonfiguration deines neuen Onlineshops.
 
@@ -564,7 +564,7 @@ Dieses Kapitel beschreibt die Grundkonfiguration deines neuen Onlineshops.
 -   **[Allgemeines](4_20_Allgemeines.md)**  
 
 
-# Kampagnen {#kampagnen}
+# Kampagnen 
 
 Kampagnen sind dafür gedacht, die Herkunft der Kunden zu identifizieren. Es ist möglich, die Artikellinks um eine ID zu ergänzen, bevor man diese in ein Portal wie z.B. idealo.de hochlädt. Kommen Kunden nun über dieses Portal in den Shop, enthalten die Bewegungen des Kunden die Referenznummer der Kampagne und der Shopbetreiber weiß, aus welcher Quelle welche Käufe generiert wurden.
 
@@ -582,7 +582,7 @@ Die Daten können unter Statistiken \> Kampagnen Report ausgewertet werden, weit
 
 
 
-# Bildgröße {#bildgroesse}
+# Bildgröße 
 
 Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschiedenen Ausgangsgrößen angepasst. Für jedes Artikelbild werden dabei die Kopien aus der Tabelle Artikelbild-Varianten angelegt. Die tatsächliche Anzeigegröße hängt hierbei von den Einstellungen im StyleEdit ab. Jedoch kann eine Änderung der Ausgangsgrößen unter Darstellung \> Bild-Optionen erhebliche Auswirkungen auf Bildqualität und Ladezeit haben.
 
@@ -602,7 +602,7 @@ Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschi
 
 
 
-# Kontaktinformationen {#kontaktinformationen}
+# Kontaktinformationen 
 
 Zu den formalen Inhalten des Widerrufsformulars gehören auch die Kontaktinformationen. Sie werden unter Shop Einstellungen \> Mein Shop eingetragen.
 
@@ -619,7 +619,7 @@ Zu den formalen Inhalten des Widerrufsformulars gehören auch die Kontaktinforma
 
 
 
-# Lieferzeiten kennzeichnen {#lieferzeiten_kennzeichnen}
+# Lieferzeiten kennzeichnen 
 
 Die Angabe der Lieferzeit wurde um den Link Ausland abweichend erweitert. Dieser Link verweist auf die Seite Versand- & Zahlungsbedingungen und informiert deine Kunden darüber, dass die angegebenen Lieferzeiten nicht für den Versand ins Ausland gelten.
 
@@ -631,7 +631,7 @@ Die Anzeige dieses Links kann unter Shop Einstellungen \> Lieferstatus für jede
 
 
 
-# E-Mail-Optionen {#e_mail_optionen}
+# E-Mail-Optionen 
 
 CAUTION:
 
@@ -646,7 +646,7 @@ CAUTION:
 
 
 
-# Bild-Effekte {#bild_effekte}
+# Bild-Effekte 
 
 Das Shopsystem bietet verschiedene Funktionen an, mit denen du einen oder mehrere Effekte auf deine Artikelbilder anwenden kannst. Die Effekte werden auf den jeweiligen Bildtyp \(siehe Kapitel Bildgröße\) separat angewendet. Auf jeden Bildtyp kann ein Effekt, eine Kombination aus verschiedenen Effekten oder alle Effekte angewendet werden.
 
@@ -669,7 +669,7 @@ Das Shopsystem bietet verschiedene Funktionen an, mit denen du einen oder mehrer
 
 
 
-# Shop-Key {#shop_key}
+# Shop-Key 
 
 **Note:**
 
@@ -691,7 +691,7 @@ Eine Liste mit den genauen Daten, die an das Gambio Kundenportal weitergegeben w
 
 
 
-# Allgemeines {#allgemeines_allgemeines}
+# Allgemeines 
 
 Im Reiter Allgemeines stehen folgende Einstellungen zur Verfügung:
 
@@ -729,7 +729,7 @@ Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Be
 
 
 
-# E-Mail Vorlagen {#e_mail_vorlagen}
+# E-Mail Vorlagen 
 
 Das Shopsystem versendet automatisierte E-Mails. Die Vorlagen kannst du unter Kunden \> E-Mails \> E-Mail Vorlagen anpassen.
 
@@ -759,7 +759,7 @@ Passe die gewünschte E-Mail Vorlage über den CK-Editor an. Klicke auf Vorschau
 
 
 
-# Round-edges \(runde Ecken\) {#round_edges}
+# Round-edges \(runde Ecken\) 
 
 Mit der Round-edges-Funktion werden die Ecken des Artikelbildes abgerundet.
 
@@ -775,7 +775,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Lager- und Bestandseinstellungen {#lager_und_bestandseinstellungen}
+# Lager- und Bestandseinstellungen 
 
 -   **[Lagerverwaltungs-Optionen](4_7_1_Lagerverwaltungs_Optionen.md)**  
 
@@ -784,13 +784,13 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Artikelbilder löschen {#allgemeines_artikelbilder_loeschen}
+# Artikelbilder löschen 
 
 Der Reiter Artikelbilder löschen ist im gleichnamigen Unterkapitel des Kapitels Bild-Optionen beschrieben.
 
 
 
-# Ellipse {#ellipse}
+# Ellipse 
 
 Mit der Ellipse-Funktion wird ein Ausschnitt des Artikelbilds in Form einer Ellipse ausgeschnitten und anstatt des ganzen Bildes angezeigt.
 
@@ -802,7 +802,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Rechtliche Einstellungen {#rechtliche_einstellungen}
+# Rechtliche Einstellungen 
 
 CAUTION:
 
@@ -819,7 +819,7 @@ Bitte nimm Änderungen an den rechtlichen Einstellungen ausschließlich in Abspr
 
 
 
-# Suchmaschinenoptimierung {#t4_7_EinstellungenSuchmaschinenoptimierung}
+# Suchmaschinenoptimierung 
 
 ## Kampagnen { .section}
 
@@ -878,7 +878,7 @@ Die im Shop eingestellte Änderungsfrequenz stellt lediglich eine Vorgabe dar. D
 
 
 
-# Artikelbilder löschen {#artikelbilder_loeschen}
+# Artikelbilder löschen 
 
 Unter Shop Einstellungen \> Allgemeines \> Artikelbilder löschen besteht die Möglichkeit Artikelbilder bei Bedarf zu löschen. Es können die Originalbilder \(Verzeichnis /images/product\_images/original\_images\) sowie nicht benötigte Artikelbilder, die keinem Artikel mehr zugeordnet sind, entfernt werden.
 
@@ -892,7 +892,7 @@ Die Original-Bilder werden für den Bilderzoom verwendet. Werden diese gelöscht
 
 
 
-# Einstellungen für Kleinunternehmer {#einstellungen_fuer_kleinunternehmer}
+# Einstellungen für Kleinunternehmer 
 
 Kleinunternehmer führen in Deutschland unter bestimmten Voraussetzungen keine Umsatzsteuer ab und müssen im Shop daher keine Umsatzsteuer ausweisen. Das Shopsystem bietet eine Funktion an, mit der der Artikelpreis regulär eingegeben, die enthaltene Steuer jedoch nicht ausgewiesen wird.
 
@@ -906,7 +906,7 @@ Bei Artikelpreisen und zukünftigen Bestellungen wird anstatt der Umsatzsteuer e
 
 
 
-# Bestell- und Kundennummern {#bestell_und_kundennummern}
+# Bestell- und Kundennummern 
 
 Die kommenden, zu vergebenen Bestell- und Kundennummer werden in den Eingabefeldern Nächste Bestellnummer bzw. Nächste Kundennummer angezeigt. Dort können die Nummern auch geändert werden. Hierbei ist zu beachten, dass die neu vergebenen Nummern nicht unter dem angezeigten Minimum liegen dürfen. Zudem kann 1 nicht als Kundennummer vergeben werden, da diese Nummer für den Hauptadministrator vorgesehen ist.
 
@@ -918,7 +918,7 @@ Generell gilt, dass die Kundennummern nur heruntergesetzt werden können, wenn z
 
 
 
-# Such-Optionen {#such_optionen}
+# Such-Optionen 
 
 Unter Shop Einstellungen \> Mein Shop kannst du auswählen, ob die Shopsuche in den Artikelbeschreibungen und in den Artikelattributen suchen soll.
 
@@ -927,7 +927,7 @@ Unter Shop Einstellungen \> Mein Shop kannst du auswählen, ob die Shopsuche in 
 
 
 
-# Allgemeines {#rechtliche_einstellungen_allgemeines}
+# Allgemeines 
 
 Die allgemeine rechtliche Konfiguration kannst du unter Shop Einstellungen \> Rechtliches vornehmen.
 
@@ -1010,7 +1010,7 @@ In der Grundkonfiguration wird auf allen Seiten die Mehrwertsteuer unterhalb des
 
 
 
-# IP-Logging {#ip_logging}
+# IP-Logging 
 
 Unter Shop Einstellungen \> Rechtliches stehen dir im Abschnitt IP-Logging Funktionen für das Speichern der IP Adresse deines Kunden beim Einloggen und Registrieren sowie bei Bestellungen zur Verfügung.
 
@@ -1024,7 +1024,7 @@ Bevor du die Logging-Optionen aktivierst, erfrage möglicherweise nötige rechtl
 
 
 
-# Grundkonfiguration {#grundkonfiguration}
+# Grundkonfiguration 
 
 Nehme nach der Installation des Shopsystems die erstmalige Konfiguration des Shops vor. Im Folgenden findest du Informationen zur Grundkonfiguration deines Shops.
 
@@ -1035,7 +1035,7 @@ Nehme nach der Installation des Shopsystems die erstmalige Konfiguration des Sho
 
 
 
-# Artikelübersicht-Optionen {#artikeluebersicht_optionen}
+# Artikelübersicht-Optionen 
 
 Unter Shop Einstellungen \> Mein Shop hast du die Möglichkeit, die Anzeige des Hersteller- und Kategorie-Filters an- bzw. abzuschalten. Trage hierzu in das Eingabefeld Hersteller- und Kategorie-Filter anzeigen? eine 1 \(aktivieren\) bzw. eine 0 \(deaktivieren\) ein, um die Anzeige des Kategorie- bzw. Hersteller-Dropdowns in der Artikelübersicht zu steuern. Bestätige deine Eingabe mit einem Klick auf Speichern.
 
@@ -1045,7 +1045,7 @@ Diese Auswahl wird nur dann angezeigt, wenn eine echte Auswahl aus verschiedenen
 
 
 
-# Motion-Blur \(Bewegungs-Effekt\) {#motion_blur}
+# Motion-Blur \(Bewegungs-Effekt\) 
 
 Mit der Motion-Blur-Funktion wird ein Ausschnitt des Artikelbilds nach unten rechts multipliziert. Durch die Wiederholung entsteht ein Bewegungs-Effekt.
 
@@ -1062,7 +1062,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Sicherheitseinstellungen {#sicherheitseinstellungen}
+# Sicherheitseinstellungen 
 
 Das Shopsystem enthält Funktionen, die die Sicherheit deines Shops auf unterschiedliche Weise verbessern können. Beachte, dass diese Funktionen keine uneingeschränkte Garantie für die Sicherheit deines Shops gegen gezielte Hacker-Angriffe und Spam-Roboter bedeuten.
 
@@ -1073,7 +1073,7 @@ Das Shopsystem enthält Funktionen, die die Sicherheit deines Shops auf untersch
 
 
 
-# Konfiguration des G-Protectors {#konfiguration_des_gprotectors}
+# Konfiguration des G-Protectors 
 
 Die Grundeinstellungen des G-Protectors sind bereits mit dem Kopieren des zugehörigen Ordners in das Shopverzeichnis abgeschlossen. Darüber hinaus besteht die Möglichkeit IP-Adressen zu sperren.
 
@@ -1093,7 +1093,7 @@ Dies kann, neben einzelner Adressen, auch für Adressräume vorgenommen werden:
 
 
 
-# Nummernkreise {#nummernkreise}
+# Nummernkreise 
 
 Über Nummernkreise wird die automatische Vergabe von Bestell-, Kunden-, Rechnungs- und Lieferscheinnummern konfiguriert. Die entsprechenden Einstellungen findest du unter Shop Einstellungen \> Nummernkreise.
 
@@ -1109,7 +1109,7 @@ Um den Minimumwert für einen Nummernkreis anzeigen zu lassen, bewege den Mausze
 
 
 
-# Rechnungs- und Lieferscheinnummer {#rechnungs_und_lieferscheinnummern}
+# Rechnungs- und Lieferscheinnummer 
 
 Hier kannst du die Nummernkreise für Rechnungs- und Lieferscheinnummer anpassen.
 
@@ -1131,7 +1131,7 @@ Beachte, dass diese beiden Nummern fortlaufend sind und jeweils erst bei der Ers
 
 
 
-# Cookie Hinweis {#cookie_hinweis}
+# Cookie Hinweis 
 
 Der Cookie Hinweis kann unter Shop Einstellungen \> Rechtliches über den Reiter Cookie Hinweis konfiguriert werden. Der Hinweis erscheint beim ersten Aufruf des Shops und kann durch den Kunden bestätigt oder \(je nach Konfiguration\) geschlossen werden. Zur Bestätigung des Hinweises wird ein eigener Button angezeigt, dessen Beschriftung du frei festlegen kannst.
 
@@ -1170,7 +1170,7 @@ Bestätige alle gemachten Änderungen mit Klick auf Speichern.
 
 
 
-# Bevel \(Button-Effekt\) {#bevel}
+# Bevel \(Button-Effekt\) 
 
 Mit der Bevel-Funktion werden Artikelbilder erhaben dargestellt und wirken dadurch wie eine Schaltfläche.
 
@@ -1186,7 +1186,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Persönliche Daten {#persoehnliche_daten}
+# Persönliche Daten 
 
 ## Shopbetreiber-Anschrift { .section}
 
@@ -1229,7 +1229,7 @@ Lege den Namen deines Shops unter Shop Einstellungen \> Mein Shop im Feld Name d
 
 
 
-# Lagerbestände anzeigen {#lagerbestaende_anzeigen}
+# Lagerbestände anzeigen 
 
 Über den Reiter Lagerbestände anzeigen stehen folgende Einstellungen zur Verfügung:
 
@@ -1240,7 +1240,7 @@ Setze bzw. entferne den jeweiligen Haken und klicke in der entsprechenden Zeile 
 
 
 
-# Allgemeines {#allgemeines}
+# Allgemeines 
 
 Unter Shop Einstellungen \> Allgemeines befinden sich hauptsächlich Detaileinstellungen zur Anzeige der Artikelnamen, Lagerbestände und Preisanzeige, aber auch andere Funtktionen, wie das Löschen überzähliger Artikelbilder oder Statistiken.
 
@@ -1255,7 +1255,7 @@ Unter Shop Einstellungen \> Allgemeines befinden sich hauptsächlich Detaileinst
 
 
 
-# Greyscale \(Graustufen\) {#greyscale}
+# Greyscale \(Graustufen\) 
 
 Mit der Greyscale-Funktion werden Artikelbilder in Farbstufen eingefärbt. Dadurch ist eine Darstellung von Artikelbildern in Graustufen oder beispielsweise Sepiafärbung möglich.
 
@@ -1275,7 +1275,7 @@ Ein Parameter von \(0,0,0\) färbt dein Artikelbild vollständig schwarz, wohing
 
 
 
-# Artikel & Kategorien {#einstellungen_artikel_und_kategorien}
+# Artikel & Kategorien 
 
 ## Produkte { .section}
 
@@ -1368,7 +1368,7 @@ Auf Nicht-Linux/Unix Systemen sollte diese Einstellung ausgeschaltet sein.
 
 
 
-# Grundeinstellungen {#grundeinstellungen}
+# Grundeinstellungen 
 
 Im Administrationsbereich deines Shops werden unter Darstellung \> Bild-Optionen die Einstellungen für die automatische Bildberechnung der Artikelbilder vorgenommen.
 
@@ -1385,7 +1385,7 @@ Bei Verwenden der GDlib1-Bibliotheken für die Bildbearbeitung werden sämtliche
 
 
 
-# Lieferstatus {#lieferstatus}
+# Lieferstatus 
 
 Lieferstatus geben an, wie lange es voraussichtlich dauert, bis ein gegebener Artikel geliefert wird. Im Shop kann für jede dieser Zeitperioden ein eigener Lieferstatus festgelegt werden, z.B. 3-4 Tage, 1 Woche usw. Unter Shop Einstellungen \> Lieferstatus können diese Status eingesehen und geändert werden. Wenn ein Lieferstatus markiert wird, sodass er blau hinterlegt ist, wird in der Box auf der rechten Seite sowohl die deutsche als auch die englische Bezeichnung angezeigt. Dazu kommen die Anzahl der Wochentage und der obere Schwellenwert.
 
@@ -1407,7 +1407,7 @@ Die Angabe der Lieferzeit beinhaltet den Link Ausland abweichend. Die Anzeige di
 
 
 
-# Sprachen, Länder, Steuern {#einstellungen_sprachen_laender_steuern}
+# Sprachen, Länder, Steuern 
 
 ## Steuerklassen { .section}
 
@@ -1475,7 +1475,7 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 
 
 
-# Bild-Optionen {#bild_optionen}
+# Bild-Optionen 
 
 **Note:**
 
@@ -1496,7 +1496,7 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 
 
 
-# Logging-Optionen {#logging_optionen}
+# Logging-Optionen 
 
 **Note:**
 
@@ -1580,7 +1580,7 @@ CAUTION:
 
 
 
-# Verbraucherrechterichtlinie {#verbraucherrechterichtline}
+# Verbraucherrechterichtlinie 
 
 Mit Inkrafttreten der Verbraucherrechterichtlinie hat es im Shop zahlreiche Veränderungen gegeben. Dieser Teil des Handbuches zeigt dir in einer Schritt-Für-Schritt-Anleitung, wie sich die einzelnen Komponenten einstellen lassen.
 
@@ -1603,7 +1603,7 @@ Das Vorhandensein der Bestandteile ist zur rechtlichen Absicherung deines Shops 
 
 
 
-# Download-Optionen {#download_optionen}
+# Download-Optionen 
 
 Unter Shop Einstellungen \> Download-Optionen können die Grundeinstellungen für den Verkauf von Download-Artikeln vorgenommen werden. Es stehen der Reihe nach folgende Konfigurationsmöglichkeiten zur Verfügung:
 
@@ -1631,7 +1631,7 @@ Setze hier bei den Bestellstatus einen Haken, für den du den Download freigeben
 
 
 
-# Wasserzeichen {#wasserzeichen}
+# Wasserzeichen 
 
 Du kannst deine Bilder durch ein Wasserzeichen über deinen Shopbildern schützen. Beachte, dass die nachfolgenden Änderungen ausschließlich auf neu hochgeladene Produktbilder angewendet werden. Lade eine Wasserzeichengrafik im GIF-Format über Darstellung \> Logo Manager \> Wasserzeichen hoch. Dein Wasserzeichen sollte idealerweise einen reinweißen Hintergrund haben. Die Position des Wasserzeichens kannst du über ein Parameterset in den Bildoptionen bestimmen.
 
@@ -1662,7 +1662,7 @@ Trage diese Parameter unter Darstellung \> Bild-Optionen kommagetrennt in einfac
 
 
 
-# Shop {#einstellungen_shop}
+# Shop 
 
 ## Allgemein { .section}
 
@@ -1692,7 +1692,7 @@ Trage diese Parameter unter Darstellung \> Bild-Optionen kommagetrennt in einfac
 
 
 
-# Einbinden der Rechtstexte {#einbinden_der_rechtstexte}
+# Einbinden der Rechtstexte 
 
 Zuallererst sollten die Rechtstexte zum Widerrufsrecht hinterlegt werden. Dies geschieht unter Darstellung \> Content Manager \> Elemente, hier stehen mehrere Contents zur Verfügung, über die die Widerrufstexte verwaltet werden. Hierzu zählen die Inhalte Widerrufsrecht 1 bis Widerrufsrecht 4 \(ID 3889896 bis 3889899\). Auf diese Contents kann der Widerrufstext, je nach thematischer Abgrenzung, verteilt werden. Er wird dann grafisch unterteilt in separaten Textboxen im Bestellvorgang angezeigt. Es ist nicht notwendig alle Contents zu verwenden, aber der Text muss in mindestens einem dieser Contents hinterlegt werden. Zusammenfassend für die Widerrufstexte steht der Content Widerrufsrecht & Muster-Widerrufsformular \(ID 3889895\) im Bereich Seiten des Content Managers, unter dem die einzelnen Widerrufstexte kombiniert werden und der ebenfalls eine Download-Möglichkeit für das Widerrufsformular beinhaltet.
 
@@ -1719,7 +1719,7 @@ Lade die Datei, wie bereits beschrieben, über Muster-Widerrufsformular in den S
 
 
 
-# Versand-Optionen {#versand_optionen}
+# Versand-Optionen 
 
 Unter Module \> Versandarten \> Versand-Optionen findest du folgende Einstellungsmöglichkeiten:
 
@@ -1753,7 +1753,7 @@ Wenn du möchtest, kannst du auch das Versandgewicht im Warenkorb anzeigen lasse
 
 
 
-# Sicherheitscenter {#spamschutz}
+# Sicherheitscenter 
 
 Unter Shop Einstellungen \> System Einstellungen \> Sicherheitscenter stehen dir Funktionen zum Spamschutz sowie allgemeine Sicherheitseinstellungen zur Verfügung. Die Einstellungen sind nach der Installation des Shopsystems bereits ideal konfiguriert. Passe die Einstellungen nur an, wenn du vermehrten Missbrauch der betroffenen Bereiche feststellst.
 
@@ -1797,7 +1797,7 @@ Auf Shopseiten mit automatisch generierten Kontaktformularen kann zum Schutz vor
 
 
 
-# Frame \(Rahmen\) {#frame}
+# Frame \(Rahmen\) 
 
 Mit der Frame-Funktion wird um das Artikelbild ein 3D-Rahmen gezeichnet.
 
@@ -1814,7 +1814,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Layout & Design {#einstellungen_layout_und_design}
+# Layout & Design 
 
 ## Layout & Design { .section}
 
@@ -2028,7 +2028,7 @@ Ausgangsgröße ist nicht gleich angezeigte Bildgröße. In Honeygrid und Malibu
 
 
 
-# Artikeltyp festlegen {#artikeltyp_festlegen}
+# Artikeltyp festlegen 
 
 Nach der Verbraucherrechterichtlinie wird bei im Shop vorhandenen Artikeln nach Standard- Artikeln \(materiellen Produkten\), Download-Artikeln und Dienstleistungen unterschieden. Diese Klassifizierung ist shopseitig notwendig, um bei Downloads und Dienstleistungen ggf. auf das Widerrufsrecht verzichten zu können. Zudem besteht die Möglichkeit, den genannten Verzicht als Pflichteingabe im Bestellprozess festzulegen.
 
@@ -2050,7 +2050,7 @@ Unter Import/Export \> Artikeldaten trägt die Spalte die Bezeichnung p\_type.
 
 
 
-# Einstellungen zur Darstellung {#einstellungen_zur_darstellung}
+# Einstellungen zur Darstellung 
 
 An mehreren Stellen unter dem Menüpunkt Shop Einstellungen kannst du allgemeine Einstellungen zu Darstellungsoptionen deines Shops vornehmen. Einstellungen zum Aussehen deines Shops nimmst du mit dem Zusatzmodul StyleEdit vor. Nähere Informationen zu StyleEdit erhältst du im Kapitel Darstellung.
 
@@ -2094,7 +2094,7 @@ Die Tabelle Darstellungsoptionen unter Shop Einstellungen \> Maximum Werte biete
 
 
 
-# Kunden {#einstellungen_kunden}
+# Kunden 
 
 ## Kunden { .section}
 
@@ -2160,7 +2160,7 @@ Die Firma kann standardmäßig nicht als Pflichtangabe gesetzt werden. Eine Prü
 
 
 
-# Statistiken löschen {#statistiken_loeschen}
+# Statistiken löschen 
 
 Über den Reiter Statistiken löschen können bei Bedarf die shopeigenen Statistiken geleert werden. Dies kann z.B. dann sinnvoll sein, wenn auf Basis einer bestehenden Shopdatenbank ein neuer Shop erstellt worden ist.
 
@@ -2168,7 +2168,7 @@ Setze die Haken für die gewünschte\(n\) Statisik\(en\) und bestätige mit Klic
 
 
 
-# Sessions {#sessions}
+# Sessions 
 
 Unter Shop Einstellungen \> System Einstellungen \> Sessions werden die Einstellungen vorgenommen die Auswirkungen auf die Funktionen der jeweiligen Session haben, wie z.B. das Einloggen, den Warenkorb und Merkzettel.
 
@@ -2208,7 +2208,7 @@ Hierdurch kann verhindert werden, dass Bots von Suchmaschinen eine Session im Sh
 
 
 
-# Festlegen der Versand- & Zahlungsbedingungen {#festlegen_der_versand_und_zahlungsbedingungen}
+# Festlegen der Versand- & Zahlungsbedingungen 
 
 Der Content Versand- & Zahlungsbedingungen \(ID 3889891\) verfügt über eine Matrix zur Auflistung der Versandkosten und Zahlungsweisen für die im Shop aktivierten Länder. Im Textfeld wird diese Matrix mit Hilfe des Platzhalters \{$shipping\_and\_payment\_ matrix\} eingebunden. Dieser ist standardmäßig im Content vorhanden.
 
@@ -2244,7 +2244,7 @@ Mit Klick auf Speichern werden die Einstellungen aus beiden Schritten gespeicher
 
 
 
-# Sendungsnummer zuordnen {#sendungsnummer_zuordnen}
+# Sendungsnummer zuordnen 
 
 Um einen Paketdienst einer Bestellung zuzuordnen, gehe bitte im Gambio Admin in das Menü Bestellungen \> Bestellungen. Wähle die Bestellung durch einen Klick aus, sodass sie blau hinterlegt ist und klicke auf das Augen-Symbol, um die Bestellung aufzurufen.
 
@@ -2259,7 +2259,7 @@ Die zugewiesene Sendungsnummer, der Paketdienst, sowie das Datum der Zuweisung w
 
 
 
-# Einstellen des Widerrufsrechts {#einstellen_des_widerrufsrechts}
+# Einstellen des Widerrufsrechts 
 
 Die Grundeinstellungen zum Widerrufsrecht werden unter Shop Einstellungen \> Rechtliches vorgenommen. Hierzu zählen der Reihe nach:
 
@@ -2287,7 +2287,7 @@ Lege hier fest, in welchem Format du das Widerrufsformular anbieten möchtest, a
 
 
 
-# Lieferung {#einstellungen_lieferung}
+# Lieferung 
 
 ## Lieferstatus { .section}
 
@@ -2314,7 +2314,7 @@ Lege hier fest, in welchem Format du das Widerrufsformular anbieten möchtest, a
 
 
 
-# Lagerverwaltungs-Optionen {#lagerverwaltungs_optionen}
+# Lagerverwaltungs-Optionen 
 
 Unter Shop Einstellungen \> Lagerverwaltungs-Optionen lässt sich die shopeigene Lagerverwaltung einrichten. Folgende Einstellungsmöglichkeiten sind gegeben:
 
@@ -2343,7 +2343,7 @@ Diese Funktion sollte nur in Verbindung mit Artikel inaktiv setzen verwendet wer
 
 
 
-# Paketdienste anlegen und bearbeiten {#paketdienste_anlegen_und_bearbeiten}
+# Paketdienste anlegen und bearbeiten 
 
 Unter Shop Einstellungen \> Paketdienste kannst du die Dienstleister hinterlegen und bearbeiten. Klicke auf Hinzufügen, um einen neuen Paketversender anzulegen. Gib unter Name einen allgemeinen Bezeichner ein, z.B. DHL.
 

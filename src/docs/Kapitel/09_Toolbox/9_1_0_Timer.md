@@ -1,4 +1,4 @@
-# Timer {#toolbox_timer}
+# Timer 
 
 Über Toolbox \> Timer können zeitgesteuerte Änderungen bei deinen Artikeln vorgenommen werden. Es besteht hierbei die Möglichkeit, sowohl den Lieferstatus als auch den Artikelpreisstatus anzupassen.
 

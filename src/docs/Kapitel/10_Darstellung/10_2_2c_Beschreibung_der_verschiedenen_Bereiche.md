@@ -1,4 +1,4 @@
-# Beschreibung der verschiedenen Bereiche {#template_einstellungen_beschreibung_der_verschiedenen_bereiche}
+# Beschreibung der verschiedenen Bereiche 
 
 ## Allgemein { .section}
 

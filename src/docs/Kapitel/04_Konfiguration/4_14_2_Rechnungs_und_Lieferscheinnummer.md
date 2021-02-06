@@ -1,4 +1,4 @@
-# Rechnungs- und Lieferscheinnummer {#rechnungs_und_lieferscheinnummern}
+# Rechnungs- und Lieferscheinnummer 
 
 Hier kannst du die Nummernkreise für Rechnungs- und Lieferscheinnummer anpassen.
 

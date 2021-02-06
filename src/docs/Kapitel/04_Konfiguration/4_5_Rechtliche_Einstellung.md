@@ -1,4 +1,4 @@
-# Rechtliche Einstellungen {#rechtliche_einstellungen}
+# Rechtliche Einstellungen 
 
 CAUTION:
 

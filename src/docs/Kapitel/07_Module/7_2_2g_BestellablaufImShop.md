@@ -1,4 +1,4 @@
-# Bestellablauf im Shop {#bestellablauf_im_shop}
+# Bestellablauf im Shop 
 
 ## Darstellung der Module im Bestellvorgang { .section}
 

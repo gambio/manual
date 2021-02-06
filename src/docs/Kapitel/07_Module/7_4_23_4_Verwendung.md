@@ -1,4 +1,4 @@
-# Verwendung {#hermes_hsi_verwendung}
+# Verwendung 
 
 In der Bestellübersicht kann über die Dropdown-Schaltfläche rechts neben der Bestellung Hermes \(HSI\) gewählt werden. Auch aus der Bestelldetailseite heraus steht diese Option zur Verfügung.
 

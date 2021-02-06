@@ -1,4 +1,4 @@
-# Neu hinzugekommene Menüs {#styleedit4_themes_malibu_neu}
+# Neu hinzugekommene Menüs 
 
 Durch die weiterreichenden Einstellungsmöglichkeiten sind in den einzelnen Bereichen verschiedene Optionen hinzugekommen.
 

@@ -1,4 +1,4 @@
-# Marke erstellen {#internetmarke_marke_erstellen}
+# Marke erstellen 
 
 Eine Internetmarke kann erstellt werden, indem im Gambio Admin unter Bestellungen \> Bestellungen im Dropdown rechts von der Bestellung der Punkt Internetmarke erstellen gewählt wird. Auch aus den Bestelldetails heraus ist dies möglich.
 

@@ -1,4 +1,4 @@
-# Artikel hinzufügen {#bestellung_manuell_anlegen_artikel_hinzufuegen}
+# Artikel hinzufügen 
 
 Einer vorhandenen Bestellung kannst du neue Artikel über die Bestell-Eingabemaske hinzufügen. Klicke auf der Detailseite der Bestellung im Bereich Artikel auf Bearbeiten, um die Bestell-Eingabemaske aufzurufen.
 

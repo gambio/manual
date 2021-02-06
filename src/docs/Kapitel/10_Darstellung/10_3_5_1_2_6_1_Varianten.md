@@ -1,4 +1,4 @@
-# Varianten {#styleedit4_themes_theme_bearbeiten_menues_bereiche_footer_varianten}
+# Varianten 
 
 ![](Bilder/styleedit4/se4a_0022_BereichFooterVarianten.png "Anzeige unter Bereiche / Footer /
       Varianten")

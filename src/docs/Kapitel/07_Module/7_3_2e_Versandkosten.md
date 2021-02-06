@@ -1,4 +1,4 @@
-# Versandkosten {#versandkosten}
+# Versandkosten 
 
 Das Modul Versandkosten berechnet im Shop die Versandkosten, die du unter Module \> Versandarten hinterlegt hast. Das Versandkosten-Modul ist nach der Installation des Shopsystems bereits vorinstalliert.
 

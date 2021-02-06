@@ -1,4 +1,4 @@
-# Artikel-Filter {#artikel_filter}
+# Artikel-Filter 
 
 Filter dienen dazu, die Artikel in deinem Shop zu strukturieren und dem Kunden die Möglichkeit zu geben, gezielt zu den gewünschten Artikeln zu gelangen. Indem du für eine Kategorie einzelne Filter \(wie z.B. Produktart, Größe, Farbe\) anlegst, kann der Kunde einfach und schnell zu den passenden Artikeln navigieren. Er kann seine Suche durch die Filter immer weiter eingrenzen, bis er genau die Artikel findet, die ihn interessieren. So ist die Navigation durch Filter eine gute Erweiterung zur Navigation über die Kategorien, da sie \(für jede Kategorie angepasst\) spezifische Merkmale einbezieht, die für eine Suche relevant sein können. Im Beispiel siehst du die Kategorie Damenbekleidung, in der sechs Filter angelegt wurden. Die Darstellungsweisen der einzelnen Filterwerte variieren je nachdem, wie diese vom Administrator eingestellt wurden \(s. hierzu den Abschnitt Verknüpfungsart, Reihenfolge und Darstellung des Filters festlegen\).
 

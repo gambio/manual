@@ -1,4 +1,4 @@
-# Kategorien {#kategorien}
+# Kategorien 
 
 -   **[Kategorie anlegen](8_1_1_Kategorien_anlegen.md)**  
 

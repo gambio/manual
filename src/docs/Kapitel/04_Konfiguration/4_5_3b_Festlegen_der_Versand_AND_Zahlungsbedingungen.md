@@ -1,4 +1,4 @@
-# Festlegen der Versand- & Zahlungsbedingungen {#festlegen_der_versand_und_zahlungsbedingungen}
+# Festlegen der Versand- & Zahlungsbedingungen 
 
 Der Content Versand- & Zahlungsbedingungen \(ID 3889891\) verfügt über eine Matrix zur Auflistung der Versandkosten und Zahlungsweisen für die im Shop aktivierten Länder. Im Textfeld wird diese Matrix mit Hilfe des Platzhalters \{$shipping\_and\_payment\_ matrix\} eingebunden. Dieser ist standardmäßig im Content vorhanden.
 

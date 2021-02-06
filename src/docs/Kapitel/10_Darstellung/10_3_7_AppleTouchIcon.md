@@ -1,4 +1,4 @@
-# Apple Touch Icon {#logo_manager_apple_touch_icon}
+# Apple Touch Icon 
 
 Das Apple Touch Icon kann unter Darstellung \> Logo Manager wie folgt eingerichtet werden:
 

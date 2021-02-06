@@ -1,4 +1,4 @@
-# Sprachen, Länder, Steuern {#einstellungen_sprachen_laender_steuern}
+# Sprachen, Länder, Steuern 
 
 ## Steuerklassen { .section}
 

@@ -1,4 +1,4 @@
-# Hersteller {#hersteller}
+# Hersteller 
 
 1.  Lege unter Artikel \> Hersteller die benötigten Hersteller an
 2.  Klicke auf Erstellen

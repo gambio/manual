@@ -1,4 +1,4 @@
-# Tracking-Codes {#tracking_codes}
+# Tracking-Codes 
 
 Mit der Funktion Tracking-Codes unter Shop Einstellungen \> SEO \> Tracking-Codes kannst du einfache Tracking-Codes in deinen Onlineshop einbinden. Beim Tracking \(Aufzeichnen\) werden Seitenbesuche und das Besucherverhalten deiner Kunden in deinem Shop aufgezeichnet. Die statistische Auswertung wird mit speziellen Programmen vorgenommen. Zum Aufzeichnen der Seitenbesuche wird in der Regel ein Javascript-Code benötigt.
 

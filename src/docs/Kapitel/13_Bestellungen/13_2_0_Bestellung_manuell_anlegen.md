@@ -1,4 +1,4 @@
-# Bestellung manuell anlegen {#bestellung_manuell_anlegen}
+# Bestellung manuell anlegen 
 
 Bestellungen kannst du für deine Kunden im Gambio Admin deines Shops unter Kunden \> Kunden anlegen. Wähle aus der Kundenliste den Kunden aus, für den du eine neue Bestellung anlegen möchtest. Der aktuell ausgewählte Kunde ist grau hinterlegt. Klicke im Dropdown auf Neue Bestellung. Das Shopsystem legt eine neue, leere Bestellung für den gewählten Kunden an.
 

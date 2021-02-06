@@ -1,4 +1,4 @@
-# Kundengruppen löschen {#kundengruppen_loeschen}
+# Kundengruppen löschen 
 
 Nicht mehr benötigte Kundengruppen kannst du im Gambio Admin deines Shops unter Kunden \> Kundengruppen löschen.
 

@@ -1,4 +1,4 @@
-# Round-edges \(runde Ecken\) {#round_edges}
+# Round-edges \(runde Ecken\) 
 
 Mit der Round-edges-Funktion werden die Ecken des Artikelbildes abgerundet.
 

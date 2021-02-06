@@ -1,4 +1,4 @@
-# Vorhandene Sprachen für Shopversion 2.3 umwandeln {#vorhandene_sprachen_fuer_shopversion_2_3_umwandeln}
+# Vorhandene Sprachen für Shopversion 2.3 umwandeln 
 
 Mit der Shopversion 2.3 wird ein vereinfachtes, optimiertes Sprachsystem eingeführt. Dies erfordert Anpassungen am Dateisystem von Sprachpaketen. Beim Update der Shopversion wird diese Änderung für die Standardsprachen Deutsch und Englisch standardmäßig vorgenommen. Zusätzliche Sprachen, die in Version 2.1 oder 2.2 angelegt worden sind, müssen manuell gemäß der neuen Anforderungen angepasst werden.
 

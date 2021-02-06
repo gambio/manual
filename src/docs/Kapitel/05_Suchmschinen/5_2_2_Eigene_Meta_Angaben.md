@@ -1,4 +1,4 @@
-# Eigene Meta-Angaben {#eigene_meta_angaben}
+# Eigene Meta-Angaben 
 
 Unter Shop Einstellungen \> SEO \> Meta-Angaben \> neue Meta-Angaben kannst du zusätzliche Meta-Angaben anlegen.
 

@@ -1,4 +1,4 @@
-# Muster von Versandlabeln sowie Exportlabeln {#dhl_geschaeftskundenversand_verwendung_muster}
+# Muster von Versandlabeln sowie Exportlabeln 
 
 ![](Bilder/GKV2_20180417_008.png "Versandlabel")
 

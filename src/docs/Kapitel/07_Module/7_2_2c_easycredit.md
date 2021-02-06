@@ -1,4 +1,4 @@
-# easyCredit {#easycredit}
+# easyCredit 
 
 -   **[Verfügbarkeit](7_2_2c_1_easycreditVerfuegbarkeit.md)**  
 

@@ -1,4 +1,4 @@
-# Bestellsummen erzeugen {#bestellung_manuell_anlegen_bestellsummen_erzeugen}
+# Bestellsummen erzeugen 
 
 Die Bestellsummen erzeugst du auf der Bestell-Eingabemaske. Klicke auf der Detailseite der Bestellung auf Bearbeiten, um die Bestell-Eingabemaske aufzurufen.
 

@@ -1,4 +1,4 @@
-# Lieferung {#einstellungen_lieferung}
+# Lieferung 
 
 ## Lieferstatus { .section}
 

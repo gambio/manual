@@ -1,4 +1,4 @@
-# Weitere Einstellungen {#paypal2hub_weitere_einstellungen}
+# Weitere Einstellungen 
 
 -   **[Allgemeine Einstellungen](7_2_2_3_1_AllgemeineEinstellungen.md)**  
 

@@ -1,4 +1,4 @@
-# Skrill {#skrill}
+# Skrill 
 
 **Note:**
 

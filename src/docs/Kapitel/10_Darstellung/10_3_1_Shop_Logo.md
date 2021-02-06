@@ -1,4 +1,4 @@
-# Shop Logo {#logo_manager_shop_logo}
+# Shop Logo 
 
 Das Shop Logo wird im Shopbereich wie in der Abbildung Shopbereich eingebunden. Das Shop Logo kannst du im Gambio Admin unter Darstellung \> Logo Manager auf der Registerkarte Shop Logo hochladen.
 

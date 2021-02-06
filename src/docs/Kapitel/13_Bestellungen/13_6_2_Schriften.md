@@ -1,4 +1,4 @@
-# Schriften {#rechnung_und_lieferschein_konfigurieren_schriften}
+# Schriften 
 
 Auf der Registerkarte Schriften kannst du die Schriftarten, -farben und -größen einstellen, die auf der Rechnung verwendet werden.
 

@@ -1,4 +1,4 @@
-# Abholung beauftragen {#shipcloud_abholung_beauftragen}
+# Abholung beauftragen 
 
 ![](Bilder/shipcloud/20190702_007.png "Abholung beauftragen")
 

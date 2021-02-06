@@ -1,4 +1,4 @@
-# Live-Prüfung deaktivieren {#haendlerkunden_live_pruefung_deaktivieren}
+# Live-Prüfung deaktivieren 
 
 Wenn du die Umsatzsteuer ID-Nummer deiner Kunden nicht überprüfen möchtest, führe die folgenden Schritte aus, um die Live-Prüfung oder die vollständige Prüfung zu deaktivieren.
 

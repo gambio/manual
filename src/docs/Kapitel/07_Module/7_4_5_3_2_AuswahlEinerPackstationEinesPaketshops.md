@@ -1,4 +1,4 @@
-# Auswahl einer Packstation / eines Paketshops {#dhl_paketshops_darstellung_im_shop_auswahl}
+# Auswahl einer Packstation / eines Paketshops 
 
 Wurde das Modul aufgerufen, wird unterhalb der vorausgefüllten Lieferadresse eine Karte mit der Position der nächsten Packstationen und Paketshops angezeigt. Darunter befindet sich eine Liste, über die die betreffende Adresse als Lieferadresse übernommen werden kann. Nach der Auswahl erfolgt ein Sprung ans Ende der Seite, damit der Kunde seine Postnummer eintragen kann. Die Adresse der Packstation wird in die Bestellung übernommen.
 

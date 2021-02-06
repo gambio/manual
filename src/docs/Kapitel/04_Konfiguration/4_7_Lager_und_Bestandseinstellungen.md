@@ -1,4 +1,4 @@
-# Lager- und Bestandseinstellungen {#lager_und_bestandseinstellungen}
+# Lager- und Bestandseinstellungen 
 
 -   **[Lagerverwaltungs-Optionen](4_7_1_Lagerverwaltungs_Optionen.md)**  
 

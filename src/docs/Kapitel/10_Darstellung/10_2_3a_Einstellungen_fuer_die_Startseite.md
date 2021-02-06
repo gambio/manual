@@ -1,4 +1,4 @@
-# Einstellungen für die Startseite {#template_konfiguration_einstellungen_fuer_die_startseite}
+# Einstellungen für die Startseite 
 
 |Feldname|Beschreibung|
 |--------|------------|

@@ -1,4 +1,4 @@
-# Übersicht {#template_einstellungen_uebersicht}
+# Übersicht 
 
 Das StyleEdit wird in einer Box auf der rechten Seite des Bildschirms angezeigt. Von oben nach unten stehen die folgenden Bereiche zur Verfügung
 

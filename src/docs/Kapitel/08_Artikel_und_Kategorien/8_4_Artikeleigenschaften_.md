@@ -1,4 +1,4 @@
-# Artikeleigenschaften {#artikeleigenschaften}
+# Artikeleigenschaften 
 
 Über Artikeleigenschaften lassen sich Varianten eines Artikels anlegen. Der Artikel wird hierbei im Shop mit einer oder mehreren Auswahlen angezeigt.
 
@@ -50,7 +50,7 @@ Es muss immer zwischen den angelegten Eigenschaften und den zugewiesenen Kombina
 
 
 
-# Kombinationen erstellen {#artikeleigenschaften_kombinationen_erstellen}
+# Kombinationen erstellen 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenEigenschaftenAuswaehlen.png "Auswahl der Eigenschaften für das Erstellen von
       Kombinationen")
@@ -106,7 +106,7 @@ Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Ein
 
 
 
-# Eigenschaften zuweisen {#artikeleigenschaften_eigenschaften_zuweisen}
+# Eigenschaften zuweisen 
 
 Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zugewiesen werden.
 
@@ -126,7 +126,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 
 
 
-# Eigenschaftswerte erstellen und bearbeiten {#artikeleigenschaften_eigenschaftswerte_erstellen_und_bearbeiten}
+# Eigenschaftswerte erstellen und bearbeiten 
 
 ## Eigenschaftswert hinzufügen { .section}
 
@@ -181,7 +181,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 
 
 
-# Kombinationen löschen {#artikeleigenschaften_kombinationen_loeschen}
+# Kombinationen löschen 
 
 Kombinationen können wahlweise einzeln, über das Mülltonnen-Icon, oder die Mehrfachauswahl gelöscht werden. Wird mindestens ein Haken gesetzt, wird der Button _**Kombinationen löschen**_ angezeigt.
 
@@ -194,7 +194,7 @@ Es wird eine Sicherheitsabfrage angezeigt, in der wahlweise auch das Löschen al
 
 
 
-# Kombinationen hinzufügen {#artikeleigenschaften_kombinationen_hinzufuegen}
+# Kombinationen hinzufügen 
 
 ![](Bilder/ArtikelEigenschaften_KombinationsuebersichtMaskeKombinationHinzufuegen.png "Maske _**Kombination hinzufügen**_")
 
@@ -221,7 +221,7 @@ Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Ein
 
 
 
-# Kombinationsübersicht {#artikeleigenschaften_kombinationsuebersicht}
+# Kombinationsübersicht 
 
 ## Aufruf der Kombinationsübersicht aus der Artikelübersicht { .section}
 
@@ -309,7 +309,7 @@ Lieferzeitanzeige|Mit dieser Einstellung wird festgelegt, welche Lieferzeit für
 
 
 
-# Kombinationen bearbeiten {#artikeleigenschaften_kombinationen_bearbeiten}
+# Kombinationen bearbeiten 
 
 ![](Bilder/ArtikelEigenschaften_MaskeKombinationBearbeiten.png "Maske _**Kombination bearbeiten**_")
 
@@ -332,7 +332,7 @@ Passe die gewünschten Eigenschaftswerte an und bestätige die Eingaben mit _**S
 
 
 
-# Eigenschaften erstellen und bearbeiten {#artikeleigenschaften_eigenschaften_erstellen_und_bearbeiten}
+# Eigenschaften erstellen und bearbeiten 
 
 ![](Bilder/ArtikelEigenschaftenUebersicht.png "Übersicht der Eigenschaften unter _**Artikel >
       Artikeleigenschaften**_ im Gambio Admin")

@@ -1,4 +1,4 @@
-# Greyscale \(Graustufen\) {#greyscale}
+# Greyscale \(Graustufen\) 
 
 Mit der Greyscale-Funktion werden Artikelbilder in Farbstufen eingefärbt. Dadurch ist eine Darstellung von Artikelbildern in Graustufen oder beispielsweise Sepiafärbung möglich.
 

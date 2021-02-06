@@ -1,4 +1,4 @@
-# Rechnung {#rechnung}
+# Rechnung 
 
 Bei der Zahlung per Rechnung legst du dem Kunden der ausgelieferten Ware eine Rechnung mit Zahlungsziel und Kontoverbindung bei. Bei dieser Zahlungsweise erhält der Kunde erst die Ware und nimmt dann die Zahlung vor.
 

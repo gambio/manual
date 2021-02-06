@@ -1,4 +1,4 @@
-# Anmeldung {#google_services_anmeldung}
+# Anmeldung 
 
 Zur Nutzung der Google Services ist die Verknüpfung mit einem Google AdWords-Account notwendig. Wähle hierzu einen beliebigen Menüpunkt im Bereich Google aus oder klicke auf die rote Anzeige am unteren Rand des Gambio Admins: Google nicht verbunden.
 

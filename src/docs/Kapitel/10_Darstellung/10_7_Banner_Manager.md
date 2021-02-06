@@ -1,4 +1,4 @@
-# Banner Manager {#banner_manager}
+# Banner Manager 
 
 Über den Bannermanager kannst du eigene Banner oder Banner von Firmen, mit denen du zusammenarbeitest, in deinem Shop anzeigen lassen.
 

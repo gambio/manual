@@ -1,4 +1,4 @@
-# Server Info {#toolbox_server_info}
+# Server Info 
 
 **Note:**
 

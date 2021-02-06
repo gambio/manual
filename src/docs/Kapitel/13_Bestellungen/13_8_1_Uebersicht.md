@@ -1,4 +1,4 @@
-# Übersicht {#rechnungsuebersicht_uebersicht}
+# Übersicht 
 
 Die Übersicht der erstellten Rechnungen kann unter Bestellungen \> Rechnungen aufgerufen werden. Über die Reiter Einstellungen und Nummernkreise gelangst du direkt zu den Menüpunkten Shop Einstellungen \> Rechnung/Lieferschein bzw. Shop Einstellungen \> Nummernkreise \(siehe Kapitel Rechnung & Lieferschein konfigurieren respektive Nummernkreise\).
 

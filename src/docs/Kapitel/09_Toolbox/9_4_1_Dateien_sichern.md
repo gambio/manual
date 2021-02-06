@@ -1,4 +1,4 @@
-# Dateien sichern {#toolbox_datensicherung_dateien_sichern}
+# Dateien sichern 
 
 **Note:**
 

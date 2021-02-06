@@ -1,4 +1,4 @@
-# Lieferzeiten kennzeichnen {#lieferzeiten_kennzeichnen}
+# Lieferzeiten kennzeichnen 
 
 Die Angabe der Lieferzeit wurde um den Link Ausland abweichend erweitert. Dieser Link verweist auf die Seite Versand- & Zahlungsbedingungen und informiert deine Kunden darüber, dass die angegebenen Lieferzeiten nicht für den Versand ins Ausland gelten.
 

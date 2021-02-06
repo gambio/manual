@@ -1,4 +1,4 @@
-# Nachnahmegebühr {#nachnahmegebuehr}
+# Nachnahmegebühr 
 
 Das Modul zur Berechnung der Nachnahmegebühr kannst du im Gambio Admin deines Shops unter Module \> Zusammenfassung installieren.
 

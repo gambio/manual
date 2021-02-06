@@ -1,4 +1,4 @@
-# Verkaufte Artikel {#verkaufte_artikel}
+# Verkaufte Artikel 
 
 Unter Statistiken \> Verkaufte Artikel \> Verkaufte Artikel werden die meistverkauften Artikel aufgelistet. Wie schon bei den besuchten Artikeln gilt, dass zwei Artikel mit der gleichen Anzahl an Aufrufen gemäß der ID ausgegeben werden. Es wird also der ältere Artikel \(mit der kleineren ID\) vorrangig angezeigt.
 

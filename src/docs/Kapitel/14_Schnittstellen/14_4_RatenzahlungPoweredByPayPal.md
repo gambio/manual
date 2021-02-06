@@ -1,4 +1,4 @@
-# Ratenzahlung Powered by PayPal {#ratenzahlung_powered_by_paypal}
+# Ratenzahlung Powered by PayPal 
 
 -   **[Voraussetzungen](14_4_1_Voraussetzungen.md)**  
 

@@ -1,4 +1,4 @@
-# Rechtliches {#einstellungen_rechtliches}
+# Rechtliches 
 
 ## Link zur Datenschutzerklärung anzeigen { .section}
 

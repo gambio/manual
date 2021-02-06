@@ -1,4 +1,4 @@
-# Label abrufen {#hermes_hsi_label_abrufen}
+# Label abrufen 
 
 Nach dem erfolgreichen Erstellen eines Labels wird die Meldung Hermes-Versandauftrag angelegt angezeigt. Darunter finden sich dann Details zum Label und ein Button für den Abruf. Der Status ist hier CREATED - das Label wurde also erstellt, aber noch nicht abgerufen.
 

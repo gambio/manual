@@ -1,4 +1,4 @@
-# Erhalten von Zugangsdaten bei PayPal {#paypal_und_paypal_plus_zugangsdaten}
+# Erhalten von Zugangsdaten bei PayPal 
 
 CAUTION:
 

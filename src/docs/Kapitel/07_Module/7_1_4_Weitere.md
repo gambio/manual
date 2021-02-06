@@ -1,4 +1,4 @@
-# Weitere {#weitere}
+# Weitere 
 
 Neben den gewicht- und kostenbasierten Versandarten stehen weitere Versandarten mit Sonderfunktionen zur Verfügung.
 

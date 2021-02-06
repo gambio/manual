@@ -1,4 +1,4 @@
-# System {#einstellungen_system}
+# System 
 
 ## E-Mail Optionen { .section}
 

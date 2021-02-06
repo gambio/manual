@@ -1,4 +1,4 @@
-# Bestellstatus {#bestellstatus}
+# Bestellstatus 
 
 Über den Bestellstatus wird der aktuelle Stand der Bestellung festgelegt. Der Bestellstatus ist sowohl für den Shopbetreiber im Gambio Admin des Shops, als auch für den Kunden im Shopbereich sichtbar.
 

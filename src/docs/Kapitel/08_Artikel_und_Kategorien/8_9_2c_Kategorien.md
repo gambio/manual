@@ -1,4 +1,4 @@
-# Kategorien {#google_shopping_kategorien}
+# Kategorien 
 
 Über den Reiter Kategorien können die Kategorien ausgewählt werden, aus denen Artikel exportiert werden.
 

@@ -1,4 +1,4 @@
-# Seitenaufrufe {#besucherstatistik_seitenaufrufe}
+# Seitenaufrufe 
 
 Über den Reiter Seitenaufrufe kannst du einsehen, welche Seiten deines Shops wie oft aufgerufen wurden. Standardmäßig wird die Tagesansicht des aktuellen Tages angezeigt, über die weiß hinterlegten Reiter Heute und Gesamt kann der Rahmen festgelegt werden. Über das Dropdown-Menü Seitentyp kann die Art der Seiten für die Anzeige eingestellt werden:
 
