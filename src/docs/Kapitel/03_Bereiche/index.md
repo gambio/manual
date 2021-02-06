@@ -1,58 +1,40 @@
-# Bereiche des Shopsystems
+# Allgemein
+
+![](Bilder/Abb011_ShopbereichSwiper_.png "Allgemeiner Shop-Bereich")
+
+1.  Content
+2.  Swiper
+
+Die Startseite des Shops kann mit verschiendenen Contents und Artikelzusammenstellungen bestückt werden. Diese werden abwechselnd aufgeführt, wie in der Abbildung anhahnd des Contents Index \(ID 5\) und den Artikelankündigungen zu sehen ist. Letztere können als sogenannter Swiper angezeigt werden, bei dem über die Vor- und Zurück-Pfeile die Artikel durchgeschaltet werden können.
+
+Die Reihenfolge der einzelnen Contens und Artikelzusammenstellzungen auf der Startseite ist wie folgt:
+
+1.  Index \(ID 5\)
+2.  Artikelankündigungen
+3.  Freier Inhalt 1 \(ID 4321002\): Dieser Content wird nur angezeigt, wenn es Artikelankündigungen auf der Startseite gibt.
+4.  Empfehlungen: Artikel, die als Empfehlung gekennzeichnet wurden
+5.  Index \(Mitte\) \(ID 10\)
+6.  Freier Inhalt 2 \(ID 4321003\): Dieser Content wird nur angezeigt, wenn es Sonderangebote auf der Startseite gibt.
+7.  Sonderangebotsartikel
+8.  Freier Inhalt 3 \(ID 4321004\): Dieser Content wird nur angezeigt, wenn es Neue Artikel auf der Startseite gibt.
+9.  Neue Artikel
+10. Index \(Unten\) \(ID 11\)
+
+!!! Info "Hinweis"
+    Contents bezeichnen Informationsseiten. Diese können unter Darstellung \> Content Manager bearbeitet oder neu angelegt werden \(siehe auch Kapitel Content Manager\).
+
+## Bereiche des Shopsystems
 
 Auf den nächsten Seiten findest du Beschreibungen zu den unterschiedlichen Bereichen des Shopsystems.
 
-# Gambio Admin {#gambio_admin}
 
-![](Bilder/Abb013_GambioAdmin.PNG "Gambio Admin")
+### Shopbereich {#shopbereich}
 
-1.  rechte Spalte
-2.  linke Spalte: In der linken Spalte des Gambio Admins werden die Konfigurationsmodule in Oberkategorien zusammengefasst dargestellt.
-3.  oberes Menü: Im zentralen Bereich des oberen Menüs findest du ein Feld zur Schnellsuche von Artikeln, Bestellungen und Kunden. Hier kannst du gezielt nach Artikelnamen, Bestellnummern oder Kundennamen suchen. Im rechten Bereich des oberen Menüs findest du einen zusätzlichen Eintrag für die Suche, die Admin-Info-Box für Benachrichtigungen sowie Schaltflächen zum Aufrufen des Shops und zum Abmelden.
-4.  Admin-Info Box: In der Admin-Info Box werden Informationen zu deinem Shop angezeigt. Dazu gehören unter Anderem Hinweise auf Updates und Patches für deine Shopversion sowie Hinweise und Warnungen.
+![](Bilder/Abb008a_UbersichtOben___.png "Shopbereich")
 
-**Note:** Einträge des Konfigurationsmenüs können als Favorit zugeordnet werden, diese werden dann zusätzlich unter Favs angezeigt.
+![](Bilder/Abb008b_UbersichtUnten.png)
 
-Um einen Eintrag als Favorit zu setzen, klicke ihn an und halte die linke Maustaste gedrückt. Ziehe den Eintrag anschließend nach rechts, es wird eine Box mit einem Herz-Symbol angezeigt. Ziehe den Eintrag darauf und lasse die Maustaste los, der Eintrag ist nun unter Favs aufgeführt.
-
-Ein Eintrag kann auf die gleiche Weise wieder aus den Favs entfernt werden, indem dieser nach rechts auf das sich einblendende Mülltonnen-Symbol gezogen wird.
-
-Einträge unter Favs werden zusätzlich angelegt. Die normalen Menüpunkte werden hierdurch weder verschoben noch entfernt.
-
-**Note:** Die Suche im Gambio Admin ist für genaue Übereinstimmungen ausgelegt, daher sollte bei der Suche nach Teilbegriffen auf sogenannte Wildcards zurückgegriffen werden.
-
-Wenn zum Beispiel nach streifen gesucht wird, werden auch nur Artikel mit exakt diesem Artikelnamen gefunden. Mit der Verwendung von Sternchen als Wildcard kann über die Suche \*streifen\* auch der Artikel Nadelstreifenanzug gefunden werden.
-
-**Parent topic:**[Bereiche des Shopsystems](3_Bereiche_des_Shopsystems.md)
-
-# StyleEdit v3 und StyleEdit {#styleedit_v3_und_styleedit}
-
-Das Shopsystem verfügt in den Varianten GX2 \(ab 2.7.1.0\) und GX3 \(bis 3.3.3.0\) über zwei verschiedene Templates, das responsive Honeygrid und dessen Vorgänger EyeCandy. Für jedes Template wird ein eigenes Bearbeitungswerkzeug mitgeliefert, welches optional installiert werden kann, das sogenannte StyleEdit:
-
-1.  StyleEdit v3
-2.  StyleEdit \(v2\)
-
-**Note:** In aktuellen Shopversionen ist nur noch das Honeygrid-Template und das StyleEdit3 enthalten. Nähere Informationen zur Funktionsweise und Handhabung des StyleEdit3 findest du in Kapitel Honeygrid und StyleEdit v3.
-
-![](Bilder/Abb014_StyleEditv3UndStyleEdit.PNG "StyleEdit v3 und StyleEdit")
-
-**Parent topic:**[Bereiche des Shopsystems](3_Bereiche_des_Shopsystems.md)
-
-# Footer {#footer}
-
-![](Bilder/Abb012_Footer_.png "Footer")
-
-Der Footer ist in vier unabhängige Spalten und einem darüber angeordneten Bereich aufgeteilt:
-
-1.  Spalte 1 Mehr über: Links zu allen Contents die im Content Manager im Bereich Infoseiten angelegt und sichtbar geschaltet sind
-2.  Spalte 2: frei einrichtbar über den Content Footer 2. Spalte \(ID 4321005\)
-3.  Spalte 3: frei einrichtbar über den Content Footer 3. Spalte \(ID 4321006\)
-4.  Spalte 4: frei einrichtbar über den Content Footer 4. Spalte \(ID 4321007\)
-5.  oberer Bereich: frei einrichtbar über den Content Footer \(ID 199\)
-
-**Parent topic:**[Shopbereich](3_1_Shopbereich.md)
-
-# Header {#header}
+### Header {#header}
 
 ![](Bilder/Abb009_Header_.png "Header des Shopbereichs")
 
@@ -64,7 +46,7 @@ Der Footer ist in vier unabhängige Spalten und einem darüber angeordneten Bere
 6.  Horizontale Kategorienavigation
 7.  Horizontale Contentnavigation \(Bereich Hauptkategorien im Content Manager\)
 
-## Sekundärnavigation { .section}
+### Sekundärnavigation { .section}
 
 ![](Bilder/Abb010_Sekundaernavigation.PNG "Sekundärnavigation")
 
@@ -74,7 +56,7 @@ von Links nach Rechts:
 -   Produkt bearbeiten: Bearbeiten des aufgerufenen Artikels
 -   Konto-Schaltfläche: Zugriff auf Ihr Konto und Logout
 
-## Header im Malibu { .section}
+### Header im Malibu { .section}
 
 ![](Bilder/MalibuShopansichtHeader.png "Header im Malibu")
 
@@ -85,25 +67,70 @@ Der Header im Malibu unterscheidet sich in seiner Darstellung und Andordnung der
 
 ![](Bilder/MalibuShopansichtHeaderLokalisierungSprachauswahlWaehrungsauswahl.png "Ausgeklappte Lokalisierung")
 
-**Note:**
+!!! Info "Hinweis"
+    Standardmäßig ist die Währungsauswahl abgeschaltet.
+    ![](Bilder/MalibuShopansichtHeaderLokalisierungSprachauswahl.png "Lokalisierung mit abgeschalteter Währungsauswahl")
+    Unter Darstellung \> Template-Einstellungen kann der Haken für Währungsauswahl im Top-Menü aktivieren gesetzt werden, um die Währungsauswahl anzuzeigen.
+    ![](Bilder/MalibuShopansichtHeaderMeinKonto.png "Aufgeklapptes Konto-Dropdown nach dem Anmelden")
 
-Standardmäßig ist die Währungsauswahl abgeschaltet.
+### Footer {#footer}
 
-![](Bilder/MalibuShopansichtHeaderLokalisierungSprachauswahl.png "Lokalisierung mit abgeschalteter Währungsauswahl")
+![](Bilder/Abb012_Footer_.png "Footer")
 
-Unter Darstellung \> Template-Einstellungen kann der Haken für Währungsauswahl im Top-Menü aktivieren gesetzt werden, um die Währungsauswahl anzuzeigen.
+Der Footer ist in vier unabhängige Spalten und einem darüber angeordneten Bereich aufgeteilt:
 
-![](Bilder/MalibuShopansichtHeaderMeinKonto.png "Aufgeklapptes Konto-Dropdown nach dem Anmelden")
+1.  Spalte 1 Mehr über: Links zu allen Contents die im Content Manager im Bereich Infoseiten angelegt und sichtbar geschaltet sind
+2.  Spalte 2: frei einrichtbar über den Content Footer 2. Spalte \(ID 4321005\)
+3.  Spalte 3: frei einrichtbar über den Content Footer 3. Spalte \(ID 4321006\)
+4.  Spalte 4: frei einrichtbar über den Content Footer 4. Spalte \(ID 4321007\)
+5.  oberer Bereich: frei einrichtbar über den Content Footer \(ID 199\)
 
-**Parent topic:**[Shopbereich](3_1_Shopbereich.md)
 
-# Bilder einbinden {#bilder_einbinden}
+## Gambio Admin {#gambio_admin}
+
+![](Bilder/Abb013_GambioAdmin.PNG "Gambio Admin")
+
+1.  rechte Spalte
+2.  linke Spalte: In der linken Spalte des Gambio Admins werden die Konfigurationsmodule in Oberkategorien zusammengefasst dargestellt.
+3.  oberes Menü: Im zentralen Bereich des oberen Menüs findest du ein Feld zur Schnellsuche von Artikeln, Bestellungen und Kunden. Hier kannst du gezielt nach Artikelnamen, Bestellnummern oder Kundennamen suchen. Im rechten Bereich des oberen Menüs findest du einen zusätzlichen Eintrag für die Suche, die Admin-Info-Box für Benachrichtigungen sowie Schaltflächen zum Aufrufen des Shops und zum Abmelden.
+4.  Admin-Info Box: In der Admin-Info Box werden Informationen zu deinem Shop angezeigt. Dazu gehören unter Anderem Hinweise auf Updates und Patches für deine Shopversion sowie Hinweise und Warnungen.
+
+!!! Info "Hinweis"
+    Einträge des Konfigurationsmenüs können als Favorit zugeordnet werden, diese werden dann zusätzlich unter Favs angezeigt.
+
+Um einen Eintrag als Favorit zu setzen, klicke ihn an und halte die linke Maustaste gedrückt. Ziehe den Eintrag anschließend nach rechts, es wird eine Box mit einem Herz-Symbol angezeigt. Ziehe den Eintrag darauf und lasse die Maustaste los, der Eintrag ist nun unter Favs aufgeführt.
+
+Ein Eintrag kann auf die gleiche Weise wieder aus den Favs entfernt werden, indem dieser nach rechts auf das sich einblendende Mülltonnen-Symbol gezogen wird.
+
+Einträge unter Favs werden zusätzlich angelegt. Die normalen Menüpunkte werden hierdurch weder verschoben noch entfernt.
+
+!!! Info "Hinweis"
+    Die Suche im Gambio Admin ist für genaue Übereinstimmungen ausgelegt, daher sollte bei der Suche nach Teilbegriffen auf sogenannte Wildcards zurückgegriffen werden.
+
+Wenn zum Beispiel nach streifen gesucht wird, werden auch nur Artikel mit exakt diesem Artikelnamen gefunden. Mit der Verwendung von Sternchen als Wildcard kann über die Suche \*streifen\* auch der Artikel Nadelstreifenanzug gefunden werden.
+
+
+
+## StyleEdit v3 und StyleEdit {#styleedit_v3_und_styleedit}
+
+Das Shopsystem verfügt in den Varianten GX2 \(ab 2.7.1.0\) und GX3 \(bis 3.3.3.0\) über zwei verschiedene Templates, das responsive Honeygrid und dessen Vorgänger EyeCandy. Für jedes Template wird ein eigenes Bearbeitungswerkzeug mitgeliefert, welches optional installiert werden kann, das sogenannte StyleEdit:
+
+1.  StyleEdit v3
+2.  StyleEdit \(v2\)
+
+!!! Info "Hinweis"
+    In aktuellen Shopversionen ist nur noch das Honeygrid-Template und das StyleEdit3 enthalten. Nähere Informationen zur Funktionsweise und Handhabung des StyleEdit3 findest du in Kapitel Honeygrid und StyleEdit v3.
+
+![](Bilder/Abb014_StyleEditv3UndStyleEdit.PNG "StyleEdit v3 und StyleEdit")
+
+
+## Bilder einbinden {#bilder_einbinden}
 
 ![](Bilder/Abb016_Bild_Eigenschaften.png "Bild-Eigenschaften")
 
 Verwende die Schaltfläche mit den Pyramiden \(Bild\), um ein Bild einzubinden. Es öffnet sich das Fenster Bild-Eigenschaften. Klicke hier auf Server durchsuchen, du erhältst eine Übersicht des Bild-Verzeichnisses auf deinem Server. Je nach Einstellung im Gambio Admin wird entweder der FileManager oder der Responsive FileManager geladen.
 
-## Auswahl des Bildes mit dem FileManager { .section}
+### Auswahl des Bildes mit dem FileManager { .section}
 
 Klicke in der oberen Leiste auf das Pluszeichen, um das Bild auf deinem Rechner auszuwählen. Der Dateiname wird nun neben der Schaltfläche angezeigt. Klicke nun rechts daneben auf Hochladen, um das ausgewählte Bild auf den Server hochzuladen.
 
@@ -111,7 +138,7 @@ Klicke in der oberen Leiste auf das Pluszeichen, um das Bild auf deinem Rechner 
 
 Die Datei wird nun in der Liste aufgeführt und kann per Klick ausgewählt werden, klicke hierzu auf Auswählen, es wird nun im Fenster Bild-Eigenschaften in der Vorschau dargestellt. Bestätige die Bildauswahl mit Klick auf OK, nun ist die Grafik im CK-Editor eingebunden.
 
-## Auswahl des Bildes mit dem Responsive FileManager { .section}
+### Auswahl des Bildes mit dem Responsive FileManager { .section}
 
 Befindet sich das Bild bereits auf dem Server, kann es direkt ausgewählt werden:
 
@@ -134,7 +161,7 @@ Soll das Bild mit einem Link versehen werden, so kann dieser direkt über die Bi
 
 Hinterlege hierzu die Linkadresse im Feld URL. Über das Dropdown-Menü Zielseite kannst du z.B. festlegen, ob der Link in einem neuen Fenster bzw. neuem Tab geöffnet werden soll. MIt der Schaltfläche Server durchsuchen kann eine passende Datei ausgewählt werden, wenn sie im Unterordner images deines Shops liegt.
 
-## Bilder responsiv machen { .section}
+### Bilder responsiv machen { .section}
 
 Das Honeygrid-Template ist dazu ausgelegt, sich an die Auflösung des jeweilgen Ausgabegeräts \(Desktop-Computer, Tablet, Smartphone\) anzupassen. Bilder werden jedoch standardmäßig mit einer festen Größe hinterlegt. Damit diese sich ebenfalls anpassen, müssen verschiedene Änderungen im Reiter Erweitert der Bildeigenschaften vorgenommen werden:
 
@@ -147,21 +174,13 @@ img-responsive
 
 Bestätige die Änderung mit Klick auf OK und speichere den jeweiligen Bereich \(Artikel, Kategorie, Content\) ab, um diese im Shop zu verwenden.
 
-**Note:**
+!!! Info "Bilder nebeneinander anzeigen"
+    Bilder, die die Formatvorlage img-responsive verwenden, werden im Shop in der Regel untereinander angeordnet. Damit responsive Bilder nebeneinander dargestellt werden, kann man auf das Grid-Layout von Bootstrap zurückgreifen, welches im Honeygrid-Template verwendet wird. Hierzu gibt es Beispiele auf den Seiten
+    https://getbootstrap.com/examples/grid/ \(english\) bzw. http://holdirbootstrap.de/examples/grid/ \(deutsch\)
+    Um einen solchen Beispielcode zu verwenden, rufe zu der betreffenden Seite den Quellcode auf \(üblicherweise kann dies über ein Menü des Browsers, das Öffnen des Kontext-Menüs über einen Rechtsklick auf die Seite oder eine Tastenkombination wie z.B. STRG + U erfolgen\) und kopiere den gewünschten Code.
+    Klicke auf die Schaltfläche Quellcode des CK-Editors, um den Code einzufügen. Klicke erneut auf Quellcode, um die Ansicht umzuschalten. Markiere nun den angezeigten Beispieltext und klicke anschließend auf die Schaltfläche Bild, um das Bild and der betreffenden Position des Rasters einzurichten.
 
-**Bilder nebeneinander anzeigen**
-
-Bilder, die die Formatvorlage img-responsive verwenden, werden im Shop in der Regel untereinander angeordnet. Damit responsive Bilder nebeneinander dargestellt werden, kann man auf das Grid-Layout von Bootstrap zurückgreifen, welches im Honeygrid-Template verwendet wird. Hierzu gibt es Beispiele auf den Seiten
-
-https://getbootstrap.com/examples/grid/ \(english\) bzw. http://holdirbootstrap.de/examples/grid/ \(deutsch\)
-
-Um einen solchen Beispielcode zu verwenden, rufe zu der betreffenden Seite den Quellcode auf \(üblicherweise kann dies über ein Menü des Browsers, das Öffnen des Kontext-Menüs über einen Rechtsklick auf die Seite oder eine Tastenkombination wie z.B. STRG + U erfolgen\) und kopiere den gewünschten Code.
-
-Klicke auf die Schaltfläche Quellcode des CK-Editors, um den Code einzufügen. Klicke erneut auf Quellcode, um die Ansicht umzuschalten. Markiere nun den angezeigten Beispieltext und klicke anschließend auf die Schaltfläche Bild, um das Bild and der betreffenden Position des Rasters einzurichten.
-
-**Parent topic:**[CK-Editor](3_4_CK_Editor.md)
-
-# CK-Editor {#ck_editor}
+## CK-Editor {#ck_editor}
 
 Der CK-Editor ist ein sogenannter WYSIWYG \(What You See Is What You Get\)-Editor. Er bietet also eine Vorschaufunktion, die den Inhalt weitestmöglich so anzeigt, wir er auch im Shop selbst dargestellt wird. Er wird hauptsächlich für Artikel- und Kategoriebeschreibungen sowie Contents \(Informationsseiten\) verwendet.
 
@@ -180,7 +199,21 @@ Auf diese Weise ist es nicht notwendig den HTML-Code direkt einzugeben, der für
 
 **Parent topic:**[Bereiche des Shopsystems](3_Bereiche_des_Shopsystems.md)
 
-# Funktionsübersicht {#funktionuebersicht}
+
+### Link einfügen/editieren {#link_einfuegen_editieren}
+
+Über die Schaltfläche Link einfügen/editieren kann ein Link gesetzt werden. Schreibe hierzu zunächst den Text, welchen du als Link verwenden möchtest. Markiere den Text anschließend und klicke auf den Button mit den Kettengliedern \(Link einfügen/editieren\). Als Link-Typ ist standardmäßig URL und als Protokoll http:// ausgewählt. Diese Einstellungen können im Normalfall beibehalten werden; wenn dein Shop jedoch vollständig SSL-verschlüsselt ist, sollte als Protokoll stattdessen https:// eingestellt werden.
+
+![](Bilder/Abb018_Link.png "Link")
+
+Kopiere die Adresse, auf die du verlinken möchtest, in das Feld URL. Über den Reiter Zielseite kann optional ausgewählt werden, ob der Link z.B. in einem neuen Fenster geöffnet werden soll. Mit einem Klick auf OK wird der Link angelegt bzw. aktualisiert.
+
+**Note:** Wenn du Dateien \(z.B. PDF-Dokumente\) verlinken möchtest, lade bitte die Datei über Server durchsuchen hoch, bzw. wähle sie aus. Gehe hierbei genau so vor, wie für das Hochladen eines Bildes \(siehe Kapitel Bilder einbinden\). In der Box Link wird nun der Pfad zur Datei angegeben. Wähle für Protkoll den Eintrag <andere\> aus, bevor du auf OK klickst.
+
+Es ist auch möglich Bilder mit einem Link zu versehen. Klicke hierzu mit der linken Maustaste auf das Bild und danach auf den Button mit den Kettengliedern \(Link einfügen/editieren\). Alternativ kannst du auch über einen Rechtsklick auf das Bild die Bildeigenschaften aufrufen und die zugehörige URL direkt im Reiter Link hinterlegen.
+
+
+### Funktionsübersicht {#funktionuebersicht}
 
 Die meisten Funktionen ähneln denen von herkömmlichen Textverarbeitungen, es gibt aber auch speziellere Leistungsmerkmale. Die einzelnen Buttons bedeuten der Reihe nach von links nach rechts sowie von oben nach unten:
 
@@ -272,63 +305,4 @@ Die meisten Funktionen ähneln denen von herkömmlichen Textverarbeitungen, es g
 
 **Parent topic:**[CK-Editor](3_4_CK_Editor.md)
 
-# Shopbereich {#shopbereich}
-
-![](Bilder/Abb008a_UbersichtOben___.png "Shopbereich")
-
-![](Bilder/Abb008b_UbersichtUnten.png)
-
-1.  Header
-2.  Teaser-Slider
-3.  Allgemein
-4.  Footer
-
--   **[Header](3_1_1_Header.md)**  
-
--   **[Allgemein](3_1_2_Allgemein.md)**  
-
--   **[Footer](3_1_3_Footer.md)**  
-
-
-**Parent topic:**[Bereiche des Shopsystems](3_Bereiche_des_Shopsystems.md)
-
-# Link einfügen/editieren {#link_einfuegen_editieren}
-
-Über die Schaltfläche Link einfügen/editieren kann ein Link gesetzt werden. Schreibe hierzu zunächst den Text, welchen du als Link verwenden möchtest. Markiere den Text anschließend und klicke auf den Button mit den Kettengliedern \(Link einfügen/editieren\). Als Link-Typ ist standardmäßig URL und als Protokoll http:// ausgewählt. Diese Einstellungen können im Normalfall beibehalten werden; wenn dein Shop jedoch vollständig SSL-verschlüsselt ist, sollte als Protokoll stattdessen https:// eingestellt werden.
-
-![](Bilder/Abb018_Link.png "Link")
-
-Kopiere die Adresse, auf die du verlinken möchtest, in das Feld URL. Über den Reiter Zielseite kann optional ausgewählt werden, ob der Link z.B. in einem neuen Fenster geöffnet werden soll. Mit einem Klick auf OK wird der Link angelegt bzw. aktualisiert.
-
-**Note:** Wenn du Dateien \(z.B. PDF-Dokumente\) verlinken möchtest, lade bitte die Datei über Server durchsuchen hoch, bzw. wähle sie aus. Gehe hierbei genau so vor, wie für das Hochladen eines Bildes \(siehe Kapitel Bilder einbinden\). In der Box Link wird nun der Pfad zur Datei angegeben. Wähle für Protkoll den Eintrag <andere\> aus, bevor du auf OK klickst.
-
-Es ist auch möglich Bilder mit einem Link zu versehen. Klicke hierzu mit der linken Maustaste auf das Bild und danach auf den Button mit den Kettengliedern \(Link einfügen/editieren\). Alternativ kannst du auch über einen Rechtsklick auf das Bild die Bildeigenschaften aufrufen und die zugehörige URL direkt im Reiter Link hinterlegen.
-
-**Parent topic:**[CK-Editor](3_4_CK_Editor.md)
-
-# Allgemein {#allgemein}
-
-![](Bilder/Abb011_ShopbereichSwiper_.png "Allgemeiner Shop-Bereich")
-
-1.  Content
-2.  Swiper
-
-Die Startseite des Shops kann mit verschiendenen Contents und Artikelzusammenstellungen bestückt werden. Diese werden abwechselnd aufgeführt, wie in der Abbildung anhahnd des Contents Index \(ID 5\) und den Artikelankündigungen zu sehen ist. Letztere können als sogenannter Swiper angezeigt werden, bei dem über die Vor- und Zurück-Pfeile die Artikel durchgeschaltet werden können.
-
-Die Reihenfolge der einzelnen Contens und Artikelzusammenstellzungen auf der Startseite ist wie folgt:
-
-1.  Index \(ID 5\)
-2.  Artikelankündigungen
-3.  Freier Inhalt 1 \(ID 4321002\): Dieser Content wird nur angezeigt, wenn es Artikelankündigungen auf der Startseite gibt.
-4.  Empfehlungen: Artikel, die als Empfehlung gekennzeichnet wurden
-5.  Index \(Mitte\) \(ID 10\)
-6.  Freier Inhalt 2 \(ID 4321003\): Dieser Content wird nur angezeigt, wenn es Sonderangebote auf der Startseite gibt.
-7.  Sonderangebotsartikel
-8.  Freier Inhalt 3 \(ID 4321004\): Dieser Content wird nur angezeigt, wenn es Neue Artikel auf der Startseite gibt.
-9.  Neue Artikel
-10. Index \(Unten\) \(ID 11\)
-
-**Note:** Contents bezeichnen Informationsseiten. Diese können unter Darstellung \> Content Manager bearbeitet oder neu angelegt werden \(siehe auch Kapitel Content Manager\).
-
-**Parent topic:**[Shopbereich](3_1_Shopbereich.md)
 
