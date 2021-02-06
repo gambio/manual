@@ -7,7 +7,8 @@
 3.  oberes Menü: Im zentralen Bereich des oberen Menüs findest du ein Feld zur Schnellsuche von Artikeln, Bestellungen und Kunden. Hier kannst du gezielt nach Artikelnamen, Bestellnummern oder Kundennamen suchen. Im rechten Bereich des oberen Menüs findest du einen zusätzlichen Eintrag für die Suche, die Admin-Info-Box für Benachrichtigungen sowie Schaltflächen zum Aufrufen des Shops und zum Abmelden.
 4.  Admin-Info Box: In der Admin-Info Box werden Informationen zu deinem Shop angezeigt. Dazu gehören unter Anderem Hinweise auf Updates und Patches für deine Shopversion sowie Hinweise und Warnungen.
 
-**Note:** Einträge des Konfigurationsmenüs können als Favorit zugeordnet werden, diese werden dann zusätzlich unter Favs angezeigt.
+!!! Info "Hinweis
+	 Einträge des Konfigurationsmenüs können als Favorit zugeordnet werden, diese werden dann zusätzlich unter Favs angezeigt.
 
 Um einen Eintrag als Favorit zu setzen, klicke ihn an und halte die linke Maustaste gedrückt. Ziehe den Eintrag anschließend nach rechts, es wird eine Box mit einem Herz-Symbol angezeigt. Ziehe den Eintrag darauf und lasse die Maustaste los, der Eintrag ist nun unter Favs aufgeführt.
 
@@ -15,7 +16,8 @@ Ein Eintrag kann auf die gleiche Weise wieder aus den Favs entfernt werden, inde
 
 Einträge unter Favs werden zusätzlich angelegt. Die normalen Menüpunkte werden hierdurch weder verschoben noch entfernt.
 
-**Note:** Die Suche im Gambio Admin ist für genaue Übereinstimmungen ausgelegt, daher sollte bei der Suche nach Teilbegriffen auf sogenannte Wildcards zurückgegriffen werden.
+!!! Info "Hinweis
+	 Die Suche im Gambio Admin ist für genaue Übereinstimmungen ausgelegt, daher sollte bei der Suche nach Teilbegriffen auf sogenannte Wildcards zurückgegriffen werden.
 
 Wenn zum Beispiel nach streifen gesucht wird, werden auch nur Artikel mit exakt diesem Artikelnamen gefunden. Mit der Verwendung von Sternchen als Wildcard kann über die Suche \*streifen\* auch der Artikel Nadelstreifenanzug gefunden werden.
 

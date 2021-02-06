@@ -6,7 +6,8 @@ Gutscheine können von dir im Shop zum Kauf angeboten werden. Außerdem hast du 
 
 Installiere das Modul Gutscheine unter Module \> Zusammenfassung, damit Gutscheine bei der Berechnung der Bestellsummen berücksichtigt werden.
 
-**Note:** Der Gutscheinwert wird beim Einlösen dem Guthabenkonto des einlösenden Kunden gutgeschrieben. Wenn der Warenwert einer Bestellung bei Verwendung des Guthabens geringer ist, als das aktuelle Guthaben des Kunden, bleibt das Restguthaben nach der Bestellung erhalten. Der aktuelle Guthaben-Kontostand kann im Warenkorb eingesehen werden, sobald ein Artikel darin liegt.
+!!! Info "Hinweis
+	 Der Gutscheinwert wird beim Einlösen dem Guthabenkonto des einlösenden Kunden gutgeschrieben. Wenn der Warenwert einer Bestellung bei Verwendung des Guthabens geringer ist, als das aktuelle Guthaben des Kunden, bleibt das Restguthaben nach der Bestellung erhalten. Der aktuelle Guthaben-Kontostand kann im Warenkorb eingesehen werden, sobald ein Artikel darin liegt.
 
 CAUTION:
 

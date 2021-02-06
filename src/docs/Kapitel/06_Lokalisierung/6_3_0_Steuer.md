@@ -8,7 +8,8 @@ Admin-Konten haben bei der Steuerberechnung eine andere Priorität als reguläre
 
 Die Steuereinstellungen werden von der Installationsroutine für Deutschland festgelegt. Wenn du deinen Onlineshop in einem anderen Land betreibst, müssen in der Regel die Steuereinstellungen angepasst werden.
 
-**Note:** Wenn du Änderungen an den Steuersätzen vornehmen musst, informiere dich vorher bei deinem Steuer- oder Rechtsberater über die für dich gültigen Einstellungen.
+!!! Info "Hinweis
+	 Wenn du Änderungen an den Steuersätzen vornehmen musst, informiere dich vorher bei deinem Steuer- oder Rechtsberater über die für dich gültigen Einstellungen.
 
 ## Notwendige Änderungen innerhalb der EU 
 
@@ -103,7 +104,8 @@ Bestehende Steuerklassen können nach Auswahl \(die Zeile ist grau hinterlegt\) 
 
 ## Verschieben von Ländern in andere Steuerzonen 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Wir gehen hierbei von den Standardeinstellungen aus, d.h. dass z.B. die Steuersätze bisher nicht geändert worden sind.
 

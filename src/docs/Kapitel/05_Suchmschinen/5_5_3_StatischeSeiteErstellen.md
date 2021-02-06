@@ -4,7 +4,8 @@
 
 Es stehen die gleichen Einstellungsmöglichkeiten wie beim Bearbeiten einer bestehenden Sitemap zur Verfügung \(siehe vorheriges Kapitel Meta-Informationen für statische Seiten bearbeiten\).
 
-**Note:** Eigene PHP-Seiten können nicht auf diese Weise mit Meta-Informationen versehen werden. Es ist jedoch eine Aufnahme in die Sitemap bzw. die Robots-Datei möglich.
+!!! Info "Hinweis
+	 Eigene PHP-Seiten können nicht auf diese Weise mit Meta-Informationen versehen werden. Es ist jedoch eine Aufnahme in die Sitemap bzw. die Robots-Datei möglich.
 
 
 

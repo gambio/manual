@@ -21,7 +21,8 @@ Das Versenden und Löschen von E-Mails ist zudem gesammelt möglich. Setze hierz
 
 Zudem können alte Anlagen bis einschließlich einem bestimmten Datum gelöscht werden. Der Shop bezieht sich hierbei auf das Datum in der Spalte Erstellt. Klicke hierzu zunächst auf Alte Anhänge löschen und stelle in dem sich öffnenden Feld das Datum ein, bis zu dem du die Anlagen löschen möchtest. In den Klammern links neben dem Datum wird nun die zu löschende Datenmenge angezeigt. Klicke auf Alte Anhänge löschen, um die Anhänge zu löschen.
 
-**Note:** Gelöschte Anhänge werden weiterhin als Anlage angezeigt, um eine entsprechende Historie bieten zu können. Da die Datei aber nicht mehr vorhanden ist, kann sie nicht heruntergeladen werden.
+!!! Info "Hinweis
+	 Gelöschte Anhänge werden weiterhin als Anlage angezeigt, um eine entsprechende Historie bieten zu können. Da die Datei aber nicht mehr vorhanden ist, kann sie nicht heruntergeladen werden.
 
 
 

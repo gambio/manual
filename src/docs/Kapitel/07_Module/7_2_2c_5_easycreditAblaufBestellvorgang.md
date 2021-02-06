@@ -15,7 +15,8 @@ Versand- und Rechnungsadresse müssen identisch sein! Werden unterschiedliche Ad
 
 Es erfolgt eine Prüfung durch easyCredit, ob Ratenzahlung möglich ist.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Die Screenshots enthalten einen Hinweis auf den Testbetrieb. Dieser ist im Livebetrieb nicht vorhanden.
 

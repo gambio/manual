@@ -1,6 +1,7 @@
 # Google Conversion-Tracking 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Das Google Conversion-Tracking-Modul unter Module \> Modul-Center entspricht nicht der aktuellsten Implementierung. Wir empfehlen stattdessen die entsprechenden Funktionen des Google Services-Moduls im Bereich Google des Gambio Admins zu verwenden.
 

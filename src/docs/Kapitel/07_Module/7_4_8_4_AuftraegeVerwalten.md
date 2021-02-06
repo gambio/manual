@@ -29,7 +29,8 @@ Hier können die Abholaufträge für die Pakete an die Kunden eingerichtet werde
 
 In den Account-Infos werden die Kundeninformationen des ProfiPaketServices aufgeführt. Es können die Kosten für die verschiedenen Pakete eingesehen werden, aufgelistet nach Größe und Versandzonen.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Da die Konditionen von dem jeweiligen Vertrag abhängen, können die aufgeführten Preise und Leistungen von denen in deinem Shop abweichen.
 

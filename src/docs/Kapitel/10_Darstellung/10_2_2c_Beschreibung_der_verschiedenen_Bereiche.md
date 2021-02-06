@@ -48,7 +48,8 @@ In diesem Abschnitt kann die Anzeige der einzelnen Menüboxen an- und abgeschalt
 
 Über den Bereich Icons können Größe und Farbe von verschiedenen Icons angepasst werden.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Der Bereich Icons wird nur angezeigt, wenn unter Shop Einstellungen \> Mein Shop für Templateset \(Theme\) der Eintrag Honeygrid \(Theme\) eingestellt worden ist.
 

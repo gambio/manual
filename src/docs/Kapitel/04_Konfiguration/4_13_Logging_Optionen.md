@@ -1,6 +1,7 @@
 # Logging-Optionen 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Dieser Bereich des Gambio Admins ist nur in selbstgehosteten Shops verfügbar.
 

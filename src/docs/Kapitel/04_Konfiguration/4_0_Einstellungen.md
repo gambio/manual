@@ -60,7 +60,8 @@ Wenn du die E-Mail Transport-Methode auf SMTP umstellst, beachte die Konfigurati
 |SMTP Passwort|Passwort für den E-Mail Versand|
 |SMTP AUTH|Aktivieren, wenn der SMTP-Server AUTH voraussetzt \[nein\]|
 
-**Note:** Wenn der Mailversand trotz korrekt vorgenommener Konfiguration im Shop nicht erfolgt, wende dich an deinen Hosting-Provider.
+!!! Info "Hinweis
+	 Wenn der Mailversand trotz korrekt vorgenommener Konfiguration im Shop nicht erfolgt, wende dich an deinen Hosting-Provider.
 
 ![](Bilder/Abb022_ErweiterteEMailEinstellungen.PNG "Erweiterte E-Mail-Einstellungen")
 
@@ -103,7 +104,8 @@ Jedem E-Mail Konto sind die folgenden Konfigurationsvariablen zugewiesen. Das Fe
 |E-Mail Betreff|gib hier den Betreff für E-Mails von diesem Konto ein|
 |Weiterleitungsadressen|gib hier kommagetrennt weitere E-Mail Adressen ein, an die ausgehende Nachrichten ebenfalls gesendet werden sollen; darf nicht die Adresse aus dem Feld E-Mail-Adresse enthalten|
 
-**Note:** Bei manchen Server- und E-Mail-Konfigurationen kann der E-Mail Empfang beim Kunden fehlschlagen. Wenn deine Kunden keine Bestellbestätigungsmails erhalten, stelle sicher, dass die Option Absender der Bestellbestätigungsmail auf Betreiber E‑Mail steht.
+!!! Info "Hinweis
+	 Bei manchen Server- und E-Mail-Konfigurationen kann der E-Mail Empfang beim Kunden fehlschlagen. Wenn deine Kunden keine Bestellbestätigungsmails erhalten, stelle sicher, dass die Option Absender der Bestellbestätigungsmail auf Betreiber E‑Mail steht.
 
 
 
@@ -190,7 +192,8 @@ Wird der Haken CSS inline im Head ausgeben gesetzt, wird der CSS-Code im Head-Be
 
 ## Datenweitergabe an Versanddienstleister 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Dieser Bereich verwendet ein erweitertes Dropdown-Menü zur Auswahl von Einträgen.
 
@@ -335,7 +338,8 @@ Bei Bedarf kann unter Nummer des Startbildes bzw. Dateiname des Startbildes fest
 
 ## E-Mail Rechnungsadressen 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Dieser Bereich betrifft das sogenannte Verrechnungsystem des Shops. Hierüber werden zum Beispiel Bestellbestätigungen oder Bestellstatus-Änderungen versendet.
 
@@ -350,7 +354,8 @@ Dieser Bereich betrifft das sogenannte Verrechnungsystem des Shops. Hierüber we
 
 ## E-Mail Supportadressen 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden zum Beispiel Kontoerstellungsmails oder Bestätigugnsmails für Passwortänderungen versendet.
 
@@ -407,7 +412,8 @@ Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden
 |Art der Sicherheitsabfrage|-   Standard: wird shopseitig generiert; es wird ein Buchstaben- und Zahlencode in einem Bild aus Linien angezeigt, der vom Kunden eingegeben werden muss
 -   reCAPTCHA v2: ist eine andere, sicherere Form der Sicherheitsabfrage und kann von Bots nicht so leicht überwunden werden, stellt also einen besseren Schutz gegen Spam dar.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Damit du dich an reCaptcha v2 beteiligen kannst, musst du dich dafür anmelden. Dies kannst du unter https://developers.google.com/recaptcha/ tun. Public Key und Private Key erhältst du nach der Anmeldung für reCaptcha v2. Gebe diese dann im Sicherheitscenter im Shop ein. Den API-Key kannst du auch unter folgendem Link erhalten, wenn du dich schon für reCAPTCHA v2 angemeldet hast: https://www.google.com/recaptcha/admin/create Bitte beachte, dass dies keine Auswirkungen auf den Spam über das Widerrufsformular haben wird. Das Widerrufsformular darf keine Sicherheitsabfrage enthalten, somit wird auch das reCAPTCHA v2 dort nicht angezeigt.
 
@@ -596,9 +602,11 @@ Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschi
 
 Ändere die Werte Breite und Höhe bei dem Bild, bei dem du die Ausgangsgröße anpassen möchtest. Die neue Breite und Höhe wird bei über die Artikel-Eingabemaske neu hochgeladenen Artikelbildern angewendet.
 
-**Note:** **Ausgangsgröße ist nicht gleich angezeigte Bildgröße**. Im Honeygrid hängt die angezeigte Bildgröße von den Einstellungen im StyleEdit ab.
+!!! Info "Hinweis
+	 **Ausgangsgröße ist nicht gleich angezeigte Bildgröße**. Im Honeygrid hängt die angezeigte Bildgröße von den Einstellungen im StyleEdit ab.
 
-**Note:** Wenn die geänderte Ausgangsgröße auch bei bestehenden Artikelbildern übernommen werden soll, führe unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung aus. Beachte, dass die Ausgabeelemente im Shopbereich nicht automatisch an die neue Größe angepasst werden. Wenn du die Bildgröße der Thumbnails oder Info-Bilder änderst, passe anschließend im Bearbeitungsmodus die betroffenen Bereiche im Shop an.
+!!! Info "Hinweis
+	 Wenn die geänderte Ausgangsgröße auch bei bestehenden Artikelbildern übernommen werden soll, führe unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung aus. Beachte, dass die Ausgabeelemente im Shopbereich nicht automatisch an die neue Größe angepasst werden. Wenn du die Bildgröße der Thumbnails oder Info-Bilder änderst, passe anschließend im Bearbeitungsmodus die betroffenen Bereiche im Shop an.
 
 
 
@@ -637,7 +645,8 @@ CAUTION:
 
 Änderungen an den Einstellungen unter Kunden \> E-Mails \> E-Mail-Optionen können dazu führen, dass keine E-Mails aus dem Shopsystem versendet werden können!
 
-**Note:** Die E-Mail Transport-Methode wird in den meisten Fällen durch die Installationsroutine korrekt festgelegt. Sollte der E-Mail Versand fehlschlagen, stelle zunächst die Option bei Absender der Bestellbestätigungsmail von Betreiber E-Mail auf Kunden E-Mail. Wenn nach wie vor kein E-Mail Versand möglich ist, setze den Absender der Bestellbestätigungsmail wieder auf die Standard-Einstellung zurück, ändere die E-Mail Transport-Methode auf SMTP und trage die SMTP-Daten ein. Achte hierbei auch den korrekten SMTP Port und die Auswahl der richtigen SMTP Verschlüsselung sowie die Aktivierung der Einstellung SMTP AUTH, falls der Server eine Verschlüsselung erfordert.
+!!! Info "Hinweis
+	 Die E-Mail Transport-Methode wird in den meisten Fällen durch die Installationsroutine korrekt festgelegt. Sollte der E-Mail Versand fehlschlagen, stelle zunächst die Option bei Absender der Bestellbestätigungsmail von Betreiber E-Mail auf Kunden E-Mail. Wenn nach wie vor kein E-Mail Versand möglich ist, setze den Absender der Bestellbestätigungsmail wieder auf die Standard-Einstellung zurück, ändere die E-Mail Transport-Methode auf SMTP und trage die SMTP-Daten ein. Achte hierbei auch den korrekten SMTP Port und die Auswahl der richtigen SMTP Verschlüsselung sowie die Aktivierung der Einstellung SMTP AUTH, falls der Server eine Verschlüsselung erfordert.
 
   
 
@@ -671,7 +680,8 @@ Das Shopsystem bietet verschiedene Funktionen an, mit denen du einen oder mehrer
 
 # Shop-Key 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Dieser Bereich des Gambio Admins ist nur in selbstgehosteten Shops verfügbar.
 
@@ -720,7 +730,8 @@ Die Informationen enthalten dabei keine personen- oder handelsbezogenen Daten. D
 -   Vorname kürzen: Es wird nur der erste Buchstaben des Vornamens und der Nachname angezeigt
 -   Nachname kürzen: Es wird der Vorname und nur der erste Buchstabe des Nachnamens angezeigt
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Bestehende Rezensionen bleiben in der Darstellung des Verfassers unverändert.
 
@@ -902,7 +913,8 @@ Kleinunternehmer führen in Deutschland unter bestimmten Voraussetzungen keine U
 
 Bei Artikelpreisen und zukünftigen Bestellungen wird anstatt der Umsatzsteuer ein Hinweis angezeigt, dass die Steuer aufgrund der Kleinunternehmerregelung nicht ausgewiesen wird.
 
-**Note:** Wähle beim Einstellen von Artikeln auf der Artikel-Detailseite aus der Liste Steuersatz den regulären Steuersatz für deine Artikel aus. Wenn die Voraussetzungen nicht mehr erfüllt werden, müssen dadurch nicht alle Artikelpreise neu angelegt werden.
+!!! Info "Hinweis
+	 Wähle beim Einstellen von Artikeln auf der Artikel-Detailseite aus der Liste Steuersatz den regulären Steuersatz für deine Artikel aus. Wenn die Voraussetzungen nicht mehr erfüllt werden, müssen dadurch nicht alle Artikelpreise neu angelegt werden.
 
 
 
@@ -947,7 +959,8 @@ Zudem kann festgelegt werden, ob ein so angezeigter Link um eine Checkbox ergän
 
 In der Grundkonfiguration werden die Allgemeinen Geschäftsbedinungen \(AGB\) im Bestellvorgang angezeigt und müssen bestätigt werden. Deaktiviere die Kontrollkästchen, wenn die AGB nicht angezeigt werden sollen. Zudem kann eingestellt werden, ob die AGB im PDF-Format als Anhang der Bestellbestätigung versendet werden sollen.
 
-**Note:** Deaktiviere das Kontrollkästchen im Bestellvorgang bestätigen, wenn du die Anzeige der AGB im Bestellvorgang deaktivierst. Eine Bestellung ist sonst nicht möglich.
+!!! Info "Hinweis
+	 Deaktiviere das Kontrollkästchen im Bestellvorgang bestätigen, wenn du die Anzeige der AGB im Bestellvorgang deaktivierst. Eine Bestellung ist sonst nicht möglich.
 
 ## Widerrufsrecht 
 
@@ -986,7 +999,8 @@ Wenn du den Haken im Bestellvorgang bestätigen setzt, wird die Einwilligung zu 
 
 Zudem wird für jede installierte Versandart ein Haken angezeigt. Setze den jeweiligen Haken, damit die Einwilligung bei Verwendung der entsprechenden Versandart angezeigt werden kann.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Der Hinweis wird nur angezeigt, wenn sowohl die Haken für im Bestellvorgang anzeigen als auch die jeweilige\(n\) Versandart\(en\) gesetzt sind.
 
@@ -1058,7 +1072,8 @@ Beispiel: \(4,FFFFFF\)
 
 Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das Feld Motion-Blur beim gewünschten Bildtyp ein.
 
-**Note:** Die Änderungen an den Bild-Effekten werden nur für über die Artikel-Eingabemaske neu hochgeladene Artikelbilder übernommen. Wenn die Änderungen auch auf bereits vorhandene Artikelbilder angewendet werden sollen, führe anschließend die Stapelverarbeitung für Bildbearbeitung unter Darstellung \> Bild-Optionen \> Image Processing aus.
+!!! Info "Hinweis
+	 Die Änderungen an den Bild-Effekten werden nur für über die Artikel-Eingabemaske neu hochgeladene Artikelbilder übernommen. Wenn die Änderungen auch auf bereits vorhandene Artikelbilder angewendet werden sollen, führe anschließend die Stapelverarbeitung für Bildbearbeitung unter Darstellung \> Bild-Optionen \> Image Processing aus.
 
 
 
@@ -1079,17 +1094,20 @@ Die Grundeinstellungen des G-Protectors sind bereits mit dem Kopieren des zugeh�
 
 Trage diese hierzu in die Datei ip\_blacklist.txt im Ordner GProtector des Shopverzeichnisses ein, auf die du z.B. mit Hilfe eines FTP-Clients zugreifen kannst. Setze dabei jede Adresse in eine eigene Zeile, abgesehen von den Adress-eigenen Punkten sind hierzu keine weiteren Trenn- oder Sonderzeichen erforderlich.
 
-**Note:** 192.168.1.1
+!!! Info "Hinweis
+	 192.168.1.1
 
 127.0.0.1
 
 Dies kann, neben einzelner Adressen, auch für Adressräume vorgenommen werden:
 
-**Note:** 172.16.
+!!! Info "Hinweis
+	 172.16.
 
 127.0.0.
 
-**Note:** Die genannten Adressen und Adressräume dienen nur als Beispiel zur Darstellung des Formates, es ist weder notwendig, noch sinnvoll, diese speziellen Adressen zu blockieren.
+!!! Info "Hinweis
+	 Die genannten Adressen und Adressräume dienen nur als Beispiel zur Darstellung des Formates, es ist weder notwendig, noch sinnvoll, diese speziellen Adressen zu blockieren.
 
 
 
@@ -1121,11 +1139,13 @@ Das Unterschreiten des Minimum-Wertes sorgt für widersprüchliche Einträge in 
 
 Zudem können in den Feldern Format Rechnungsnummer und Format Lieferscheinnummer der generelle Aufbau der Rechnungsnummer festgelegt werden. Dabei wird die fortlaufende Nummer mit dem Platzhalter \{INVOICE\_ID\} eingetragen.
 
-**Note:** Wenn unter Format Rechnungsnummer folgendes eingetragen ist: R\_\{INVOICE\_ID\}\_2014 werden die Rechnungsnummern nach folgendem Muster vergeben:
+!!! Info "Hinweis
+	 Wenn unter Format Rechnungsnummer folgendes eingetragen ist: R\_\{INVOICE\_ID\}\_2014 werden die Rechnungsnummern nach folgendem Muster vergeben:
 
 R\_26\_2014, R\_27\_2014, R\_28\_2014, usw.
 
-**Note:** Rechnungsnummern müssen grundsätzlich fortlaufend vergeben werden. Bei weiteren Fragen hierzu wende dich bitte an deinen Rechtsbeistand.
+!!! Info "Hinweis
+	 Rechnungsnummern müssen grundsätzlich fortlaufend vergeben werden. Bei weiteren Fragen hierzu wende dich bitte an deinen Rechtsbeistand.
 
 Beachte, dass diese beiden Nummern fortlaufend sind und jeweils erst bei der Erstellung bzw. dem Versand von Rechnung und Lieferschein generiert werden. Solltest du das Format nachträglich anpassen, so wird das neue Format auch erst in neu generierten Rechnungen und Lieferscheinen angewendet.
 
@@ -1135,7 +1155,8 @@ Beachte, dass diese beiden Nummern fortlaufend sind und jeweils erst bei der Ers
 
 Der Cookie Hinweis kann unter Shop Einstellungen \> Rechtliches über den Reiter Cookie Hinweis konfiguriert werden. Der Hinweis erscheint beim ersten Aufruf des Shops und kann durch den Kunden bestätigt oder \(je nach Konfiguration\) geschlossen werden. Zur Bestätigung des Hinweises wird ein eigener Button angezeigt, dessen Beschriftung du frei festlegen kannst.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Wenn eine andere Seite des Shops oder die Startseite nochmals geladen wird, erfolgt keine erneute Anzeige des Cookie Hinweises.
 
@@ -1164,7 +1185,8 @@ Folgende Einstellungen sind sprachabhängig. Klicke eine der Landesflaggen an, u
 -   Button-Link: Link der beim Anklicken des Buttons aufgerufen werden kann
 -   Inhalt: Hier kann der Text für den Cookie Hinweis hinterlegt werden
 
-**Note:** Eine Übersicht über die einzelnen Schaltflächen des Editor-Fensters findest du im Kapitel CK-Editor unter Funktionsübersicht
+!!! Info "Hinweis
+	 Eine Übersicht über die einzelnen Schaltflächen des Editor-Fensters findest du im Kapitel CK-Editor unter Funktionsübersicht
 
 Bestätige alle gemachten Änderungen mit Klick auf Speichern.
 
@@ -1333,7 +1355,8 @@ Ein Parameter von \(0,0,0\) färbt dein Artikelbild vollständig schwarz, wohing
 
 ## Downloadoptionen 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Dieser Bereich verwendet ein erweitertes Dropdown-Menü zur Auswahl von Einträgen.
 
@@ -1389,11 +1412,13 @@ Bei Verwenden der GDlib1-Bibliotheken für die Bildbearbeitung werden sämtliche
 
 Lieferstatus geben an, wie lange es voraussichtlich dauert, bis ein gegebener Artikel geliefert wird. Im Shop kann für jede dieser Zeitperioden ein eigener Lieferstatus festgelegt werden, z.B. 3-4 Tage, 1 Woche usw. Unter Shop Einstellungen \> Lieferstatus können diese Status eingesehen und geändert werden. Wenn ein Lieferstatus markiert wird, sodass er blau hinterlegt ist, wird in der Box auf der rechten Seite sowohl die deutsche als auch die englische Bezeichnung angezeigt. Dazu kommen die Anzahl der Wochentage und der obere Schwellenwert.
 
-**Note:** Wenn der Lieferstatus markiert ist, wird in der Adresszeile des Browsers die eindeutige ID-Nummer des Lieferstatus‘ mit aufgeführt: http://www.deinshop.de/admin/shipping\_status.php?page=1&oID=1 Diese Nummer wird auch beim Artikel-Import und -Export verwendet. Wenn Lieferstatus bereits beim Import vergeben oder Artikel durch diesen aktualisiert werden sollen, kann so der Menüpunkt Shop Einstellungen \> Lieferstatus als Referenz verwendet werden.
+!!! Info "Hinweis
+	 Wenn der Lieferstatus markiert ist, wird in der Adresszeile des Browsers die eindeutige ID-Nummer des Lieferstatus‘ mit aufgeführt: http://www.deinshop.de/admin/shipping\_status.php?page=1&oID=1 Diese Nummer wird auch beim Artikel-Import und -Export verwendet. Wenn Lieferstatus bereits beim Import vergeben oder Artikel durch diesen aktualisiert werden sollen, kann so der Menüpunkt Shop Einstellungen \> Lieferstatus als Referenz verwendet werden.
 
 Die Auswahl eines Lieferstatus‘ durch den Shop richtet sich nach dem Lagerstand des jeweiligen Artikels. Hierzu wird der obere Schwellenwert verwendet. Sobald der Lagerstand bis auf diesen Schwellenwert \(oder darunter\) herabsinkt, ist der Lieferstatus für den Artikel aktiv.
 
-**Note:** Die Eingabe für den oberen Schwellenwert wird nur angezeigt wenn der Haken für Lieferstatus automatisch aktualisieren gesetzt ist. Dies kann über die Schalfläche Lieferstatus konfigurieren geändert werden. Der Lieferstatus wird nur bei einer Bestellung aktualisiert.
+!!! Info "Hinweis
+	 Die Eingabe für den oberen Schwellenwert wird nur angezeigt wenn der Haken für Lieferstatus automatisch aktualisieren gesetzt ist. Dies kann über die Schalfläche Lieferstatus konfigurieren geändert werden. Der Lieferstatus wird nur bei einer Bestellung aktualisiert.
 
 Um die Einstellungen für einen Lieferstatus anzupassen, wähle diesen aus und klicke auf Bearbeiten. Nun können die deutsche und englische Bezeichnung des Lieferstatus, die Anzahl der Wochentage und der obere Schwellenwert geändert werden. Zudem kann der standardmäßig verwendete Lieferstatus neu gesetzt und zu jedem Lieferstatus zugehörige Google-Shopping-Verfügbarkeit zugeordnet werden. Schlussendlich kann die zugeordnete Grafik \(siehe Spalte Lieferstatus in der Tabelle\) geändert werden, die den Lieferstatus farblich markiert. Mit Klick auf Speichern werden die Änderungen übernommen.
 
@@ -1477,7 +1502,8 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 
 # Bild-Optionen 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Änderungen an den Bild-Optionen werden nur für neu hochgeladene Artikelbilder übernommen. Sollen Änderungen auch bei bereits vorhandenen Artikelbildern übernommen werden, muss anschließend unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung ausgeführt werden.
 
@@ -1498,7 +1524,8 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 
 # Logging-Optionen 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Dieser Bereich des Gambio Admins ist nur in selbstgehosteten Shops verfügbar.
 
@@ -1706,14 +1733,16 @@ Um deine Texte für das Widerrufsrecht zu hinterlegen, klicke bitte bei einem de
 
 Die Widerrufstexte können im Shop auch als PDF-Datei heruntergeladen werden. Im Normalfall werden diese Dateien im Shop aus den jeweiligen Inhalten der einzelnen Contents \(3889896 bis 3889899\) erzeugt. Alternativ kann jedoch auch eine separate Datei zu diesem Zweck hinterlegt werden. Diese Datei muss nicht zwingend im PDF-Format vorliegen. Beim Bearbeiten des Contents Widerrufsrecht & Muster-Widerrufsformular \(ID 3889895\) kann diese über Als Download in den Shop hochgeladen werden. Eine Datei, die hier eingestellt wurde, wird anstelle der automatisch generierten PDF zum Download bereitgestellt.
 
-**Note:** Im Gegensatz zu Texten kann für eine zu hinterlegende PDF-Datei auch der Content Widerrufsrecht & Muster-Widerrufsformular \(Gruppe 3889895\) verwendet werden. Dieser Content verfügt auch über eine zusätzliche Einstellungsoption für das Muster-Widerrufsformular.
+!!! Info "Hinweis
+	 Im Gegensatz zu Texten kann für eine zu hinterlegende PDF-Datei auch der Content Widerrufsrecht & Muster-Widerrufsformular \(Gruppe 3889895\) verwendet werden. Dieser Content verfügt auch über eine zusätzliche Einstellungsoption für das Muster-Widerrufsformular.
 
 Der Shop enthält ein Muster-Widerrufsformular im PDF-Format. Allerdings besteht auch die Möglichkeit, diese Datei durch ein eigenes Formular zu ersetzen. Diese Einstellung kann unter Darstellung \> Content Manager im Content Widerrufsrecht & Muster-Widerrufsformular \(ID 3889895\) vorgenommen werden.
 
 ![](Bilder/Abb030_EinstellungZurAuswahlDesMusterWiderrufsfomularImContentWiderrufsrechtMusterWiderrufsformular.png "Einstellung zur Auswahl des Muster- Widerrufsformular im Content
       Widerrufsrecht & Muster- Widerrufsfomular")
 
-**Note:** Weitere Informationen zum Hochladen von Dateien findest du im Kapitel Verwenden des Dateimanagers.
+!!! Info "Hinweis
+	 Weitere Informationen zum Hochladen von Dateien findest du im Kapitel Verwenden des Dateimanagers.
 
 Lade die Datei, wie bereits beschrieben, über Muster-Widerrufsformular in den Shop hoch.
 
@@ -1757,7 +1786,8 @@ Wenn du möchtest, kannst du auch das Versandgewicht im Warenkorb anzeigen lasse
 
 Unter Shop Einstellungen \> System Einstellungen \> Sicherheitscenter stehen dir Funktionen zum Spamschutz sowie allgemeine Sicherheitseinstellungen zur Verfügung. Die Einstellungen sind nach der Installation des Shopsystems bereits ideal konfiguriert. Passe die Einstellungen nur an, wenn du vermehrten Missbrauch der betroffenen Bereiche feststellst.
 
-**Note:** Beachte, dass diese Funktionen keinen vollständigen Schutz für den jeweiligen Anwendungsbereich garantieren können!
+!!! Info "Hinweis
+	 Beachte, dass diese Funktionen keinen vollständigen Schutz für den jeweiligen Anwendungsbereich garantieren können!
 
 ## Passwortverschlüsselung 
 
@@ -1832,7 +1862,8 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 |im Warenkorb|Warenkorb als Lightbox anzeigen|
 |im Anmeldevorgang|Anmeldevorgang als Lightbox anzeigen|
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Die Anzeige als Lightbox steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
@@ -1934,7 +1965,8 @@ Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Au
 Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
 |
-|Ebene\(n\) in der Kategorieführung anzeigen|Legt fest, welche Ebenen in der Kategorieführung angezeigt werden sollen.**Note:**
+|Ebene\(n\) in der Kategorieführung anzeigen|Legt fest, welche Ebenen in der Kategorieführung angezeigt werden sollen.!!! Info "Hinweis
+	
 
 Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
@@ -1965,7 +1997,8 @@ Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 -   Vorname kürzen: Es wird nur der erste Buchstaben des Vornamens und der Nachname angezeigt
 -   Nachname kürzen: Es wird der Vorname und nur der erste Buchstabe des Nachnamens angezeigt
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Bestehende Rezensionen bleiben in der Darstellung des Verfassers unverändert.
 
@@ -1981,7 +2014,8 @@ Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Be
 
 Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschiedenen Ausgangsgrößen angepasst. Für jedes Artikelbild werden dabei Kopien angelegt, die für ihre Verwendung skaliert sind. Die tatsächliche Anzeigegröße hängt hierbei von den Einstellungen im StyleEdit ab. Jedoch kann eine Änderung der Ausgangsgrößen erhebliche Auswirkungen auf Bildqualität und Ladezeit haben.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Ausgangsgröße ist nicht gleich angezeigte Bildgröße. In Honeygrid und Malibu hängt die angezeigte Bildgröße von den Einstellungen im StyleEdit ab. Die Größen-Einstellungen in diesem Bereich wirken sich primär auf die Qualiät der Ausgangsbilder aus.
 
@@ -2090,7 +2124,8 @@ Die Tabelle Darstellungsoptionen unter Shop Einstellungen \> Maximum Werte biete
 |Bestellübersicht|maximale Anzahl an Bestellungen, die in der Übersicht im Kundenbereich des Shops angezeigt werden sollen \[5\]|
 |Bewertungen in Artikeldetailansicht|Anzahl der angezeigten Bewertungen in der Artikeldetailansicht \[5\]|
 
-**Note:** Die Einstellung Anzahl an Kategorien pro Zeile wirkt sich nur im EyeCandy aus. Für das Honeygrid wird die Einstellung hierzu im StyleEdit vorgenommen.
+!!! Info "Hinweis
+	 Die Einstellung Anzahl an Kategorien pro Zeile wirkt sich nur im EyeCandy aus. Für das Honeygrid wird die Einstellung hierzu im StyleEdit vorgenommen.
 
 
 
@@ -2139,7 +2174,8 @@ Externe Module \(Zahlungsmodule, ERP, Warenwirtschaften etc.\) müssen Straße u
 
 Über die Mindstlänge können Felder als Plfichtfelder festgelegt werden. Ist für die Mindestlänge ein Wert größer als 0 eingetragen, ist das betreffende Feld ein Pflichtfeld.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Die Firma kann standardmäßig nicht als Pflichtangabe gesetzt werden. Eine Prüfung der Mindestlänge findet nur dann statt, wenn eine Eingabe in diesem Feld erfolgt.
 
@@ -2226,7 +2262,8 @@ Um diesen Inhalt für deinen Shop zu erzeugen, öffne Darstellung \> Content Man
 
 Im ersten Schritt werden die Versandländer bestätigt. Diese werden in alphabetischer Reihenfolge mit ihrem jeweiligen Status aufgelistet. Mit Hilfe des Hakens, der für das Feld Nur Länder anzeigen, die im Shop aktiv sind gesetzt werden kann, lässt sich die Auswahl entsprechend einschränken. Aktiviere bzw. deaktiviere die Länder, indem du den zugehörigen Haken in der Spalte Status setzt respektive entfernst, um die Zusammenstellung deiner Versandländer festzulegen.
 
-**Note:** Die für den Versand aktivierten und für die Matrix aktivierten Länder sind unabhängig voneinander. Die in der Matrix als aktiviert angezeigten Länder müssen also nicht zwangsläufig unter Shop Einstellungen \> Land/Steuer \> Länder aktiviert sein. Änderungen in einem Bereich haben keine Auswirkungen auf den anderen Bereich.
+!!! Info "Hinweis
+	 Die für den Versand aktivierten und für die Matrix aktivierten Länder sind unabhängig voneinander. Die in der Matrix als aktiviert angezeigten Länder müssen also nicht zwangsläufig unter Shop Einstellungen \> Land/Steuer \> Länder aktiviert sein. Änderungen in einem Bereich haben keine Auswirkungen auf den anderen Bereich.
 
 Mit Klick auf Weiter wird die Auswahl bestätigt und die Ansicht wechselt zu den Eingabebereichen der Matrix.
 
@@ -2331,7 +2368,8 @@ Unter Shop Einstellungen \> Lagerverwaltungs-Optionen lässt sich die shopeigene
 |Meldung an den Shopbetreiber, dass ein Artikel nachbestellt werden muss|Stückzahl ab welcher diese E-Mail versendet werden soll|
 |Lagerbestand vor dem Warenkorb prüfen?|Überprüft den Lagerbestand bereits auf der Artikeldetailseite.|
 
-**Note:** Lagerstands-Einstellungen greifen nur bedingt bei Artikel-Eigenschaften. Wenn Artikel- Eigenschaften verwendet werden, wird die Lagerverwaltung in den Kombinationen des Artikels eingestellt. Bearbeite hierzu den Artikel und klicke auf Eigenschaften.
+!!! Info "Hinweis
+	 Lagerstands-Einstellungen greifen nur bedingt bei Artikel-Eigenschaften. Wenn Artikel- Eigenschaften verwendet werden, wird die Lagerverwaltung in den Kombinationen des Artikels eingestellt. Bearbeite hierzu den Artikel und klicke auf Eigenschaften.
 
 ## Artikel inaktiv setzen 
 

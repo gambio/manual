@@ -16,7 +16,8 @@ Ich bin einverstanden und verlange ausdrücklich, dass Sie vor Ende der Widerruf
 
 bestätigt werden.
 
-**Note:** Das Setzen dieses Hakens kann für Download-Artikel und Dienstleistungen durch den Shop-Betreiber als Pflichtfeld festgelegt werden. Die entsprechenden Einstellungen findest du unter Shop Einstellungen \> Rechtliches. Siehe Rechtliche Einstellungen.
+!!! Info "Hinweis
+	 Das Setzen dieses Hakens kann für Download-Artikel und Dienstleistungen durch den Shop-Betreiber als Pflichtfeld festgelegt werden. Die entsprechenden Einstellungen findest du unter Shop Einstellungen \> Rechtliches. Siehe Rechtliche Einstellungen.
 
 Über den Link \(Als PDF downloaden\) hat der Kunde die Möglichkeit sowohl die Allgemeinen Geschäftsbedingungen als auch das Widerrufsrecht als PDF-Datei herunterzuladen.
 
@@ -35,7 +36,8 @@ Die Bestellbestätigungs-E-Mail enthält mit der Einrichtung der Verbraucherrech
 
 ## Online-Widerrufsformular 
 
-**Note:** Der Verweis auf das Online-Widerrufsformular wird unter Shop Einstellungen \> Rechtliches eingestellt. Setze hierzu die Einstellung bei Webformular anbieten im Bereich Widerrufsrecht.
+!!! Info "Hinweis
+	 Der Verweis auf das Online-Widerrufsformular wird unter Shop Einstellungen \> Rechtliches eingestellt. Setze hierzu die Einstellung bei Webformular anbieten im Bereich Widerrufsrecht.
 
 Das Online-Widerrufsformular kann sowohl über den allgemeinen Content Widerrufsrecht & Muster-Widerrufsformular \(siehe Box Mehr über... im Footer\) als auch aus den Bestellungen unter Ihr Konto aufgerufen werden \(siehe Bestellinformationen\). Erfolgt der Aufruf aus der betroffenen Bestellung selbst, ist das Online-Formular bereits weitestgehend vorausgefüllt. Generell werden Pflichtfelder mit einem Sternchen \* gekennzeichnet. Diese Funktion ist bei Gast- Kunden eingeschränkt.
 

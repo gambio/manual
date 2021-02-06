@@ -22,7 +22,8 @@ Der Artikelnavigator ist eine zusätzliche Auswahl in der Artikel-Detailansicht,
 
 Das Reverse Cross-Marketing ist eine Zusatzfunktion zum Cross Selling \(siehe Kapitel Cross Selling\), über das zu einem ausgewählten Artikel weitere Artikel empfohlen werden können. Ist das Reverse Cross-Marketing aktiviert, findet eine Rückverknüpfung von dem empfohlenen Artikel zum ursprünglichen Artikel statt.
 
-**Note:** Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Auslastung deines Server erhöhen. Bitte prüfe nach der Aktivierung, ob sich der Shop beim Aufruf der Artikel spürbar verlangsamt hat. Ist dies der Fall, sollte das Reverse Cross-Marketing nach Möglichkeit nicht verwendet werden.
+!!! Info "Hinweis
+	 Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Auslastung deines Server erhöhen. Bitte prüfe nach der Aktivierung, ob sich der Shop beim Aufruf der Artikel spürbar verlangsamt hat. Ist dies der Fall, sollte das Reverse Cross-Marketing nach Möglichkeit nicht verwendet werden.
 
 
 

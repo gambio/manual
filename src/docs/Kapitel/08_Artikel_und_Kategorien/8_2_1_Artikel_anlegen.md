@@ -2,7 +2,8 @@
 
 Neue Artikel kannst du in der Artikel- und Kategorieübersicht unter Artikel \> Artikel/Kategorien hinzufügen. Neue Artikel werden immer in der Kategorie angelegt, die in der Übersicht aufgelistet wird. Im Listenfeld Gehe zu oberhalb der Artikel- und Kategorieliste wird dir die aktive Kategorie angezeigt.
 
-**Note:** Um in eine Kategorie zu wechseln, klicke auf das schwarze Ordnersymbol vor dem Kategorienamen, oder wähle die gewünschte Kategorie aus der Liste Gehe zu rechts in der Leiste am unteren Bildschirmrand aus.
+!!! Info "Hinweis
+	 Um in eine Kategorie zu wechseln, klicke auf das schwarze Ordnersymbol vor dem Kategorienamen, oder wähle die gewünschte Kategorie aus der Liste Gehe zu rechts in der Leiste am unteren Bildschirmrand aus.
 
 ![](Bilder/Abb084_ArtikelAnlegen.png "Artikel anlegen")
 
@@ -16,9 +17,11 @@ Neue Artikel kannst du in der Artikel- und Kategorieübersicht unter Artikel \> 
 5.  Eine Übersicht über die Bedeutung der Felder in der Artikel-Eingabemaske findest du in der Tabelle Übersicht über die Artikel-Eingabemaske
 6.  Klicke auf Speichern, um den neuen Artikel zu speichern
 
-**Note:** Alle Felder in der Eingabemaske ohne Grundeinstellung sind optional und sollten nur verwendet werden, wenn die entsprechende Information zur Verfügung steht.
+!!! Info "Hinweis
+	 Alle Felder in der Eingabemaske ohne Grundeinstellung sind optional und sollten nur verwendet werden, wenn die entsprechende Information zur Verfügung steht.
 
-**Note:** Die einzelnen Bereich der Artikelmaske können mit Klick auf das Minus-Icon minimiert und über das Plus-Icon maximiert werden. Wenn also ein hier aufgeführter Bereich nicht angezeigt wird, klicke am rechten Ende der grauen Leiste auf das Plus-Icon.
+!!! Info "Hinweis
+	 Die einzelnen Bereich der Artikelmaske können mit Klick auf das Minus-Icon minimiert und über das Plus-Icon maximiert werden. Wenn also ein hier aufgeführter Bereich nicht angezeigt wird, klicke am rechten Ende der grauen Leiste auf das Plus-Icon.
 
 ![](Bilder/ArtikelPlusMinus_.png "Icon zum Ein- und Ausklappen der Bereiche")
 
@@ -71,7 +74,8 @@ In aller Regel sollen jedoch zusätzliche Kategorien verlinkt werden. Hierzu kö
 
 \* Nähere Informationen zu Verpackungseinheiten findest du im Kapitel Verpackungseinheiten.
 
-**Note:** Bitte beachte: Diese Darstellung entspricht der Grundkonfiguration des Shopsystems. Zusatzfunktionen und Drittanbietermodule können die Darstellung der Artikel-Eingabemaske beeinflussen. Nähere Informationen zu hier nicht dokumentierten Eingabefeldern findest du in der Anleitung des jeweiligen Moduls.
+!!! Info "Hinweis
+	 Bitte beachte: Diese Darstellung entspricht der Grundkonfiguration des Shopsystems. Zusatzfunktionen und Drittanbietermodule können die Darstellung der Artikel-Eingabemaske beeinflussen. Nähere Informationen zu hier nicht dokumentierten Eingabefeldern findest du in der Anleitung des jeweiligen Moduls.
 
 ## Erweiterte Konfiguration 
 
@@ -102,7 +106,8 @@ G-Motion wird vom Honeygrid-Template nicht mehr unterstützt.
 |Geschlecht|Für welches Geschlecht ist der Artikel vorgesehen, wird z.B. beim Google Artikelexport verwendet|
 |Altersgruppe|Für welche Altersgruppe ist der Artikel vorgesehen, wird z.B. beim Google Artikelexport verwendet|
 
-**Note:** Bitte beachte: Diese Darstellung entspricht der Grundkonfiguration des Shopsystems. Zusatzfunktionen und Drittanbietermodule können die Darstellung der Artikel-Eingabemaske beeinflussen. Nähere Informationen zu hier nicht dokumentierten Eingabefeldern findest du in der Anleitung des jeweiligen Moduls.
+!!! Info "Hinweis
+	 Bitte beachte: Diese Darstellung entspricht der Grundkonfiguration des Shopsystems. Zusatzfunktionen und Drittanbietermodule können die Darstellung der Artikel-Eingabemaske beeinflussen. Nähere Informationen zu hier nicht dokumentierten Eingabefeldern findest du in der Anleitung des jeweiligen Moduls.
 
 ## Zusatzfelder 
 
@@ -114,7 +119,8 @@ G-Motion wird vom Honeygrid-Template nicht mehr unterstützt.
 
 ![](Bilder/Abb090_neuesZusatzfeldNachAnlegen.PNG "Neues Zusatzfeld ist in anderen Artikeln verfügbar")
 
-**Note:** Die Anzeige der Zusatzfelder kann unter Darstellung \> Template-Einstellungen an- und abgeschaltet werden. Setze bzw. entferne hierzu den Haken Zusatzfelder auf Detailseite aktivieren und bestätige die Änderung mit einem Klick auf Speichern.
+!!! Info "Hinweis
+	 Die Anzeige der Zusatzfelder kann unter Darstellung \> Template-Einstellungen an- und abgeschaltet werden. Setze bzw. entferne hierzu den Haken Zusatzfelder auf Detailseite aktivieren und bestätige die Änderung mit einem Klick auf Speichern.
 
 Um ein Zusatzfeld anzulegen, klicke auf die Schaltfläche Hinzufügen. Es werden pro im Shop verwendete Sprache jeweils ein Feld für Bezeichnung und Wert angezeigt. Nach der Eingabe kann das Zusatzfeld mit Klick auf Speichern oder Übernehmen übernommen werden.
 
@@ -144,7 +150,8 @@ Eine bestehende Google Kategorie kann mit Klick auf das Bleistift-Symbol bearbei
 
 ## Artikeldetails 
 
-**Note:** Für jede im Shop angelegte Sprache \(standardmäßig Deutsch und Englisch\) gibt es einen eigenen Bereich für die Artikeldetails.
+!!! Info "Hinweis
+	 Für jede im Shop angelegte Sprache \(standardmäßig Deutsch und Englisch\) gibt es einen eigenen Bereich für die Artikeldetails.
 
 Der Bereich Artikeldetails dient hauptsächlich zum Festlegen des Inhalts der Artikeldetailseite. Es können folgende Einstellungen gemacht werden:
 
@@ -166,7 +173,8 @@ URL Keywords dürfen weder Leerzeichen, noch Umlaute oder Sonderzeichen enthalte
 -   Meta Keywords: Schlagwörter, die von Suchmaschinen berücksichtigt werden können. Angabe als kommagetrennte Liste \(ohne Leerzeichen\), siehe auch Kapitel Meta-Angaben
 -   Meta Description: Beschreibung des Artikels für die Meta-Informationen \(siehe auch Kapitel Meta-Angaben\)
 
-**Note:** Die Eingabe der Artikelbeschreibung, Kurzbeschreibung und wesentlichen Merkmale erfolgt über den CK-Editor. Eine Übersicht über die einzelnen Funktionen findest du im Kapitel CK-Editor.
+!!! Info "Hinweis
+	 Die Eingabe der Artikelbeschreibung, Kurzbeschreibung und wesentlichen Merkmale erfolgt über den CK-Editor. Eine Übersicht über die einzelnen Funktionen findest du im Kapitel CK-Editor.
 
 Über die Schaltfläche Editor wechseln kann auf einen alternativen HTML-Editor mit Zeilennummerangabe umgeschaltet werden.
 
@@ -178,7 +186,8 @@ siehe Kapitel Artikelbilder
 
 ![](Bilder/Abb093_Kundengruppe.PNG "Einstellung Kundengruppe")
 
-**Note:** Der Bereich Kundengruppe wird nur angezeigt, wenn unter Shop Einstellungen \> Zusatzmodule der Kundengruppencheck aktiviert ist.
+!!! Info "Hinweis
+	 Der Bereich Kundengruppe wird nur angezeigt, wenn unter Shop Einstellungen \> Zusatzmodule der Kundengruppencheck aktiviert ist.
 
 Über die Einstellung Kundengruppe kann festgelegt werden welche Kundengruppe einen Artikel sehen und aufrufen kann. Ist der Haken für eine Kundengruppe nicht gesetzt, wird dieser in Kategorien, Suchergebnissen und sonstigen Artikelseiten \(z.B. Unsere Empfehlungen\) nicht angezeigt. Auch wenn der Link zum Artikel aus anderer Quelle bekannt sein sollte, kann dieser über eine Kundengruppe ohne Haken nicht aufgerufen werden.
 

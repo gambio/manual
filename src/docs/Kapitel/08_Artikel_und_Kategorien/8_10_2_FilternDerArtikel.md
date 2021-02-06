@@ -6,7 +6,8 @@ In der oberen Leiste lassen sich verschiedene Filter setzen, um Artikel in der L
 
 ![](Bilder/Abb131_FilternNachSuchbegriffen.png "Filtern nach Suchbegriffen")
 
-**Note:** Wenn du dort zum Beispiel nach 'Artikel' suchst, dann werden nur die Kategorien oder Artikel mit dem Namen "Artikel" ausgegeben, weil der Shop nur nach vollständigen Namen sucht. Wenn du allerdings
+!!! Info "Hinweis
+	 Wenn du dort zum Beispiel nach 'Artikel' suchst, dann werden nur die Kategorien oder Artikel mit dem Namen "Artikel" ausgegeben, weil der Shop nur nach vollständigen Namen sucht. Wenn du allerdings
 
 **\*Artikel\***
 

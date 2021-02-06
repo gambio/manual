@@ -18,7 +18,8 @@ Zudem kann festgelegt werden, ob ein so angezeigter Link um eine Checkbox ergän
 
 In der Grundkonfiguration werden die Allgemeinen Geschäftsbedinungen \(AGB\) im Bestellvorgang angezeigt und müssen bestätigt werden. Deaktiviere die Kontrollkästchen, wenn die AGB nicht angezeigt werden sollen. Zudem kann eingestellt werden, ob die AGB im PDF-Format als Anhang der Bestellbestätigung versendet werden sollen.
 
-**Note:** Deaktiviere das Kontrollkästchen im Bestellvorgang bestätigen, wenn du die Anzeige der AGB im Bestellvorgang deaktivierst. Eine Bestellung ist sonst nicht möglich.
+!!! Info "Hinweis
+	 Deaktiviere das Kontrollkästchen im Bestellvorgang bestätigen, wenn du die Anzeige der AGB im Bestellvorgang deaktivierst. Eine Bestellung ist sonst nicht möglich.
 
 ## Widerrufsrecht 
 
@@ -57,7 +58,8 @@ Wenn du den Haken im Bestellvorgang bestätigen setzt, wird die Einwilligung zu 
 
 Zudem wird für jede installierte Versandart ein Haken angezeigt. Setze den jeweiligen Haken, damit die Einwilligung bei Verwendung der entsprechenden Versandart angezeigt werden kann.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Der Hinweis wird nur angezeigt, wenn sowohl die Haken für im Bestellvorgang anzeigen als auch die jeweilige\(n\) Versandart\(en\) gesetzt sind.
 

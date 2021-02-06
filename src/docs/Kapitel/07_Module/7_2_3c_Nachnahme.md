@@ -21,7 +21,8 @@ Bei der Zahlung per Nachnahme bezahlt der Kunde die Ware direkt bei der Zustellu
 |Warenkorb Obergrenze|Maximaler Bestellbetrag, bis zu dem per Nachnahme bestellt werden kann|
 |Ausschließende Versandarten|Legt fest, bei welchen Versandarten Nachnahme nicht zur Verfügung steht|
 
-**Note:** Für die Zahlung per Nachnahme fällt beim zustellenden Unternehmen in der Regel eine Bearbeitungsgebühr an. Wie du die Nachnahmegebühr deinem Kunden in Rechnung stellst, erfährst du im Kapitel Zusammenfassung \> Gebühren.
+!!! Info "Hinweis
+	 Für die Zahlung per Nachnahme fällt beim zustellenden Unternehmen in der Regel eine Bearbeitungsgebühr an. Wie du die Nachnahmegebühr deinem Kunden in Rechnung stellst, erfährst du im Kapitel Zusammenfassung \> Gebühren.
 
 
 

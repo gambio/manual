@@ -29,7 +29,8 @@ Es werden dir nun nochmals die wichtigsten Einstellungen angezeigt. Stelle hierb
 
 ![](Bilder/Abb122_LibreOffice_CSVspeichernUnterZeichen_.png "Prüfen von Zeichensatz und Trennzeichen")
 
-**Note:** Um das Pipe-Symbol \| zu erhalten, drücke auf der Tastatur bitte gleichzeitig ALT GR und < \(Spitze Klammer, links neben dem Y\).
+!!! Info "Hinweis
+	 Um das Pipe-Symbol \| zu erhalten, drücke auf der Tastatur bitte gleichzeitig ALT GR und < \(Spitze Klammer, links neben dem Y\).
 
 
 

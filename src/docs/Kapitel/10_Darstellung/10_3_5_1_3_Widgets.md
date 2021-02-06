@@ -14,7 +14,8 @@ Von links nach rechts stehen im Editor folgende Einstellungen zur Verfügung:
 
 -   Paragraph/Heading: legt fest, ob die aktuell ausgewählte\(n\) Zeile\(n\) ein Absatz \(Paragraph\) oder eine Überschrift erster bis dritter Ordnung \(Heading 1 bis Heading 3\) ist bzw. sind.
 
-    **Note:**
+    !!! Info "Hinweis
+	
 
     Eine einzelne Zeile kann durch Setzen des Cursors ausgewählt werden. Mehrere Zeilen durch Markieren der Textstellen. Hierbei werden immer ganze Zeilen ausgewählt.
 
@@ -22,7 +23,8 @@ Von links nach rechts stehen im Editor folgende Einstellungen zur Verfügung:
 -   Italic \(kursiv\)
 -   Link \(es wird ein Eingabefenster für die Linkadresse angezeigt\)
 
-    **Note:**
+    !!! Info "Hinweis
+	
 
     Die Einstellungen Bold, Italic und Linkwirken sich nur auf markierte Textstellen aus.
 
@@ -51,7 +53,8 @@ Unter dem Editor wird die HTML ID ausgegeben. Sie wird zur eindeutigen Identifiz
 |Höhe|Höhe des Bildes in der eingestellten Einheit|
 |Bild responsive anpassen|soll das Bild responsiv dargestellt werden?|
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Durch Klick auf px, em oder % kann die jeweilige Größeneinheit eingestellt werden
 
@@ -60,7 +63,8 @@ Durch Klick auf px, em oder % kann die jeweilige Größeneinheit eingestellt wer
 |ID|HTML-ID des Widgets, zur Auszeichnung des Elements im Quellcode|
 |Klassen|HTML-Klasse des Widgets, zur Auszeichnung des Elements im Quellcode|
 
-**Note:**
+!!! Info "Hinweis
+	
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
@@ -87,15 +91,18 @@ IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 |Text unterstrichen|Überschrift wird unterstrichen dargestellt|
 |Text in Großbuchstaben|Überschrift wird in Großbuchstaben dargestellt|
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Aktiviere die Einstellung Schrift individuell anpassen, um Einstellungen vornehmen zu können
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Durch Klick auf px, em oder % kann die jeweilige Größeneinheit eingestellt werden
 
-**Note:**
+!!! Info "Hinweis
+	
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
@@ -113,7 +120,8 @@ Buttons sind Schaltflächen, die mit einem Link versehen werden können.
 |Klassen|HTML-Klasse der Schaltfläche|
 |ID|HTML-ID der Schaltfläche|
 
-**Note:**
+!!! Info "Hinweis
+	
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
@@ -146,11 +154,13 @@ Das Trennzeichen-Widget platziert eine horizontale Trennlinie.
 |Typ|Art der Trennlinie: solid \(duchgängig\), hidden \(unsichtbar\), dotted \(gepunktet\), dashed \(gestrichelt\), double \(doppelt\), groove \(gerillt\), ridge \(kammförmig\), inset \(eingefügt, hintergründig\), outset \(hervorgehoben, vordergründig\), initial \(Standardwert\), inherit \(Wert des übergeordneten Elements\)|
 |Farbe|Farbe der Trennlinie|
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Durch Klick auf px, em oder % kann die jeweilige Größeneinheit eingestellt werden
 
-**Note:**
+!!! Info "Hinweis
+	
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
@@ -162,7 +172,8 @@ IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
 Unter Allgemein können ID und Klasse der Artikelkachel festgelegt werden.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
@@ -176,7 +187,8 @@ Unter Produkt kann der Artikel für die Artikelkachel ausgewählt werden. Im Fel
 
 Unter Allgemein können ID und Klasse der Artikelliste festgelegt werden.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 

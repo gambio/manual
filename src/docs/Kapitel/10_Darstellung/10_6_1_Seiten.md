@@ -12,7 +12,8 @@ Um die möglichen Aktionen für einen Content anzuzeigen, bewege zunächst den M
 
 ![](Bilder/Abb182_ContentManager_EinstellungenFuerContent.PNG "Aktionen zu einem Content")
 
-**Note:** Bei vordefinierten Contents wird kein Löschen-Symbol angezeigt. Diese Contents können nicht entfernt werden, da der Shop diese benötigt.
+!!! Info "Hinweis
+	 Bei vordefinierten Contents wird kein Löschen-Symbol angezeigt. Diese Contents können nicht entfernt werden, da der Shop diese benötigt.
 
 **Vorschau aufrufen**
 
@@ -49,7 +50,8 @@ Bewege den Mauszeiger über das Pfeilsymbol des gewünschten Contents, klicke un
 -   Neue Verlinkung: der Content wird als Link auf eine andere Seite verwendet. Dies kann sowohl eine andere Seite des Shops als auch eine externe Webseite sein
 -   Neue Skriptdatei: der Content enthält z.B. eine HTML- oder TXT-Datei, welche als Inhalt verwendet wird
 
-**Note:** Es können aus Sicherheitsgründen keine Skriptdateien mit ausführbarem Programmcode über den Dateimanager hochgeladen werden.
+!!! Info "Hinweis
+	 Es können aus Sicherheitsgründen keine Skriptdateien mit ausführbarem Programmcode über den Dateimanager hochgeladen werden.
 
 ## Eingabemaske 
 
@@ -93,7 +95,8 @@ Die Eingabemaske, welche beim Anlegen oder Bearbeiten eines Contents angezeigt w
 |sichtbar|ist die Einstellung aktiviert \(Häkchen-Symbol vor blauem Hintergrund\) kann die Seite aufgerufen werden|
 |In neuem Fenster öffnen|ist der Haken gesetzt, wird der Link in einem neuen Tab bzw. neuem Fenster \(je nach Browser-Einstellung\) geöffnet, sinnvoll bei externen Seiten|
 
-**Note:** Ist ein Unterordner Bestandteil deiner Shop- Adresse, z.B.
+!!! Info "Hinweis
+	 Ist ein Unterordner Bestandteil deiner Shop- Adresse, z.B.
 
 www.beispiel.de/shop
 

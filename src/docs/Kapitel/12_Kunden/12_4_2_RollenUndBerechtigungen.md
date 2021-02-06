@@ -8,13 +8,15 @@ Im Bereich Admins verwalten werden alle Konten der Gruppe Admin angezeigt. Wenn 
 
 ![](Bilder/Abb241_RollenUndBerechtigungen.PNG "Bereich Admins verwalten")
 
-**Note:** Wird kein Bleistift-Symbol zu einen Admin-Konto angezeigt, handelt es sich um den Hauptadministrator. Dieser hat per Definition alle Rechte.
+!!! Info "Hinweis
+	 Wird kein Bleistift-Symbol zu einen Admin-Konto angezeigt, handelt es sich um den Hauptadministrator. Dieser hat per Definition alle Rechte.
 
 Ein Klick auf das Bleistift-Symbol ruft die Rollenzuweisung für den jeweiligen Administrator auf. Es werden die einzelnen Zugriffsrollen angezeigt. Wird ein Haken in der Spalte Rolle zuweisen gesetzt, wird die jeweilige Rolle dem Administrator-Konto zugeordnet.
 
 ![](Bilder/Abb242_RolleZuweisen.PNG "Rollenzuweisung für einen Administrator")
 
-**Note:** Standardmäßig ist nur die Rolle Super-Administrator angelegt. Weitere Rollen können über den Reiter Zugriffsrollen verwalten erstellt werden.
+!!! Info "Hinweis
+	 Standardmäßig ist nur die Rolle Super-Administrator angelegt. Weitere Rollen können über den Reiter Zugriffsrollen verwalten erstellt werden.
 
 ## Zugriffsrollen verwalten 
 

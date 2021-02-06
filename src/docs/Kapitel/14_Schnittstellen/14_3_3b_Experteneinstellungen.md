@@ -24,7 +24,8 @@ festgelegt werden. Wähle hierzu den jeweiligen Status über das Dropdown-Menü 
 
 und bestätige diese mit einem Klick auf Speichern. Wir empfehlen alle Zahlungsweisen extern darzustellen.
 
-**Note:** Bei den hier verwendeten Zahlungsweisen handelt es sich um die shopeigenen Zahlungsmodule. Diese werden nicht ersetzt, sondern lediglich optisch zusammengefasst.
+!!! Info "Hinweis
+	 Bei den hier verwendeten Zahlungsweisen handelt es sich um die shopeigenen Zahlungsmodule. Diese werden nicht ersetzt, sondern lediglich optisch zusammengefasst.
 
 ## Darstellung im Shop 
 
@@ -50,7 +51,8 @@ Wird das Zahlungsmodul im Klassik-Modus verwendet, sind für die Zahlungsoperati
 
 -   Order - entspricht dem Authorization-Betrieb, bis auf den Punkt dass beim Kunden der Zahlbetrag nicht fest vorgemerkt wird. Der Betrag wird erst in einem Folgeschritt fest reserviert und abgebucht.
 
-**Note:** Bei der Verwendung von PayPal Plus als Betriebsart wird immer Sale verwendet.
+!!! Info "Hinweis
+	 Bei der Verwendung von PayPal Plus als Betriebsart wird immer Sale verwendet.
 
 Über Login per ECS erlauben kann festgelegt werden, was geschieht wenn ein Kunde nach einer ECS-Zahlung \(„Direkt zu PayPal“\) in den Shop zurückkehrt. Ist der Kunde nicht in den Shop eingeloggt, besitzt aber ein Kundenkonto im Shop \(identifiziert anhand der E-Mail Adresse\) muss der Kunde im Regelfall sein Shopkennwort eingeben. Wird diese Option aktiv gesetzt, wird das Passwort im Shop nicht abgefragt, der Kunde wird direkt ins Shop-Kundenkonto eingeloggt.
 
@@ -96,7 +98,8 @@ möglich.
 
 Verwende die Buttons verwenden\[xx\] um ein Darstellungsprofil mit einer Shopsprache zu verknüpfen.
 
-**Note:** Für den fehlerfreien Betrieb muss mit jeder im Shop aktivierten Sprache ein Darstellungsprofil verknüpft sein. Damit die PayPal Zahlungsoptionen für Kunden immer in der richtigen Sprache angezeigt werden, empfiehlt es sich für jede im Shop aktivierte Sprache ein separates Profil anzulegen und passend zu konfigurieren.
+!!! Info "Hinweis
+	 Für den fehlerfreien Betrieb muss mit jeder im Shop aktivierten Sprache ein Darstellungsprofil verknüpft sein. Damit die PayPal Zahlungsoptionen für Kunden immer in der richtigen Sprache angezeigt werden, empfiehlt es sich für jede im Shop aktivierte Sprache ein separates Profil anzulegen und passend zu konfigurieren.
 
 
 

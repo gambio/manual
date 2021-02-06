@@ -39,7 +39,8 @@ Legt den Zeitraum fest, in dem die Texte automatisch aktualisiert werden sollen.
 
 Hier können die Dokumente manuell aktualisiert und zur Verwendung gekennzeichnet werden.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Es kann bei der Ersteinrichtung unter Umständen nötig sein, die Seitenart der jeweiligen Contents von Hand auf Skriptdatei umzustellen und die jeweilige Datei von Protected Shops über den Dateimanager auszuwählen.
 

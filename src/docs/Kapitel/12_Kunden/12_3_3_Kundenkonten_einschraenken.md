@@ -2,7 +2,8 @@
 
 Im Gambio Admin deines Shops unter Kunden \> Kunden kannst du für Kundenkonten einzelner Kunden die erlaubten Zahlungsweisen und Versandarten einschränken.
 
-**Note:** Wenn du die Kundenkonten mehrerer Kunden mit denselben Einschränkungen versehen möchtest, lege stattdessen eine neue Kundengruppe an, wie im Kapitel Kundengruppen beschrieben und weise die Kunden dieser Kundengruppe zu.
+!!! Info "Hinweis
+	 Wenn du die Kundenkonten mehrerer Kunden mit denselben Einschränkungen versehen möchtest, lege stattdessen eine neue Kundengruppe an, wie im Kapitel Kundengruppen beschrieben und weise die Kunden dieser Kundengruppe zu.
 
 1.  Wähle aus der Kundenliste das einzuschränkende Kundenkonto aus
 

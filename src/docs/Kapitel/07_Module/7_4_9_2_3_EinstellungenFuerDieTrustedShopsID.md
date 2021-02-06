@@ -14,7 +14,8 @@ Damit das Badge angezeigt werden kann, muss der Trust Badge Code eingefügt werd
 
 ![](Bilder/trusted_shops/TS-2016-12-14_006.png "Trust Badge Code einfügen")
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Alternativ kann der Trusted Badge Code auch unter dem folgenden Link generiert werden:
 

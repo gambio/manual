@@ -4,7 +4,8 @@ Auf der Registerkarte Vorschau kannst du eine Vorschau einer Rechnung oder eines
 
 ![](Bilder/Abb198_Rechnungsvorschau.png "Rechnungsvorschau")
 
-**Note:** Du kannst die Rechnungsvorschau nur generieren, wenn bereits mindestens eine Bestellung in deinem Shop eingegangen ist. Wenn du deinen Shop noch einrichtest, erstelle zunächst eine Testbestellung.
+!!! Info "Hinweis
+	 Du kannst die Rechnungsvorschau nur generieren, wenn bereits mindestens eine Bestellung in deinem Shop eingegangen ist. Wenn du deinen Shop noch einrichtest, erstelle zunächst eine Testbestellung.
 
 1.  Wähle aus der Liste Wählen eine Bestellung aus deinem Shop aus
 2.  Klicke auf Rechnung, um eine Vorschau für die Rechnung zu dieser Bestellung zu generieren

@@ -23,7 +23,8 @@ Folgende Einstellungen stehen auf der Konfigurationsseite zur Verfügung:
 |Erlaubter Bestellwert|Erlaubt das Festlegen eines maximalen Bestellwertes. Der Ratenkauf über easyCredit ist nur von einem Warenwert von 200 bis 10.000 Euro möglich, es ist daher wenig sinnvoll, einen geringeren Betrag als 200 Euro einzutragen.|
 |Bestellstatus festlegen|Hier kann der Bestellstatus gewählt werden, welchen eingehende Bestellungen über das easyCredit-Modul erhalten sollen.|
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Widget bezeichnet die Anzeige für easyCredit im Artikel bzw. Warenkorb.
 

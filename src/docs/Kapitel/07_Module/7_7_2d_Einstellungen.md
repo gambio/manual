@@ -9,7 +9,8 @@
 |Kunden benachrichtigen über Bestellstatusänderung|Wenn der Status automatisch geändert wurde, kann vom Shop auch automatisch eine Benachrichtigung darüber an den Kunden versendet werden.|
 |Tracking-Link-Vorlage|Als Tracking-Link-Vorlage sollte DHL eingestellt werden. Ausgewählt wird aus den Vorlagen, die unter Shop Einstellungen \> Paketdienste eingesehen und bearbeitet werden können. Die Vorlage wird um die Sendungsnummer des erstellten Labels ergänzt und bildet so den Link zur Sendungsverfolgung, der dem Kunden zugeschickt werden kann. Auch die Auswahl Sendungsverfolgung nicht verwenden ist möglich, wenn kein Tracking-Link angeboten werden soll.|
 
-**Note:** Würde als Tracking-Linkg-Vorlage z.B. Hermes ausgewählt, wird als Tracking-Link in der Bestellung ein Link zu Hermes mit der Sendungsnummer von DHL erstellt. Es sollte daher keine abweichende Vorlage eingestellt werden.
+!!! Info "Hinweis
+	 Würde als Tracking-Linkg-Vorlage z.B. Hermes ausgewählt, wird als Tracking-Link in der Bestellung ein Link zu Hermes mit der Sendungsnummer von DHL erstellt. Es sollte daher keine abweichende Vorlage eingestellt werden.
 
 |Feldname|Beschreibung|
 |--------|------------|

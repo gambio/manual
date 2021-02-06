@@ -13,7 +13,8 @@ zur Verfügung.
 
 Darunter befinden sich Checkboxen für Eigenschaften und Automatischer Export. Wird die Box Eigenschaften angehakt, können die dem Artikel zugeordneten Eigenschaften-Kombinationen mit exportiert werden.
 
-**Note:** Die Einstellungen zu den einzelnen Eigenschaften können im Reiter Spalten vorgenommen werden, wenn der Haken gesetzt ist. Dort erscheint dann die Spalte Eigenschaften. Details hierzu findest du im Abschnitt Spalten dieses Kapitels.
+!!! Info "Hinweis
+	 Die Einstellungen zu den einzelnen Eigenschaften können im Reiter Spalten vorgenommen werden, wenn der Haken gesetzt ist. Dort erscheint dann die Spalte Eigenschaften. Details hierzu findest du im Abschnitt Spalten dieses Kapitels.
 
 Ist der Haken für Automatischer Export gesetzt, erscheinen die Optionen zum Einrichten des automatischen Exports über einen sogenannten Cronjob. Es können wahlweise die verschiedenen Wochentage an- bzw. abgewählt werden, für die eine Startzeit \(jeweils zur vollen Stunde\) aus dem Dropdown-Menü ausgewählt werden kann oder es kann ein Intervall von einer bis 12 Stunden gewählt werden. Ein so eingestellter automatischer Export wird durch ein Uhr-Symbol in der Spalte Cronjob angezeigt.
 
@@ -33,7 +34,8 @@ Der Spalteninhalt entspricht einer Variable \(Platzhalter für Dateneintrag\) im
 
 Wenn Eigenschaften beim Export berücksichtigt werden, steht als letzter Eintrag die Spalte Eigenschaften zur Verfügung. Die einzelnen Eigenschaften können im Bereich Eigenschaftenauswahl durch Anklicken ausgewählt werden.
 
-**Note:** Wir empfehlen alle Eigenschaften und alle Kombinationsdaten zu exportieren.
+!!! Info "Hinweis
+	 Wir empfehlen alle Eigenschaften und alle Kombinationsdaten zu exportieren.
 
 ![](Bilder/Abb110_BearbeitenDerSpalteEigenschaften.png "Bearbeiten der Spalte Eigenschaften")
 
@@ -59,7 +61,8 @@ Die Kombinationen im Artikel werden über die Kombinationsdaten ausgewählt. Die
 
 Das untere Drittel dieses Fensters dient zur Vorschau der Export-Datei.
 
-**Note:** Diese Ansicht wird standardmäßig leer angezeigt. Es müssen zunächst die Kategorien im Reiter Kategorien ausgewählt werden, bevor hier eine Vorschau erfolgt.
+!!! Info "Hinweis
+	 Diese Ansicht wird standardmäßig leer angezeigt. Es müssen zunächst die Kategorien im Reiter Kategorien ausgewählt werden, bevor hier eine Vorschau erfolgt.
 
 ## Kategorien 
 

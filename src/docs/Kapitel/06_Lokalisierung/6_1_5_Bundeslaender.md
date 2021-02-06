@@ -4,7 +4,8 @@ Die Bundesländer für selbst angelegte Länder und voreingestellte Länder kann
 
 ![](Bilder/Abb051_ListeDerBundeslaender.PNG "Liste der Bundesländer")
 
-**Note:** Im Installationsumfang werden nur Bundesländer für europäische Länder und große Länder außerhalb Europas angelegt. Die politische Entwicklung kann nicht in jeder Shopversion berücksichtigt werden, vereinzelt können Bundesländer daher nicht mehr aktuell sein.
+!!! Info "Hinweis
+	 Im Installationsumfang werden nur Bundesländer für europäische Länder und große Länder außerhalb Europas angelegt. Die politische Entwicklung kann nicht in jeder Shopversion berücksichtigt werden, vereinzelt können Bundesländer daher nicht mehr aktuell sein.
 
 ## Bundesland hinzufügen 
 

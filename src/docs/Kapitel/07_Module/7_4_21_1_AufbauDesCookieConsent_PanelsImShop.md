@@ -9,7 +9,8 @@ In der Grundansicht informiert das Cookie Consent-Panel den Besucher allgemein �
 
 Über das Cookie-Preference-Center kann die Verwendung einzelner Cookies an- und abgewählt werden. Die Cookies sind hierbei unter ihren jeweiligen Kategorien aufgelistet, die sich aus- und einklappen lassen. Über das x gelangt der Besucher zurück zum allgemeinen Consent-Panel.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Die Cookies unter Notwendig, hierzu zählen Session Cookies und Cookie-Einstellungen, können standardmäßig nicht abgeschaltet werden, da sie zum Betrieb des Shops bzw. des Cookie Consent-Panels erforderlich sind. Für technisch absolut notwendige Cookies muss keine Zustimmung durch den Besucher erfolgen.
 
@@ -17,7 +18,8 @@ Die Cookies unter Notwendig, hierzu zählen Session Cookies und Cookie-Einstellu
 
 Über den Link Cookie Einstellungen in der ersten Spalte \(Mehr über\) des Footers kann jederzeit auf die Cookie Einstellungen zugegriffen und diese angepasst werden.
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Der Text des Links im Footer kann bei Bedarf über Toolbox \> Texte anpassen geändert werden.
 

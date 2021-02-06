@@ -23,7 +23,8 @@ CAUTION:
 
 Die Zahlungsweise steht im Bestellvorgang nur zur Verfügung, wenn Selbstabholung als Versandart installiert und vom Kunden ausgewählt worden ist.
 
-**Note:** Wenn du eine Zahlungsweise nicht mehr anbieten möchtest, kann diese auch durch Entfernen des Hakens Aktiviert aus dem Bestellvorgang entfernt werden.
+!!! Info "Hinweis
+	 Wenn du eine Zahlungsweise nicht mehr anbieten möchtest, kann diese auch durch Entfernen des Hakens Aktiviert aus dem Bestellvorgang entfernt werden.
 
 
 

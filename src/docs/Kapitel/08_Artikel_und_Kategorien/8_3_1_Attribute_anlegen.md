@@ -2,7 +2,8 @@
 
 Mit Artikelattributen kannst du Variationen deiner Artikel erstellen. Zu jedem Artikelattribut kannst du beliebig viele Optionswerte anlegen. Jedem Optionswert kann zusätzlich ein Attribut-Bild zugewiesen werden, das im Shopbereich unterhalb der Attributauswahl auf der Artikel-Detailseite angezeigt wird. Beachte, dass das Attribut-System nicht an das Imageprocessing angeschlossen ist und Attribut-Bilder daher unverändert angezeigt werden.
 
-**Note:** Um Artikelattribute verwenden zu können, muss das zugehörige Modul unter Module \> Modul-Center installiert sein.
+!!! Info "Hinweis
+	 Um Artikelattribute verwenden zu können, muss das zugehörige Modul unter Module \> Modul-Center installiert sein.
 
 ![](Bilder/Abb088_Artikelattribute.png "Artikelattribute")
 
@@ -18,7 +19,8 @@ Wähle in der Spalte Artikelmerkmal-Bezeichnung über das Dropdown-Menü das neu
 
 Wahlweise kann über Durchsuchen ein Bild für den jeweiligen Optionswert hinterlegt werden.
 
-**Note:** Es wird für alle Artikel, die das neu angelegte Attribut und den Optionswert verwenden, das selbe Bild angezeigt. Wenn verschiedene Bilder zu jedem Artikel angezeigt werden sollen, müssen hierfür Eigenschaften verwendet werden.
+!!! Info "Hinweis
+	 Es wird für alle Artikel, die das neu angelegte Attribut und den Optionswert verwenden, das selbe Bild angezeigt. Wenn verschiedene Bilder zu jedem Artikel angezeigt werden sollen, müssen hierfür Eigenschaften verwendet werden.
 
 Klicke auf Einfügen um den neuen Optionswert anzulegen. Wiederhole den Vorgang für alle Optionswerte des neuen Attributs.
 

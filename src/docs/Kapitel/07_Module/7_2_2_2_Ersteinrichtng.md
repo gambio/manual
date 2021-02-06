@@ -12,7 +12,8 @@ Du gelangst zum Dialog Erste Schritte. Gebe hier deine E-Mail-Adresse an und wä
 
 ## Einrichten eines PayPal-Geschäftskontos 
 
-**Note:**
+!!! Info "Hinweis
+	
 
 Die nachfolgenden Schritte sind nur notwendig, wenn du noch kein PayPal-Geschäftskonto besitzt. Fahre ansonsten mit den Schritten unter Anmeldung mit einem bestehenden PayPal-Geschäftskonto fort.
 

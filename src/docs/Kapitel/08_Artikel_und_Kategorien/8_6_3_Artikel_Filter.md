@@ -27,7 +27,8 @@ Unter der Überschrift AND kannst du die Einstellung gesetzt lassen, wenn du fü
 
 Nimmst du die Einstellung heraus, so besteht in dem Filter eine Oder-Verknüpfung. Es werden also bei einer Mehrfachauswahl diejenigen Artikel angezeigt, die entweder das eine Merkmal oder das andere Merkmal aufweisen. Unter Sort kannst du \(auf oben beschriebene Weise\) die Reihenfolge einstellen und unter Vorlage wählst du die Darstellungsart des Filters aus. Checkboxes und Multiselect ermöglichen dem Käufer eine Mehrfachauswahl der Filterwerte – deswegen solltest du hier besonders darauf achten, ob du eine Und- oder Oder-Verknüpfung einstellst, also ob du die Einstellung unter AND setzt oder nicht. Beim Dropdown-Menü kann nur jeweils ein Wert ausgewählt werden. Die Linklist ermöglicht dem User per Klick auf den einzelnen Wert ein direktes Springen zu der Übersicht der Artikel, die seiner Suche entsprechen.
 
-**Note:** In der linken Spalte befinden sich unter den Filtern noch zwei Felder, in denen sich als weitere Filteroption eine Preisspanne eingeben lässt. Diese Felder brauchst du nicht manuell zu aktivieren, da sie deinen Filtern \(sofern du welche angelegt hast\) automatisch hinzugefügt werden.
+!!! Info "Hinweis
+	 In der linken Spalte befinden sich unter den Filtern noch zwei Felder, in denen sich als weitere Filteroption eine Preisspanne eingeben lässt. Diese Felder brauchst du nicht manuell zu aktivieren, da sie deinen Filtern \(sofern du welche angelegt hast\) automatisch hinzugefügt werden.
 
 ## Filterauswahl Startseite 
 
@@ -52,7 +53,8 @@ Klicke unter Filterauswahl auf Hinzufügen. Es öffnet sich ein neues Fenster, i
 
 Ein bestehendes Filter-Set kann mit Klick auf Bearbeiten \(Bleistift-Symbol\) geändert werden. Über Klick auf Löschen \(Mülleimer\) kann ein Filter-Set wieder aus dem Artikel entfernt werden. Das betroffene Set und dessen Filterwert\(e\) werden in einem Abfrage-Dialog angezeigt, mit dem das Löschen bestätigt werden muss.
 
-**Note:** Filter und die ausgewählten Filter-Werte gehören nur zu einem Filter-Set, wenn diese zusammen in einer waagerechten Box angeordnet sind. Untereinander angeordnete Filter-Auswahlen stehen in keiner Beziehung zueinander.
+!!! Info "Hinweis
+	 Filter und die ausgewählten Filter-Werte gehören nur zu einem Filter-Set, wenn diese zusammen in einer waagerechten Box angeordnet sind. Untereinander angeordnete Filter-Auswahlen stehen in keiner Beziehung zueinander.
 
 
 

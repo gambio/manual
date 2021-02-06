@@ -2,7 +2,8 @@
 
 Setze einen Haken, um die jeweilige Seite in die Sitemap bzw. Robots-Datei aufnehmen zu lassen. Entfernst du den Haken, wird der Eintrag aus der jeweiligen Datei entfernt.
 
-**Note:** Nachdem eine Änderung vorgenommen worden ist, muss die Sitemap bzw. Robots- Datei neu erzeugt werden, damit diese wirksam wird \(siehe Kapitel Sitemap bzw. Robots- Datei\).
+!!! Info "Hinweis
+	 Nachdem eine Änderung vorgenommen worden ist, muss die Sitemap bzw. Robots- Datei neu erzeugt werden, damit diese wirksam wird \(siehe Kapitel Sitemap bzw. Robots- Datei\).
 
 CAUTION:
 
