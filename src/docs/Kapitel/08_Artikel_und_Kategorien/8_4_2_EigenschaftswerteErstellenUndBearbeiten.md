@@ -42,7 +42,7 @@
 
 ## Eigenschaftswert löschen 
 
-![](Bilder/ArtikelEigenschaften_EigenschaftswertLoeschen.png "Löschen-Icon des Eigenschaftswerts _**Schwarz**_
+![](Bilder/ArtikelEigenschaften_EigenschaftswertLoeschen.png "Löschen_
         der Eigenschaft _**Farbe**_")
 
 Über das Mülltonnen-Symbol kann ein bestehender Eigenschaftswert gelöscht werden. Es erfolgt eine Sicherheitsabfrage, in der das Löschen bestätigt werden muss.

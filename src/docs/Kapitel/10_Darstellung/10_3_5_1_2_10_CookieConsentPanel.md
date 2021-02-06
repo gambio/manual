@@ -24,7 +24,7 @@
                   aktivieren")
 
 |
-|Box Shadow|Schattenverlauf des Panels, vorbelegt mit 0 -8px 20px 0 rgba\(0,0,0,.2\)**Note:**
+|Box Shadow|Schattenverlauf des Panels, vorbelegt mit 0 
 
 Diese Zeile verwendet CSS-Code als Eingabe. Beispiele und Erklärungen findest du z.B. auf den Seiten von selfhtml:
 

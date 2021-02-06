@@ -5,9 +5,9 @@ Ist das Modul installiert, kann es unter Module \> Modul-Center konfiguriert wer
 ![](Bilder/dhl_paketshops/dhl_paketshops_konfiguration.png "Konfiguration des Moduls DHL
       Paketshops")
 
--   **[Zugangsdaten für Kartendarstellung per Google Maps \(optional\)](7_4_5_2_1_ZugangsdatenFuerKartendarstellungPerGoogleMaps.md)**  
+  
 
--   **[Ergebnisliste](7_4_5_2_2_Ergebnisliste.md)**  
+  
 
 
 

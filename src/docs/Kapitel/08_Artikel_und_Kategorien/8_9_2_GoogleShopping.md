@@ -23,11 +23,11 @@ Die möglichen Aktionen, für bereits angelegte Profile, sind von links nach rec
 -   löschen: löscht ein angelegtes Export-Profil
 -   duplizieren: kopiert ein bestehendes Export-Profil
 
--   **[Einstellungen](8_9_2a_Einstellungen.md)**  
+  
 
--   **[Artikeldaten](8_9_2b_Artikeldaten.md)**  
+  
 
--   **[Kategorien](8_9_2c_Kategorien.md)**  
+  
 
 
 

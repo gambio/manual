@@ -10,7 +10,7 @@ Es ist über den Artikelexport zwar möglich beliebige Spalten mit eigenen Namen
 
 Um einen erfolgreichen Import durchführen zu können, sind die Spalten XTSOL sowie entweder p\_id oder p\_model als Pflichtangabe notwendig.
 
-Wir empfehlen als Trennzeichen **\|** \(Pipe-Symbol/senkrechter Strich, erreichbar über ALT GR und <\) und Texterkennungszeichen/Texttrenner **"** \(doppeltes Anführungszeichen\) zu verwenden, wie in der Import-Maske voreingestellt.
+Wir empfehlen als Trennzeichen **\|** \(Pipe \(doppeltes Anführungszeichen\) zu verwenden, wie in der Import-Maske voreingestellt.
 
 Exporte und Importe sind auf die Dateiformate .csv bzw. .txt beschränkt. Hierbei muss immer der Zeichensatz UTF-8 ohne BOM \(BOM steht für Byte Order Mark\) verwendet werden. Der Einsatz anderer Zeichencodierungen kann zu Problemen beim Import oder fehlerhaften Einträgen in der Datenbank führen.
 
@@ -18,19 +18,19 @@ Exporte und Importe sind auf die Dateiformate .csv bzw. .txt beschränkt. Hierbe
 
 CAUTION:
 
-Wenn du in deiner Import-Datei die Spalten gm\_min\_order oder gm\_graduated\_qty verwendest, müssen hier jeweils Werte **größer als 0** eingetragen werden.
+Wenn du in deiner Import eingetragen werden.
 
 Um eine CSV-Datei aufzubereiten, empfehlen wir diese mit einem Tabellenkalkulationsprogramm zu bearbeiten, bei dem es möglich ist sowohl das Trennzeichen als auch das Texterkennungszeichen bereits beim Öffnen der Datei festzulegen. Hierzu eignet sich z.B. die Tabellenkalkulation Calc aus dem quelloffenen und kostenlosen Office-Paket LibreOffice.
 
 Wenn beide Zeichen korrekt eingetragen worden sind, wird die CSV-Datei in einer Tabellenform dargestellt, die sich relativ komfortabel bearbeiten lässt.
 
--   **[Aufbau des Import-Profils](8_8_2a_Aufbau_des_Import_Profils.md)**  
+  
 
--   **[Ergänzung des Import-Profils um Eigenschaften-Kombinationen](8_8_2b_ErgaenzungDesImport_ProfilsUmEigenschaften_Kombinationen.md)**  
+  
 
--   **[Datei mit Tabellenkalkulation bearbeiten](8_8_2c_Datei_mit_Tabellenkalkulation_bearbeiten.md)**  
+  
 
--   **[Import durchführen](8_8_2d_Import_durchfuehren.md)**  
+  
 
 
 

@@ -8,7 +8,7 @@ Folgende Einstellungen stehen auf der Konfigurationsseite zur Verfügung:
 |--------|------------|
 |Aktiviert|Ist der Haken gesetzt, wird das Modul im Bestellvorgang verwendet.|
 |Kürzel für Bestellübersicht|Hier kann ein Kürzel angegeben werden, welches in der Bestellübersicht in der Auflistung angezeigt wird, um Bestellungen über dieses Modul zu kennzeichnen.|
-|Webshop-Kennung|Die Kennung erhältst du von easyCredit. Die Kennung hat das Format **1.de.1111.1**, dies schlüsselt sich wie folgt auf:-   1. Stelle = Hier stehen eine 1 oder eine 2
+|Webshop, dies schlüsselt sich wie folgt auf:-   1. Stelle = Hier stehen eine 1 oder eine 2
 -   2. Stelle = Hier steht ein Sprach- oder Länderkürzel, z.B. de
 -   3. Stelle = Besteht aus einer 4-stelligen, rein numerischen Zeichenfolge
 -   4. Stelle = Besteht aus einer einzelnen Ziffer

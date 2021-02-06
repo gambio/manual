@@ -10,9 +10,9 @@ Installiere das Modul Rabatt Kupons unter Module \> Zusammenfassung, damit Rabat
 
 **Note:** Wenn der Warenwert geringer ist, als der Kupon-Wert, so entfällt der Restwert des Rabatt Kupons nach der Bestellung.
 
--   **[Willkommens-Rabatt Kupon](11_2_1_Willkommens_Rabatt_Kupon.md)**  
+  
 
--   **[Neuen Rabatt Kupon anlegen](11_2_2_Neuen_Rabatt_Kupon_anlegen.md)**  
+  
 
 
 

@@ -1,6 +1,6 @@
 # Gambio SEO Boost aktivieren 
 
-Verbinde dein FTP-Programm mit deinem FTP-Server. Wechsele in das Hauptverzeichnis deines Shops und stelle sicher, dass sich dort die Datei .htaccess befindet. Ist dies nicht der Fall, lade bitte die Datei .htaccess aus dem Instalaltionspaket deiner Shopsoftware in das Hauptverzeichnis deines Shops. Du findest die Datei im **Installationspaket** unter /Shopsystem/Dateien/
+Verbinde dein FTP unter /Shopsystem/Dateien/
 
 **Note:** Wenn dir die .htaccess-Datei nicht angezeigt wird, ist dein FTP-Programm gegebenenfalls so konfiguriert, dass unsichtbare Dateien ausgeblendet werden. Wie du die Funktion deaktivieren kannst, erfährst du beim Hersteller deines FTP-Programms. Wenn die Datei auch mit der aktivierten Darstellung unsichtbarer Dateien nicht angezeigt werden kann, lade die Datei aus dem entsprechenden Verzeichnis von der Installations-CD oder dem Installation-Archiv in das Hauptverzeichnis deines Shops auf deinen FTP-Server hoch.
 

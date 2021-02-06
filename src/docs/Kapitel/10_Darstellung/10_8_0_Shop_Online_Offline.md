@@ -10,11 +10,11 @@ Hier besteht die Gefahr einer Abmahnung, ein einfacher Hinweis wie Dieser Shop i
 
 Zudem hast du über die sogenannte Urlaubsschaltung die Möglichkeit ebenfalls eine Benachrichtigung einzublenden, ohne den Shop offline zu schalten. Bestellungen sind so weiterhin möglich, die Kunden können aber durch eine Textmitteilung z.B. darüber informiert werden, dass sich die Bearbeitung von Bestellungen verzögern kann.
 
--   **[Shopstatus](10_8_1_Shopstatus.md)**  
+  
 
--   **[Urlaubsschaltung](10_8_2_Urlaubsschaltung.md)**  
+  
 
--   **[Zeitgesteuerter Statuswechsel](10_8_3_Zeitgesteuerter_Statuswechsel.md)**  
+  
 
 
 

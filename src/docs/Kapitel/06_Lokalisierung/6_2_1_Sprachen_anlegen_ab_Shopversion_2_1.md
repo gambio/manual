@@ -16,7 +16,7 @@ Verwende die Einstellung vorhandene Sprache kopieren, um z.B. Artikel- und Kateg
 
 Wenn die Sprache mit der Einstellung neue Sprache anlegen festgelegt wurde, müssen ggf. die einzelnen Kategorien unter Artikel \> Artikel/Kategorien bearbeitet und neu gespeichert werden, bevor diese aufgerufen werden können.
 
-Gib unter Name den Namen der Sprache ein \(Beispiel: Spanisch\). Bei Codierung gibst du den zweistelligen ISO-Code für deine Sprache ein \(Beispiel für Spanisch: es\). Gib bei Charset utf-8 ein. Gib bei Verzeichnis den Namen des hochzuladenen Verzeichnisses auf deinem FTP-Server an \(Beispiel: spanish\). **Achte bei diesen beiden Eingaben bitte auf die genaue Schreibweise!**
+Gib unter Name den Namen der Sprache ein \(Beispiel: Spanisch\). Bei Codierung gibst du den zweistelligen ISO
 
 ![](Bilder/Abb053_neueSpracheHinzufuegen.png "Neue Sprache hinzufügen")
 

@@ -33,11 +33,11 @@ Die Grundeinstellungen, die vor dem ersten Export mit einem neuen Profil vorgeno
 
 Eine genaue Beschreibung der möglichen Einstellungen findest du in den nachfolgenden Abschnitten.
 
--   **[CSV-Artikelexport](8_8_1a_CSV_Artikel_Export.md)**  
+  
 
--   **[Preis-Portal](8_8_1c_Preis_Portal.md)**  
+  
 
--   **[Vorbereiten und Durchführen eines CSV-Exports](8_8_1d_ExportVorbereitenDurchfuehren.md)**  
+  
 
 
 

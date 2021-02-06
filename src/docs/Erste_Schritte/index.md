@@ -72,7 +72,7 @@ Sofern dein Server es zulässt, empfehlen wir, die Gambio SEO Boost URLs zu verw
 ## SSL im Shop aktivieren 
 
 !!! Warning "Achtung!"
-    Dieser Schritt darf erst dann durchgeführt werden, wenn für deine Shop-Domain ein SSL-Zertifikat eingerichtet ist. Nimmst du die Änderungen vor, bevor dein Hoster die Einrichtung abgeschlossen hat, ist dein Shop im schlimmsten Fall **nicht mehr erreichbar**.
+    Dieser Schritt darf erst dann durchgeführt werden, wenn für deine Shop.
 
 Um den gesamten Shop über HTTPS lauffähig zu machen, ohne dabei eine permanente Weiterleitung der Domain von HTTP auf HTTPS zu verwenden, musst du folgende Änderungen vornehmen.
 

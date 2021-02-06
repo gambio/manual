@@ -4,7 +4,7 @@ Zuallererst sollten die Rechtstexte zum Widerrufsrecht hinterlegt werden. Dies g
 
 CAUTION:
 
-Der Content Widerrufsrecht & Muster-Widerrufsformular dient nur zum Zusammenführen der Texte unter Widerrufsrecht 1 bis Widerrufsrecht 4. Bitte trage **keine Texte** unter Widerrufsrecht & Muster-Widerrufsformular ein, da diese hier **nicht** vorgesehen sind!
+Der Content Widerrufsrecht & Muster vorgesehen sind!
 
 Um deine Texte für das Widerrufsrecht zu hinterlegen, klicke bitte bei einem der Contents Widerrufsrecht 1 bis Widerrufsrecht 4 \(ID 3889896 bis 3889899\) auf Bearbeiten. Nun kann die jeweilige Widerrufsbelehrung in das Textfeld eingefügt werden. Wenn du die Texte über einen externen Anbieter, wie z.B. Janolaw, beziehst, kann die zugehörige Datei über Datei wählen eingebunden werden, nachdem die Elementart auf Skriptdatei umgestellt worden ist. Abschließend setze bitte den Haken bei sichtbar. Nur wenn der Content sichtbar geschaltet ist, wird er auch angezeigt und verwendet.
 

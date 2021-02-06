@@ -16,23 +16,23 @@ Um eine Zahlungsweise zu verwenden, bewege den Mauszeiger in die jeweilige Zeile
 
 **Note:** Wenn noch keine Anmeldung am Gambio Hub vorgenommen worden ist, wird an dieser Stelle die Registrierungseite angezeigt.
 
--   **[SOFORT Überweisung \(SofortHub\)](7_2_1b_SOFORT_Ueberweisung_SofortHub.md)**  
+  
 
--   **[Barzahlung \(CashHub\)](7_2_1c_Barzahlung_CashHub.md)**  
+  
 
--   **[Rechnung \(InvoiceHub\)](7_2_1d_Rechnung_InvoiceHub.md)**  
+  
 
--   **[Nachnahme \(CashOnDeliveryHub\)](7_2_1e_Nachnahme_CashOnDeliveryHub.md)**  
+  
 
--   **[Vorkasse \(Überweisung\) \(MoneyOrderHub\)](7_2_1f_Vorkasse_Ueberweisung_MoneyOrderHub.md)**  
+  
 
--   **[GiroConnect](7_2_3_GiroConnect.md)**  
+  
 
--   **[PayPal und PayPal PLUS per Gambio Hub](7_2_2_PayPal2Hub.md)**  
+  
 
--   **[Gambio secured Payments - powered by Klarna](7_2_2_GambioSecuredPayments_poweredByKlarna.md)**  
+  
 
--   **[easyCredit](7_2_2c_easycredit.md)**  
+  
 
 
 

@@ -15,11 +15,11 @@ Statische Seiten bezeichnet Teiles des Shops, die mit vordefiniertem Inhalt gef�
 |newsletter.php|Newsletter-Anmeldung|![](Bilder/Icons/uncheckBig.PNG)|![](Bilder/Icons/checkBig.PNG)|
 |index.php|Startseite \(direkter Aufruf der zugehörigen PHP-Datei\)|![](Bilder/Icons/uncheckBig.PNG)|![](Bilder/Icons/uncheckBig.PNG)|
 
--   **[Seiten in Sitemap und Robots-Datei aufnehmen](5_5_1_SeitenInSitemapUndRobots_DateiAufnehmen.md)**  
+  
 
--   **[Meta-Informationen für statische Seiten bearbeiten](5_5_2_Meta_InformationenFuerStatischeSeitenBearbeiten.md)**  
+  
 
--   **[Statische Seite erstellen](5_5_3_StatischeSeiteErstellen.md)**  
+  
 
 
 

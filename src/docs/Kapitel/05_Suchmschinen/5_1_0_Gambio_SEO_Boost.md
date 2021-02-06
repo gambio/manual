@@ -6,7 +6,7 @@ CAUTION:
 
 Gambio SEO Boost kann nur auf Servern verwendet werden, die mod\_rewrite unterstützen. Wenn du Gambio SEO Boost auf einem Server ohne mod\_rewrite aktivierst, ist dein Onlineshop nicht mehr aufrufbar!
 
--   **[Gambio SEO Boost aktivieren](5_1_1_Gambio_SEO_Boost_aktivieren.md)**  
+  
 
 
 

@@ -29,12 +29,12 @@
 |Kupon Code|Code, der zum Einlösen des Kupons eingegeben werden muss; wird automatisch erzeugt, wenn kein Code eingegeben wird|
 |Anzahl/Verwendungen pro Kupon|legt fest, wie oft der Kupon eingelöst werden kann; lasse das Feld leer, wenn der Kupon beliebig oft eingelöst werden können soll|
 |Anzahl/Verwendungen pro Kunde|legt fest, wie oft der Kupon von jedem Kunden eingelöst werden kann; lasse das Feld leer, wenn der Kupon von jedem Kunden beliebig oft eingelöst werden können soll \[1\]|
-|Liste der gültigen Artikel|kommagetrennte Liste von internen Artikel-IDs, auf die der Kupon eingeschränkt wird**Note:**
+|Liste der gültigen Artikel|kommagetrennte Liste von internen Artikel
 
 Eine Liste der zugehörigen IDs kann über den Link Anzeigen aufgerufen werden. Sie öffnet sich in einem neuen Browser-Fenster.
 
 |
-|Liste der gültigen Kategorien|kommagetrennte Liste von internen Kategorie-IDs, auf die der Kupon eingeschränkt wird**Note:**
+|Liste der gültigen Kategorien|kommagetrennte Liste von internen Kategorie
 
 Eine Liste der zugehörigen IDs kann über den Link Anzeigen aufgerufen werden. Sie öffnet sich in einem neuen Browser-Fenster.
 

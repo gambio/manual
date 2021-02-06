@@ -20,7 +20,7 @@ Das Zuweisen der Eigenschaftswerte zu einem Artikel kann manuell oder automatisc
 
 Das automatische Ermitteln der Kombinationen ist die einfachste Möglichkeit.
 
-Setze die Haken für die Eigenschaften, die du kombinieren möchtest. Bei Bedarf kannst du auch über das Plus-Zeichen die jeweilige Eigenschaft aufklappen und einzelne Eigenschaftswerte für die Kombination auswählen. Klicke auf _**Kombinationen automatisch ermitteln**_. Überzählige Kombinationen - also Varianten eines Artikels, die du nicht anbieten möchtest - können auch nachträglich wieder gelöscht werden.
+Setze die Haken für die Eigenschaften, die du kombinieren möchtest. Bei Bedarf kannst du auch über das Plus_. Überzählige Kombinationen - also Varianten eines Artikels, die du nicht anbieten möchtest - können auch nachträglich wieder gelöscht werden.
 
 ## Kombinationen manuell erstellen 
 
@@ -48,7 +48,7 @@ Es wird der Dialog zum Anlegen einer neuen Kombination angezeigt. Neben je einem
 |Preis|Kombinationsfestpreis der Kombination / Variante|
 |VPE|Verpackungseinheit der Kombination / Variante|
 |Lieferzeit|Lieferstatus der Kombination / Variante|
-|Bild|Bild-Kollektion der Kombination / Variante \(siehe Kapitel _**Kollektionen**_\)|
+|Bild|Bild_\)|
 
 Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Eintragungen vor. Bestätige die Eingaben mit _**Speichern**_ bzw. _**Speichern & Schließen**_. Über _**Abbrechen**_ kannst du den Dialog wieder verlassen, ohne die Kombination anzulegen.
 

@@ -65,7 +65,7 @@ Die Anzeige als Lightbox steht ggf. nicht in allen Templates oder Themes zur Ver
 |Pinterest-Button auf Detailseite aktivieren|Aktivieren des Pinterest-Buttons auf der Artikeldetailseite|
 |Bildergalerie als Lightbox einbinden|Die Bildergalerie wird als Lightbox angezeigt|
 |Bildergalerie aktivieren|Aktiviert die Bildergalerie auf der Artikeldetailseite \(standardmäßig aktiviert\).|
-|"Datenblatt drucken"-Link auf Detailseite aktivieren|Zeigt den Link zum Drucken des Datenblatts auf der Detailseite an.**Note:**
+|"Datenblatt drucken"
 
 Die Funktion Datenblatt drucken steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
@@ -76,7 +76,7 @@ Die Funktion Datenblatt drucken steht ggf. nicht in allen Templates oder Themes 
 |Reverse Cross Marketing|maximale Anzahl der Reverse Cross Marketing Artikel, die in der Box Dieses Produkt ist z.B. kompatibel zu in der Artikeldetailansicht angezeigt werden sollen|
 |Ebenfalls gekauft|Minimum Anzahl der ebenfalls gekauften Artikel, die bei der Artikelansicht angezeigt werden sollen.|
 |Kunden E-Mail-Adresse als Absender des "Frage zum Produkt"-Modul verwenden|Setzt die E-Mail-Adresse des Kunden als Absender ein, anstelle des in den E-Mail-Optionen eingestellten Absenders.|
-|Reverse Cross-Marketing|Das Reverse Cross-Marketing ist eine Zusatzfunktion zum Cross Selling \(siehe Kapitel Cross Selling\), über das zu einem ausgewählten Artikel weitere Artikel empfohlen werden können. Ist das Reverse Cross-Marketing aktiviert, findet eine Rückverknüpfung von dem empfohlenen Artikel zum ursprünglichen Artikel statt. **Note:**
+|Reverse Cross
 
 Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Auslastung deines Server erhöhen. Bitte prüfe nach der Aktivierung, ob sich der Shop beim Aufruf der Artikel spürbar verlangsamt hat. Ist dies der Fall, sollte das Reverse Cross-Marketing nach Möglichkeit nicht verwendet werden.
 
@@ -113,7 +113,7 @@ Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Au
 |Kategorietiefe bis zu der die vertikale Navigation immer aufgeklappt angezeigt wird|Wie viele Ebenen des linken Kategoriemenüs sollen standardmäßig aufgeklappt sein?|
 |Maximale Kategorietiefe bis zu der die vertikale Navigation aufgeklappt werden kann|Bis zu dieser Tiefe lassen sich Kategorien aufklappen|
 |Vertikale Kategorie-Navigation in der Sidebar anzeigen \(ohne Untermenüs\)|Kategorie-Anzeige in der linken Spalte wird verwendet|
-|Kategorie Icon|Aktiviert das Kategorie-Icon.**Note:**
+|Kategorie Icon|Aktiviert das Kategorie
 
 Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 

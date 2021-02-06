@@ -7,7 +7,7 @@ Viele Einstellungen über das StyleEdit v3 definieren die Anzahl sogenannter Gri
 
 In der obenstehenden Abbildung werden 3 von 12 Grid-Spalten für die linke Spalte verwendet, in der z.B. die Zusatzboxen untergebracht sind. Die 9 verbleibenden Grid-Spalten \(in der Abbildung nicht eingezeichnet\) werden für die anderen Shop-Inhalte verwendet.
 
-Wichtig bei der Einstellung ist, dass die Gesamtzahl der Grid-Spalten für alle Einstellungen in der **Summe** immer **12** ergeben müssen - dies entspricht 100% der Breite.
+Wichtig bei der Einstellung ist, dass die Gesamtzahl der Grid ergeben müssen - dies entspricht 100% der Breite.
 
 
 

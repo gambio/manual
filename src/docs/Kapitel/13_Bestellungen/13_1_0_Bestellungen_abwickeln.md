@@ -24,11 +24,11 @@ Die Detailseite zu einer Bestellung enthält zusätzliche Informationen, wie die
 
 **Note:** Die Detailseite einer Bestellung enthält alle für die Bestellabwicklung nötigen Funktionen. Wesentliche Funktionen sind zum schnellen Zugriff auch in der Bestellübersicht vorhanden.
 
--   **[Bestellstatus](13_1_1_Bestellstatus.md)**  
+  
 
--   **[Bestellbestätigung](13_1_2_Bestellbestaetigung.md)**  
+  
 
--   **[Rechnung & Lieferschein](13_1_3_Rechnung_UND_Lieferschein.md)**  
+  
 
 
 

@@ -6,9 +6,9 @@ Der Bereich Zahlungsweisen teilt sich in dasGambio Payment Hub und Sonstige auf.
 
 **Note:** Für die Schnittstellenmodule der Zahlungsdienstleister benötigst du ein Konto beim jeweiligen Zahlungsdienstleister.
 
--   **[Gambio Payment Hub](7_2_1_GambioPaymentHub.md)**  
+  
 
--   **[Sonstige](7_2_3_Sonstige.md)**  
+  
 
 
 

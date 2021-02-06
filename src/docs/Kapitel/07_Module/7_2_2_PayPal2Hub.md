@@ -1,10 +1,10 @@
 # PayPal und PayPal PLUS per Gambio Hub 
 
--   **[Installation](7_2_2_1_Installation.md)**  
+  
 
--   **[Ersteinrichtung](7_2_2_2_Ersteinrichtng.md)**  
+  
 
--   **[Weitere Einstellungen](7_2_2_3_WeitereEinstellungen.md)**  
+  
 
 
 

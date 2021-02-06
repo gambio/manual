@@ -8,11 +8,11 @@ Auf diese Weise ist es nicht notwendig den HTML-Code direkt einzugeben, der für
 
 **Note:** Der CK-Editor ist eine Komponente eines externen Anbieters und wird daher nur in einfachen Grundzügen beschrieben. Eine ausführliche Dokumentation erhältst du unter http://ckeditor.com/
 
--   **[Funktionsübersicht](3_4_1_Funktionsuebersicht.md)**  
+  
 
--   **[Bilder einbinden](3_4_2_Bilder_einbinden.md)**  
+  
 
--   **[Link einfügen/editieren](3_4_3_Link_einfuegen_editieren.md)**  
+  
 
 
 

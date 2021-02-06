@@ -17,7 +17,7 @@
 |Feldname|Beschreibung|
 |--------|------------|
 |USt-IdNr. des Shopbetreibers|Die USt-IdNr. des Shopbetreibers|
-|USt-IdNr. überprüfen|Die USt-IdNr. auf Plausibilität überprüfen?**Note:**
+|USt
 
 Die USt-IdNr. wird lediglich auf Plausibilität geprüft. Eine genauere Live-Überprüfung auf Plausibilität ist über die untenstehende Einstellung möglich.
 

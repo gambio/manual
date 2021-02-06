@@ -8,7 +8,7 @@ CAUTION:
 
 Bei der Verwendung von PayPal und PayPal Plus v3.x können deine bisherigen Zugangsdaten für vorangegangene PayPal-Module nicht übernommen werden, es muss ein neuer Zugang generiert werden.
 
-Logge dich mit deinen Login-Zugangsdaten auf **https://developer.paypal.com** ein.
+Logge dich mit deinen Login ein.
 
 Scrolle hinunter zu REST API apps und erstelle dort eine neue App per Create App Schaltfläche. Den nun abgefragten Namen für die App kannst du frei vergeben, er dient deiner eigenen Identifikation, falls mehrere Shops, etc. an das PayPal Konto angebunden werden sollen. Unter Sandbox Developer Account wählst du deinen im vorherigen Schritt angelegten Sandbox Account. Bleibt diese Auswahl leer, erfüllt der Sandbox Account nicht alle Anforderungen.
 

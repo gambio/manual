@@ -4,11 +4,11 @@
 
 ![](Bilder/BestellungenDropdown_Anzeigen.png "Dropdown-Schaltfläche")
 
--   **[Kundendaten ändern](13_3_1_Kundendaten_aendern.md)**  
+  
 
--   **[Artikel ändern](13_3_2_Artikel_aendern.md)**  
+  
 
--   **[Bestellsummen neu erzeugen](13_3_3_Bestellsummen_neu_erzeugen.md)**  
+  
 
 
 

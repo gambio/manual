@@ -8,11 +8,11 @@ Im Bereich Darstellung des Gambio Admins findest du den Eintrag Content Manager,
 
 ![](Bilder/Abb181_ContentManager.PNG "Content Manager mit geöffnetem Reiter Seiten")
 
--   **[Seiten](10_6_1_Seiten.md)**  
+  
 
--   **[Elemente](10_6_2_Elemente.md)**  
+  
 
--   **[Artikelinhalte](10_6_3_Artikelinhalte.md)**  
+  
 
 
 

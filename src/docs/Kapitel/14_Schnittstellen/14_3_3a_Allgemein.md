@@ -6,7 +6,7 @@ PayPal 3 wird weitestmöglich vorkonfiguriert. Für die Ersteinrichtung ist zun�
 
 CAUTION:
 
-Für die Verwendung von PayPal und PayPal Plus v3.x sind neue Zugangsdaten für die sogenannte REST-Schnittstelle erforderlich. Deine bisherigen Zugangsdaten können **nicht** weiter verwendet werden! \(vgl. Kapitel Erhalten von Zugangsdaten bei PayPal\)
+Für die Verwendung von PayPal und PayPal Plus v3.x sind neue Zugangsdaten für die sogenannte REST weiter verwendet werden! \(vgl. Kapitel Erhalten von Zugangsdaten bei PayPal\)
 
 Gib deine PayPal-Zugangsdaten ein und wähle die Betriebsart der Schnittstelle. Standardmässig ist der Klassikmodus aktiviert, in dem sich die Zahlungsweise für Kunden so verhält, wie du es von bisherigen PayPal-Modulen gewohnt bist. Im PLUS-Modus wandert die Auswahl der Zahlart von der PayPal Webseite in die Zahlungsauswahl des Shops. Klicke auf Schnittstelle einrichten, um die Ersteinrichtung vorzunehmen.
 

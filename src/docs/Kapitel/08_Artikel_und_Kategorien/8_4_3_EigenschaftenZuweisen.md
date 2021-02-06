@@ -7,7 +7,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelUebersicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikelübersicht")
 
-Über die Dropdown-Schaltfläche am hinteren Ende des Artikels kann der Eintrag _**Eigenschaften**_ ausgewählt werden.
+Über die Dropdown_ ausgewählt werden.
 
 ## Aufruf aus der Artikeldetailseite 
 

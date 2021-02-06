@@ -4,11 +4,11 @@
 
 ![](Bilder/Abb091_GX-CustomizerInDerShopansicht_.png "GX-Customizer in der Shopansicht")
 
--   **[Customizer-Set anlegen](8_5_1_Customizer_Set_anlegen.md)**  
+  
 
--   **[Customizer-Set zuweisen](8_5_2_Customizer_Set_zuweisen.md)**  
+  
 
--   **[GX-Customizer konfigurieren](8_5_3_GX_Customizer_konfigurieren.md)**  
+  
 
 
 

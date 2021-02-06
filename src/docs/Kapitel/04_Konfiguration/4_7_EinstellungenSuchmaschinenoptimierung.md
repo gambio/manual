@@ -36,7 +36,7 @@
 |Feldname|Beschreibung|
 |--------|------------|
 |Sitemap Generator|Klicke auf aufrufen, um die Konfigurationsseite zum Generieren der Sitemaps anzuzeigen|
-|Standard-Änderungsfrequenz|In welchen Abständen soll die Sitemap durch Suchmaschinen auf Änderungen geprüft werden.**Note:**
+|Standard
 
 Die im Shop eingestellte Änderungsfrequenz stellt lediglich eine Vorgabe dar. Die tatsächliche Frequenz, mit der die Sitemap aktualisiert wird, hängt von der jeweiligen Suchmaschine ab.
 

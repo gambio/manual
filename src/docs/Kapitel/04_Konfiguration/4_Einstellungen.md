@@ -18,23 +18,23 @@ aufgeteilt. Zudem steht am oberen Ende der Seite eine Suchleiste zur Verfügung,
 
 Am unteren Ende der Seite befindet sich der Speichern-Button. Dieser ist ausgegraut, solange keine Änderungen vorgenommen worden sind. Der Speichern-Button übernimmt geänderte Einstellungen aus allen Bereichen und Kategorien.
 
--   **[Shop](4_1_EinstellungenShop.md)**  
+  
 
--   **[Kunden](4_2_EinstellungenKunden.md)**  
+  
 
--   **[Artikel & Kategorien](4_3_EinstellungenArtikelUNDKategorien.md)**  
+  
 
--   **[Layout & Design](4_4_EinstellungenLayoutUNDDesign.md)**  
+  
 
--   **[Rechtliches](4_5_EinstellungenRechtliches.md)**  
+  
 
--   **[Lieferung](4_6_EinstellungenLieferung.md)**  
+  
 
--   **[Suchmaschinenoptimierung](4_7_EinstellungenSuchmaschinenoptimierung.md)**  
+  
 
--   **[Sprachen, Länder, Steuern](4_8_EinstellungenSprachenLaenderSteuern.md)**  
+  
 
--   **[System](4_9_EinstellungenSystem.md)**  
+  
 
 
 # E-Mail-Optionen 
@@ -271,9 +271,9 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 
 Über den Paketdienste ist es möglich Bestellungen im Shop mit dem Tracking des jeweiligen Versanddienstleisters zu verknüpfen.
 
--   **[Paketdienste anlegen und bearbeiten](4_19_1_Paketversender_anlegen_und_bearbeiten.md)**  
+  
 
--   **[Sendungsnummer zuordnen](4_19_2_Sendungsnummer_zuordnen.md)**  
+  
 
 
 
@@ -525,43 +525,43 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 Dieses Kapitel beschreibt die Grundkonfiguration deines neuen Onlineshops.
 
--   **[Grundkonfiguration](4_1_Grundkonfiguration.md)**  
+  
 
--   **[E-Mail-Optionen](4_2_E_Mail_Optionen.md)**  
+  
 
--   **[Bild-Optionen](4_3_Bild_Optionen.md)**  
+  
 
--   **[Einstellungen zur Darstellung](4_4_Einstellungen_zur_Darstellung.md)**  
+  
 
--   **[Rechtliche Einstellungen](4_5_Rechtliche_Einstellung.md)**  
+  
 
--   **[Sicherheitseinstellungen](4_6_Sicherheitseinstellungen.md)**  
+  
 
--   **[Lager- und Bestandseinstellungen](4_7_Lager_und_Bestandseinstellungen.md)**  
+  
 
--   **[Konfiguration des G-Protectors](4_8_Konfiguration_des_G_Protectors.md)**  
+  
 
--   **[Artikelübersicht-Optionen](4_9_Artikeluebersicht_Optionen.md)**  
+  
 
--   **[Performance](4_11_GZip_Kompression.md)**  
+  
 
--   **[Kampagnen](4_12_Kampagnen.md)**  
+  
 
--   **[Logging-Optionen](4_13_Logging_Optionen.md)**  
+  
 
--   **[Nummernkreise](4_14_Nummernkreise.md)**  
+  
 
--   **[Sessions](4_15_Sessions.md)**  
+  
 
--   **[Such-Optionen](4_16_Such_Optionen.md)**  
+  
 
--   **[Versand-Optionen](4_17_Versand_Optionen.md)**  
+  
 
--   **[Download-Optionen](4_18_Download_Optionen.md)**  
+  
 
--   **[Paketdienste](4_19_Paketversender.md)**  
+  
 
--   **[Allgemeines](4_20_Allgemeines.md)**  
+  
 
 
 # Kampagnen 
@@ -639,9 +639,9 @@ CAUTION:
 
 **Note:** Die E-Mail Transport-Methode wird in den meisten Fällen durch die Installationsroutine korrekt festgelegt. Sollte der E-Mail Versand fehlschlagen, stelle zunächst die Option bei Absender der Bestellbestätigungsmail von Betreiber E-Mail auf Kunden E-Mail. Wenn nach wie vor kein E-Mail Versand möglich ist, setze den Absender der Bestellbestätigungsmail wieder auf die Standard-Einstellung zurück, ändere die E-Mail Transport-Methode auf SMTP und trage die SMTP-Daten ein. Achte hierbei auch den korrekten SMTP Port und die Auswahl der richtigen SMTP Verschlüsselung sowie die Aktivierung der Einstellung SMTP AUTH, falls der Server eine Verschlüsselung erfordert.
 
--   **[E-Mail-Optionen](4_2_1_E_Mail_Optionen.md)**  
+  
 
--   **[E-Mail Vorlagen](4_2_2_E_Mail_Vorlagen.md)**  
+  
 
 
 
@@ -652,19 +652,19 @@ Das Shopsystem bietet verschiedene Funktionen an, mit denen du einen oder mehrer
 
 ![](Bilder/Abb026_BildEffekteUnterDarstellungBildOptionen.PNG "Bild-Effekte unter Darstellung > Bild-Optionen")
 
--   **[Bevel \(Button-Effekt\)](4_3_4a_Bevel_Button_Effekt.md)**  
+  
 
--   **[Greyscale \(Graustufen\)](4_3_4b_Greyscale_Graustufen.md)**  
+  
 
--   **[Ellipse](4_3_4c_Ellipse.md)**  
+  
 
--   **[Round-edges \(runde Ecken\)](4_3_4d_Round_edges_runde_Ecken.md)**  
+  
 
--   **[Frame \(Rahmen\)](4_3_4e_Frame_Rahmen.md)**  
+  
 
--   **[Drop-Shadow \(Schlagschatten\)](4_3_4f_Drop_Shadow_Schlagschatten.md)**  
+  
 
--   **[Motion-Blur \(Bewegungs-Effekt\)](4_3_4g_Motion_Blur_Bewegungs_Effekt.md)**  
+  
 
 
 
@@ -777,9 +777,9 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 # Lager- und Bestandseinstellungen 
 
--   **[Lagerverwaltungs-Optionen](4_7_1_Lagerverwaltungs_Optionen.md)**  
+  
 
--   **[Lieferstatus](4_7_2_Lieferstatus.md)**  
+  
 
 
 
@@ -808,13 +808,13 @@ CAUTION:
 
 Bitte nimm Änderungen an den rechtlichen Einstellungen ausschließlich in Absprache mit deinem Rechtsberater vor. Unsachgemäße Änderungen an den Einstellungen bergen die Gefahr einer Abmahnung!
 
--   **[Allgemeines](4_5_1_Allgemeines_.md)**  
+  
 
--   **[Einstellungen für Kleinunternehmer](4_5_2_Einstellungen_fuer_Kleinunternehmer.md)**  
+  
 
--   **[Verbraucherrechterichtlinie](4_5_3_Verbraucherrechterichtlinie.md)**  
+  
 
--   **[Cookie Hinweis](4_5_4_CookieHinweis.md)**  
+  
 
 
 
@@ -857,7 +857,7 @@ Bitte nimm Änderungen an den rechtlichen Einstellungen ausschließlich in Abspr
 |Feldname|Beschreibung|
 |--------|------------|
 |Sitemap Generator|Klicke auf aufrufen, um die Konfigurationsseite zum Generieren der Sitemaps anzuzeigen|
-|Standard-Änderungsfrequenz|In welchen Abständen soll die Sitemap durch Suchmaschinen auf Änderungen geprüft werden.**Note:**
+|Standard
 
 Die im Shop eingestellte Änderungsfrequenz stellt lediglich eine Vorgabe dar. Die tatsächliche Frequenz, mit der die Sitemap aktualisiert wird, hängt von der jeweiligen Suchmaschine ab.
 
@@ -1028,9 +1028,9 @@ Bevor du die Logging-Optionen aktivierst, erfrage möglicherweise nötige rechtl
 
 Nehme nach der Installation des Shopsystems die erstmalige Konfiguration des Shops vor. Im Folgenden findest du Informationen zur Grundkonfiguration deines Shops.
 
--   **[Persönliche Daten](4_1_1_Persoenliche_Daten.md)**  
+  
 
--   **[Shop-Key](4_1_2_Shop_Key.md)**  
+  
 
 
 
@@ -1066,9 +1066,9 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 Das Shopsystem enthält Funktionen, die die Sicherheit deines Shops auf unterschiedliche Weise verbessern können. Beachte, dass diese Funktionen keine uneingeschränkte Garantie für die Sicherheit deines Shops gegen gezielte Hacker-Angriffe und Spam-Roboter bedeuten.
 
--   **[IP-Logging](4_6_1_IP_Logging.md)**  
+  
 
--   **[Sicherheitscenter](4_6_2_Spamschutz.md)**  
+  
 
 
 
@@ -1102,9 +1102,9 @@ Dies kann, neben einzelner Adressen, auch für Adressräume vorgenommen werden:
 
 Um den Minimumwert für einen Nummernkreis anzeigen zu lassen, bewege den Mauszeiger in die zugehörige Zeile über das dann angezeigte Info-Symbol \(in der Abbildung rot markiert\).
 
--   **[Bestell- und Kundennummern](4_14_1_Bestell_und_Kundennummern.md)**  
+  
 
--   **[Rechnungs- und Lieferscheinnummer](4_14_2_Rechnungs_und_Lieferscheinnummer.md)**  
+  
 
 
 
@@ -1244,13 +1244,13 @@ Setze bzw. entferne den jeweiligen Haken und klicke in der entsprechenden Zeile 
 
 Unter Shop Einstellungen \> Allgemeines befinden sich hauptsächlich Detaileinstellungen zur Anzeige der Artikelnamen, Lagerbestände und Preisanzeige, aber auch andere Funtktionen, wie das Löschen überzähliger Artikelbilder oder Statistiken.
 
--   **[Allgemeines](4_20_1_Allgemeines.md)**  
+  
 
--   **[Lagerbestände anzeigen](4_20_2_LagerbestaendeAnzeigen.md)**  
+  
 
--   **[Artikelbilder löschen](4_20_3_ArtikelbilderLoeschen.md)**  
+  
 
--   **[Statistiken löschen](4_20_4_StatistikenLoeschen.md)**  
+  
 
 
 
@@ -1426,7 +1426,7 @@ Die Angabe der Lieferzeit beinhaltet den Link Ausland abweichend. Die Anzeige di
 |Feldname|Beschreibung|
 |--------|------------|
 |USt-IdNr. des Shopbetreibers|Die USt-IdNr. des Shopbetreibers|
-|USt-IdNr. überprüfen|Die USt-IdNr. auf Plausibilität überprüfen?**Note:**
+|USt
 
 Die USt-IdNr. wird lediglich auf Plausibilität geprüft. Eine genauere Live-Überprüfung auf Plausibilität ist über die untenstehende Einstellung möglich.
 
@@ -1481,17 +1481,17 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 
 Änderungen an den Bild-Optionen werden nur für neu hochgeladene Artikelbilder übernommen. Sollen Änderungen auch bei bereits vorhandenen Artikelbildern übernommen werden, muss anschließend unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung ausgeführt werden.
 
--   **[Grundeinstellungen](4_3_1_Grundeinstellungen.md)**  
+  
 
--   **[Bildgröße](4_3_2_Bildgroessen.md)**  
+  
 
--   **[Wasserzeichen](4_3_3_Wasserzeichen.md)**  
+  
 
--   **[Bild-Effekte](4_3_4_Bild_Effekte.md)**  
+  
 
--   **[Image Processing](4_3_5_Image_Processing.md)**  
+  
 
--   **[Artikelbilder löschen](4_3_6_Artikelbilder%20loeschen.md)**  
+  
 
 
 
@@ -1588,17 +1588,17 @@ CAUTION:
 
 Das Vorhandensein der Bestandteile ist zur rechtlichen Absicherung deines Shops nicht ausreichend. Die Umsetzung der Verbraucherrechterichtlinie setzt u.a. das Vornehmen verschiedener Konfigurationen voraus. Dieses Kapitel bietet dir eine Übersicht über die Einstellungsmöglichkeiten.
 
--   **[Einbinden der Rechtstexte](4_5_3a_Einbinden_der_Rechtstexte.md)**  
+  
 
--   **[Festlegen der Versand- & Zahlungsbedingungen](4_5_3b_Festlegen_der_Versand_AND_Zahlungsbedingungen.md)**  
+  
 
--   **[Kontaktinformationen](4_5_3c_Kontaktinformationen.md)**  
+  
 
--   **[Einstellen des Widerrufsrechts](4_5_3d_Einstellen_des_Widerrufsrechts.md)**  
+  
 
--   **[Artikeltyp festlegen](4_5_3e_Artikeltyp_festlegen.md)**  
+  
 
--   **[Lieferzeiten kennzeichnen](4_5_3f_Lieferzeiten_kennzeichnen.md)**  
+  
 
 
 
@@ -1698,7 +1698,7 @@ Zuallererst sollten die Rechtstexte zum Widerrufsrecht hinterlegt werden. Dies g
 
 CAUTION:
 
-Der Content Widerrufsrecht & Muster-Widerrufsformular dient nur zum Zusammenführen der Texte unter Widerrufsrecht 1 bis Widerrufsrecht 4. Bitte trage **keine Texte** unter Widerrufsrecht & Muster-Widerrufsformular ein, da diese hier **nicht** vorgesehen sind!
+Der Content Widerrufsrecht & Muster vorgesehen sind!
 
 Um deine Texte für das Widerrufsrecht zu hinterlegen, klicke bitte bei einem der Contents Widerrufsrecht 1 bis Widerrufsrecht 4 \(ID 3889896 bis 3889899\) auf Bearbeiten. Nun kann die jeweilige Widerrufsbelehrung in das Textfeld eingefügt werden. Wenn du die Texte über einen externen Anbieter, wie z.B. Janolaw, beziehst, kann die zugehörige Datei über Datei wählen eingebunden werden, nachdem die Elementart auf Skriptdatei umgestellt worden ist. Abschließend setze bitte den Haken bei sichtbar. Nur wenn der Content sichtbar geschaltet ist, wird er auch angezeigt und verwendet.
 
@@ -1881,7 +1881,7 @@ Die Anzeige als Lightbox steht ggf. nicht in allen Templates oder Themes zur Ver
 |Pinterest-Button auf Detailseite aktivieren|Aktivieren des Pinterest-Buttons auf der Artikeldetailseite|
 |Bildergalerie als Lightbox einbinden|Die Bildergalerie wird als Lightbox angezeigt|
 |Bildergalerie aktivieren|Aktiviert die Bildergalerie auf der Artikeldetailseite \(standardmäßig aktiviert\).|
-|"Datenblatt drucken"-Link auf Detailseite aktivieren|Zeigt den Link zum Drucken des Datenblatts auf der Detailseite an.**Note:**
+|"Datenblatt drucken"
 
 Die Funktion Datenblatt drucken steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
@@ -1892,7 +1892,7 @@ Die Funktion Datenblatt drucken steht ggf. nicht in allen Templates oder Themes 
 |Reverse Cross Marketing|maximale Anzahl der Reverse Cross Marketing Artikel, die in der Box Dieses Produkt ist z.B. kompatibel zu in der Artikeldetailansicht angezeigt werden sollen|
 |Ebenfalls gekauft|Minimum Anzahl der ebenfalls gekauften Artikel, die bei der Artikelansicht angezeigt werden sollen.|
 |Kunden E-Mail-Adresse als Absender des "Frage zum Produkt"-Modul verwenden|Setzt die E-Mail-Adresse des Kunden als Absender ein, anstelle des in den E-Mail-Optionen eingestellten Absenders.|
-|Reverse Cross-Marketing|Das Reverse Cross-Marketing ist eine Zusatzfunktion zum Cross Selling \(siehe Kapitel Cross Selling\), über das zu einem ausgewählten Artikel weitere Artikel empfohlen werden können. Ist das Reverse Cross-Marketing aktiviert, findet eine Rückverknüpfung von dem empfohlenen Artikel zum ursprünglichen Artikel statt. **Note:**
+|Reverse Cross
 
 Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Auslastung deines Server erhöhen. Bitte prüfe nach der Aktivierung, ob sich der Shop beim Aufruf der Artikel spürbar verlangsamt hat. Ist dies der Fall, sollte das Reverse Cross-Marketing nach Möglichkeit nicht verwendet werden.
 
@@ -1929,7 +1929,7 @@ Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Au
 |Kategorietiefe bis zu der die vertikale Navigation immer aufgeklappt angezeigt wird|Wie viele Ebenen des linken Kategoriemenüs sollen standardmäßig aufgeklappt sein?|
 |Maximale Kategorietiefe bis zu der die vertikale Navigation aufgeklappt werden kann|Bis zu dieser Tiefe lassen sich Kategorien aufklappen|
 |Vertikale Kategorie-Navigation in der Sidebar anzeigen \(ohne Untermenüs\)|Kategorie-Anzeige in der linken Spalte wird verwendet|
-|Kategorie Icon|Aktiviert das Kategorie-Icon.**Note:**
+|Kategorie Icon|Aktiviert das Kategorie
 
 Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
@@ -2267,7 +2267,7 @@ Die Grundeinstellungen zum Widerrufsrecht werden unter Shop Einstellungen \> Rec
 |--------|------------|
 |Webformular anbieten|Soll der Link zum Online-Widerrufsformular angezeigt werden?|
 |PDF-Formular anbieten|Soll das Widerrufsformular als PDF-Datei zur Verfügung stehen?|
-|Content ID|ID-Nummer des Haupt-Widerrufs-Contents: 3889895**Note:**
+|Content ID|ID
 
 Diese Einstellung wird nur angezeigt, wenn die vergebene Content ID nicht dem Standardwert 3889895 entspricht.
 

@@ -16,7 +16,7 @@ Du kannst den Teil der URL anpassen, der direkt hinter deiner Shop-Domain \(bzw.
 
 **Note:** Content-Seiten werden immer mit einem führenden /info/ aufgerufen. Content- und Artikelseiten schließen immer mit einem .html ab - beides ist fest vorgegeben und muss nicht händisch eingetragen werden. Bei der mehrfachen Verwendung des gleichen Eintrags wird zudem automatisch die ID angehängt.
 
-Bearbeite hierzu den betreffenden Artikel, Content bzw. die betreffende Kategorie und nimm im Feld URL Rewrite den Eintrag für den neuen Adresspfad vor. Hierbei sollte beachtet werden, dass die Shop-Domain **nicht** Bestandteil des Rewrites ist.
+Bearbeite hierzu den betreffenden Artikel, Content bzw. die betreffende Kategorie und nimm im Feld URL Rewrite den Eintrag für den neuen Adresspfad vor. Hierbei sollte beachtet werden, dass die Shop Bestandteil des Rewrites ist.
 
 **Note:** Trage die neue URL ohne führenden / ein, dieser wird automatisch gesetzt.
 

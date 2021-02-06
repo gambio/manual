@@ -6,7 +6,7 @@ Die Grundeinstellungen zum Widerrufsrecht werden unter Shop Einstellungen \> Rec
 |--------|------------|
 |Webformular anbieten|Soll der Link zum Online-Widerrufsformular angezeigt werden?|
 |PDF-Formular anbieten|Soll das Widerrufsformular als PDF-Datei zur Verfügung stehen?|
-|Content ID|ID-Nummer des Haupt-Widerrufs-Contents: 3889895**Note:**
+|Content ID|ID
 
 Diese Einstellung wird nur angezeigt, wenn die vergebene Content ID nicht dem Standardwert 3889895 entspricht.
 

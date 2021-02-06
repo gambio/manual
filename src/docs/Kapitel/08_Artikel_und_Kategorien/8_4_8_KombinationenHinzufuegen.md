@@ -19,7 +19,7 @@ Es wird der Dialog zum Anlegen einer neuen Kombination angezeigt. Neben je einem
 |Preis|Kombinationsfestpreis der Kombination / Variante|
 |VPE|Verpackungseinheit der Kombination / Variante|
 |Lieferzeit|Lieferstatus der Kombination / Variante|
-|Bild|Bild-Kollektion der Kombination / Variante \(siehe Kapitel _**Kollektionen**_\)|
+|Bild|Bild_\)|
 
 Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Eintragungen vor. Bestätige die Eingaben mit _**Speichern**_ bzw. _**Speichern & Schließen**_. Über _**Abbrechen**_ kannst du den Dialog wieder verlassen, ohne die Kombination anzulegen.
 

@@ -16,9 +16,9 @@ Aktiviere dort das E-Commerce-Tracking sowie die erweiterten Berichte, für letz
 
 Bitte beachte, dass diese Daten erst zeitverzögert bei Analytics zu sehen sind.
 
--   **[Erfasste Daten und Auswahl der Quelle](8_9_4a_ErfassteDatenUndAuswahlDerQuelle.md)**  
+  
 
--   **[Konfiguration](8_9_4b_Konfiguration.md)**  
+  
 
 
 

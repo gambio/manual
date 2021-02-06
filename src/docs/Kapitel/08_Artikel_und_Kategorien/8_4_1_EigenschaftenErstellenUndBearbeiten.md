@@ -47,12 +47,12 @@ In der Eingabemaske können die folgenden Angaben gemacht werden:
 |Admin-Name \(de\)|Admin-Name der Eigenschaft, Sprache Deutsch|
 |Name \(en\)|Name der Eigenschaft, Sprache Englisch|
 |Admin-Name \(en\)|Admin-Name der Eigenschaft, Sprache Englisch|
-|Anzeigeart|Wie soll die Auswahl im Artikel angezeigt werden \(`_**Dropdown**_`, _**Bild**_, _**Radio**_ \(Radio-Buttom\), _**Text**_, _**Eingerahmter Text**_\)|
+|Anzeigeart|Wie soll die Auswahl im Artikel angezeigt werden \(`_**Dropdown**_`, _**Bild**_, _**Radio**_ \(Radio_\)|
 |Sortiernummer|Position der Eigenschaft unter _**Artikel \> Artikeleigenschaften**_|
 
 !!! note "Hinweis"
 
-    Der Admin-Name kann verwendet werden, um zwischen Eigenschaften mit gleichem Namen zu unterscheiden. Eine Eigenschaft _**Größe**_ kann z.B. mit dem Admin-Namen _**Konfektionsgröße**_ oder _**Schuhgröße**_ angelegt werden. Im Shop wird für beide Artikel, egal ob T-Shirt oder Turnschuh, die Auswahl _**Größe**_ angezeigt.
+    Der Admin_ angezeigt.
 
 ## Eigenschaft löschen 
 

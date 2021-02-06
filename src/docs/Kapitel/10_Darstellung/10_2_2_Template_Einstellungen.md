@@ -4,11 +4,11 @@
 
 **Note:** Ist das EyeCandy-Template aktiv, kann das StyleEdit3 über die Schaltfläche Shop im Honeygrid-Bearbeitungsmodus laden gestartet werden, ohne das Template umzustellen.
 
--   **[Übersicht](10_2_2a_Uebersicht.md)**  
+  
 
--   **[Bearbeiten](10_2_2b_Bearbeiten.md)**  
+  
 
--   **[Beschreibung der verschiedenen Bereiche](10_2_2c_Beschreibung_der_verschiedenen_Bereiche.md)**  
+  
 
 
 

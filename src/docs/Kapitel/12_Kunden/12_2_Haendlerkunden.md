@@ -4,9 +4,9 @@ Das Shopsystem bietet eine Funktion, über die Händler bei Angabe einer gültig
 
 ![](Bilder/Abb162_UmsatzsteuerIDPruefungKonfigurieren.png "Umsatzsteuer-ID-Prüfung konfigurieren")
 
--   **[Live-Prüfung aktivieren](12_2_1_Live_Pruefung_aktivieren.md)**  
+  
 
--   **[Live-Prüfung deaktivieren](12_2_2_Live_Pruefung_deaktivieren.md)**  
+  
 
 
 

@@ -5,17 +5,17 @@ Die Export-Profile sind in einer Tabelle aufgeführt, in der Profilname, Dateina
 ![](Bilder/ExportIcons.png "Profileintrag für das standardmäßige Export-Profil. Am Ende der
       Zeile befinden sich die Schaltflächen")
 
--   **[Profil exportieren](8_8_1aa_Profil_exportieren.md)**  
+  
 
--   **[Profil exportieren und herunterladen](8_8_1ab_Profil_exportieren_und_herunterladen.md)**  
+  
 
--   **[Profil bearbeiten](8_8_1ac_Profil_bearbeiten.md)**  
+  
 
--   **[Profil löschen](8_8_1ad_Profil_loeschen.md)**  
+  
 
--   **[Profil kopieren](8_8_1ae_Profil_kopieren.md)**  
+  
 
--   **[Funktionen der Profilseite](8_8_1b_CSV_Artikel_Export.md)**  
+  
 
 
 

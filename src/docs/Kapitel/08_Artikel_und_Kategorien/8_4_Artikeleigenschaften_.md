@@ -31,21 +31,21 @@ Es muss immer zwischen den angelegten Eigenschaften und den zugewiesenen Kombina
     -   rot, M
     -   rot, L
 
--   **[Eigenschaften erstellen und bearbeiten](8_4_1_EigenschaftenErstellenUndBearbeiten.md)**  
+  
 
--   **[Eigenschaftswerte erstellen und bearbeiten](8_4_2_EigenschaftswerteErstellenUndBearbeiten.md)**  
+  
 
--   **[Eigenschaften zuweisen](8_4_3_EigenschaftenZuweisen.md)**  
+  
 
--   **[Kombinationen erstellen](8_4_4_KombinationenErstellen.md)**  
+  
 
--   **[Kombinationsübersicht](8_4_5_Kombinationsuebersicht.md)**  
+  
 
--   **[Kombinationen bearbeiten](8_4_6_KombinationenBearbeiten.md)**  
+  
 
--   **[Kombinationen löschen](8_4_7_KombinationenLoeschen.md)**  
+  
 
--   **[Kombinationen hinzufügen](8_4_8_KombinationenHinzufuegen.md)**  
+  
 
 
 
@@ -72,7 +72,7 @@ Das Zuweisen der Eigenschaftswerte zu einem Artikel kann manuell oder automatisc
 
 Das automatische Ermitteln der Kombinationen ist die einfachste Möglichkeit.
 
-Setze die Haken für die Eigenschaften, die du kombinieren möchtest. Bei Bedarf kannst du auch über das Plus-Zeichen die jeweilige Eigenschaft aufklappen und einzelne Eigenschaftswerte für die Kombination auswählen. Klicke auf _**Kombinationen automatisch ermitteln**_. Überzählige Kombinationen - also Varianten eines Artikels, die du nicht anbieten möchtest - können auch nachträglich wieder gelöscht werden.
+Setze die Haken für die Eigenschaften, die du kombinieren möchtest. Bei Bedarf kannst du auch über das Plus_. Überzählige Kombinationen - also Varianten eines Artikels, die du nicht anbieten möchtest - können auch nachträglich wieder gelöscht werden.
 
 ## Kombinationen manuell erstellen 
 
@@ -100,7 +100,7 @@ Es wird der Dialog zum Anlegen einer neuen Kombination angezeigt. Neben je einem
 |Preis|Kombinationsfestpreis der Kombination / Variante|
 |VPE|Verpackungseinheit der Kombination / Variante|
 |Lieferzeit|Lieferstatus der Kombination / Variante|
-|Bild|Bild-Kollektion der Kombination / Variante \(siehe Kapitel _**Kollektionen**_\)|
+|Bild|Bild_\)|
 
 Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Eintragungen vor. Bestätige die Eingaben mit _**Speichern**_ bzw. _**Speichern & Schließen**_. Über _**Abbrechen**_ kannst du den Dialog wieder verlassen, ohne die Kombination anzulegen.
 
@@ -115,7 +115,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelUebersicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikelübersicht")
 
-Über die Dropdown-Schaltfläche am hinteren Ende des Artikels kann der Eintrag _**Eigenschaften**_ ausgewählt werden.
+Über die Dropdown_ ausgewählt werden.
 
 ## Aufruf aus der Artikeldetailseite 
 
@@ -170,7 +170,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 
 ## Eigenschaftswert löschen 
 
-![](Bilder/ArtikelEigenschaften_EigenschaftswertLoeschen.png "Löschen-Icon des Eigenschaftswerts _**Schwarz**_
+![](Bilder/ArtikelEigenschaften_EigenschaftswertLoeschen.png "Löschen_
         der Eigenschaft _**Farbe**_")
 
 Über das Mülltonnen-Symbol kann ein bestehender Eigenschaftswert gelöscht werden. Es erfolgt eine Sicherheitsabfrage, in der das Löschen bestätigt werden muss.
@@ -183,7 +183,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 
 # Kombinationen löschen 
 
-Kombinationen können wahlweise einzeln, über das Mülltonnen-Icon, oder die Mehrfachauswahl gelöscht werden. Wird mindestens ein Haken gesetzt, wird der Button _**Kombinationen löschen**_ angezeigt.
+Kombinationen können wahlweise einzeln, über das Mülltonnen_ angezeigt.
 
 ![](Bilder/ArtikelEigenschaften_KombinationsuebersichtMehrfachauswahl.png "Schaltfläche _**Kombinationen löschen**_ nach
       Anhaken einer Kombination")
@@ -215,7 +215,7 @@ Es wird der Dialog zum Anlegen einer neuen Kombination angezeigt. Neben je einem
 |Preis|Kombinationsfestpreis der Kombination / Variante|
 |VPE|Verpackungseinheit der Kombination / Variante|
 |Lieferzeit|Lieferstatus der Kombination / Variante|
-|Bild|Bild-Kollektion der Kombination / Variante \(siehe Kapitel _**Kollektionen**_\)|
+|Bild|Bild_\)|
 
 Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Eintragungen vor. Bestätige die Eingaben mit _**Speichern**_ bzw. _**Speichern & Schließen**_. Über _**Abbrechen**_ kannst du den Dialog wieder verlassen, ohne die Kombination anzulegen.
 
@@ -228,7 +228,7 @@ Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Ein
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelUebersicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikelübersicht")
 
-Über die Dropdown-Schaltfläche am hinteren Ende des Artikels kann der Eintrag _**Eigenschaften**_ ausgewählt werden.
+Über die Dropdown_ ausgewählt werden.
 
 ## Aufruf der Kombinationsübersicht aus der Artikeldetailseite 
 
@@ -273,9 +273,9 @@ zur Verfügung.
 |Feldname|Beschreibung|
 |--------------|------------|
 DropDown-Modus|Der Dropdown-Modus legt fest, wie die einzelnen Eigenschaftswerte im Artikel ausgewählte werden können:|
--   _**Standard**_: |alle Werte immer auswählbar: Alle möglichen Kombinationen können ausgewählt werden. Bei Auswahl von nicht konfigurierten Kombinationen erscheint ein Hinweistext _**Diese Kombination existiert nicht...**_
--   _**Reihenfolge der Auswahl beliebig, nur mögliche Werte auswählbar**_: |Nach Auswahl eines Eigenschaftenwertes werden in der zweiten Optionsauswahl alle Werte angezeigt, ausgewählt werden können nur Kombinationen, die konfiguriert wurden.
--   _**Reihenfolge der Auswahl vorgegeben, nur mögliche Werte auswählbar**_: |Der zweite \(dritte, vierte\) Eigenschaftswert kann erst ausgewählt werden, wenn der vorangegangene Wert ausgewählt wurde. Alle möglichen Kombinationen werden angezeigt, ausgewählt werden können nur Kombinationen, die konfiguriert wurden.
+_
+_: |Nach Auswahl eines Eigenschaftenwertes werden in der zweiten Optionsauswahl alle Werte angezeigt, ausgewählt werden können nur Kombinationen, die konfiguriert wurden.
+_: |Der zweite \(dritte, vierte\) Eigenschaftswert kann erst ausgewählt werden, wenn der vorangegangene Wert ausgewählt wurde. Alle möglichen Kombinationen werden angezeigt, ausgewählt werden können nur Kombinationen, die konfiguriert wurden.
 
 |Feldname|Beschreibung|
 |--------------|------------|
@@ -291,21 +291,21 @@ Eigenschaftenpreis anzeigen|Wenn diese Einstellung aktiviert ist, werden die Auf
 |Feldname|Beschreibung|
 |--------------|------------|
 Gewichtsberechnung|Bei der Gewichtsberechnung sind zwei Einstellungen möglich:
--   _**Gewichte addieren**_:| das eingetragene Artikelgewicht und das Gewicht der jeweiligen Eigenschaften-Kombination werden zusammengerechnet
--   _**Artikelgewicht ersetzen**_: |das eingetragene Artikelgewicht wird bei Auswahl einer Eigenschaften-Kombination durch dessen Gewicht ersetzt
+_:| das eingetragene Artikelgewicht und das Gewicht der jeweiligen Eigenschaften-Kombination werden zusammengerechnet
+_: |das eingetragene Artikelgewicht wird bei Auswahl einer Eigenschaften-Kombination durch dessen Gewicht ersetzt
 
 |Feldname|Beschreibung|
 |--------------|------------|
 Bestandsprüfung|Die Bestandsprüfung verfügt über vier Auswahlmöglichkeiten:
--   _**Standard**_ |\(globale Bestands-Einstellungen\): die globalen Einstellungen für Eigenschaften-Kombinationen werden verwendet
--   _**Artikelbestand**_: |Nur der Artikelbestand wird geprüft und angezeigt
--   _**Kombinationsbestand**_: |Nur der Kombinationsbestand wird geprüft und angezeigt, wenn eine Kombination ausgewählt wurde
--   _**Keine Prüfung**_: |Es findet keine Bestandsprüfung statt
+_ |\(globale Bestands-Einstellungen\): die globalen Einstellungen für Eigenschaften-Kombinationen werden verwendet
+_: |Nur der Artikelbestand wird geprüft und angezeigt
+_: |Nur der Kombinationsbestand wird geprüft und angezeigt, wenn eine Kombination ausgewählt wurde
+_: |Es findet keine Bestandsprüfung statt
 
 |Feldname|Beschreibung|
 |--------------|------------|
-Lieferzeitanzeige|Mit dieser Einstellung wird festgelegt, welche Lieferzeit für den Lieferstatus verwendet wird:-   _**Artikellieferzeit**_: es wird die im Artikel eingestellte Lieferzeit verwendet
--   _**Kombinationslieferzeit**_: |es wird die in der ausgewählten Kombination eingestellte Lieferzeit verwendet
+Lieferzeitanzeige|Mit dieser Einstellung wird festgelegt, welche Lieferzeit für den Lieferstatus verwendet wird:_: es wird die im Artikel eingestellte Lieferzeit verwendet
+_: |es wird die in der ausgewählten Kombination eingestellte Lieferzeit verwendet
 
 
 
@@ -326,7 +326,7 @@ Beim Bearbeiten einer Kombination stehen die gleichen Einstellungen zur Verfügu
 |Preis|Kombinationsfestpreis der Kombination / Variante|
 |VPE|Verpackungseinheit der Kombination / Variante|
 |Lieferzeit|Lieferstatus der Kombination / Variante|
-|Bild|Bild-Kollektion der Kombination / Variante \(siehe Kapitel _**Kollektionen**_\)|
+|Bild|Bild_\)|
 
 Passe die gewünschten Eigenschaftswerte an und bestätige die Eingaben mit _**Speichern**_ bzw. _**Speichern & Schließen**_. Über _**Abbrechen**_ kannst du den Dialog wieder verlassen, ohne die Kombination zu ändern.
 
@@ -381,12 +381,12 @@ In der Eingabemaske können die folgenden Angaben gemacht werden:
 |Admin-Name \(de\)|Admin-Name der Eigenschaft, Sprache Deutsch|
 |Name \(en\)|Name der Eigenschaft, Sprache Englisch|
 |Admin-Name \(en\)|Admin-Name der Eigenschaft, Sprache Englisch|
-|Anzeigeart|Wie soll die Auswahl im Artikel angezeigt werden \(`_**Dropdown**_`, _**Bild**_, _**Radio**_ \(Radio-Buttom\), _**Text**_, _**Eingerahmter Text**_\)|
+|Anzeigeart|Wie soll die Auswahl im Artikel angezeigt werden \(`_**Dropdown**_`, _**Bild**_, _**Radio**_ \(Radio_\)|
 |Sortiernummer|Position der Eigenschaft unter _**Artikel \> Artikeleigenschaften**_|
 
 !!! note "Hinweis"
 
-    Der Admin-Name kann verwendet werden, um zwischen Eigenschaften mit gleichem Namen zu unterscheiden. Eine Eigenschaft _**Größe**_ kann z.B. mit dem Admin-Namen _**Konfektionsgröße**_ oder _**Schuhgröße**_ angelegt werden. Im Shop wird für beide Artikel, egal ob T-Shirt oder Turnschuh, die Auswahl _**Größe**_ angezeigt.
+    Der Admin_ angezeigt.
 
 ## Eigenschaft löschen 
 

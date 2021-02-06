@@ -6,17 +6,17 @@ Artikel-Exporte zu Preisportalen können über den Reiter Preis-Portal vorgenomm
 
 ![](Bilder/Abb114_Preis_Portal.png "Preis-Portal")
 
--   **[Profil exportieren](8_8_1ca_Profil_exportieren.md)**  
+  
 
--   **[Profil exportieren und herunterladen](8_8_1cb_Profil_exportieren_und_herunterladen.md)**  
+  
 
--   **[Profil bearbeiten](8_8_1cc_Profil_bearbeiten.md)**  
+  
 
--   **[Profil löschen](8_8_1cd_Profil_loeschen.md)**  
+  
 
--   **[Profil kopieren](8_8_1ce_Profil_kopieren.md)**  
+  
 
--   **[Funktionen der Profilseite](8_8_1cf_Preis_Portal.md)**  
+  
 
 
 

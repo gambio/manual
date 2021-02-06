@@ -6,9 +6,9 @@
 
 Die einzelnen Bereiche können über die Reiter Artikelexport, Preis-Portal und Import ausgewählt werden.
 
--   **[Export](8_8_1_Export.md)**  
+  
 
--   **[Import](8_8_2_Import.md)**  
+  
 
 
 

@@ -16,11 +16,11 @@ CAUTION:
 
 In manchen Shopversionen wird zum Teil unter Kunden \> Kunden \> Kunden-Details eine Cronjob-URL angezeigt. Diese ist nicht mehr aktuell und wird mit einem kommenden Update entfernt. Für das automatisierte Löschen von Gast-Konten sollte die Cronjob-URL unter Toolbox \> Zeitgesteuerte Aufgaben verwendet werden.
 
--   **[Felder des Registrierungsformulars](12_1_1_Felder_des_Registrierungsformulars.md)**  
+  
 
--   **[Kunden-Details](12_1_1_Kunden_Details.md)**  
+  
 
--   **[Pflichtfelder festlegen](12_1_2_Pflichtfelder_festlegen.md)**  
+  
 
 
 

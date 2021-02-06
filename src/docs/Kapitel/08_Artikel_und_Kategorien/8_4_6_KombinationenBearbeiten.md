@@ -15,7 +15,7 @@ Beim Bearbeiten einer Kombination stehen die gleichen Einstellungen zur Verfügu
 |Preis|Kombinationsfestpreis der Kombination / Variante|
 |VPE|Verpackungseinheit der Kombination / Variante|
 |Lieferzeit|Lieferstatus der Kombination / Variante|
-|Bild|Bild-Kollektion der Kombination / Variante \(siehe Kapitel _**Kollektionen**_\)|
+|Bild|Bild_\)|
 
 Passe die gewünschten Eigenschaftswerte an und bestätige die Eingaben mit _**Speichern**_ bzw. _**Speichern & Schließen**_. Über _**Abbrechen**_ kannst du den Dialog wieder verlassen, ohne die Kombination zu ändern.
 

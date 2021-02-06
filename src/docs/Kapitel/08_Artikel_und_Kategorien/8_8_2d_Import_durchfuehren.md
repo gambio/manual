@@ -2,7 +2,7 @@
 
 CAUTION:
 
-**Vor dem Durchführen eines CSV-Imports** sollte unbedingt eine **Sicherung der Datenbank** angelegt werden.
+**Vor dem Durchführen eines CSV angelegt werden.
 
 Du kannst dies wahlweise über die shopeigene Funktion unter Toolbox \> Datenbanksicherung oder den Administrationsbereich deines Hosting-Anbieters vornehmen.
 

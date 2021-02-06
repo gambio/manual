@@ -6,11 +6,11 @@ Eine komplette Sicherung der Daten deines Onlineshops umfasst sämtliche Dateien
 
 **Note:** Versetze deinen Shop vor der Datensicherung in den Offline-Modus. Du stellst dadurch sicher, dass während deiner Datensicherung keine Änderungen vorgenommen werden.
 
--   **[Sicherung der Dateien und Verzeichnisse deines Shops](16_1_1_Sicherung_der_Dateien_und_Verzeichnisse_Ihres_Shops.md)**  
+  
 
--   **[Sicherung der Shop-Datenbank](16_1_2_Sicherung_der_Shop_Datenbank.md)**  
+  
 
--   **[Zurückspielen einer Datensicherung](16_1_3_Zurueckspielen_einer_Datensicherung.md)**  
+  
 
 
 

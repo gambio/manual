@@ -2,7 +2,7 @@
 
 Mit G-Motion werden starre Artikelbilder animiert. Bei der Animation kannst du zwischen Schwenk, Zoom und einer Kombination aus Schwenk und Zoom auswählen. G-Motion-Bilder werden ausschließlich auf der Artikel-Detailseite angezeigt.
 
-**Note:** Die Zoom-Funktion auf der Artikel-Detailseite kann bei G-Motion-Bildern nicht verwendet werden! G-Motion wird vom Honeygrid **nicht** unterstützt!
+**Note:** Die Zoom unterstützt!
 
 1.  Aktiviere die Einstellung G-Motion aktivieren
 2.  Aktiviere bei den Artikelbildern das Kontrollkästchen Als G-Motion-Bild nutzen, für die du die Animation einrichten möchtest

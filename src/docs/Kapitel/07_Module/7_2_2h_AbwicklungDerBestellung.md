@@ -52,7 +52,7 @@ Der Versand kann über eine Bestellstatusänderung an Klarna gemeldet werden. W�
 
 CAUTION:
 
-Sofern die ERP-Integration in den Experteneinstellungen **nicht aktiviert** worden ist, muss der Versand zwingend über die Funktion im Shop gemeldet werden. Wird die Statusänderung auf anderem Wege vorgenommen, erfolgt **keine Versandmeldung** an Klarna und somit **keine Auszahlung**!
+Sofern die ERP!
 
 ## Sendungsnummer an Klarna senden 
 

@@ -29,7 +29,7 @@ Beim Bearbeiten und Anlegen von Spalten sind folgende Eingaben möglich:
 -   Spalteninhalt
 -   Standardwert
 
-Der Spalteninhalt entspricht einer Variable \(Platzhalter für Dateneintrag\) im Shop. Diese kann über das Dropdown-Menü Verfügbare Variablen festgelegt werden. Hier werden alle Möglichkeiten mit ihrer Beschreibung aufgelistet. Bitte beachte, dass diese ausschließlich aus **Artikeln und Kategorien** bezogen werden! Nach Auswahl des Eintrags kann der zugehörige Variablenname mit Klick auf Hinzufügen eingetragen werden. Bestätige die Änderung mit Klick auf OK, über Abbrechen werden die Änderungen verworfen.
+Der Spalteninhalt entspricht einer Variable \(Platzhalter für Dateneintrag\) im Shop. Diese kann über das Dropdown bezogen werden! Nach Auswahl des Eintrags kann der zugehörige Variablenname mit Klick auf Hinzufügen eingetragen werden. Bestätige die Änderung mit Klick auf OK, über Abbrechen werden die Änderungen verworfen.
 
 Wenn Eigenschaften beim Export berücksichtigt werden, steht als letzter Eintrag die Spalte Eigenschaften zur Verfügung. Die einzelnen Eigenschaften können im Bereich Eigenschaftenauswahl durch Anklicken ausgewählt werden.
 

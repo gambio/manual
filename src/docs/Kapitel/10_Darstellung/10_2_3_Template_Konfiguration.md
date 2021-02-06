@@ -9,23 +9,23 @@ Unter Darstellung \> Template-Einstellungen befindet sich die Themeauswahl. Hier
 -   Top-Menü
 -   Warenkorb
 
--   **[Einstellungen für die Startseite](10_2_3a_Einstellungen_fuer_die_Startseite.md)**  
+  
 
--   **[Einstellungen für die Artikeldetailseite](10_2_3b_Einstellungen_fuer_die_Artikeldetailseite.md)**  
+  
 
--   **[Einstellungen für die Artikelübersicht](10_2_3c_Einstellungen_fuer_die_Artikeluebersicht.md)**  
+  
 
--   **[Einstellungen für das Kategoriemenü](10_2_3d_Einstellungen_fuer_das_Kategoriemenue.md)**  
+  
 
--   **[Einstellungen für das Top-Menü](10_2_3e_Einstellungen_fuer_das_TopMenue.md)**  
+  
 
--   **[Einstellungen für den Warenkorb](10_2_3f_Einstellungen_fuer_den_Warenkorb.md)**  
+  
 
--   **[Einstellungen für die Artikelbewertungen](10_2_3g_EinstellungenFuerDieArtikelbewertungen.md)**  
+  
 
--   **[Einstellungen für die Artikelbilder](10_2_3h_Einstellungen_fuer_die_Artikelbilder.md)**  
+  
 
--   **[Allgemeine Template-Einstellungen](10_2_3i_AllgemeineTemplateEinstellungen.md)**  
+  
 
 
 

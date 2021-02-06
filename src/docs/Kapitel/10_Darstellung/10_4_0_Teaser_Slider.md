@@ -4,11 +4,11 @@ Ein Teaser-Slider ist eine Bildpräsentation, die im Shopbereich oberhalb des Se
 
 ![](Bilder/Abb143_Teaser_SliderInDerShopansicht.png "Teaser-Slider in der Shopansicht")
 
--   **[Teaser-Slider verwalten](10_4_1_Teaser_Slider_verwalten.md)**  
+  
 
--   **[Teaser-Slider zuweisen](10_4_2_Teaser_Slider_zuweisen.md)**  
+  
 
--   **[Image-Map](10_4_3_Image_Map.md)**  
+  
 
 
 

@@ -12,11 +12,11 @@ CAUTION:
 
 Gutscheine können auch von Gastkunden eingelöst werden. Wenn der Warenwert geringer ist, als der Gutscheinwert, verfällt bei Gastkunden der Restwert, da Gastkundenkonten nur einmalig verwendet werden können. Mit dem Kundengruppencheck kannst du Gutscheinartikel vor Gastkunden verbergen. Nähere Informationen zum Kundengruppencheck erhältst du im Kapitel Zusatzmodule.
 
--   **[Gutscheine verschicken](11_1_1_Gutscheine_verschicken.md)**  
+  
 
--   **[Gutscheine als Artikel](11_1_2_Gutscheine_als_Artikel.md)**  
+  
 
--   **[Gutscheinkarten](11_1_3_Gutscheinkarten.md)**  
+  
 
 
 

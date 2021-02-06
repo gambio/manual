@@ -7,11 +7,11 @@ Im Vergleich hier eine herkömmliche Produktseite \(links\) gegenüber einer Amp
 ![](Bilder/ampify/ampify_vergleich.png "Vergleich einer Produktseite in der mobilen Ansicht des
       Honeygrids (links) mit der entsprechenden Ampify-Seite (rechts)")
 
--   **[Installation](7_4_14_1_Installation.md)**  
+  
 
--   **[Inbetriebnahme](7_4_14_2_Inbetriebnahme.md)**  
+  
 
--   **[Einstellungen im Shop](7_4_14_3_EinstellungenImShop.md)**  
+  
 
 
 

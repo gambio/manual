@@ -1,6 +1,6 @@
 # Kombinationen löschen 
 
-Kombinationen können wahlweise einzeln, über das Mülltonnen-Icon, oder die Mehrfachauswahl gelöscht werden. Wird mindestens ein Haken gesetzt, wird der Button _**Kombinationen löschen**_ angezeigt.
+Kombinationen können wahlweise einzeln, über das Mülltonnen_ angezeigt.
 
 ![](Bilder/ArtikelEigenschaften_KombinationsuebersichtMehrfachauswahl.png "Schaltfläche _**Kombinationen löschen**_ nach
       Anhaken einer Kombination")

@@ -4,7 +4,7 @@ Das Rechnungs Logo wird auf der PDF-Rechnung und dem PDF-Lieferschein im oberen 
 
 CAUTION:
 
-Für das Rechnungs-Logo sollte **keine** Bild-Datei mit **Transparenz**-Effekten verwendet werden \(z.B. bei Bildern im PNG-Format\), da es sonst zu Fehlern kommen kann.
+Für das Rechnungs-Effekten verwendet werden \(z.B. bei Bildern im PNG-Format\), da es sonst zu Fehlern kommen kann.
 
 1.  Wenn bereits ein Rechnungs Logo eingestellt ist, aktiviere das Kontrollkästchen Datei löschen und klicke auf Speichern
 2.  Klicke bei Datei hochladen auf Durchsuchen bzw. Datei auswählen \(je nach Browser\) und wähle das neue PDF Logo im Dialogfenster aus
