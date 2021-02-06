@@ -2,7 +2,7 @@
 
 Neben den gewicht- und kostenbasierten Versandarten stehen weitere Versandarten mit Sonderfunktionen zur Verfügung.
 
-## Artikel-Versandkosten { .section}
+## Artikel-Versandkosten 
 
 Im Artikel-Versandkosten-Modul werden die grundsätzlichen Versandkosten gewichtbasiert nach Zonen berechnet. Zusätzlich zu den gewichtbasierten Versandkosten werden die in der Artikel-Eingabemaske hinterlegten Versandkosten aus den Artikeln des Warenkorbs berechnet. Die Versandkosten werden dabei nicht je Position, sondern je Artikel berechnet.
 
@@ -18,7 +18,7 @@ Hierzu kann eine fiktive Staffelung verwendet werden, die die Versandkosten nich
 
 9999999:0
 
-## Beispielhafte Konfiguration des Artikel-Versandkosten-Moduls { .section}
+## Beispielhafte Konfiguration des Artikel-Versandkosten-Moduls 
 
 Wir gehen in unserem Beispiel davon aus dass für alle Artikel abweichende Versandkosten pro Stück verwendet werden sollen. Dabei soll berücksichtigt werden, dass für den gesamten Versand bis 31 Kilo Gewicht jedoch mindestens 5 Euro Versandkosten berechnet werden sollen. Dies gilt für alle Versandländer, diese sind in Zone 1 Länder eingetragen.
 
@@ -40,11 +40,11 @@ Die Versandkosten pro Exemplar der verschiedenen Artikel und der eingetragenen S
 |Versand bis 31 kg| | |2.50 Euro|
 |**Summe**| | |22.50 Euro|
 
-## Pauschale Versandkosten { .section}
+## Pauschale Versandkosten 
 
 Bei der Versandart Pauschale Versandkosten wird bei jeder Bestellung eine Versandkostenpauschale berechnet. Die Pauschale ist unabhängig vom Bestellgewicht, der Anzahl der Artikel und dem Warenwert.
 
-## Versandkosten pro Stück { .section}
+## Versandkosten pro Stück 
 
 Mit der Versandart Versandkosten pro Stück wird ein pauschaler Versandkostenwert für jeden Artikel berechnet, der im Warenkorb liegt.
 

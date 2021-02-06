@@ -1,6 +1,6 @@
 # Datei mit Tabellenkalkulation bearbeiten 
 
-## Datei öffnen { .section}
+## Datei öffnen 
 
 CSV-Dateien können idealerweise mit einer Tabellenkalkulation geprüft und bearbeitet werden. Wir empfehlen zu diesem Zweck die kostenlose Software Calc aus dem OpenOffice.org- oder LibreOffice-Paket.
 
@@ -16,7 +16,7 @@ Zudem muss der verwendete Zeichensatz festgelegt werden, damit auch Umlaute und 
 
 Tabellenkalkulationen versuchen oftmals sogenannte Felddatentypen automatisch zu erkennen, um z.B. ein Datum entsprechend darzustellen. Bei einem CSV-Import dürfen die Daten jedoch nicht verändert werden. Um dies zu verhindern, klicke bitte in die linke obere Ecke der Beispieltabelle \(kleines blaues Kästchen\) um alle Felder zu markieren. Stelle anschließend den Spaltentyp im Dropdown auf Text.
 
-## Datei speichern { .section}
+## Datei speichern 
 
 Wenn du die CSV-Datei nach dem Vornehmen der Änderungen speicherst, können die Einstellungen für Zeichensatz und Trennzeichen durch die Standardwerte der Tabellenkalkulation überschrieben werden.
 

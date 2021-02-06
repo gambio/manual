@@ -12,11 +12,11 @@ Seiten mit rechtlichen Informationen, wie z.B. das Widerrufsrecht, sollten grund
 
 Es stehen zwei Schaltlfächen zum Erzeugen einer Robots-Datei zur Verfügung:
 
-## Generieren und speichern { .section}
+## Generieren und speichern 
 
 Mit Klick auf diese Schaltfläche wird die Robots-Datei erzeugt und direkt auf dem FTP-Server aktualisiert.
 
-## Generieren und downloaden { .section}
+## Generieren und downloaden 
 
 Über diese Schaltfläche wird eine neue Robots-Datei erzeugt und zum Download angeboten. Sie kann bei Bedarf angepasst werden, bevor sie manuell auf den FTP-Server hochgeladen wird. Verbinde dich hierzu über ein FTP-Programm mit deinem FTP-Server und lade die Datei in das Verzeichnis hoch, welches links neben dem Button angezeigt wird.
 

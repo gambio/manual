@@ -4,7 +4,7 @@ Mit Sonderangeboten bietest du ausgewählte Mengen eines Artikels zu einem Sonde
 
 ![](Bilder/Abb399_ListeDerSonderangebote.png "Liste der Sonderangebote")
 
-## Sonderangebot anlegen { .section}
+## Sonderangebot anlegen 
 
 Neue Sonderangebote kannst du im Gambio Admin deines Shops unter Artikel \> Sonderangebote anlegen.
 

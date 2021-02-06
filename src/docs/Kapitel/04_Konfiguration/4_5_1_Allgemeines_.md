@@ -2,7 +2,7 @@
 
 Die allgemeine rechtliche Konfiguration kannst du unter Shop Einstellungen \> Rechtliches vornehmen.
 
-## Datenschutzlink { .section}
+## Datenschutzlink 
 
 ![](Bilder/Abb032_DatenschutzlinkAnzeigen.png "Datenschutzlink anzeigen")
 
@@ -12,7 +12,7 @@ Ein Link zu den aktuellen Datenschutzbestimmungen wird in der Grundeinstellung a
 
 Zudem kann festgelegt werden, ob ein so angezeigter Link um eine Checkbox ergänzt wird. Der Kunde muss in diesem Fall bestätigen, dass dieser die Datenschutzbestimmungen zur Kenntnis genommen hat, bevor er fortfahren kann.
 
-## Allgemeine Geschäftsbedingungen { .section}
+## Allgemeine Geschäftsbedingungen 
 
 ![](Bilder/Abb034_AllgemeineGeschaeftsbedingungen.png "Allgemeine Geschäftsbedingungen")
 
@@ -20,7 +20,7 @@ In der Grundkonfiguration werden die Allgemeinen Geschäftsbedinungen \(AGB\) im
 
 **Note:** Deaktiviere das Kontrollkästchen im Bestellvorgang bestätigen, wenn du die Anzeige der AGB im Bestellvorgang deaktivierst. Eine Bestellung ist sonst nicht möglich.
 
-## Widerrufsrecht { .section}
+## Widerrufsrecht 
 
 ![](Bilder/Abb035_Widerrufsrecht.png "Widerrufsrecht")
 
@@ -43,7 +43,7 @@ In der Grundkonfiguration wird das Widerrufsrecht im Bestellvorgang angezeigt un
 |Verzicht auf Widerrufsrecht für Download-Artikel als Pflichtfeld|Muss bei Download-Artikeln zwangsweise auf das Widerrufsrecht verzichtet werden?|
 |Verzicht auf Widerrufsrecht für Dienstleistungen als Pflichtfeld|Muss bei Dienstleistungen zwangsweise auf das Widerrufsrecht verzichtet werden?|
 
-## Datenweitergabe an Transportunternehmen { .section}
+## Datenweitergabe an Transportunternehmen 
 
 ![](Bilder/Abb036_DatenweitergabeAnTransportunternehmen.png "Datenweitergabe an Transportunternehmen")
 
@@ -63,19 +63,19 @@ Der Hinweis wird nur angezeigt, wenn sowohl die Haken für im Bestellvorgang anz
 
 Die Einstellung im Bestellvorgang bestätigen greift nur, wenn die Einwilligung auch angezeigt wird.
 
-## Bestellbestätigungs-Seite { .section}
+## Bestellbestätigungs-Seite 
 
 Auf der Bestellbestätigungs-Seite werden in der Grundkonfiguration Links zu den aktuell gültigen Datenschutzerklärungen, den AGB und dem Widerrufsrecht angezeigt. Deaktiviere die Kontrollkästchen zu den Texten, die auf der Bestellbestätigung nicht angezeigt werden sollen.
 
-## IP-Logging { .section}
+## IP-Logging 
 
 Nähere Informationen zum IP-Logging erhältst du im Kapitel IP-Logging.
 
-## Mehrwertsteuer-Anzeige { .section}
+## Mehrwertsteuer-Anzeige 
 
 In der Grundkonfiguration wird auf allen Seiten die Mehrwertsteuer unterhalb des Artikelpreises angezeigt, von denen aus ein Artikel in den Warenkorb gelegt werden kann. Deaktiviere das Kontrollkästchen Mehrwertsteuer unter Artikelpreisen anzeigen, wenn du die Anzeige deaktivieren möchtest. Setze den Haken für Auch Mehrwertsteuer anzeigen, wenn diese gleich 0 sind wenn du die Mehrwertsteuer ebenfalls anzeigen möchtest, wenn der Steuersatz 0% ist.
 
-## Einwilligungsprotokoll exportieren { .section}
+## Einwilligungsprotokoll exportieren 
 
 Über Klick auf die Schaltfläche Exportieren wird eine Liste im CSV-Format erstellt, in der die Zustimmungen deiner Kunden zu den jeweiligen Rechtstexten des Shops aufgeführt werden.
 

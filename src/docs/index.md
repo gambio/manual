@@ -10,7 +10,7 @@ Viel Erfolg und gute Umsätze!
 
 Michael Krönke, Teamleiter des Technischen Supports
 
-## Das Gambio-Kundenportal { .section}
+## Das Gambio-Kundenportal 
 
 www.gambio-support.de
 

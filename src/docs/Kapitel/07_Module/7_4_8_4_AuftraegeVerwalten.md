@@ -1,6 +1,6 @@
 # Aufträge verwalten 
 
-## Versandaufträge { .section}
+## Versandaufträge 
 
 ![](Bilder/hermes/HE_20170615_012.png "Erfasste Versandaufträge")
 
@@ -14,7 +14,7 @@
 |Label abrufen|Hierüber können die Label einzeln abgerufen werden.|
 |Position bestimmen|Über die Einstellung auf der rechten Seite neben Label abrufen kann die Position des Labels auf der DIN A4-Seite bestimmt werden.|
 
-## Abholaufträge { .section}
+## Abholaufträge 
 
 Hier können die Abholaufträge für die Pakete an die Kunden eingerichtet werden. Dies kann bei ProPS bequem als Sammelauftrag erfolgen, es genügt, das Datum und die Anzahl der Pakete der verschiedenen Paketgrößen auszuwählen.
 
@@ -25,7 +25,7 @@ Hier können die Abholaufträge für die Pakete an die Kunden eingerichtet werde
 
 ![](Bilder/hermes/HE_20170615_015.png "Einstellen des Abholdatums")
 
-## Account-Infos { .section}
+## Account-Infos 
 
 In den Account-Infos werden die Kundeninformationen des ProfiPaketServices aufgeführt. Es können die Kosten für die verschiedenen Pakete eingesehen werden, aufgelistet nach Größe und Versandzonen.
 

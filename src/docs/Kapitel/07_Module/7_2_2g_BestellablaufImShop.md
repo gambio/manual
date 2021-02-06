@@ -1,6 +1,6 @@
 # Bestellablauf im Shop 
 
-## Darstellung der Module im Bestellvorgang { .section}
+## Darstellung der Module im Bestellvorgang 
 
 ![](Bilder/klarna_20180111_025.png "Klarna Rechnung")
 
@@ -10,7 +10,7 @@
 
 ![](Bilder/klarna_ueberweisung.png "Klarna Überweisung")
 
-## Bestellweg { .section}
+## Bestellweg 
 
 Nach Auswahl einer Klarna Zahlungsweise muss der Kunde zuerst sein Geburtsdatum und die Mobiltelefonnummer angeben, danach wird der Bestellprozess fortgeführt. Die Abfrage erscheint nur wenn diese Daten bisher noch nicht im Shop erfasst wurden. Wichtig ist, dass der Kunde den Nutzungsbedingungen zustimmt.
 

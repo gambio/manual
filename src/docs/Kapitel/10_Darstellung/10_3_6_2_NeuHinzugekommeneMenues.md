@@ -2,7 +2,7 @@
 
 Durch die weiterreichenden Einstellungsmöglichkeiten sind in den einzelnen Bereichen verschiedene Optionen hinzugekommen.
 
-## Header { .section}
+## Header 
 
 **Note:**
 
@@ -292,7 +292,7 @@ Die grafische Oberfläche des Shops wird in der Breite in 12 sogenannte Grid-Spa
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
-## Footer { .section}
+## Footer 
 
 ![](Bilder/styleedit4/se4_0228_Malibu_BereicheFooterAllgemein.png "Einstellung unter Bereiche / Footer /
         Allgemein")
@@ -305,7 +305,7 @@ Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Elemen
 
 ![](Bilder/styleedit4/se4_0230_Malibu_BereicheFooterAllgemeinWrappingAn.png "Footer mit Wrapping")
 
-## Layout { .section}
+## Layout 
 
 ![](Bilder/styleedit4/se4_0208_Malibu_BereicheLayout.png "Aufteilung unter Bereiche / Layout")
 
@@ -318,7 +318,7 @@ Unter Bereiche / Layout / Varianten kann das Layout des Themes umgestellt werden
 -   Boxed
 -   Hero
 
-## Teaser-Slider { .section}
+## Teaser-Slider 
 
 ![](Bilder/styleedit4/se4_0210_Malibu_BereicheTeaserslider.png "Aufteilung unter Bereiche /
         Teaser-Slider")
@@ -335,7 +335,7 @@ Es stehen folgende Varianten für den Teaser-Slider zur Auswahl:
 ![](Bilder/styleedit4/se4_0212_Malibu_BereicheTeasersliderAllgemein.png "Einstellungen unter Bereiche / Teaser-Slider /
         Allgemein")
 
-## Produktseite { .section}
+## Produktseite 
 
 ![](Bilder/styleedit4/se4_0213_Malibu_BereicheProduktseite.png "Aufteilung unter Bereiche /
         Produktseite")

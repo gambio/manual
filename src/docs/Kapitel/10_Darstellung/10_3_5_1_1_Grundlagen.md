@@ -5,7 +5,7 @@ Das Menü Grundlagen beinhaltet die Abschnitte Allgemein, Typografie, Hintergrun
 ![](Bilder/styleedit4/se4_0011_grundlagenBereiche_emfalse.png "Menü Grundlagen mit dem aufgeklappten
       Abschnitt Allgemein")
 
-## Allgemein { .section}
+## Allgemein 
 
 Der Abschnitt Allgemein beinhaltet die Einstellungen Primärfarbe und Logo.
 
@@ -24,7 +24,7 @@ Die Primärfarbe wird an verschiedenen Stellen des Shops verwendet. Hierzu zähl
 
 Über die Schaltfläche Löschen kann die Zuordnung des Logos entfernt werden.
 
-## Typografie { .section}
+## Typografie 
 
 In diesem Abschnitt können die allgemeine Schriftart, -farbe und -größe festgelegt werden.
 
@@ -39,7 +39,7 @@ Bei der Angabe der Schriftgröße muss standardmäßig eine Einheit mit angegebe
 |
 |Google Web Font Url|Wenn Google Web Fonts verwendet werden, muss eine URL zur der jeweiligen Schriftart bzw. den jeweiligen Schriftarten hinterlegt sein. Standardmäßig ist dies die Schriftart Roboto mit der URL: https://fonts.googleapis.com/css?family=Roboto:400,700,300,900|
 
-## Hintergrund { .section}
+## Hintergrund 
 
 Hier können Einstellungen für den Hintergrund vorgenommen werden. Es können wahlweise Hintergrundbilder oder -farben eingerichtet werden. Es können für letztere auch Farbverläufe eingestellt werden.
 
@@ -51,7 +51,7 @@ Es wird hierbei zwischen dem Hintergrund \(der gesamten Seite\) und dem Hintergr
 
 Die Hintergrundfarbe unter Hintergrund ist blau eingestellt, die Hintergrundfarbe unter Hintergrund des Containers rot.
 
-## Navigation Menü { .section}
+## Navigation Menü 
 
 In diesem Abschnitt kann die Darstellung der horizontalen Menüleiste \(ohne Dropdown\) festgelegt werden. Es stehen Einstellungen für die Hintergrundfarbe, wahlweise als Farbverlauf, die Link-Farbe oder ein Hintergrundbild zur Verfügung.
 

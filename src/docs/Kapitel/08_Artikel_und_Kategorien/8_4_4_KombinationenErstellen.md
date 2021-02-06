@@ -16,13 +16,13 @@ Das Zuweisen der Eigenschaftswerte zu einem Artikel kann manuell oder automatisc
     -   rot, M
     -   rot, L
 
-## Kombinationen automatisch ermitteln { .section}
+## Kombinationen automatisch ermitteln 
 
 Das automatische Ermitteln der Kombinationen ist die einfachste Möglichkeit.
 
 Setze die Haken für die Eigenschaften, die du kombinieren möchtest. Bei Bedarf kannst du auch über das Plus-Zeichen die jeweilige Eigenschaft aufklappen und einzelne Eigenschaftswerte für die Kombination auswählen. Klicke auf _**Kombinationen automatisch ermitteln**_. Überzählige Kombinationen - also Varianten eines Artikels, die du nicht anbieten möchtest - können auch nachträglich wieder gelöscht werden.
 
-## Kombinationen manuell erstellen { .section}
+## Kombinationen manuell erstellen 
 
 Beim manuellen Erstellen der Kombinationen wird jede Variante des Artikels einzeln angelegt.
 

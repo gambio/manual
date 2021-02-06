@@ -1,6 +1,6 @@
 # Persönliche Daten 
 
-## Shopbetreiber-Anschrift { .section}
+## Shopbetreiber-Anschrift 
 
 Die Absenderadresse auf der Bestellbestätigung entspricht der unter Shop Einstellungen \> Mein Shop im Feld Adresse eingetragenen Adresse. Füge deine Geschäftsadresse in das Feld Adresse ein und speichere die Änderung. Bei zukünftigen Bestellungen wird diese Adresse im Kopfbereich ausgegeben.
 
@@ -35,7 +35,7 @@ Für das Widerrufsformular stehen unter Shop Einstellungen \> Mein Shop separate
 |Telefonnummer|Die Telefonnummer des Shop-Betreibers|
 |Faxnummer|Die Faxnummer des Shop-Betreibers|
 
-## Shopname { .section}
+## Shopname 
 
 Lege den Namen deines Shops unter Shop Einstellungen \> Mein Shop im Feld Name des Shops fest. Der Name deines Shops wird in automatisch erstellten E-Mails sowie abhängig von der im Kapitel Meta-Titel beschriebenen Einstellungen in der Titelleiste des Webbrowsers angezeigt.
 

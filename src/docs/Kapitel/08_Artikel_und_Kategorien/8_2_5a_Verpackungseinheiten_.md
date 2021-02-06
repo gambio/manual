@@ -8,7 +8,7 @@ Unter Artikel \> Verpackungseinheiten können neue Verpackungseinheiten angelegt
 
 Bei der Installation des Shops werden standardmäßig keine Verpackungseinheiten hinzugefügt, sie müssen also händisch angelegt werden.
 
-## Verpackungseinheiten anlegen { .section}
+## Verpackungseinheiten anlegen 
 
 Um eine Verpackungseinheit anzulegen, gehe im Gambio Admin unter Artikel \> Verpackungseinheiten.
 
@@ -21,7 +21,7 @@ Klicke hier in der rechten, oberen Ecke auf die Schaltfläche Erstellen
 
 Es öffnet sich das Eingabefenster zum Anlegen einer neuen Verpackungseinheit. Trage hier den Namen der Einheit für die im Shop vorhandenen Sprachen ein und bestätige die Eingabe mit einem Klick auf Hinzufügen. Über Abbrechen kann das Dialogfenster geschlossen werden, ohne die Einheit anzulegen. Wenn du vor dem Anlegen den Haken für Standard setzt, wird die neue Einheit als Standard-Verpackungseinheit definiert.
 
-## Verpackungseinheiten bearbeiten { .section}
+## Verpackungseinheiten bearbeiten 
 
 Um eine Verpackungseinheit zu bearbeiten, gehe unter Artikel \> Verpackungseinheiten und bewege den Mauszeiger in die Zeile der Verpackungseinheit, die du bearbeiten möchtest.
 
@@ -36,7 +36,7 @@ Es kann jeweils der Name der Verpackungseinheit pro Sprache angepasst werden. Zu
 
 Bestätige die Änderungen mit Klick auf Aktualisieren. Über Abbrechen kannst du das Dialogfenster verlassen, ohne die gemachten Einstellungen zu übernehmen.
 
-## Verpackungseinheien löschen { .section}
+## Verpackungseinheien löschen 
 
 Um eine Verpackungseinheit zu löschen, gehe unter Artikel \> Verpackungseinheiten und bewege den Mauszeiger in die Zeile der Verpackungseinheit, die du löschen möchtest.
 
@@ -53,7 +53,7 @@ Es wird eine Sicherheitsabfrage angezeigt. Bestätige mit einem Klick auf Lösch
 
 Die Standard-Verpackungseinheit kann nicht gelöscht werden, daher wird für sie kein Mülltonnen-Symbol angezeigt.
 
-## Verpackungseinheiten auswählen { .section}
+## Verpackungseinheiten auswählen 
 
 Die Verpackungseinheit wird im Artikel ausgewählt und eingestellt. Gehe hierzu unter Artikel \> Artikel/Kategorien und bearbeite den gewünschten Artikel. Die notwendigen Einstellungen können im Bereich Artikelstammdaten vorgenommen werden.
 
@@ -62,7 +62,7 @@ Die Verpackungseinheit wird im Artikel ausgewählt und eingestellt. Gehe hierzu 
 
 Verwende hier das Dropdown VPE um die gewünschte Verpackungseinheit auszuwählen.
 
-## Festlegen des VPE Werts { .section}
+## Festlegen des VPE Werts 
 
 Der VPE Wert legt fest, wie viele Einheiten der Grundeinheit \(z.B. Stück, Liter, Kilogramm\) mit dem Artikel verkauft werden.
 

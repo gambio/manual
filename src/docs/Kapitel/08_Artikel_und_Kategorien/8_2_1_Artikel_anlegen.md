@@ -22,7 +22,7 @@ Neue Artikel kannst du in der Artikel- und Kategorieübersicht unter Artikel \> 
 
 ![](Bilder/ArtikelPlusMinus_.png "Icon zum Ein- und Ausklappen der Bereiche")
 
-## Kategorien { .section}
+## Kategorien 
 
 Im Bereich Kategorien wird aufgeführt in welchen Kategorien der Artikel verlinkt ist, der gerade bearbeitet wird. Hierüber können auch Verweise auf weitere Kategorien hinzugefügt werden.
 
@@ -38,7 +38,7 @@ Wird das Multiselect angezeigt, kann durch einen Mausklick eine einzelene Katego
 
 In aller Regel sollen jedoch zusätzliche Kategorien verlinkt werden. Hierzu können die gewünschten Einträge mit gedrückter STRG-Taste angeklickt werden. Die Auswahl mehrerer, direkt untereinanderstehender Einträge ist mit gedrückter SHIFT-Taste möglich.
 
-## Artikelstammdaten { .section}
+## Artikelstammdaten 
 
 ![](Bilder/Abb085_ArtikelEingabemaske.png "Artikelstammdaten in der Artikelmaske")
 
@@ -73,7 +73,7 @@ In aller Regel sollen jedoch zusätzliche Kategorien verlinkt werden. Hierzu kö
 
 **Note:** Bitte beachte: Diese Darstellung entspricht der Grundkonfiguration des Shopsystems. Zusatzfunktionen und Drittanbietermodule können die Darstellung der Artikel-Eingabemaske beeinflussen. Nähere Informationen zu hier nicht dokumentierten Eingabefeldern findest du in der Anleitung des jeweiligen Moduls.
 
-## Erweiterte Konfiguration { .section}
+## Erweiterte Konfiguration 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -104,7 +104,7 @@ G-Motion wird vom Honeygrid-Template nicht mehr unterstützt.
 
 **Note:** Bitte beachte: Diese Darstellung entspricht der Grundkonfiguration des Shopsystems. Zusatzfunktionen und Drittanbietermodule können die Darstellung der Artikel-Eingabemaske beeinflussen. Nähere Informationen zu hier nicht dokumentierten Eingabefeldern findest du in der Anleitung des jeweiligen Moduls.
 
-## Zusatzfelder { .section}
+## Zusatzfelder 
 
 Über Zusatzfelder können weitere Informationen zu einem Artikel gespeichert werden. Die Angaben werden hauptsächlich für den Export zu Preisportalen verwendet, können jedoch auch auf der Artikel-Detailseite ausgegeben werden. Jedes Zusatzfeld hat eine Bezeichnung und einen Wert.
 
@@ -126,11 +126,11 @@ CAUTION:
 
 Das Löschen eines Zusatzfelds findet in **allen** Artikeln statt, auch wenn diese mit einem Wert belegt sind. Wenn du die Verwendung des Zusatzfelds in einem einzelnen Artikel verhindern möchtest, sollten stattdessen die Einträge unter Wert entfernt werden.
 
-## Artikel-Filter { .section}
+## Artikel-Filter 
 
 Im Abschnitt Filterauswahl kannst du Artikel-Filter für deinen neuen Artikel festlegen. Nähere Informationen zu Artikel-Filtern findest du im Kapitel Artikel-Filter.
 
-## Google Kategorie { .section}
+## Google Kategorie 
 
 Über Google Kategorie kann der Artikel der internen Taxonomie von Google Shopping zugeordnet werden, wenn dieser zu Google Shopping exportiert wird. Die Auswahl hat auf die Kategorien des Shops keinen Einfluss.
 
@@ -142,7 +142,7 @@ Im Abschnitt Filterauswahl kannst du Artikel-Filter für deinen neuen Artikel fe
 
 Eine bestehende Google Kategorie kann mit Klick auf das Bleistift-Symbol bearbeitet werden. Wird der Haken in der Box Löschen gesetzt, wird die Google Kategorie beim nächsten Klick auf Speichern oder Aktualisieren wieder entfernt.
 
-## Artikeldetails { .section}
+## Artikeldetails 
 
 **Note:** Für jede im Shop angelegte Sprache \(standardmäßig Deutsch und Englisch\) gibt es einen eigenen Bereich für die Artikeldetails.
 
@@ -170,11 +170,11 @@ URL Keywords dürfen weder Leerzeichen, noch Umlaute oder Sonderzeichen enthalte
 
 Über die Schaltfläche Editor wechseln kann auf einen alternativen HTML-Editor mit Zeilennummerangabe umgeschaltet werden.
 
-## Artikelbilder { .section}
+## Artikelbilder 
 
 siehe Kapitel Artikelbilder
 
-## Kundengruppe { .section}
+## Kundengruppe 
 
 ![](Bilder/Abb093_Kundengruppe.PNG "Einstellung Kundengruppe")
 
@@ -184,7 +184,7 @@ siehe Kapitel Artikelbilder
 
 Wird der Haken für Alle gesetzt, werden nach dem nächsten Klick auf Speichern oder Aktualisieren die Rechte für alle Kundengruppen vergeben.
 
-## Preisoptionen { .section}
+## Preisoptionen 
 
 Im Bereich Preisoptionen stehen folgende Einstellungen zur Verfügung
 

@@ -9,7 +9,7 @@ Einer vorhandenen Bestellung kannst du neue Artikel über die Bestell-Eingabemas
 5.  Wiederhole die Schritte 2 bis 4, bis die Bestellung komplett ist
 6.  Klicke auf Speichern, um die bestellten Artikel zu speichern
 
-## Artikel-Varianten erfassen { .section}
+## Artikel-Varianten erfassen 
 
 Wenn du einen Artikel mit Artikelattributen oder Eigenschaften hinzugefügt hast, musst du die verfügbaren Varianten von Hand eintragen.
 

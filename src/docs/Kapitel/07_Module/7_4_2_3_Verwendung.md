@@ -5,7 +5,7 @@ Das eKomi-Modul versendet die Bewertungs-E-Mails standardmäßig automatisch. Zu
 ![](Bilder/20181001_014.png "Versenden der eKomi-E-Mail aus der Detailansicht der
       Bestellung")
 
-## Bewertung { .section}
+## Bewertung 
 
 Der Link in der Bewertungs-E-Mail führt den Kunden zu einer Seite, auf der dieser den Shop \(nicht die Artikel\) bewerten kann.
 

@@ -2,7 +2,7 @@
 
 Nach Installation des Moduls kann dieses mit Klick auf Bearbeiten konfiguriert werden. Für die verschiedenen Anbieter müssen jeweils die benötigten Zugangsdaten hinterlegt werden.
 
-## Google { .section}
+## Google 
 
 ![](Bilder/Abb094_SSO_EinstellungenGoogle.png "Single Sign-on-Einstellungen für Google")
 
@@ -26,7 +26,7 @@ Wähle dort deine E-Mail-Adresse aus und vergib einen Produktnamen, beispielswei
 
 Wähle auf dem folgenden Bildschirm als Anwendungstyp Webanwendung aus und trage unten die Weiterleitungs-URL ein, die du in der Modulkonfiguration findest. Wenn du deine Daten gespeichert hast, erhältst du ein Popup mit Client-ID und Clientschlüssel. Kopiere und hinterlege diese im Modul. Dein Single Sign-on für Google ist damit fertig eingerichtet.
 
-## Facebook { .section}
+## Facebook 
 
 ![](Bilder/Abb099_SSO_EinloggenMitFacebook.png "Einstellungen für Einloggen mit Facebook")
 
@@ -54,7 +54,7 @@ Bei Facebook werden Client-ID und Secret als App-ID und App-Geheimcode bezeichne
 
 ![](Bilder/Abb107_SSO_EisntellungenFacebookLogin.png "Einstellungen unter Facebook Login")
 
-## Paypal { .section}
+## Paypal 
 
 ![](Bilder/Abb108_SSO_EinloggenMitPayPal.png "Einloggen mit PayPal")
 
@@ -76,7 +76,7 @@ Achte darauf dass der Punkt Enable customers who have not yet confirmed their em
 
 ![](Bilder/Abb111_SSO_AdvancedOptions.png "Advanced Options")
 
-## Amazon { .section}
+## Amazon 
 
 ![](Bilder/Abb112_SSO_EinloggenMitAmazon.png "Einloggen mit Amazon")
 

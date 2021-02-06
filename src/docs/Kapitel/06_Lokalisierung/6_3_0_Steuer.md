@@ -10,7 +10,7 @@ Die Steuereinstellungen werden von der Installationsroutine für Deutschland fes
 
 **Note:** Wenn du Änderungen an den Steuersätzen vornehmen musst, informiere dich vorher bei deinem Steuer- oder Rechtsberater über die für dich gültigen Einstellungen.
 
-## Notwendige Änderungen innerhalb der EU { .section}
+## Notwendige Änderungen innerhalb der EU 
 
 Wenn du deinen Onlineshop in der Europäischen Union betreibst, sind Änderungen an den Steuersätzen unter Shop Einstellungen \> Land/Steuer \> Steuersätze nötig, wenn die Steuersätze in deinem Land von denen in Deutschland abweichen.
 
@@ -25,7 +25,7 @@ Wenn du deinen Onlineshop in der Europäischen Union betreibst, sind Änderungen
 
 5.  Nimm die Änderungen für dein Land im Steuersatz ermäßigter Steuersatz für die Steuerzone Steuerzone EU vor
 
-## Notwendige Änderungen außerhalb der EU { .section}
+## Notwendige Änderungen außerhalb der EU 
 
 Wenn du deinen Onlineshop außerhalb der Europäischen Union betreibst, musst du für dein Land unter Shop Einstellungen \> Land/Steuer \> Steuerzonen eine neue Steuerzone anlegen.
 
@@ -89,7 +89,7 @@ Lege nun die Steuersätze für dein Land fest. Lege dazu neue Steuersätze unter
 7.  Klicke auf Einfügen
 8.  Wiederhole den Vorgang, wenn für dein Land zusätzliche Steuerklassen benötigt werden
 
-## Steuerklassen { .section}
+## Steuerklassen 
 
 Unter Shop Einstellungen \> Land/Steuer \> Steuerklassen findest du die einzelnen Steuerklassen. Diese werden verwendet, um die einzelnen Steuersätze anhand eines entsprechenden Bezeichners einstellen zu können. Standardmäßig sind die Steuerklassen ermäßigter Steuersatz, elektronisch erbrachte Leistung und Standardsatz im Shop vorhanden.
 
@@ -101,7 +101,7 @@ CAUTION:
 
 Bestehende Steuerklassen können nach Auswahl \(die Zeile ist grau hinterlegt\) über Klick auf die Schaltfläche Bearbeiten angepasst werden. Mit Klick auf Löschen wird die jeweilige Steuerklasse entfernt.
 
-## Verschieben von Ländern in andere Steuerzonen { .section}
+## Verschieben von Ländern in andere Steuerzonen 
 
 **Note:**
 

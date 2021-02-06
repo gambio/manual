@@ -1,6 +1,6 @@
 # System 
 
-## E-Mail Optionen { .section}
+## E-Mail Optionen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -23,7 +23,7 @@
 |SMTP Verschlüsselung|Wähle hier die Art der SMTP-Verschlüsselung aus|
 |SMTP AUTH|Aktivieren, wenn der SMTP-Server AUTH voraussetzt|
 
-## E-Mail Kontaktadressen { .section}
+## E-Mail Kontaktadressen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -33,7 +33,7 @@
 |Kontakt - Antwortadresse|Gib hier eine E-Mailadresse ein, an die Kunden antworten können.|
 |Kontakt - Antwortadresse, Name|Absendername für Antwortmails|
 
-## E-Mail Rechnungsadressen { .section}
+## E-Mail Rechnungsadressen 
 
 **Note:**
 
@@ -48,7 +48,7 @@ Dieser Bereich betrifft das sogenannte Verrechnungsystem des Shops. Hierüber we
 |Verrechnung - Antwortadresse, Name|Absendername für Antwortmails|
 |Verrechnung - E-Mail Betreff|Betreff für E-Mails des Verrechnungssytems|
 
-## E-Mail Supportadressen { .section}
+## E-Mail Supportadressen 
 
 **Note:**
 
@@ -63,26 +63,26 @@ Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden
 |Technischer Support - Antwortadresse, Name|Absendername für Antwortmails|
 |Technischer Support - E-Mail Betreff|Betreff für E-Mails des Supportsytems|
 
-## Rechnung & Lieferschein { .section}
+## Rechnung & Lieferschein 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Rechnung / Lieferschein|Klicke auf aufrufen, um die Konfigurationsseite für Rechnungen und Lieferschein anzuzeigen.|
 
-## Bestell- und Kundennummer { .section}
+## Bestell- und Kundennummer 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Nummernkreise|Klicke auf aufrufen, um die Konfigurationsseite für Nummernkreise anzuzeigen.|
 
-## Passwortverschlüsselung { .section}
+## Passwortverschlüsselung 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Standardverschlüsselung für Kundenpasswörter|Wähle password\_hash, um Passwörter maximal stark zu verschlüsseln \(empfohlen\). Wähle md5, sofern du externe Schnittstellen nutzt, die direkt über die Datenbank Passwörter abgleichen und keine password\_hash-verschlüsselten Passwörter unterstützen.|
 |Kundenpasswörter beim nächsten Login nötigenfalls mit der aktuellen Standardverschlüsselung erneut verschlüsseln? \(empfohlen\)|Aktiviere diese Option, wenn du die Standardverschlüsselung wechseln möchtest und Kunden \(auch Admin-Konten!\) sich weiterhin mit ihren bisher gespeicherten Passwörtern einloggen können sollen. Andernfalls ist der Login nicht mehr möglich und ein neues Passwort muss über die Passwort vergessen-Funktion gesetzt werden.|
 
-## Anmeldeversuche { .section}
+## Anmeldeversuche 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -90,7 +90,7 @@ Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden
 |Zeitraum \(Sek.\)|Zeitraum in Sekunden, in dem ein wiederholter Login-Versuch geloggt wird|
 |Timeout \(Sek.\)|Zeit in Sekunden, bis ein erneutes Einloggen möglich ist|
 
-## Suchmaschinen { .section}
+## Suchmaschinen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -98,7 +98,7 @@ Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden
 |Zeitraum \(Sek.\)|Zeitraum in Sekunden, in dem eine wiederholte Suchanfrage geloggt wird|
 |Timeout \(Sek.\)|Zeit in Sekunden, bis eine erneute Suchanfrage abgeschickt werden kann|
 
-## Sicherheitsabfragen { .section}
+## Sicherheitsabfragen 
 
 Über Sicherheitscodes soll verhindert werden, dass Eingabeformulare von automatischen Skripten, sogenannten Bots, verwendet werden. Zu diesem Zweck müssen die Nutzer ihre Anfrage über einen Sicherheitscode bzw. eine andere Bestätigung verifizieren.
 
@@ -115,7 +115,7 @@ Damit du dich an reCaptcha v2 beteiligen kannst, musst du dich dafür anmelden. 
 |Public key|Public key für reCAPCHA v2|
 |Private key|Private key für reCAPTCHA v2|
 
-## Sicherheitsabfragen anzeigen { .section}
+## Sicherheitsabfragen anzeigen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -128,7 +128,7 @@ Damit du dich an reCaptcha v2 beteiligen kannst, musst du dich dafür anmelden. 
 |Sicherheitscodeabfrage im Newsletterformular anzeigen?|Aktiviert die Sicherheitscodeabfrage für die Newsletter-Anmeldung|
 |Sicherheitsabfrage in Account-Erstellung anzeigen?|Aktiviert die Sicherheitscodeabfrage bei der Kundenanmeldung|
 
-## Wartungsmodus { .section}
+## Wartungsmodus 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -145,7 +145,7 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 
 |
 
-## Gambio Admin { .section}
+## Gambio Admin 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -162,13 +162,13 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 |Umrechnungsgenauigkeit für Dezimalstellen|Anzahl der Dezimalstellen, die intern gespeichert werden. Standardwert: 4|
 |Standardzahlungsweise bei manuell angelegten Bestellungen|Wähle hier aus, welche Zahlungsweise bei manuell im Gambio Admin angelegten Bestellungen vorausgewählt werden soll.|
 
-## Shop Key { .section}
+## Shop Key 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Shop-Key|Klicke auf aufrufen, um die Konfigurationsseite für den Shop-Key anzuzeigen.|
 
-## Sessions { .section}
+## Sessions 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -178,7 +178,7 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 |Spider Sessions vermeiden?|Hierdurch kann verhindert werden, dass Bots von Suchmaschinen eine Session im Shop erhalten. Mit einer Session könnten diese Bots Artikel in den Warenkorb legen und würden als normale Besucher gewertet. Die Einstellung ist standardmäßig gesetzt.|
 |Session Gültigkeitsdauer|Legt die Dauer in Minuten fest, wie lange eine Session im Gambio Admin gültig ist. Nach Ablauf dieser festgelegten Zeit wird die Session entfernt und eine erneute Anmeldung ist erforderlich!|
 
-## Performance { .section}
+## Performance 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -189,7 +189,7 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 |Cache-freundliche Dateinamen|Über die Einstellung Cache-freundliche Dateinamen können die Namen bestimmter Ressourcen \(JavaScript, CSS\) automatisch angepasst werden, damit diese nicht im Browsercache gespeichert, sondern bei jedem Laden der betreffenden Seite aktuell abgerufen werden.|
 |CSS inline im Head ausgeben|Wird der Haken gesetzt, wird der CSS-Code im Head-Bereich der Seite ausgegeben, anstatt die externe CSS-Datei zu verlinken.|
 
-## Logging { .section}
+## Logging 
 
 |Feldname|Beschreibung|
 |--------|------------|

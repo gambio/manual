@@ -2,7 +2,7 @@
 
 Wenn du ein Export-Profil anlegst oder bearbeitest, gelangst du in den Reiter Einstellungen, den wir nachfolgend erläutern. Standard-Belegungen eines Felds sind in eckigen Klammern \[ \] angegeben.
 
-## Allgemeine Einstellungen { .section}
+## Allgemeine Einstellungen 
 
 ![](Bilder/GoogleShopping01.PNG "Allgemeine Einstellungen eines Export-Profils")
 
@@ -23,7 +23,7 @@ Wenn du ein Export-Profil anlegst oder bearbeitest, gelangst du in den Reiter Ei
 |Eigenschaften exportieren|Ist die Einstellung gesetzt, werden Eigenschaften beim Export berücksichtigt. Jede Kombination \(Auswahl aller Eigenschaften eines Artikels\) wird als eigenständiger Artikel exportiert \[x\]|
 |Eigenschaftenbild bevorzugen|Ist die Einstellung gesetzt, wird anstelle des Artikelbilds das Kombinationsbild der jeweiligen Kombination exportiert, sofern vorhanden \[x\]|
 
-## Einstellungen für den automatischen Export { .section}
+## Einstellungen für den automatischen Export 
 
 ![](Bilder/googleservices/20190402_001.png "Einstellungen für den automatischen Export")
 
@@ -41,7 +41,7 @@ Wenn du ein Export-Profil anlegst oder bearbeitest, gelangst du in den Reiter Ei
 
 Bestätige vorgenommene Änderungen mit einem Klick auf Speichern. Über Abbrechen verlässt du die Einstellungen des Profils ohne die Änderungen zu speichern.
 
-## Hinweis zu automatischen, zeitgesteuerten Exporten { .section}
+## Hinweis zu automatischen, zeitgesteuerten Exporten 
 
 Damit - unabhängig von manuellen Exporten per Klick - automatisch Exporte stattfinden können, muss ein sogenannter Cronjob eingerichtet werden. Dazu wird eine URL bei deinem Hoster hinterlegt, die von diesem regelmäßig aufgerufen wird. Wenn die URL aufgerufen wird, prüft der Shop welche Aktionen für den aktuellen Zeitpunkt auszuführen sind und führt diese dann aus.
 

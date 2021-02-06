@@ -9,7 +9,7 @@ Das StyleEdit lässt sich in vier Bestandteile unterteilen:
 
 ![](Bilder/styleedit4/se4_0006_styleEditBereiche.png "Bestandteile des StyleEdit 4")
 
-## Titelleiste { .section}
+## Titelleiste 
 
 ![](Bilder/styleedit4/se4_0007_styleEditTitelleiste.png "Titelleiste des StyleEdit 4")
 
@@ -19,21 +19,21 @@ Die Titelleiste verfügt von links nach rechts über die Einstellungen
 -   Zurück zur Shop-Startseite: Ruft innerhalb des StyleEdits die Startseite des Shops auf
 -   Weitere Einstellungen: SCSS/CSS bearbeiten ermöglicht das Einfügen eigener Style-Definitionen über SCSS- oder CSS-Codes. Einstellungen importieren ermöglicht das Importieren von Einstellungen aus einem anderen Theme oder Style auf Basis des älteren Honeygrid-Templates
 
-## Menüleiste { .section}
+## Menüleiste 
 
 ![](Bilder/styleedit4/se4_0078_styleEditMenueleiste.png "Menüleiste des StyleEdit 4 mit aktivem Eintrag
         Grundlagen ")
 
 Über die Menüleiste können die verschiedenen Arten von Einstellungen ausgewählt werden. Der jeweils aktive Menüeintrag wird blau hervorgehoben.
 
-## Einstellungsbereich { .section}
+## Einstellungsbereich 
 
 ![](Bilder/styleedit4/se4_0079_styleEditEinstellungsbereich.png "Einstellungsbereich im Menü
         Grundlagen")
 
 Im Einstellungsbereich werden die eigentlichen Einstellungen vorgenommen. Je nachdem, welcher Menüeintrag ausgewählt worden ist, stehen andere Einstellungen zur Verfügung.
 
-## untere Schaltflächen { .section}
+## untere Schaltflächen 
 
 ![](Bilder/styleedit4/se4_0080_styleEditUntereSchaltflaechen.png "Schaltflächen im unteren Teil des StyleEdit 4")
 

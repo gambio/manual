@@ -6,7 +6,7 @@ Der Dateimanager kann wahlweise unter Toolbox \> Dateimanager bzw. in dem jeweil
 
 **Note:** Der Dateimanager zeigt nur die Dateien und Verzeichnisse an, die für die Bearbeitung relevant sind. Quelldateien, welche die Funktion des Shops betreffen, sind hierüber nicht verfügbar.
 
-## Hochladen einer Datei { .section}
+## Hochladen einer Datei 
 
 Klicke auf Hochladen, es öffnet sich der Dialog zum Hochladen einer Datei, standardmäßig ist der Reiter Basis Upload geöffnet. Ziehe die gewünschte\(n\) Datei\(en\) in das hellgraue Feld, um diese hochzuladen.
 
@@ -18,19 +18,19 @@ Alternativ kann auch ein Link zu der gewünschten Datei angegeben werden, klicke
 
 Für große Dateien steht zudem ein alternativer Upload zur Verfügung, dieser setzt eine Java-Installation voraus. Über Zurück zur Dateiübersicht kannst du den Upload-Dialog wieder schließen.
 
-## Anlegen einer textbasierten Datei { .section}
+## Anlegen einer textbasierten Datei 
 
 Klicke auf Neue Datei um eine Datei anzulegen. Lege den Namen im Feld Dateiname fest und wähle die gewünschte Endung im Dropdown rechts davon. Im darunterliegenden Textfeld kann der Inhalt festgelegt werden. Über Klick auf OKwird die Datei angelegt, über Abbrechen kannst du den Dialog ohne Anlegen einer Datei schließen.
 
 ![](Bilder/Abb172_DateimanagerNeueDatei.PNG "Dialog Neue Datei")
 
-## Anlegen eines Verzeichnisses { .section}
+## Anlegen eines Verzeichnisses 
 
 Über Klick auf Neues Verzeichnis kann ein neuer Ordner im aktuellen Verzeichnis angelegt werden. Gib den Namen des Ordners an und bestätige mit OK. Mit Klick auf Abbrechen verlässt du den Dialog, ohne eine Verzeichnis anzulegen.
 
 ![](Bilder/Abb173_DateimanagerNeuesVerzeichnis.PNG "Dialog Neues Verzeichnis")
 
-## Aktionen bei Dateien { .section}
+## Aktionen bei Dateien 
 
 ![](Bilder/Abb168_DateimanagerDateiIcons.PNG "Aktionen für eine Datei")
 
@@ -43,7 +43,7 @@ Um eine Aktion mit einer Datei auszuführen, bewege den Mauszeiger darüber. Der
 
 Ist ein Icon ausgegraut, kann die jeweilige Aktion nicht ausgeführt werden.
 
-## Aktionen bei Verzeichnissen { .section}
+## Aktionen bei Verzeichnissen 
 
 ![](Bilder/Abb169_DateimanagerOrdnerIcons.PNG "Aktionen für ein Verzeichnis")
 

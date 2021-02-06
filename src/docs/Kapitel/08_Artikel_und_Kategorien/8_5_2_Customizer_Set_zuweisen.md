@@ -1,6 +1,6 @@
 # Customizer-Set zuweisen 
 
-## Einem Artikel zuweisen { .section}
+## Einem Artikel zuweisen 
 
 Das Customizer Set kannst du deinem Artikel über die Artikel-Eingabemaske unter Artikel \> Artikel/Kategorien zuweisen.
 

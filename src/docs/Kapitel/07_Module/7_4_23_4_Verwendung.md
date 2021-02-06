@@ -6,7 +6,7 @@ In der Bestellübersicht kann über die Dropdown-Schaltfläche rechts neben der 
 
 Es erscheint nun ein Modal-Dialogfenster, in dem verschiedene Angaben zur Sendung gemacht werden können.
 
-## Empfänger { .section}
+## Empfänger 
 
 Die Adressdaten des Empfängers werden aus der Lieferadresse der Bestellung übernommen, Änderungen sind hier nur notwendig, wenn noch ein Adresszusatz hinzugefügt oder eine Korrektur vorgenommen werden soll.
 
@@ -17,20 +17,20 @@ Bei Lieferungen in manche Länder \(z.B. Dänemark oder Schweden\) ist die Angab
 ![](Bilder/hermes_hsi/HSI_016.png "Eingabefelder zur Angabe von zusätzlichen
         Kontaktmöglichkeiten")
 
-## Paket { .section}
+## Paket 
 
 Hier wird die Größe des Paketes angegeben. Dabei kann entweder aus den Hermes-Größen S bis XXL gewählt oder alternativ eine Berechnung aus den zuvor im Modul angegeben Paketgrößen gewählt werden.
 
 ![](Bilder/hermes_hsi/HSI_017.png "Paket-Größeneinstellungen")
 
-## Optionen { .section}
+## Optionen 
 
 Hier kann der Nachnahme-Betrag manuell festgelegt werden. Bei Bestellungen über Nachnahme ist dies nicht nötig, hier wird der Gesamtbestellwert inklusive Nachnahmegebühr hinterlegt, wie er auch in der Bestellung erfasst ist.
 
 ![](Bilder/hermes_hsi/HSI_010.png "Einstellen des Nachnahmebetrags im Bereich
         Optionen")
 
-## Absender { .section}
+## Absender 
 
 Die Absenderangaben werden automatisch mit den Werten befüllt, die zuvor im Modul selbst vorgenommen wurden. Änderungen sind jedoch möglich.
 

@@ -1,10 +1,10 @@
 # Funktionstests 
 
-## Vorbereitende Schritte { .section}
+## Vorbereitende Schritte 
 
 Um die Funktion des Moduls zu prüfen, öffne die Konfigurationseite des Moduls und schalte den Betriebsmodus auf Playground. In diesem Modus werden keine echten Zahlungen durchgeführt, sondern lediglich simuliert.
 
-## Prüfen der Funktion { .section}
+## Prüfen der Funktion 
 
 Lege eine neue Bestellung mit Klarna als Zahlungsmethode an, indem du dich als Testkunde in deinen Shop einloggst und im Bestellvorgang eine deiner neuen Zahlungsweisen auswählst.
 

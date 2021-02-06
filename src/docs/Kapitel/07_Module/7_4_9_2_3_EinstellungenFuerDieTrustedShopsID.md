@@ -2,7 +2,7 @@
 
 Rechts neben der Trusted Shops-ID befindet sich der Button bearbeiten über den weitere Einstellungen aufgerufen werden können.
 
-## Trustbadge { .section}
+## Trustbadge 
 
 Das Trusted Shops-Badge wird standardmäßig rechts unten im Shop angezeigt. Klickt man darauf, erscheint ein Info-Popup.
 
@@ -35,7 +35,7 @@ http://www.trustedshops.de/shopbetreiber/integration/trustbadge/trustbadge-custo
 |disableResponsive|Hiermit kann die responsive Darstellung abgestellt werden, das Badge würde sich bei Ansicht auf mobilen Endgeräten dann nicht dem Display anpassen.|
 |disableTrustbadge|Setzt man diesen Punkt auf true, deaktiviert dies die Anzeige des Badge.|
 
-## Review Sticker { .section}
+## Review Sticker 
 
 Der Review Sticker wird unterhalb des Footers angezeigt und enthält die letzten Kundenbewertungen. Auch wenn der Review Sticker nicht aktiv ist, wird immer die Zeile 4.34 / 5.00 of 11 Testzertifikat für Shopsystempartner Excellence Kundenbewertungen angezeigt.
 

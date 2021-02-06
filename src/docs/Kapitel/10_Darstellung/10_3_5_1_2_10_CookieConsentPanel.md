@@ -1,6 +1,6 @@
 # Cookie Consent Panel 
 
-## General { .section}
+## General 
 
 ![](Bilder/styleedit4/se4_0157_BereicheCookieConsentPanelGeneral.png "Einstellungen unter Bereiche / Cookie Consent Panel /
         General")

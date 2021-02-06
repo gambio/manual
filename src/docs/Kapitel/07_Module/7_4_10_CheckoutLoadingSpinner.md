@@ -5,11 +5,11 @@ Der Checkout Loading-Spinner soll bei längeren Ladeprozessen im Bestellvorgang 
 ![](Bilder/checkout_loading_spinner/20190410_003.png "Anzeige des Checkout Loading-Spinners beim Wechsel von der
       Versandartenauswahl zur Zahlungsweisenauswahl im Bestellvorgang")
 
-## Installation { .section}
+## Installation 
 
 Das Modul kann unter Module \> Modul-Center installiert werden. Wähle hierzu den Eintrag Checkout Loading-Spinner aus und klicke auf die Schaltfläche Installieren in der rechten, unteren Bildschirm-Ecke.
 
-## Konfiguration { .section}
+## Konfiguration 
 
 Nach der Installation kann das Modul konfiguriert werden. Wähle hierzu den Eintrag Checkout Loading-Spinner aus und klicke auf die Schaltfläche Bearbeiten, in der rechten, unteren Bildschirm-Ecke.
 

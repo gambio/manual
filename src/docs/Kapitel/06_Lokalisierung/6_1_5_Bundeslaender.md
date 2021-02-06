@@ -6,7 +6,7 @@ Die Bundesländer für selbst angelegte Länder und voreingestellte Länder kann
 
 **Note:** Im Installationsumfang werden nur Bundesländer für europäische Länder und große Länder außerhalb Europas angelegt. Die politische Entwicklung kann nicht in jeder Shopversion berücksichtigt werden, vereinzelt können Bundesländer daher nicht mehr aktuell sein.
 
-## Bundesland hinzufügen { .section}
+## Bundesland hinzufügen 
 
 Wenn du ein neues Land anlegst, oder in einem Lieferziel ein neues Bundesland entstanden ist, lege unter Shop Einstellungen \> Land/Steuer \> Bundesländer ein neues Bundesland an.
 
@@ -16,7 +16,7 @@ Wenn du ein neues Land anlegst, oder in einem Lieferziel ein neues Bundesland en
 4.  Wähle aus der Liste Land das Land aus, dem du das Bundesland zuweist
 5.  Klicke auf Einfügen
 
-## Bundesland bearbeiten { .section}
+## Bundesland bearbeiten 
 
 Wenn die Details eines Bundeslandes in einem deiner Lieferziele geändert wurden, passe das jeweilige Bundesland unter Shop Einstellungen \> Land/Steuer \> Bundesländer an.
 
@@ -28,7 +28,7 @@ Wenn die Details eines Bundeslandes in einem deiner Lieferziele geändert wurden
 3.  Nimm die gewünschten Änderungen vor
 4.  Klicke auf Aktualisieren
 
-## Bundesland löschen { .section}
+## Bundesland löschen 
 
 Wenn du ein Bundesland aus einem selbst angelegten Land nicht mehr benötigst, lösche das Bundesland unter Shop Einstellungen \> Land/Steuer \> Bundesländer.
 

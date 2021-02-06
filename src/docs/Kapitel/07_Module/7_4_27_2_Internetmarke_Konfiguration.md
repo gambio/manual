@@ -2,7 +2,7 @@
 
 Um das Modul zu konfigurieren, wird dieses unter Module \> Modul-Center ausgewählt. Klicke anschließend auf Bearbeiten.
 
-## Login zur Portokasse { .section}
+## Login zur Portokasse 
 
 Hier werden die Login-Daten zur Portokasse benötigt.
 
@@ -12,13 +12,13 @@ Die Dienste Portokasse und efiliale sind nicht identisch! Mit den Daten der efil
 
 ![](Bilder/internetmarke/20190408_001.png "Eingabe des Logins zu Portokasse")
 
-## Absender { .section}
+## Absender 
 
 Diese Felder werden automatisch vorausgefüllt, können aber nachträglich angepasst werden. Es handelt sich hier um die Absenderangaben des Shopbetreibers, die vollständig vorliegen sollten und unter Shop Einstellungen \> Mein Shop bzw. Einstellungen \> Shop \(ab Shopversion 4.3\) sowie in diesem Formular bearbeitet werden können.
 
 ![](Bilder/internetmarke/20190408_002.png "Maske zur Anpassung der Absenderangaben")
 
-## Bevorzugte Einstellungen { .section}
+## Bevorzugte Einstellungen 
 
 -   Produkt: Hier kann die gewünschte Art des Versands \(Umschlaggröße, Warensendung, Büchersendung, etc\) ausgewählt werden.
 -   Druckformat: Mit/ohne Adresse; Gibt an, ob Kunden- und Absenderadresse mit auf die Marke gedruckt werden
@@ -31,13 +31,13 @@ Diese Felder werden automatisch vorausgefüllt, können aber nachträglich angep
 
 ![](Bilder/internetmarke/2020-09-11_002.png "Bevorzugte Einstellungen")
 
-## Motiv { .section}
+## Motiv 
 
 Hier kann ein Motiv ausgewählt werden, welches mit auf die Marke gedruckt werden kann, wenn die Kundenadresse nicht mit ausgegeben wird. Dies kann direkt bei der Labelerstellung ausgewählt werden
 
 ![](Bilder/internetmarke/20190408_004.png "Auswahl des Motivs")
 
-## Produktpreisliste \(PPL\) { .section}
+## Produktpreisliste \(PPL\) 
 
 Du kannst dir hier die aktuellen Preise anzeigen lassen. Es gibt die Möglichkeit, die Preise über den Button Produkte und Preise aktualisieren zu aktualisieren, da diese sich von Zeit zu Zeit ändern.
 

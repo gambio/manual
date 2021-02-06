@@ -17,11 +17,11 @@ Unter Shop Einstellungen \> Lagerverwaltungs-Optionen lässt sich die shopeigene
 
 **Note:** Lagerstands-Einstellungen greifen nur bedingt bei Artikel-Eigenschaften. Wenn Artikel- Eigenschaften verwendet werden, wird die Lagerverwaltung in den Kombinationen des Artikels eingestellt. Bearbeite hierzu den Artikel und klicke auf Eigenschaften.
 
-## Artikel inaktiv setzen { .section}
+## Artikel inaktiv setzen 
 
 Wenn Artikel inaktiv gesetzt werden sollen, müssen Überprüfen des Artikelbestandes und Artikelmenge abziehen auf Ja gesetzt sein, Einkaufen nicht vorrätiger Artikel hingegen auf Nein.
 
-## Attribute inaktiv setzen { .section}
+## Attribute inaktiv setzen 
 
 Diese Funktion sollte nur in Verbindung mit Artikel inaktiv setzen verwendet werden, damit Artikel, die nicht mehr auf Lager sind, nicht angezeigt werden. Anderenfalls können Artikel, dessen Attribute nicht mehr auf Lager sind, ohne Attribute in den Warenkorb gelegt werden.
 

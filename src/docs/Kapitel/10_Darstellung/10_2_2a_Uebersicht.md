@@ -4,7 +4,7 @@ Das StyleEdit wird in einer Box auf der rechten Seite des Bildschirms angezeigt.
 
 ![](Bilder/Abb132_StyleEdit3.PNG "StyleEdit v3")
 
-## Vorschau-Ansicht { .section}
+## Vorschau-Ansicht 
 
 in der schwarzen Titel-Zeile des StyleEdits kann die Vorschau-Ansicht ausgewählt werden. Klicke hierzu auf das Symbol in der rechten, oberen Ecke und wähle unter den folgenden Ansichten aus:
 
@@ -15,7 +15,7 @@ in der schwarzen Titel-Zeile des StyleEdits kann die Vorschau-Ansicht ausgewähl
 
 Standardmäßig ist die Ansicht Desktop aktiviert. Wenn eine der Vorschau-Ansichten für mobile Endgeräte gewählt wird, erfolgt die Darstellung in einem zum Endgerät passenden, stilisierten Rahmen. Die Anzeige des Shops entspricht der in den Klammern angegebenen Auflösung.
 
-## Meine Styles { .section}
+## Meine Styles 
 
 Dies ist der Hauptbereich des StyleEdits. Änderungen an den Grafik-Einstellungen können in eigenen Profilen zusammengefasst und gespeichert werden, den sogenannten Styles. Styles lassen sich anlegen, bearbeiten und herunterladen. Sie können ebenfalls dupliziert und gelöscht werden.
 
@@ -44,7 +44,7 @@ Wir empfehlen das Anlegen je eines Duplikats deiner Styles als Sicherung.
 
 **Note:** Styles werden in sogenannten JSON-Dateien gespeichert. JSON steht für JavaScript Object Notation.
 
-## StyleEdit-Buttons { .section}
+## StyleEdit-Buttons 
 
 Über die Schaltfläche Neuer Style kann ein neuer Style angelegt werden. Es stehen drei grundsätzliche Layouts zur Verfügung:
 

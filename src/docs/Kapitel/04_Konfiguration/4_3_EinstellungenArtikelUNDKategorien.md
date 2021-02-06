@@ -1,6 +1,6 @@
 # Artikel & Kategorien 
 
-## Produkte { .section}
+## Produkte 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -14,7 +14,7 @@
 |Neue Artikel Liste|Maximale Anzahl der neuen Artikel, die in der Liste angezeigt werden sollen.|
 |Bestseller|Minimale Anzahl an Bestsellern, die angezeigt werden sollen.|
 
-## Suche { .section}
+## Suche 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -24,7 +24,7 @@
 |Suche in Artikelattributen/Artikeleigenschaften|Wird dies deaktiviert, werden die Informationen aus den Attributen und Eigenschaften nicht mehr bei der Suche berücksichtigt. Da die Suche in den Artikelattributen und Eigenschaften zu einer ungleich umfassenderen Suche führt, kann dies in Shops mit vielen Attributen bzw. Eigenschaften zu sehr langen Ladezeiten beim Ausführen der Suche führen. Die Deaktivierung kann daher die Performance des Shops verbessern.|
 |Suche in Artikelbeschreibungen|Wird dieser Punkt deaktiviert, sucht der Shop nur noch in den Artikelnamen, Artikelnummern und EANs nach dem Suchbegriff|
 
-## GX Customizer { .section}
+## GX Customizer 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -36,7 +36,7 @@
 |Anzahl erlaubter Dateiuploads pro Besucher \(0 = keine Begrenzung\)|Begrenzt die Anzahl der Dateien, die über den GX-Customizer hochgeladen werden können.|
 |Zeitraum in Minuten, für den die Begrenzung der Anzahl an Dateiuploads gilt|Wie lange gilt die oben festgelegte Begrenzung?|
 
-## Lagerverwaltung { .section}
+## Lagerverwaltung 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -54,7 +54,7 @@
 |Lagerbestand vor dem Warenkorb prüfen?|Überprüft den Lagerbestand bereits auf der Artikeldetailseite.|
 |Maximale Bestellmenge je Artikel|Maximale Menge, die je Artikel bestellt werden kann.|
 
-## Downloadoptionen { .section}
+## Downloadoptionen 
 
 **Note:**
 

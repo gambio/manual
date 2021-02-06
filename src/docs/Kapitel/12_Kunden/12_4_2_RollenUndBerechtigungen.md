@@ -2,7 +2,7 @@
 
 Mit Rollen und Berechtigungen werden ab Shopversion 3.9 die Zugriffsrechte für Administratoren gesteuert. Für jede Rolle können die einzelnen Rechte individuell eingestellt werden. Die Rolle kann wiederum den jeweiligen Administrator-Konten zugeordnet werden.
 
-## Admins verwalten { .section}
+## Admins verwalten 
 
 Im Bereich Admins verwalten werden alle Konten der Gruppe Admin angezeigt. Wenn du den Mauszeiger in die jeweilige Zeile eines Administrators bewegst, wird ein Bleistift-Symbol angezeigt. Hierüber kann dem Admin eine Rolle zugeordnet werden.
 
@@ -16,7 +16,7 @@ Ein Klick auf das Bleistift-Symbol ruft die Rollenzuweisung für den jeweiligen 
 
 **Note:** Standardmäßig ist nur die Rolle Super-Administrator angelegt. Weitere Rollen können über den Reiter Zugriffsrollen verwalten erstellt werden.
 
-## Zugriffsrollen verwalten { .section}
+## Zugriffsrollen verwalten 
 
 Im Reiter Zugriffsrollen verwalten werden alle Rollen aufgelistet. Zudem können über die Schaltfläche Neue Zugriffsrolle weitere Rollen hinzugefügt werden. Wenn du den Mauszeiger in die Zeile einer Zugriffsrolle bewegst, werden die möglichen Aktionen zu dieser Rolle angezeigt. Diese sind von links nach rechts: Bearbeiten, Konfigurieren, Löschen, Verschieben.
 

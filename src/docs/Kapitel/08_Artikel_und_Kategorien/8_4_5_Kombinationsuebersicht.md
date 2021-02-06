@@ -1,20 +1,20 @@
 # Kombinationsübersicht 
 
-## Aufruf der Kombinationsübersicht aus der Artikelübersicht { .section}
+## Aufruf der Kombinationsübersicht aus der Artikelübersicht 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelUebersicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikelübersicht")
 
 Über die Dropdown-Schaltfläche am hinteren Ende des Artikels kann der Eintrag _**Eigenschaften**_ ausgewählt werden.
 
-## Aufruf der Kombinationsübersicht aus der Artikeldetailseite { .section}
+## Aufruf der Kombinationsübersicht aus der Artikeldetailseite 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelDetailansicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikel-Detailseite")
 
 Über die mit _**Sonderangebot**_ beschriftete Schaltlfäche kann im Dropdown der Eintrag _**Eigenschaften**_ ausgewählt werden.
 
-## Kombinationsübersicht { .section}
+## Kombinationsübersicht 
 
 ![](Bilder/ArtikelEigenschaften_Kombinationsuebersicht.png "Kombinationsübersicht für einen Artikel mit zwei
         Eigenschaften")
@@ -42,7 +42,7 @@ Für jeden einzelnen Eintrag stehen am Ende der Zeile die Funktionen
 
 zur Verfügung.
 
-## Einstellungsseite { .section}
+## Einstellungsseite 
 
 ![](Bilder/ArtikelEigenschaften_KombinationsuebersichtEinstellungen.png "Einstellungsseite")
 

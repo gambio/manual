@@ -24,13 +24,13 @@ Externe Module \(Zahlungsmodule, ERP, Warenwirtschaften etc.\) müssen Straße u
 |Vor- & Nachname optional|Vor- & Nachname optional, sofern das Feld Firmenname ausgefüllt wird|
 |Anrede als Pflichtfeld|Lege hier fest, ob die Anrede zwingend ausgefüllt werden muss.|
 
-## Gastkonten { .section}
+## Gastkonten 
 
 Gastkonten werden nicht notwendigerweise dauerhaft angelegt, da Kunden hierüber die Möglichkeit haben sollen ohne festes Kundenkonto zu bestellen. Wenn sich der Kunde direkt nach der Bestellung ausloggt und das Löschen von Gastkonten aktiviert ist, wird das Konto unwiderruflich gelöscht.
 
 Zudem kann ein Gast-Konto nur ein Mal \(innerhalb einer sogenannten Session im Browser\) verwendet werden. Da kein Passwort vergeben wird, ist ein erneutes Einloggen nicht möglich. Aus diesen Grund lassen sich Gast-Bestellungen ein und desselben Kunden im Regelfall nicht einem einzigen Konto zuordnen, da für jede neue Bestellung ein neues Gastkonto angelegt wird.
 
-## Gewerbetreibender-Status { .section}
+## Gewerbetreibender-Status 
 
 Die Einstellung Gewerbetreibender-Status wurde mit dem Gambio GX2 Mwst-Update eingeführt, welches aufgrund einer Gesetzesänderung zur Besteuerung von elektronsich erbrachten Leistungen von uns erstellt worden ist. Das Update ist Bestandteil aller aktuellen Shopversionen.
 

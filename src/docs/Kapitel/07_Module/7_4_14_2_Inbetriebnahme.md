@@ -2,7 +2,7 @@
 
 Für die Inbetriebnahme müssen mehrere Schritte durchlaufen werden.
 
-## CSV-Export erstellen { .section}
+## CSV-Export erstellen 
 
 Zuerst muss im Gambio Admin unter Import/Export \> Artikeldaten im Reiter Preis-Portal der Ampify-Export erstellt werden. Details zum Bearbeiten der CSV-Profile findest du im Kapitel Import/Export des Handbuchs. Folgende Schritte sind hier nötig:
 
@@ -12,7 +12,7 @@ Zuerst muss im Gambio Admin unter Import/Export \> Artikeldaten im Reiter Preis-
 -   Einstellungen speichern
 -   Export ausführen
 
-## Anmeldung bei Ampify { .section}
+## Anmeldung bei Ampify 
 
 Nun muss die Anmeldung bei Ampify unter https://ampify.it erfolgen. Gehe hierzu wie folgt vor:
 
@@ -29,7 +29,7 @@ Nach dem Einlesen werden eine Liste der gelisteten Artikel sowie einige grundleg
 
 ![](Bilder/ampify/amp_uebersicht003.png "Anzeige nach dem Einlesen der Artikel")
 
-## Einstellungen bei Ampify { .section}
+## Einstellungen bei Ampify 
 
 |Einstellung|Erläuterung|
 |-----------|-----------|
@@ -44,7 +44,7 @@ Nach dem Einlesen werden eine Liste der gelisteten Artikel sowie einige grundleg
 
 ![](Bilder/ampify/amp_einstellungen001.png "Einstellungen bei Ampify")
 
-## Installation bei Ampify { .section}
+## Installation bei Ampify 
 
 Nach dem Buchen von Ampify Premium stehen im Reiter Installation weitere Einstellungen zur Verfügung.
 

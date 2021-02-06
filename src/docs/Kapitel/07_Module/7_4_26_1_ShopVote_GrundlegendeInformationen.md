@@ -10,7 +10,7 @@ CAUTION:
 
 Die folgenden Informationen beziehen sich ausschließlich auf das Modul von Gambio!
 
-## Installation { .section}
+## Installation 
 
 **Note:**
 

@@ -1,18 +1,18 @@
 # Sprachen, Länder, Steuern 
 
-## Steuerklassen { .section}
+## Steuerklassen 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Steuerklassen|Klicke auf aufrufen, um die Konfigurationsseite für die Steuerklassen anzuzeigen|
 
-## Steuersätze { .section}
+## Steuersätze 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Steuersätze|Klicke auf aufrufen, um die Konfigurationsseite für die Steuersätze anzuzeigen|
 
-## Umsatzsteuer { .section}
+## Umsatzsteuer 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -34,31 +34,31 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 |Kundengruppe für USt-IdNr.-geprüfte Kunden \(Ausland\)|Kundengruppe, die ausländischen Kunden nach erfolgreicher Prüfung zugeordnet werden sollen.|
 |Kundengruppe für USt-IdNr.-geprüfte Kunden \(Inland\)|Kundengruppe, die inländischen Kunden nach erfolgreicher Prüfung zugeordnet werden sollen.|
 
-## Steuerzonen { .section}
+## Steuerzonen 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Steuerzonen|Klicke auf aufrufen, um die Konfigurationsseite für die Steuerzonen anzuzeigen|
 
-## Länder { .section}
+## Länder 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Länder|Klicke auf aufrufen, um die Konfigurationsseite für die Länder anzuzeigen|
 
-## Währungen { .section}
+## Währungen 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Währungen|Klicke auf aufrufen, um die Konfigurationsseite für die Währungen anzuzeigen|
 
-## Bundesländer { .section}
+## Bundesländer 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Bundesländer|Klicke auf aufrufen, um die Konfigurationsseite für die Bundesländer anzuzeigen|
 
-## Sprachen { .section}
+## Sprachen 
 
 |Feldname|Beschreibung|
 |--------|------------|

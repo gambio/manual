@@ -1,6 +1,6 @@
 # Ablauf im Bestellvorgang 
 
-## Darstellung des Moduls vor der Prüfung durch easyCredit { .section}
+## Darstellung des Moduls vor der Prüfung durch easyCredit 
 
 CAUTION:
 
@@ -11,7 +11,7 @@ Versand- und Rechnungsadresse müssen identisch sein! Werden unterschiedliche Ad
 ![](Bilder/easycredit/ec-2020-09-10_011.png "Darstellung des Moduls auf der Zahlungsweisen-Seite bei
         identischen Adressen (Versand- und Rechnungsadresse)")
 
-## Durchlaufen des easyCredit-Anfragebogens { .section}
+## Durchlaufen des easyCredit-Anfragebogens 
 
 Es erfolgt eine Prüfung durch easyCredit, ob Ratenzahlung möglich ist.
 
@@ -35,12 +35,12 @@ Die Screenshots enthalten einen Hinweis auf den Testbetrieb. Dieser ist im Liveb
 
 |
 
-## Anzeige des Moduls nach positiver Prüfung { .section}
+## Anzeige des Moduls nach positiver Prüfung 
 
 ![](Bilder/easycredit/ec-2020-09-10_016.png "Darstellung des Moduls auf der Zahlungsweisen-Seite nach
         erfolgreicher Prüfung ")
 
-## Summenblock mit Zinsen für die Ratenzahlung { .section}
+## Summenblock mit Zinsen für die Ratenzahlung 
 
 ![](Bilder/easycredit/ec-2020-09-10_017.png "Anzeige des Summenblocks in der Bestellzusammenfassung")
 

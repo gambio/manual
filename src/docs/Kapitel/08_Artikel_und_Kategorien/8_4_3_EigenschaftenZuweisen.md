@@ -2,14 +2,14 @@
 
 Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zugewiesen werden.
 
-## Aufruf aus der Artikelübersicht { .section}
+## Aufruf aus der Artikelübersicht 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelUebersicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikelübersicht")
 
 Über die Dropdown-Schaltfläche am hinteren Ende des Artikels kann der Eintrag _**Eigenschaften**_ ausgewählt werden.
 
-## Aufruf aus der Artikeldetailseite { .section}
+## Aufruf aus der Artikeldetailseite 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelDetailansicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikel-Detailseite")

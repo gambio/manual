@@ -15,7 +15,7 @@ https://www.ionos.de/eshop-loesungen/ipayment
 
 findest du weitere Informationen und Kontaktdaten.
 
-## Installation { .section}
+## Installation 
 
 Beide Module können unter Module \> Zahlungsweisen \> Sonstige installiert werden.
 
@@ -24,7 +24,7 @@ Beide Module können unter Module \> Zahlungsweisen \> Sonstige installiert werd
 
 Klicke hierzu zunächst auf den Eintrag iPayment, um diesen aufzuklappen. Wähle dann das gewünschte Modul aus und verwende die Schaltfläche Installieren, in der rechten, unteren Bildschirmecke.
 
-## Konfiguration { .section}
+## Konfiguration 
 
 Nachdem das jeweilige Modul installiert und unter Module \> Zahlungsweisen \> Sonstige \> iPayment ausgewählt worden ist, kann es mit einem Klick auf Bearbeiten eingerichtet werden. Die Konfiguration für beide Zahlungsweisen ist weitestgehend identisch:
 

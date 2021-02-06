@@ -2,7 +2,7 @@
 
 Über den Bestellstatus wird der aktuelle Stand der Bestellung festgelegt. Der Bestellstatus ist sowohl für den Shopbetreiber im Gambio Admin des Shops, als auch für den Kunden im Shopbereich sichtbar.
 
-## Bestellstatus einer Bestellung ändern { .section}
+## Bestellstatus einer Bestellung ändern 
 
 Den Bestellstatus einer einzelnen Bestellung kannst du auf der Detailseite der Bestellung im Gambio Admin unter Bestellungen \> Bestellungen ändern.
 
@@ -17,7 +17,7 @@ Den Bestellstatus einer einzelnen Bestellung kannst du auf der Detailseite der B
 
 Der neue Bestellstatus ist im Shopbereich unter Ihr Konto \> Bestellungen für den Kunden einsehbar. Wenn du die Benachrichtigung aktiviert hast, wird der Kunde außerdem per E-Mail über die Änderung des Status seiner Bestellung informiert.
 
-## Bestellstatus mehrerer Bestellungen gleichzeitig ändern { .section}
+## Bestellstatus mehrerer Bestellungen gleichzeitig ändern 
 
 Den Bestellstatus mehrerer Bestellungen kannst du gleichzeitig in der Bestellübersicht unter Bestellungen \> Bestellungen ändern.
 
@@ -35,7 +35,7 @@ Den Bestellstatus mehrerer Bestellungen kannst du gleichzeitig in der Bestellüb
 
 Der neue Bestellstatus ist im Shopbereich unter Ihr Konto \> Bestellungen für die Kunden der gewählten Bestellungen einsehbar. Wenn du die Benachrichtigung aktiviert hast, werden die Kunden außerdem per E-Mail über die Änderung des Status ihrer Bestellungen informiert.
 
-## Bestellstatus anlegen { .section}
+## Bestellstatus anlegen 
 
 Neue Bestellstatus kannst du im Gambio Admin deines Shops unter Bestellungen \> Bestellungen \> Bestellstatus anlegen. Klicke hierzu auf Erstellen.
 
@@ -47,7 +47,7 @@ Neue Bestellstatus kannst du im Gambio Admin deines Shops unter Bestellungen \> 
 2.  Aktiviere die Einstellung als Standard definieren, wenn der neue Bestellstatus automatisch jeder eingehenden Bestellung zugewiesen werden soll
 3.  Klicke auf Einfügen, um den neuen Bestallstatus anzulegen
 
-## Bestellstatus löschen { .section}
+## Bestellstatus löschen 
 
 Vorhandene Bestellstatus kannst du im Gambio Admin deines Shops unter Bestellungen \> Bestellungen \> Bestellstatus löschen. Der Standard-Bestellstatus sowie feststehende Bestellstatus können nicht gelöscht werden.
 

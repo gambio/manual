@@ -12,7 +12,7 @@ CAUTION:
 
 Fehlerberichte können unter Umständen auch persönliche Daten enthalten, z.B. wenn es zu Fehlern während der Verarbeitung von Bestelldaten kommt. Bitte prüfe, ob eine Information deiner Kunden, zum Beispiel im Rahmen der Datenschutzerklärung, nötig ist. Das Senden der Fehlerberichte kannst du im Modul-Center jederzeit wieder deaktivieren, indem du das Modul deinstallierst.
 
-## Installieren / Deinstallieren { .section}
+## Installieren / Deinstallieren 
 
 Das Modul kann unter Module \> Modul-Center installiert werden. Wähle hierzu den Eintrag Fehlerberichte senden aus der Übersicht aus und klicke auf die Schaltfläche Installieren, in der rechten, unteren Bildschirmecke.
 

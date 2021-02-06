@@ -29,11 +29,11 @@ Ein neues Customizer-Set wird angelegt und zum Bearbeiten geöffnet. Das neue Cu
 10. Je nach Elementtyp sind zusätzliche Felder auszufüllen, bitte beachte die nachfolgenden Beschreibungen der einzelnen Elementtypen
 11. Klicke auf Hinzufügen, um das Element hinzuzufügen
 
-## Textfeld { .section}
+## Textfeld 
 
 Mit dem Element Textfeld kannst du beschreibende Texte ausgeben, die deine Kunden nicht ändern können. Trage in das Feld Wert den auszugebenden Text ein. Weitere Einstellungen sind nicht vorzunehmen.
 
-## Eingabefeld { .section}
+## Eingabefeld 
 
 Das Element Eingabefeld liegt in den Varianten einzeilig und mehrzeilig vor. Einzeilige Eingabefelder werden dargestellt wie das Feld Bezeichnung, mehrzeilige Eingabefelder werden dargestellt, wie das Feld Wert. In Eingabefelder tragen deine Kunden personalisierten Text zu einem Artikel ein.
 
@@ -43,7 +43,7 @@ Das Element Eingabefeld liegt in den Varianten einzeilig und mehrzeilig vor. Ein
 2.  Aktiviere das KontrollkästchenNamen anzeigen?, wenn der Wert aus dem Feld Bezeichnung im Customizer-Set oberhalb des Eingabefeldes angezeigt werden soll
 3.  Trage in das Feld Wert einen Vorgabewert für das Eingabefeld ein
 
-## Dateiuploadfeld { .section}
+## Dateiuploadfeld 
 
 Über Dateiuploadfelder laden deine Kunden beispielsweise personalisierte Bilder oder andere Vorgaben hoch. Der Dateiname des Uploads wird beim Hochladen kryptisch verschlüsselt und die Datei in einem gesicherten Verzeichnis abgelegt. Hochgeladene Dateien kannst du in den Bestelldetails der Bestellung herunterladen.
 
@@ -51,7 +51,7 @@ Das Element Eingabefeld liegt in den Varianten einzeilig und mehrzeilig vor. Ein
 2.  Trage im Feld Min. Dateigröße eine Mindestgröße für hochgeladene Dateien ein
 3.  Trage im Feld Max. Dateigröße eine Maximalgröße für hochgeladene Dateien ein
 
-## Dropdown { .section}
+## Dropdown 
 
 Mit Dropdown-Feldern wählen deine Kunden aus einer Reihe von dir vorgegebener Werte aus.
 
@@ -61,7 +61,7 @@ Mit Dropdown-Feldern wählen deine Kunden aus einer Reihe von dir vorgegebener W
 2.  Füge über das Symbol + beim Feld Wert neue Eingabefelder für deine Vorgabewerte hinzu
 3.  Trage in die Felder Wert die Vorgabewerte ein
 
-## Bild { .section}
+## Bild 
 
 Über das Element Bild kannst du deinem Customizer-Set ein Bild hinzufügen. Das Bild wird direkt angezeigt und kann durch deine Kunden nicht verändert werden. Lade im Dateifeld Bild ein Bild von deinem Computer hoch. Weitere Einstellungen sind nicht vorzunehmen.
 

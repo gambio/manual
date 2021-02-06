@@ -16,7 +16,7 @@ Erhältst du stattdessen die folgende Ansicht, verwendet der Shop die Vorgänger
 
 Klicke auf Neues Theme bearbeiten, um im Hintergrund an der neuen Oberfläche des Shops zu arbeiten, während dein bisheriges Template aktiv bleibt.
 
-## Der erste Aufruf { .section}
+## Der erste Aufruf 
 
 Beim ersten Aufruf wird nur ein Theme angezeigt, das aktive Honeygrid-Theme. Aktiv bedeutet, dass Änderungen direkt im Shop zu sehen sind.
 
@@ -48,7 +48,7 @@ Aus dem StyleEdit 4 heraus gelangst du bei Bedarf zurück zur Seite Meine Themes
 
 **Note:** Beim nächsten Aufruf gelangst du direkt zum StyleEdit, es wird mit dem Style Honeygrid Preview geladen. Um deinen gewünschten Style zu bearbeiten, klicke auf den Namen in der Titelleiste des StyleEdits, um zurück auf die Seite Meine Themes zu gelangen.
 
-## Übernahme der Einstellungen des aktiven Template-Styles { .section}
+## Übernahme der Einstellungen des aktiven Template-Styles 
 
 Es ist über das StyleEdit 4 möglich die Einstellungen des bisher verwendeten Honeygrid-Templates in das aktuelle Theme zu importieren. Klicke hierzu auf das Symbol in der rechten, oberen Ecke des StyleEdit 4.
 

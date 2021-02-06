@@ -1,12 +1,12 @@
 # Suchmaschinenoptimierung 
 
-## Kampagnen { .section}
+## Kampagnen 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Kampagnen|Klicke auf aufrufen, um die Konfigurationsseite für die Kampagnen anzuzeigen.|
 
-## SEO URLs { .section}
+## SEO URLs 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -17,7 +17,7 @@
 |Sprachcode in URLs integrieren|Sprachcodes werden als Teil der URL angezeigt|
 |index.php Suffix in zugehörigen URLs entfernen|Startseite wird ohne die Angabe index.php in der Adressezeile geladen|
 
-## Meta-Angaben { .section}
+## Meta-Angaben 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -25,13 +25,13 @@
 |Standard Meta-Titel Anzeige|legt fest, ob der Standard Meta-Titel vor oder nach dem Seitentitel \(Meta-Titel\) ausgegeben wird|
 |Standard Meta-Titel verwenden?|wenn aktiviert, wird zusätzlich zum Seitentitel der Standard Meta-Titel ausgegeben|
 
-## Einstellungen für Suchmaschinenbots \(robots.txt\) { .section}
+## Einstellungen für Suchmaschinenbots \(robots.txt\) 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Robots.txt Datei|Klicke auf aufrufen, um die Konfigurationsseite für das Erzeugen der Robots-Datei anzuzeigen.|
 
-## Sitemap { .section}
+## Sitemap 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -43,13 +43,13 @@ Die im Shop eingestellte Änderungsfrequenz stellt lediglich eine Vorgabe dar. D
 |
 |Standard-Priorität|Welche Priorität soll für Sitemap-Einträge standardmäßig gesetzt werden?|
 
-## Statische Seiten { .section}
+## Statische Seiten 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Statische Seiten|Klicke auf aufrufen, um die Konfigurationsseite für statische Seiten anzuzeigen|
 
-## Tracking Codes { .section}
+## Tracking Codes 
 
 |Feldname|Beschreibung|
 |--------|------------|

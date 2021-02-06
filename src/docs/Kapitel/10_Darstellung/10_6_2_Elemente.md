@@ -2,7 +2,7 @@
 
 Elemente sind Bestandteile einer anderen Seite. Zu den Seiten, welche mehrere Elemente verwenden, zählt vor allem die Startseite des Shops sowie der Content Widerrufsrecht & Muster-Widerrufsformular \(siehe Kapitel Verbraucherrechterichtlinie\).
 
-## Aktionen zu einem Content { .section}
+## Aktionen zu einem Content 
 
 Um die möglichen Aktionen für einen Content anzuzeigen, bewege zunächst den Mauszeiger in die jeweilige Zeile des Contents. Es werden mehrere Symbole angezeigt, diese sind von links nach rechts: Vorschau, Bearbeiten, Löschen. Klicke das jeweilige Symbol an, um eine Aktion auszuführen.
 
@@ -20,7 +20,7 @@ Bewege den Mauszeiger über das Bleistift-Symbol des gewünschten Contents und k
 
 Bewege den Mauszeiger über das Mülltonnen-Symbol des zu löschenden Contents und klicke mit der linken Maustaste darauf, um diesen zu löschen. Es wird eine Sicherheitsabfrage angezeigt, in der Name und ID des Contents aufgeführt sind. Wenn du sicher bist dass der Content entfernt werden soll, klicke auf Löschen. Anderenfalls klicke auf Abbrechen und der Dialog wird wieder geschlossen, ohne dass der Content gelöscht wird.
 
-## Bereiche des Abschnitts Elemente { .section}
+## Bereiche des Abschnitts Elemente 
 
 Über die Bereiche kann festgelegt werden auf welcher Seite des Shops ein Content angezeigt wird. Für Elemente stehen die folgenden Seiten zur Verfügung:
 
@@ -37,7 +37,7 @@ Bestellzusammenfassung Information - dieser Content wird auf der letzten Seite d
 
 Datenweitergabe an Transportunternehmen - dieser Content wird auf der Seite Versand & Zahlung im Bestellvorgang angezeigt
 
-## Anlegen eines Contents { .section}
+## Anlegen eines Contents 
 
 Über die grünen Schaltflächen kann ein neuer Content angelegt werden, der Content wird dem Bereich hinzugefügt, neben dem die Schaltfläche angezeigt wird \(siehe Bereiche des Abschnitts Elemente\) Verwende die Dropdown-Funktion um die Art des Contents auszuwählen, den du anlegen möchtest. Es steht die folgende Auswahl zur Verfügung:
 
@@ -46,7 +46,7 @@ Datenweitergabe an Transportunternehmen - dieser Content wird auf der Seite Vers
 
 **Note:** Es können aus Sicherheitsgründen keine Skriptdateien mit ausführbarem Programmcode über den Dateimanager hochgeladen werden.
 
-## Eingabemaske { .section}
+## Eingabemaske 
 
 Die Eingabemaske, welche beim Anlegen oder Bearbeiten eines Contents angezeigt wird, unterscheidet sich je nach der gewählten Seitenart. Bei einer Inhaltsseite steht die Eingabe über den CK-Editor unter Inhalt im Vordergrund, während bei einer Verlinkung die eingetragene URL ausschlaggebend ist. Nachfolgend führen wir alle verfügbaren Felder auf:
 

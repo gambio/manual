@@ -4,19 +4,19 @@ Du kannst deine Bilder durch ein Wasserzeichen über deinen Shopbildern schütze
 
 Das Parameterset setzt sich aus fünf Teilen zusammen und wird am Beispiel \(overlay.gif,20,30,60,FFFFFF\) erklärt.
 
-## Teil 1: overlay.gif { .section}
+## Teil 1: overlay.gif 
 
 Der erste Parameter bezieht sich auf den Dateinamen und darf nicht verändert werden. Die hochgeladene GIF-Grafik wird automatisch in overlay.gif umbenannt.
 
-## Teil 2&3: 20,30 { .section}
+## Teil 2&3: 20,30 
 
 Der zweite und dritte Parameter beschreibt gemeinsam die Position des Wasserzeichens \(x,y\) über dem Produktbild.
 
-## Teil 4: 60 { .section}
+## Teil 4: 60 
 
 Der vierte Parameter entspricht der Durchsichtigkeit des Wasserzeichens auf dem Bild. Ein Wert von 100 macht das Wasserzeichen über dem Produktbild vollständig sichtbar, ein Wert von 0 macht das Wasserzeichen kaum sichtbar.
 
-## Teil 5: FFFFFF { .section}
+## Teil 5: FFFFFF 
 
 Der fünfte Parameter beschreibt die Farbe im Wasserzeichen, die als Hintergrund betrachtet und vollständig durchsichtig sein soll. Wir empfehlen, diesen Wert auf FFFFFF \(100% weiß\) zu belassen und die Hintergrundfarbe der hochzuladenden GIF-Grafik entsprechend anzulegen.
 

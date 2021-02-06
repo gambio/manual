@@ -1,6 +1,6 @@
 # Labelerzeugung 
 
-## Einfache Ansicht { .section}
+## Einfache Ansicht 
 
 ![](Bilder/GKV2_20180417_012.png "Einfache Ansicht")
 
@@ -17,7 +17,7 @@
 
 ![](Bilder/GKV2_20170628_014.png "Korrekt erstelltes Label")
 
-## Erweiterte Ansicht { .section}
+## Erweiterte Ansicht 
 
 In der erweiterten Ansicht gibt es noch zahlreiche weitere Optionen.
 

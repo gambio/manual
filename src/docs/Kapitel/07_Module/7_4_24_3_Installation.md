@@ -1,6 +1,6 @@
 # Installation 
 
-## Dateiupload in selbst gehosteten Shops { .section}
+## Dateiupload in selbst gehosteten Shops 
 
 Vor dem Hochladen des Moduls muss das heruntergeladene Paket entpackt werden.
 
@@ -16,7 +16,7 @@ Wechsele in den entpackten Ordner. Hier sollte ein weiterer Ordner Releva zu fin
 
 Wenn du dir nicht sicher bist, in welchem Ordner auf deinem Server sich dein Shopverzeichnis befindet, kannst du den Gambio Admin aufrufen. Wechsele hier zum Menüpunkt Toolbox \> Datenbanksicherung. Auf der rechten Seite findest du die Angabe Sicherungsverzeichnis. Entferne hier gedanklich die beiden Unterordner /admin/backups/ und du hast den Pfad zum Shopverzeichnis auf dem Server.
 
-## Installation im Modul-Center in Cloud- und selbst gehosteten Shops { .section}
+## Installation im Modul-Center in Cloud- und selbst gehosteten Shops 
 
 Das Modul releva.nz ist nun unter Module \> Modul-Center zu finden und kann hier mit wenigen Mausklicks installiert werden. Wähle hierzu den Eintrag aus der Liste aus und klicke auf die Schaltfläche Installieren in der rechten, unteren Bildschirmecke. Über eine Klick auf Deinstallieren kann dieser Schritt wieder rückgängig gemacht werden.
 

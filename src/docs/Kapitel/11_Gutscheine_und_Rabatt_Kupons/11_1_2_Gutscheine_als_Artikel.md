@@ -12,7 +12,7 @@ Gutscheine können als Artikel im Shop angeboten werden. Deine Kunden kaufen mit
 
 Beim Kauf eines Gutschein-Artikels wird je nach Einstellung unter Module \> Zusammenfassung \> Gutscheine eine der nachfolgenden Aktionen ausgeführt.
 
-## Gutschein-Freigabeliste aktiv { .section}
+## Gutschein-Freigabeliste aktiv 
 
 Wenn die Freigabeliste unter Module \> Zusammenfassung \> Gutscheine aktiviert ist, wird der bestellte Gutschein in der Freigabeliste unter Gutscheine \> Gutschein Queue aufgelistet. Wenn du den Zahlungseingang verzeichnet hast, schalte den Gutschein frei.
 
@@ -31,7 +31,7 @@ Wenn die Freigabeliste unter Module \> Zusammenfassung \> Gutscheine aktiviert i
     Der Gutscheinwert wird dem Kundenkonto des Kunden gutgeschrieben. Der Kunde wird per E-Mail über die Freigabe informiert
 
 
-## Gutschein-Freigabeliste nicht aktiv { .section}
+## Gutschein-Freigabeliste nicht aktiv 
 
 Wenn die Freigabeliste nicht aktiviert ist, wird der Gutscheinwert nach dem Eingang der Bestellung automatisch dem Guthabenkonto des Käufers gutgeschrieben.
 

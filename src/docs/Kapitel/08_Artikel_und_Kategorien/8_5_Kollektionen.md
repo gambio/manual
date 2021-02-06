@@ -2,7 +2,7 @@
 
 Kollektionen bzw. Bilderlisten werden verwendet, um Sammlungen von Bildern zu erstellen. Die Kollektionen können z.B. bei Artikelattributen und Artikeleigenschaften verwendet werden, um ein oder mehrere Bilder einem Optionswert \(Artikelattribute\) bzw. einer Kombintion \(Artikeleigenschaften\) zuzuordnen.
 
-## Kollektion erstellen { .section}
+## Kollektion erstellen 
 
 ![](Bilder/Kollektionen_neuAnlegen.png "Button _**Neue Kollektion**_")
 
@@ -13,14 +13,14 @@ Um eine neue Kollektion zu erstellen, klicke zunächst auf die grüne Schaltflä
 
 Trage in das Eingabefeld den Namen der gewünschten Kollektion als _**Sammlungsname**_ ein und klicke auf _**Erstellen**_. Um das Anlegen der Kollektion abzubrechen, klicke auf die blaue Schaltfläche _**Kollektion auswählen**_.
 
-## Kollektion auswählen, bearbeiten und löschen { .section}
+## Kollektion auswählen, bearbeiten und löschen 
 
 ![](Bilder/Kollektionen_auswaehlen.png "Auswahl der Kollektion _**MeineKollektion**_ über
         das Dropdown")
 
 Über das Dropdown kann die gewünschte Kollektion ausgewählt werden. Nach der Auswahl kann mit dem Bleistift-Icon der Name der Kollektion geändert werden. Über das Mülltonnen-Icon kann die Bilderliste wieder gelöscht werden.
 
-## Bilder hinzufügen { .section}
+## Bilder hinzufügen 
 
 Nachdem eine Kollektion ausgewählt worden ist, kann ein Bild hinzugefügt werden. Klicke hierzu auf das mit _**Bild hinzufügen**_ beschriftete Pluszeichen.
 
@@ -54,7 +54,7 @@ Zum Einrichten eines Bilds muss für jede verwendete Sprache der Bildttitel ange
 
 Wenn du mehrere Bilder hochgeladen hast, können diese bei einem erneuten Hinzufügen eines Bilds direkt ausgewählt werden.
 
-## Steuerelemente für Kollektionsbilder { .section}
+## Steuerelemente für Kollektionsbilder 
 
 ![](Bilder/Kollektionen_Steuerelemente.png "Anzeige der Steuerelemente beim Hovern mit der Maus")
 

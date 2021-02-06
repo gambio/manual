@@ -4,7 +4,7 @@ Mit der Shopversion 2.3 wird ein vereinfachtes, optimiertes Sprachsystem eingef�
 
 Beispiel eines Sprachpakets für Französisch \(Ordnername french, ISO-Code fr\):
 
-## Folgende Dateien müssen umbenannt werden: { .section}
+## Folgende Dateien müssen umbenannt werden: 
 
 lang/french/french.php
 
@@ -48,7 +48,7 @@ in
 
 lang/french/original\_mail\_templates/admin/\_samples/admin\_create\_account\_mail.html
 
-## sofern vorhanden ebenfalls umbennen: { .section}
+## sofern vorhanden ebenfalls umbennen: 
 
 lang/french/original\_mail\_templates/admin/create\_account\_mail.html
 
@@ -62,7 +62,7 @@ in
 
 lang/french/original\_mail\_templates/admin/admin\_create\_account\_mail.txt
 
-## Folgende Dateien müssen verschoben werden: { .section}
+## Folgende Dateien müssen verschoben werden: 
 
 lang/french/original\_mail\_templates/admingesamter Inhalt
 
@@ -80,7 +80,7 @@ lang/french/original\_mail\_templates
 
 Bereits vorhandene Dateien bleiben erhalten. Die so ggf. nicht verschobenen Dateien können gelöscht werden.
 
-## Ordner anlegen: { .section}
+## Ordner anlegen: 
 
 lang/french/user\_mail\_templates
 

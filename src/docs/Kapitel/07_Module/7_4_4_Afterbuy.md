@@ -1,10 +1,10 @@
 # Afterbuy 
 
-## Installation { .section}
+## Installation 
 
 Das Afterbuy-Modul kann unter Module \> Modul-Center installiert werden. Wähle hierzu den Eintrag Afterbuy \(neu\) aus und klicke auf die Schaltfläche Installieren, in der rechten, unteren Bildschirmecke.
 
-## Konfiguration { .section}
+## Konfiguration 
 
 Nachdem das Afterbuy-Modul installiert worden ist, kann es konfiguriert werden. Wähle hierzu unter Module \> Modul-Center den Eintrag Afterbuy \(neu\) aus und klicke auf die Schaltfläche Bearbeiten, in der rechten, unteren Bildschirmecke. Du gelangst zur Konfigurationsseite, hier können die Daten von Afterbuy hinterlegt werden.
 
@@ -20,7 +20,7 @@ Nachdem das Afterbuy-Modul installiert worden ist, kann es konfiguriert werden. 
 |Bezahlt-Bestellstatus|Manuell kann jede Bestellung unabhängig vom Bestellstatus übertragen werden. Wird die Übertragung zu Afterbuy aber über einen CronJob automatisch ausgeführt, so werden dabei nur die Bestellungen übertragen, die den hier ausgewählten Status haben. Alle anderen Bestellungen bleiben unberührt|
 |CronJob-URL|Die CronJob-URL kann bei deinem Hoster hinterlegt werden. Damit ist die automatische Übertragung zu Afterbuy möglich.|
 
-## Bedienung { .section}
+## Bedienung 
 
 In der Bestellübersicht unter Bestellungen \> Bestellungen kann über die Dropdown-Schaltfläche der jeweiligen Bestellung der Eintrag an Afterbuy übertragen ausgewählt werden.
 

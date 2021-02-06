@@ -17,7 +17,7 @@ Darunter befinden sich Checkboxen für Eigenschaften und Automatischer Export. W
 
 Ist der Haken für Automatischer Export gesetzt, erscheinen die Optionen zum Einrichten des automatischen Exports über einen sogenannten Cronjob. Es können wahlweise die verschiedenen Wochentage an- bzw. abgewählt werden, für die eine Startzeit \(jeweils zur vollen Stunde\) aus dem Dropdown-Menü ausgewählt werden kann oder es kann ein Intervall von einer bis 12 Stunden gewählt werden. Ein so eingestellter automatischer Export wird durch ein Uhr-Symbol in der Spalte Cronjob angezeigt.
 
-## Spalten { .section}
+## Spalten 
 
 ![](Bilder/Abb109_Artikelexport_ProfilBearbeiten.png "Artikelexport - Profil bearbeiten")
 
@@ -61,7 +61,7 @@ Das untere Drittel dieses Fensters dient zur Vorschau der Export-Datei.
 
 **Note:** Diese Ansicht wird standardmäßig leer angezeigt. Es müssen zunächst die Kategorien im Reiter Kategorien ausgewählt werden, bevor hier eine Vorschau erfolgt.
 
-## Kategorien { .section}
+## Kategorien 
 
 Über Auswahl des Reiters Kategorien können die Kategorien für den Export ausgewählt bzw. eingeschränkt werden. Setze hierzu den Haken vor die Kategorien, dessen Artikel du exportieren möchtest. Über einen Klick auf das Ordner-Symbol können die Unterkategorien der jeweiligen Kategorie angezeigt werden.
 

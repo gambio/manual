@@ -1,6 +1,6 @@
 # WYSIWYG-Editor 
 
-## WYSIWYG-Editor aktivieren { .section}
+## WYSIWYG-Editor aktivieren 
 
 Der WYSIWYG \(What You See Is What You Get\)-Editor ist ein Texteingabefeld mit eingebauter Vorschaufunktion. Seit der Shopversion 2.1 wird hierfür der sogeannte CK-Editor verwendet. Er wird hauptsächlich für Artikel- und Kategoriebeschreibungen, sowie Contents \(Informationsseiten, diese werden unter Darstellung \> Content Manager verwaltet\) verwendet, kommt aber auch an anderer Stelle zum Einsatz.
 

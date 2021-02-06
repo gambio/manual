@@ -39,19 +39,19 @@ Nach der Auswahl werden nur noch die Bereiche und Einstellungen angezeigt, die i
 
 Änderungen können über vier Arten von Einstellungen vorgenommen werden:
 
-## Schalter/Schieber { .section}
+## Schalter/Schieber 
 
 Die jeweilige Einstellung wird an- oder ausgeschaltet. Wird ein Schieber blau angezeigt, ist die Einstellung aktiv. Wird er stattdessen hellgrau angezeigt, ist die Einstellung inaktiv
 
 ![](Bilder/Abb137_StyleEdit3_styleBearbeitenAN_AUS.PNG "Eine aktive (unten) und eine inaktive Einstellung")
 
-## Textfelder { .section}
+## Textfelder 
 
 Textfelder sind im StyleEdit mit einem Unterstrich versehen. Über einen Klick in das Textfeld kann der Inhalt geändert werden. Bei einem aktiven Textfeld wird der Unterstrich blau angezeigt.
 
 ![](Bilder/Abb138_StyleEdit3_styleBearbeiten_Eingabe.PNG "Textfelder, das aktive Textfeld ist blau markiert")
 
-## Farbauswahl { .section}
+## Farbauswahl 
 
 Farbauswahlen werden über ein Textfeld, das den Farb-Wert im Hex-Code enthält \(zu erkennen an der vorangestellten Raute\) und die Vorschau-Box dargestellt, in der die eingestellte Farbe angezeigt wird. Über einen Klick in das Textfeld kann der Farbwert manuell eingetragen werden. Wenn du auf die Vorschau-Box klickst, kann die Farbe über einen Dialog eingestellt werden.
 
@@ -61,7 +61,7 @@ Der Dialog besteht aus einer zentralen Auswahl-Box, in der der Farbverlauf angez
 
 Links von der Vorschau-Box befindet sich eine Historie der bisher eingestellten Farben. Über einen Klick in das jeweilige Quadrat wird die angezeigte Farbe eingestellt. Über einen Klick auf OK wird die neue Farbe als Auswahl übernommen. Mit Abbrechen verlässt du den Dialog, ohne die Farbe zu ändern.
 
-## Dateiauswahl { .section}
+## Dateiauswahl 
 
 Die Dateiauswahl ist ähnlich wie das Textfeld aufgebaut, es wird der Dateiname der eingestellten Datei angezeigt. Bewege die Maus über das Feld, um die einzelnen Auswahlen anzuzeigen. Die drei Symbole stellen von links nach rechts die Aktionen Upload, Vorschau und Löschen dar.
 

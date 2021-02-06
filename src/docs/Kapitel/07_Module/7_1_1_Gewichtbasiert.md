@@ -18,7 +18,7 @@ Die Versandkosten werden im Feld Versandkosten, beziehungsweise bei Versand nach
 
 **Note:** Gewichtbasierte Versandmodule, die für bestimmte Transportunternehmen entwickelt wurden, enthalten spezielle Felder, die nur für dieses Unternehmen relevant sind. Informationen zu der Bedeutung der einzelnen Felder kannst du dem Angebot des Transportunternehmens entnehmen.
 
-## Beispielhafte Konfiguration eines gewichtbasierten Moduls { .section}
+## Beispielhafte Konfiguration eines gewichtbasierten Moduls 
 
 **Note:** Alle aufgelisteten Versandkosten und Gewichtsangaben sind rein fiktiv und werden nur für dieses Beispiel verwendet.
 

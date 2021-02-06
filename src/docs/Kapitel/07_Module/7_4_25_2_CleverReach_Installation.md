@@ -1,6 +1,6 @@
 # Installation 
 
-## Installation in selbstgehosteten Shops { .section}
+## Installation in selbstgehosteten Shops 
 
 **Note:**
 

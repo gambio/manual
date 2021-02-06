@@ -11,11 +11,11 @@
 
 |Hier können verschiedene Einstellungen zu Empfängern, Automatisierung und zu übertragende Daten gemacht werden.|
 
-## Sync-Priorität { .section}
+## Sync-Priorität 
 
 Legt fest, welche Daten Priorität haben sollen. Wurde ein Kunde bei CleverReach als Empfänger aktiviert, im Shop jedoch nicht, so kann man hier festlegen, welche Einstellung die höhere Priorität haben soll. Es kann daher zwischen Webshop und Cleverreach gewählt werden.
 
-## Gruppen { .section}
+## Gruppen 
 
 Hier kann zugeordnet werden, welche Art Kunden welcher Gruppe bei CleverReach zugeordnet werden soll. Hierzu müssen bei Cleverreach zuerst Gruppen angelegt werden. Wir haben zum Zweck der Erläuterung bei CleverReach drei Gruppen angelegt, die der Einfachheit halber den Menüpunkten auf der Konfigurationsseite entsprechen.
 
@@ -33,7 +33,7 @@ Sollten die Gruppen hier nicht ausgewählt werden können, müssen bei CleverRea
 |Gruppe für alle registrierten Kunden|Hiermit sind alle Kunden mit einem Kundenkonto gemeint.|
 |Gruppe für alle Käufer|Diese Gruppe wird alle Kunden enthalten, die einmal eine Bestellung getätigt haben, unabhängig davon, ob für den Kunden noch ein Kundenkonto existiert oder nicht.|
 
-## URL-Parameter für Mailing-ID { .section}
+## URL-Parameter für Mailing-ID 
 
 Hier kann ein Name für einen URL-Parameter festgelegt werden. Dies ist interessant, wenn ein Mailing Links zu Angebotsartikeln enthält. Gibt man als Name z.B. crmailing an, sähe die URL so aus:
 
@@ -41,22 +41,22 @@ http://www.dein-shop.de/tolles-produkt.html?crmailing=dez2016
 
 Die URL beginnt also mit dem Link zum Artikel, gefolgt vom URL-Parameter crmailing. Der Wert dez2016 stellt in unserem Beispiel einen Wert dar, der bei jedem Mailing automatisch von CleverReach erstellt und vergeben wird. Hierüber ist dann die genaue Auswertung von Rückmeldungen auf die einzelnen Mailings möglich.
 
-## Kaufdaten übertragen { .section}
+## Kaufdaten übertragen 
 
 Wird diese Einstellung aktiviert, so werden Warenkorb-Inhalte nach Kaufabschluss an CleverReach übertragen. Dies ist interessant für das Erfolgstracking bei Werbemailings, die dann auch den oben erwähnten Tracking-Parameter für Links in den Shop verwenden.
 
-## Erweitertes Logging { .section}
+## Erweitertes Logging 
 
 Das erweiterte Logging ermöglicht eine detaillierte Analyse, wenn es bei der Verwendung des Moduls zu Problemen kommt. Standardmäßig ist dieser Punkt aus.
 
-## Zeige Newsletter-Anmeldung im Checkout { .section}
+## Zeige Newsletter-Anmeldung im Checkout 
 
 Hierüber kann auf der Zusammenfassungsseite eine Checkbox im Bestellvorgang eingeblendet werden, über die der Kunde sich für den Newsletter im Shop anmelden kann.
 
 ![](Bilder/cleverreach/20190702_012.png "Anzeige der Newsletter-Anmeldung auf der Zusammenfassungsseite
         des Bestellvorgangs")
 
-## CronJob-Passwort { .section}
+## CronJob-Passwort 
 
 Die Gruppen können automatisch über einen CronJob abgeglichen werden. Wird ein CronJob-Passwort hinterlegt und gespeichert, so erscheint unterhalb der Einstellungen die CronJob-URL, die beim Provider eingetragen werden kann. Der CronJob führt den Abgleich der Kundengruppen dann in dem Intervall durch, der bei der Anlage des CronJobs beim Provider festgelegt wurde. Das CronJob-Passwort kannst du selbst festlegen.
 

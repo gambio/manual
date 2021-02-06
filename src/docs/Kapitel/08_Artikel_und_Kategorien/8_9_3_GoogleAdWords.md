@@ -15,7 +15,7 @@ Es stehen die folgenden Spalten zur Verfügung:
 -   CPC Ø - Costs per Click, durchschnittliche Kosten pro Klick
 -   Kosten
 
-## Conversion Tracking { .section}
+## Conversion Tracking 
 
 ![](Bilder/Goo-20181018_012.png "Hinweis auf Conversion-Aktion")
 

@@ -6,7 +6,7 @@ Artikelinhalte, auch Artikelcontents genannt, können einem Artikel als zusätzl
 
 **Note:** Im Gegensatz zu Download-Artikeln ist das Herunterladen dieser Dateien immer möglich. Der Artikel muss hierzu nicht bestellt werden.
 
-## Aktionen zu einem Artikelinhalt { .section}
+## Aktionen zu einem Artikelinhalt 
 
 Um die möglichen Aktionen für einen Artikelcontent anzuzeigen, bewege zunächst den Mauszeiger in die jeweilige Zeile des Contents. Es werden mehrere Symbole angezeigt, diese sind von links nach rechts: Bearbeiten, Löschen. Klicke das jeweilige Symbol an, um eine Aktion auszuführen.
 
@@ -18,7 +18,7 @@ Bewege den Mauszeiger über das Bleistift-Symbol des gewünschten Contents und k
 
 Bewege den Mauszeiger über das Mülltonnen-Symbol des zu löschenden Contents und klicke mit der linken Maustaste darauf, um diesen zu löschen. Es wird eine Sicherheitsabfrage angezeigt, in der Name und ID des Contents aufgeführt sind. Wenn du sicher bist dass der Content entfernt werden soll, klicke auf Löschen. Anderenfalls klicke auf Abbrechen und der Dialog wird wieder geschlossen, ohne dass der Content gelöscht wird.
 
-## Anlegen eines Artikelcontents { .section}
+## Anlegen eines Artikelcontents 
 
 Über die grüne Schaltfläche kann ein neuer Artikelcontent angelegt werden. Verwende die Dropdown-Funktion um die Art des Contents auszuwählen, den du anlegen möchtest. Es steht die folgende Auswahl zur Verfügung:
 
@@ -27,7 +27,7 @@ Bewege den Mauszeiger über das Mülltonnen-Symbol des zu löschenden Contents u
 
 **Note:** Es können aus Sicherheitsgründen keine Skriptdateien mit ausführbarem Programmcode über den Dateimanager hochgeladen werden.
 
-## Eingabemaske { .section}
+## Eingabemaske 
 
 **Datei**
 

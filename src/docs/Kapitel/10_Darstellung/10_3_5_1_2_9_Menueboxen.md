@@ -1,6 +1,6 @@
 # Menüboxen 
 
-## Kopfzeile { .section}
+## Kopfzeile 
 
 ![](Bilder/styleedit4/se4_0148_BereicheMenueboxenKopfzeile.png "Einstellungen unter Bereiche / Menüboxen /
         Kopfzeile")
@@ -17,7 +17,7 @@
 |Bild einfügen|Hintergrundbild der Kopfzeile|
 |Farbverlauf einfügen|Farbverlauf als Hintergrund der Kopfzeile|
 
-## Inhaltsbereich { .section}
+## Inhaltsbereich 
 
 ![](Bilder/styleedit4/se4_0151_BereicheMenueboxenInhaltsbereich.png "Einstellungen unter Bereiche / Menüboxen /
         Inhaltsbereich")
@@ -34,7 +34,7 @@
 
 |
 
-## Seiten mit Menüboxspalten { .section}
+## Seiten mit Menüboxspalten 
 
 ![](Bilder/styleedit4/se4_0154_BereicheMenueboxenSeitenMitMenueboxen.png "Einstellungen unter Bereiche / Menüboxen / Seiten mit
         Menüboxen")
@@ -53,7 +53,7 @@ Die Anzeige der Menüboxen kann für die einzelnen Seiten bzw. Seitenarten des S
 -   Kontoerstellung
 -   Newsletteranmeldung
 
-## Auswahl und Positionen { .section}
+## Auswahl und Positionen 
 
 ![](Bilder/styleedit4/se4_0155_BereicheMenueboxenAuswahlUndPositionen.png "Einstellungen unter Bereiche / Menüboxen / Auswahl und
         Positionen")

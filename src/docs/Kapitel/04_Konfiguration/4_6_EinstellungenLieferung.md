@@ -1,6 +1,6 @@
 # Lieferung 
 
-## Lieferstatus { .section}
+## Lieferstatus 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -17,7 +17,7 @@
 |Paketleergewicht|Wenn du das Gewicht der Verpackung in den Versandkosten berücksichtigen möchtest, kannst du hier einen fixen Wert eingeben, zum Beispiel 0.4, wenn die Verpackung immer mit 400g berücksichtigt werden soll.|
 |Bei größeren Leerpaketen - Gewichtszuwachs in %|Diese Eingabe ist ebenfalls optional und wird nur berücksichtigt, wenn das Paketleergewicht nicht ausgefüllt wurde. Du hast also die Möglichkeit, entweder das Paketleergewicht mit einem fixen Gewicht anzugeben oder einen Gewichtszuwachs, der einen bestimmten Prozentsatz des Artikelgewichtes beträgt. Gehst du bei der Berechnung der Versandkosten also davon aus, dass das Gewicht der Verpackung immer ca. 10% des Gesamtgewichtes ausmachen wird, so gib hier eine 10 ein.|
 
-## Versanddienstleister { .section}
+## Versanddienstleister 
 
 |Feldname|Beschreibung|
 |--------|------------|

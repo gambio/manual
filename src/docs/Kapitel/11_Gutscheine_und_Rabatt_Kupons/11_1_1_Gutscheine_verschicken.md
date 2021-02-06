@@ -1,6 +1,6 @@
 # Gutscheine verschicken 
 
-## Willkommens-Gutschein { .section}
+## Willkommens-Gutschein 
 
 Das Shopsystem kann neuen Kunden mit der Registrierungsbestätigung einen Willkommens-Gutschein ausstellen. Der Gutschein muss vom Kunden aktiv eingelöst werden, damit er verwendet werden kann.
 
@@ -10,7 +10,7 @@ Trage den gewünschten Willkommens-Gutscheinwert unter Shop Einstellungen \> Zus
 
 **Note:** Wenn du sowohl einen Willkommens-Gutschein als auch einen Willkommens-Rabatt Kupon einrichtest, wird dem Kunden bei der Registrierung ein Gutschein-Code und ein Rabatt Kupon-Code zugeschickt.
 
-## Gutschein E-Mail { .section}
+## Gutschein E-Mail 
 
 Wenn du einem bestimmten Kunden oder einem potentiellen Neukunden einen Gutschein zusenden möchtest, rufe im Gambio Admin den Menüpunkt Gutscheine \> Gutschein E-Mail auf.
 

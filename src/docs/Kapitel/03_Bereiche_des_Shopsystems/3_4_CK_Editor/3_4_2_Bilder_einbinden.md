@@ -4,7 +4,7 @@
 
 Verwende die Schaltfläche mit den Pyramiden \(Bild\), um ein Bild einzubinden. Es öffnet sich das Fenster Bild-Eigenschaften. Klicke hier auf Server durchsuchen, du erhältst eine Übersicht des Bild-Verzeichnisses auf deinem Server. Je nach Einstellung im Gambio Admin wird entweder der FileManager oder der Responsive FileManager geladen.
 
-## Auswahl des Bildes mit dem FileManager { .section}
+## Auswahl des Bildes mit dem FileManager 
 
 Klicke in der oberen Leiste auf das Pluszeichen, um das Bild auf deinem Rechner auszuwählen. Der Dateiname wird nun neben der Schaltfläche angezeigt. Klicke nun rechts daneben auf Hochladen, um das ausgewählte Bild auf den Server hochzuladen.
 
@@ -12,7 +12,7 @@ Klicke in der oberen Leiste auf das Pluszeichen, um das Bild auf deinem Rechner 
 
 Die Datei wird nun in der Liste aufgeführt und kann per Klick ausgewählt werden, klicke hierzu auf Auswählen, es wird nun im Fenster Bild-Eigenschaften in der Vorschau dargestellt. Bestätige die Bildauswahl mit Klick auf OK, nun ist die Grafik im CK-Editor eingebunden.
 
-## Auswahl des Bildes mit dem Responsive FileManager { .section}
+## Auswahl des Bildes mit dem Responsive FileManager 
 
 Befindet sich das Bild bereits auf dem Server, kann es direkt ausgewählt werden:
 
@@ -35,7 +35,7 @@ Soll das Bild mit einem Link versehen werden, so kann dieser direkt über die Bi
 
 Hinterlege hierzu die Linkadresse im Feld URL. Über das Dropdown-Menü Zielseite kannst du z.B. festlegen, ob der Link in einem neuen Fenster bzw. neuem Tab geöffnet werden soll. MIt der Schaltfläche Server durchsuchen kann eine passende Datei ausgewählt werden, wenn sie im Unterordner images deines Shops liegt.
 
-## Bilder responsiv machen { .section}
+## Bilder responsiv machen 
 
 Das Honeygrid-Template ist dazu ausgelegt, sich an die Auflösung des jeweilgen Ausgabegeräts \(Desktop-Computer, Tablet, Smartphone\) anzupassen. Bilder werden jedoch standardmäßig mit einer festen Größe hinterlegt. Damit diese sich ebenfalls anpassen, müssen verschiedene Änderungen im Reiter Erweitert der Bildeigenschaften vorgenommen werden:
 

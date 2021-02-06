@@ -1,6 +1,6 @@
 # Konfiguration 
 
-## Zugangsdaten { .section}
+## Zugangsdaten 
 
 Die notwendigen Zugangsdaten erhältst du von Shipcloud. Bewege den Mauszeiger über das Info-Symbol um den Tooltipp anzuzeigen. Dieser enthält einen Link zu Shipcloud.
 
@@ -14,7 +14,7 @@ Es werden sowohl der Live- als auch der Sandbox API-Schlüssel angezeigt.
 
 ![](Bilder/shipcloud/sc-key2.png "Anzeige der API-Schlüssel bei Shipcloud")
 
-## Sonstige Einstellungen { .section}
+## Sonstige Einstellungen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -36,7 +36,7 @@ Erhöhe diesen Wert nur, wenn es beim Abruf von Labels vermehrt zu Zeitüberschr
 |Inhaltsangabe automatisch vorausfüllen|Bei Sendungen in andere Länder muss unter bestimmten Bedingungen eine Inhaltsangabe mit übermittelt werden. Diese kann automatisch ausgefüllt werden, wenn diese Option gesetzt wurde.|
 |Warenwert übertragen ab und Warenwert übertragen bis|Bei Sendungen über DHL den Warenwert \(für Höherversicherung\) übertragen, wenn er in das hier konfigurierbare Intervall fällt.|
 
-## Absender { .section}
+## Absender 
 
 Die Absenderdaten müssen komplett ausgefüllt sein.
 
@@ -44,13 +44,13 @@ Die Absenderdaten müssen komplett ausgefüllt sein.
 
 Die Daten werden im Regelfall direkt aus den Einstellungen unter Shop Einstellungen \> Mein Shop bezogen und können in der Konfiguration des Moduls nachträglich angepasst werden.
 
-## Bankverbindung für Nachnahme { .section}
+## Bankverbindung für Nachnahme 
 
 Die Bankverbindung sollte ebenfalls komplett hinterlegt werden. Dies ist vor allem dann wichtig, wenn die Zahlung per Nachnahme angeboten wird.
 
 ![](Bilder/shipcloud/shipcloud_Bankdaten.png "Eingabefelder für die Bankverbindung")
 
-## Webhook \(automatische Statusaktualisierung\) { .section}
+## Webhook \(automatische Statusaktualisierung\) 
 
 Wurden Webhooks noch nicht konfiguriert, wird hier ein Button angezeigt, über den diese eingerichtet werden können.
 
@@ -60,7 +60,7 @@ Innerhalb der Einstellungen kann für jeden Sendungsstatus ein Bestellstatus zug
 
 ![](Bilder/shipcloud/SC-20181016_003.png "Einstellungen für das Einrichten eines Webhooks")
 
-## Dienstanbieter { .section}
+## Dienstanbieter 
 
 In diesem Bereich kannst du festlegen, welche Dienstanbieter du für den Versand verwenden möchtest. Die Auswahl hängt hierbei davon ab, welche Anbieter du bei Shipcloud hast freischalten lassen. Jene Dienstanbieter, für die der Haken Vorauswahl gesetzt worden ist, werden für die Kostenermittlung der Label-Erstellung vorausgewählt.
 

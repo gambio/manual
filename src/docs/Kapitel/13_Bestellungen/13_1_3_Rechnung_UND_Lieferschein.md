@@ -4,7 +4,7 @@
 
 Die Rechnung und den Lieferschein zu einer Bestellung kannst du auf der Detailseite der Bestellung im Gambio Admin deines Shops unter Bestellungen \> Bestellungen erzeugen. Eine Anleitung zur Konfiguration von Rechnung und Lieferschein findest du im Kapitel Rechnung & Lieferschein konfigurieren.
 
-## Rechnung erstellen { .section}
+## Rechnung erstellen 
 
 Wenn du die Rechnung zu einer Bestellung per Post, beispielsweise mit der Lieferung, verschicken möchtest, erstelle die Rechnung im Gambio Admin deines Shops unter Bestellungen \> Bestellungen.
 
@@ -21,7 +21,7 @@ CAUTION:
 
 Jeder Klick auf Rechnung erstellen erzeugt eine neue Rechnung mit eigener Rechnungsnummer. Zur Einsicht klicke stattdessen bitte auf Rechnung anzeigen.
 
-## Rechnung per E-Mail senden { .section}
+## Rechnung per E-Mail senden 
 
 Wenn du die Rechnung per E-Mail versendest, muss sie vorher nicht generiert werden. Die Rechnung kannst du im Gambio Admin deines Shops unter Bestellungen \> Bestellungen versenden.
 
@@ -32,7 +32,7 @@ Wenn du die Rechnung per E-Mail versendest, muss sie vorher nicht generiert werd
 
 3.  Der Bestellstatus deiner Bestellung wechselt auf Rechnung erstellt, die Rechnung wird erzeugt und dem Kunden per E-Mail zugesandt
 
-## Lieferschein erstellen { .section}
+## Lieferschein erstellen 
 
 Wenn du deiner Lieferung einen Lieferschein beilegen möchtest, erstelle den Lieferschein im Gambio Admin deines Shops unter Bestellungen \> Bestellungen.
 

@@ -4,7 +4,7 @@ Hier können die aktivierten Zahlungsarten konfiguriert werden, die vorher über
 
 Es muss dabei beachtet werden, dass für jede Zahlungsweise auch ein Modul unter Module \> Zahlungsweisen zu finden ist, das installiert werden muss. Geschieht dies nicht, wird die Zahlungsweise nicht im Bestellvorgang angezeigt und kann nicht benutzt werden.
 
-## Kreditkarten \(paymentgenre\_creditcard\) { .section}
+## Kreditkarten \(paymentgenre\_creditcard\) 
 
 ![](Bilder/payone/P1-cc_001.png "Einstellungen für Kreditkarten")
 
@@ -44,7 +44,7 @@ Es muss dabei beachtet werden, dass für jede Zahlungsweise auch ein Modul unter
 
 Hier kann ausgewählt werden, welche Kreditkarten akzeptiert werden sollen. Die Namen der Kreditkarten im Bestellvorgang können bei Bedarf verändert werden.
 
-## Online-Überweisungen \(paymentgenre\_onlinetransfer\) { .section}
+## Online-Überweisungen \(paymentgenre\_onlinetransfer\) 
 
 ![](Bilder/payone/2016-12-02_004.png "Einstellungen für Online-Überweisungen")
 
@@ -70,7 +70,7 @@ Hier kann ausgewählt werden, welche Kreditkarten akzeptiert werden sollen. Die 
 
 Hier kann ausgewählt werden, welche Zahlartypen akzeptiert werden sollen. Die Namen der akzeptierten Arten der Onlineüberweisung im Bestellvorgang können bei Bedarf verändert werden.
 
-## e-Wallet \(paymentgenre\_ewallet\) { .section}
+## e-Wallet \(paymentgenre\_ewallet\) 
 
 ![](Bilder/payone/P1-2016-12-14_001.png "Einstellungen für e-Wallet")
 
@@ -93,7 +93,7 @@ Hier kann ausgewählt werden, welche Zahlartypen akzeptiert werden sollen. Die N
 |Zugelassene Ampelwerte|Hier kannst du festlegen, welche Ampelwerte zulässig sind. Hat ein Kunde einen Ampelwert, der nicht den hier eingestellten entspricht, ist die Zahlung über dieses Modul nicht möglich. Die Ampelwerte werden im Abschnitt Bonitätsprüfung näher erläutert.|
 |Zahlarttypen|Als Zahlarttyp ist nur Paypal möglich. Der Name der Zahlungsweise kann manuell geändert werden.|
 
-## Kontobasierte Zahlungsweisen \(paymentgenre\_accountbased\) { .section}
+## Kontobasierte Zahlungsweisen \(paymentgenre\_accountbased\) 
 
 ![](Bilder/payone/P1-2016-12-14_003.png "Einstellungen für Kontobasierte
         Zahlungsweisen")
@@ -133,7 +133,7 @@ Hier kann ausgewählt werden, welche Zahlartypen akzeptiert werden sollen. Die N
 
 Als Zahlarttypen stehen hier ausschließlich direkt Kontobezogene Zahlarten zur Auswahl.
 
-## Finanzierung/Ratenkauf \(paymentgenre\_installment\) { .section}
+## Finanzierung/Ratenkauf \(paymentgenre\_installment\) 
 
 ![](Bilder/payone/P1-2016-12-14_008.png "Einstellungen für
         Finanzierung/Ratenkauf")
@@ -158,7 +158,7 @@ Als Zahlarttypen stehen hier ausschließlich direkt Kontobezogene Zahlarten zur 
 |Zugelassene Ampelwerte|Hier kannst du festlegen, welche Ampelwerte zulässig sind. Hat ein Kunde einen Ampelwert, der nicht den hier eingestellten entspricht, ist die Zahlung über dieses Modul nicht möglich. Die Ampelwerte werden im Abschnitt Bonitätsprüfung näher erläutert.|
 |Zahlarttypen|Bei dieser Zahlungsweise ist Ratenzahlung nur über CommerzFinanz möglich.|
 
-## Rechnung/Refactoring \(paymentgenre\_safeinv\) { .section}
+## Rechnung/Refactoring \(paymentgenre\_safeinv\) 
 
 ![](Bilder/payone/P1-2016-12-14_010.png "Einstellungen für
         Rechnung/Refactoring")

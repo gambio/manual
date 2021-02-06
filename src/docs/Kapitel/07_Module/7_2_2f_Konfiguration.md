@@ -8,7 +8,7 @@ Wenn du das Modul zum ersten mal in Betrieb nimmst, setze den Betriebsmodus auf 
 
 In den Einstellungen stehen die folgenden Bereiche zur Verfügung:
 
-## Allgemeine Konfiguration { .section}
+## Allgemeine Konfiguration 
 
 |Option|Erläuterung|
 |------|-----------|
@@ -36,7 +36,7 @@ In den Einstellungen stehen die folgenden Bereiche zur Verfügung:
 
 Über die Schaltfläche Expertenmodus gelangst du in die weiteren Einstellungen zu Zahlungsweisen und Gestaltung.
 
-## Expertenmodus { .section}
+## Expertenmodus 
 
 **Klarna Zahlungweisen**
 
@@ -90,13 +90,13 @@ Werden deine Farbeinstellungen nicht direkt im Shop übernommen, so gehe in den 
 |Rahmenradius|Legt fest, wie rund die Ecken der Auswahlbox bei Klarna Ratenkauf sein sollen. Man sieht in der Abbildung sehr schön, wie stark die Ecken abgerundet sind.|![](Bilder/klarna_20180111_019.png)|
 |Button Zurücksetzen|Mit diesem Button kannst du die Einstellungen auf die Standardwerte zurücksetzen. Hierzu muss im Honeygrid-Template jedoch ein Style aktiviert sein.| |
 
-## Klarna Logos { .section}
+## Klarna Logos 
 
 Im Bereich Klarna Logos der Experteneinstellungen steht dir eine Auswahl an Logos und Badges zur Verfügung. Diese können beispielsweise in einen Content, wie z.B. eine der Footer-Spalten, eingebunden werden. Um das Logo zu verwenden, kopiere bitte den unter dem zugehörigen Bild angezeigten Logo-Link.
 
 ![](Bilder/026_KlarnaLogos.png "Klarna Logos")
 
-## Kürzel für die Bestellübersicht { .section}
+## Kürzel für die Bestellübersicht 
 
 Für die Darstellung in der Bestellübersicht kann für jede Zahlungsweise ein eigenes Kürzel vergeben werden.
 

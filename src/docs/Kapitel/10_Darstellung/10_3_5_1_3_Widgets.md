@@ -2,7 +2,7 @@
 
 Widgets sind in vorgesehenen Bereichen frei platzierbare Inhalte. Derzeit gibt es die folgenden Widgets:
 
-## Text { .section}
+## Text 
 
 ![](Bilder/styleedit4/se4_0162_WidgetTextMaske.png "Eingabemaske für Text-Widgets")
 
@@ -34,7 +34,7 @@ Von links nach rechts stehen im Editor folgende Einstellungen zur Verfügung:
 
 Unter dem Editor wird die HTML ID ausgegeben. Sie wird zur eindeutigen Identifizierung des Inhalts innerhalb des HTML-Codes verwendet. Änderungen sind optional. Über das Feld Klassen erhält das Element auf HTML-Ebene eine sogenannte Klasse. Für mehrere Elemente mit der gleichen Klasse können z.B. über CSS-Code eigene Style-Einstellungen vorgenommen werden. Die Verwendung ist optional.
 
-## Bild { .section}
+## Bild 
 
 ![](Bilder/styleedit4/se4_0163_WidgetBildEinstellungen.png "Einstellungen für Bild-Widget im StyleEdit")
 
@@ -64,7 +64,7 @@ Durch Klick auf px, em oder % kann die jeweilige Größeneinheit eingestellt wer
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
-## Überschrift { .section}
+## Überschrift 
 
 ![](Bilder/styleedit4/se4_0164_WidgetUeberschriftEinstellungen.png "Einstellungen für Überschrift-Widget im StyleEdit")
 
@@ -99,7 +99,7 @@ Durch Klick auf px, em oder % kann die jeweilige Größeneinheit eingestellt wer
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
-## Button { .section}
+## Button 
 
 ![](Bilder/styleedit4/se4_0165_WidgetButtonEinstellungen.png "Einstellungen für Button-Widget im StyleEdit")
 
@@ -119,7 +119,7 @@ IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
 Im Bereich Button Size wird die allgemeine Größe der Schaltfläche eingestellt. Unter Button Type kann die Schrift- und Hintergrundfarbe entsprechend der eingestellten Standardfarbschemata \(Default, Primary, Success, Info, Warning, Danger\) umgestellt werden.
 
-## HTML { .section}
+## HTML 
 
 ![](Bilder/styleedit4/se4_0166_WidgetHTMLEingabemaske.png "Eingabemaske des HTML-Widgets")
 
@@ -129,7 +129,7 @@ Der Inhaltsname legt den Namen des jeweiligen HTML-Codes fest, er wird auch im C
 
 Unter dem Editor wird die HTML ID ausgegeben. Sie wird zur eindeutigen Identifizierung des Inhalts innerhalb des HTML-Codes verwendet. Änderungen sind optional. Über das Feld Klassen erhält das Element auf HTML-Ebene eine sogenannte Klasse. Für mehrere Elemente mit der gleichen Klasse können z.B. über CSS-Code eigene Style-Einstellungen vorgenommen werden. Die Verwendung ist optional.
 
-## Trennzeichen { .section}
+## Trennzeichen 
 
 ![](Bilder/styleedit4/se4_0167_WidgetTrennzeichenEinstellungen.png "Einstellungen für Trennzeichen-Widget im StyleEdit")
 
@@ -154,7 +154,7 @@ Durch Klick auf px, em oder % kann die jeweilige Größeneinheit eingestellt wer
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
-## Produkt { .section}
+## Produkt 
 
 ![](Bilder/styleedit4/se4_0168_WidgetProduktEinstellungen.png "Einstellungen für Produkt-Widget im StyleEdit")
 
@@ -168,7 +168,7 @@ IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
 Unter Produkt kann der Artikel für die Artikelkachel ausgewählt werden. Im Feld Produkt wählen kann hierzu ein Suchbegriff eingegeben und der Artikel aus den in einem Dropdown angezeigten Werten ausgewählt werden.
 
-## Produktliste { .section}
+## Produktliste 
 
 ![](Bilder/styleedit4/se4_0169_WidgetProduktlisteEinstellungen.png "Einstellungen für Produktlisten-Widget im StyleEdit")
 

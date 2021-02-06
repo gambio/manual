@@ -4,11 +4,11 @@
 
 ![](Bilder/direkthilfe/20190410_006.png "Glühbirnen-Symbol zum Aufruf des Handbuchs")
 
-## Installation { .section}
+## Installation 
 
 Die Installation kann im Gambio Admin unter Module \> Modul-Center vorgenommen werden. Wähle hierzu den Eintrag Direkthilfe aus der Liste aus und klicke auf die Schaltfläche Installieren in der rechten, unteren Bildschirmecke.
 
-## Konfiguration { .section}
+## Konfiguration 
 
 Die Konfiguration des Moduls beschränkt sich auf das An- und Abschalten der Direkthilfe. Wähle hierzu den Eintrag Direkthilfe unter Module \> Modul-Center aus und klicke auf die Schaltfläche Bearbeiten in der rechten, unteren Bildschirmecke. Setze bzw. entferne den Haken bei Aktiv um das Modul zu aktivieren, respektive zu deaktivieren.
 

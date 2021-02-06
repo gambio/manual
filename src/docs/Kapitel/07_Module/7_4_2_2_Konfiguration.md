@@ -2,19 +2,19 @@
 
 Nach der Installation steht der Button Bearbeiten zur Verfügung. Hierüber kann die Konfigurationsseite aufgerufen werden. Die Einstellungen sind auf 3 verschiedene Tabs aufgeteilt.
 
-## Aktivierung { .section}
+## Aktivierung 
 
 ![](Bilder/20170330_001.png "Aktivierungsformular")
 
 Über dieses Formular kannst du dich bei eKomi anmelden und die kostenlose Version nutzen. Diese ist allerdings in den Funktionen eingeschränkt, das eKomi Widget für den Shop z.B. kann hier nicht verwendet werden, dafür wäre ein Umstieg auf die kostenpflichtige Version nötig.
 
-## Konfiguration { .section}
+## Konfiguration 
 
 ![](Bilder/20170330_002.png "eKomi-Konfiguration")
 
 Nach der Anmeldung bei eKomi wird die Interface-ID und das Interface-Passwort automatisch ausgefüllt. Damit das Modul verwendet werden kann, muss der Haken bei eKomi aktiv gesetzt werden. Das Verwenden eines Widget-Einbettungscodes ist nur mit einem kostenpflichtigen Vertrag mit eKomi möglich.
 
-## Bewertungs-E-Mail-Versand { .section}
+## Bewertungs-E-Mail-Versand 
 
 ![](Bilder/20170330_003.png "Bewertungs-E-Mail-Versand")
 

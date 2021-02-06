@@ -4,11 +4,11 @@ An der Grundkonfiguration der E-Mail-Optionen muss bei Verwenden der E-Mail Tran
 
 ![](Bilder/Abb021_EinstellungenZumEMailVersand.PNG "Einstellungen zum E-Mail Versand")
 
-## Sendmail { .section}
+## Sendmail 
 
 Die E-Mail Transport-Methode sendmail sollte nicht verwendet werden. Wenn du sendmail aus technischen Gründen verwenden musst, stelle sicher, dass der Pfad zu Sendmail korrekt konfiguriert ist. Wenn du sendmail verwendest, stelle außerdem sicher, dass unter Shop Einstellungen \> Mein Shop im Feld E-Mail von eine gültige E-Mail Adresse eingetragen ist.
 
-## SMTP-Einstellungen { .section}
+## SMTP-Einstellungen 
 
 Wenn du die E-Mail Transport-Methode auf SMTP umstellst, beachte die Konfigurationsvariablen aus der Tabelle SMTP Konfigurationsvariablen.
 
@@ -25,7 +25,7 @@ Wenn du die E-Mail Transport-Methode auf SMTP umstellst, beachte die Konfigurati
 
 ![](Bilder/Abb022_ErweiterteEMailEinstellungen.PNG "Erweiterte E-Mail-Einstellungen")
 
-## Erweiterte Einstellungen { .section}
+## Erweiterte Einstellungen 
 
 CAUTION:
 
@@ -39,7 +39,7 @@ CAUTION:
 |Senden von E-Mails|Automatischen Versand von E-Mails aktivieren \(beispielsweise Bestellbestätigungen\)|
 |Maximale Anzahl E-Mails pro Versand|Schränkt die Anzahl der E-Mails ein, die gleichzeitig versendet werden können|
 
-## E-Mail Einstellungen { .section}
+## E-Mail Einstellungen 
 
 Das Shopsystem versendet E-Mails von und an drei verschiedene shopinterne E-Mail Konten. In der Grundkonfiguration wird allen E-Mail Konten die bei Erstellung des Hauptadministrators während der Installationsroutine angegebene E-Mail Adresse hinterlegt.
 

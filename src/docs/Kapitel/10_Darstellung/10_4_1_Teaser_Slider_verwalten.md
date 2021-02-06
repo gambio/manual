@@ -6,20 +6,20 @@ Neue Teaser-Slider kannst du im Gambio Admin deines Shops unter Darstellung \> T
 
 ![](Bilder/Abb144_TeaserSlider.PNG "Teaser-Slider im Gambio Admin")
 
-## Slider anlegen { .section}
+## Slider anlegen 
 
 1.  Klicke auf Erstellen
 2.  Trage unter Name einen Namen für den neuen Slider ein
 3.  Ändere bei Bedarf im Feld Geschwindigkeit die Anzeigedauer je Bild in Sekunden
 4.  Klicke auf Speichern, um die Konfiguration des Teaser-Sliders zu speichern
 
-## Slider löschen { .section}
+## Slider löschen 
 
 1.  Bewege den Mauszeiger in die Zeile des Sliders, den du löschen möchtest
 2.  Klicke auf das Mülltonen-Symbol
 3.  Bestätige die Sicherheitsabfrage mit einem Klick auf Löschen, um den gewählten Teaser-Slider zu löschen
 
-## Bilder hinzufügen { .section}
+## Bilder hinzufügen 
 
 Für jedes Bild des Teaser-Sliders wird ein sogenannter Slide angelegt. Ein Slide entspricht einem Bild, jedoch kann für die verschiedene Ansichten des Shops je eine eigene Bild-Datei zugeordnet werden. Auf diese Weise können für unterschiedliche Ansichten \(z.B. Desktop-Ansicht oder Smartphone-Ansicht\) Bilder mit hierfür angepassten Auflösungen verwendet werden. Ein Slide hat für jede einzelne Sprache, die im Shop verwendet wird, eine eigene Einstellungsseite, die über den Reiter mit der Landesflagge oben links ausgewählt werden kann.
 

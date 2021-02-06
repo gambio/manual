@@ -68,13 +68,13 @@ Das Zuweisen der Eigenschaftswerte zu einem Artikel kann manuell oder automatisc
     -   rot, M
     -   rot, L
 
-## Kombinationen automatisch ermitteln { .section}
+## Kombinationen automatisch ermitteln 
 
 Das automatische Ermitteln der Kombinationen ist die einfachste Möglichkeit.
 
 Setze die Haken für die Eigenschaften, die du kombinieren möchtest. Bei Bedarf kannst du auch über das Plus-Zeichen die jeweilige Eigenschaft aufklappen und einzelne Eigenschaftswerte für die Kombination auswählen. Klicke auf _**Kombinationen automatisch ermitteln**_. Überzählige Kombinationen - also Varianten eines Artikels, die du nicht anbieten möchtest - können auch nachträglich wieder gelöscht werden.
 
-## Kombinationen manuell erstellen { .section}
+## Kombinationen manuell erstellen 
 
 Beim manuellen Erstellen der Kombinationen wird jede Variante des Artikels einzeln angelegt.
 
@@ -110,14 +110,14 @@ Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Ein
 
 Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zugewiesen werden.
 
-## Aufruf aus der Artikelübersicht { .section}
+## Aufruf aus der Artikelübersicht 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelUebersicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikelübersicht")
 
 Über die Dropdown-Schaltfläche am hinteren Ende des Artikels kann der Eintrag _**Eigenschaften**_ ausgewählt werden.
 
-## Aufruf aus der Artikeldetailseite { .section}
+## Aufruf aus der Artikeldetailseite 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelDetailansicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikel-Detailseite")
@@ -128,7 +128,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 
 # Eigenschaftswerte erstellen und bearbeiten 
 
-## Eigenschaftswert hinzufügen { .section}
+## Eigenschaftswert hinzufügen 
 
 ![](Bilder/ArtikelEigenschaftenUebersicht_IconsEigenschaftswertHinzufuegen.png "Icon _**Eigenschaftswert hinzufügen**_ der
         Eigenschaft _**Farbe**_")
@@ -146,7 +146,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 |Bruttopreis|Brutto-Aufpreis auf den Hauptartikelpreis des Eigenschaftswerts|
 |Bild|Bild zur Auswahl des Eigenschaftswerts bei _**Anzeigeart**_ _**Bild**_ der Eigenschaft|
 
-## Eigenschaftswert bearbeiten { .section}
+## Eigenschaftswert bearbeiten 
 
 ![](Bilder/ArtikelEigenschaftenUebersicht_ausgeklappt.png "Anzeige der Eigenschaftswerte der Eigenschaft
         _**Farbe**_ nach Ausklappen")
@@ -168,7 +168,7 @@ Eigenschaften können einem Artikel unter _**Artikel \> Artikel/Kategorien**_ zu
 |Bruttopreis|Brutto-Aufpreis auf den Hauptartikelpreis des Eigenschaftswerts|
 |Bild|Bild zur Auswahl des Eigenschaftswerts bei _**Anzeigeart**_ _**Bild**_ der Eigenschaft|
 
-## Eigenschaftswert löschen { .section}
+## Eigenschaftswert löschen 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftswertLoeschen.png "Löschen-Icon des Eigenschaftswerts _**Schwarz**_
         der Eigenschaft _**Farbe**_")
@@ -223,21 +223,21 @@ Wähle die gewünschten Eigenschaftswerte aus und nimm, soweit möglich, die Ein
 
 # Kombinationsübersicht 
 
-## Aufruf der Kombinationsübersicht aus der Artikelübersicht { .section}
+## Aufruf der Kombinationsübersicht aus der Artikelübersicht 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelUebersicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikelübersicht")
 
 Über die Dropdown-Schaltfläche am hinteren Ende des Artikels kann der Eintrag _**Eigenschaften**_ ausgewählt werden.
 
-## Aufruf der Kombinationsübersicht aus der Artikeldetailseite { .section}
+## Aufruf der Kombinationsübersicht aus der Artikeldetailseite 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftenZuweisenArtikelDetailansicht.png "Eintrag _**Eigenschaften**_ in der
         Dropdown-Schaltfläche der Artikel-Detailseite")
 
 Über die mit _**Sonderangebot**_ beschriftete Schaltlfäche kann im Dropdown der Eintrag _**Eigenschaften**_ ausgewählt werden.
 
-## Kombinationsübersicht { .section}
+## Kombinationsübersicht 
 
 ![](Bilder/ArtikelEigenschaften_Kombinationsuebersicht.png "Kombinationsübersicht für einen Artikel mit zwei
         Eigenschaften")
@@ -265,7 +265,7 @@ Für jeden einzelnen Eintrag stehen am Ende der Zeile die Funktionen
 
 zur Verfügung.
 
-## Einstellungsseite { .section}
+## Einstellungsseite 
 
 ![](Bilder/ArtikelEigenschaften_KombinationsuebersichtEinstellungen.png "Einstellungsseite")
 
@@ -354,13 +354,13 @@ Diese sind von links nach rechts
 -   Eigenschaft löschen
 -   Eigenschafswert hinzufügen
 
-## Eigenschaft erstellen { .section}
+## Eigenschaft erstellen 
 
 Über den Button _**Erstellen**_ können neue Eigenschaften angelegt werden
 
 Über _**Speichern**_ bzw. _**Speichern & Schließen**_ kann die Eigenschaft mit den gemachten Eingaben angelegt werden. Über _**Abbrechen**_ kann die Maske geschlossen werden, ohne die Eigenschaft anzulegen.
 
-## Eigenschaft bearbeiten { .section}
+## Eigenschaft bearbeiten 
 
 Über das Bleistift-Symbol kann eine bestehende Eigenschaft bearbeitet werden.
 
@@ -369,7 +369,7 @@ Diese sind von links nach rechts
 
 Über die Schaltflächen _**Speichern**_ bzw. _**Speichern & Schließen**_ in der Eingabemaske werden die gemachten Änderungen an der Eigenschaft übernommen. Mit _**Abbrechen**_ wird der Dialog verlassen, ohne gemachte Änderungen zu speichern.
 
-## Eingabemaske der Eigenschaft { .section}
+## Eingabemaske der Eigenschaft 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftHinzufuegen.png "Eingabemaske _**Eigenschaft hinzufügen**_")
 
@@ -388,7 +388,7 @@ In der Eingabemaske können die folgenden Angaben gemacht werden:
 
     Der Admin-Name kann verwendet werden, um zwischen Eigenschaften mit gleichem Namen zu unterscheiden. Eine Eigenschaft _**Größe**_ kann z.B. mit dem Admin-Namen _**Konfektionsgröße**_ oder _**Schuhgröße**_ angelegt werden. Im Shop wird für beide Artikel, egal ob T-Shirt oder Turnschuh, die Auswahl _**Größe**_ angezeigt.
 
-## Eigenschaft löschen { .section}
+## Eigenschaft löschen 
 
 ![](Bilder/ArtikelEigenschaftenUebersicht_IconsLoeschen.png "Icon _**Löschen**_ der Eigenschaft
         _**Farbe**_")

@@ -1,6 +1,6 @@
 # Shop 
 
-## Allgemein { .section}
+## Allgemein 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -9,7 +9,7 @@
 |Geschäftsadresse und Telefonnummer etc.|Geschäftsadresse, wird z.B. im Briefkopf der Bestellbestätigung verwendet|
 |Deine Zeitzone|Zeitzone des Firmensitzes|
 
-## Shopbetreiber { .section}
+## Shopbetreiber 
 
 |Feldname|Beschreibung|
 |--------|------------|

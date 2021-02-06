@@ -1,10 +1,10 @@
 # Umsetzung der Verbraucherrechterichtlinie im Frontend des Shops 
 
-## Warenkorb { .section}
+## Warenkorb 
 
 Es wird ein Link mit dem Hinweis Hier finden Sie Informationen zu Versand- & Zahlungsbedingungen. oberhalb der Schaltfläche Weiter einkaufen angezeigt.
 
-## Bestellvorgang { .section}
+## Bestellvorgang 
 
 Unter dem Punkt Widerrufsrecht im Bereich Zahlungsinformationen werden die Inhalte Widerrufsrecht 1 bis Widerrufsrecht 4 \(je nach dem, ob sichtbar geschaltet oder nicht\) angezeigt. Zudem hat der Kunde, bei Download-Artikeln und Dienstleistungen, die Möglichkeit der Ausführung des Vertrags vor Ablauf des Widerrufsrechts zuzustimmen. Dies kann durch Anhaken der Box mit dem Text
 
@@ -20,7 +20,7 @@ bestätigt werden.
 
 Über den Link \(Als PDF downloaden\) hat der Kunde die Möglichkeit sowohl die Allgemeinen Geschäftsbedingungen als auch das Widerrufsrecht als PDF-Datei herunterzuladen.
 
-## Bestellinformationen { .section}
+## Bestellinformationen 
 
 Wenn unter Shop Einstellungen \> Rechtliches die Einstellungen gesetzt sind, wird in den Bestellinformationen unter Ihr Konto der entsprechende Verweis auf das Widerrufsformular angezeigt. Dies kann wahlweise im PDF-Format und/oder als Online-Formular erfolgen.
 
@@ -29,11 +29,11 @@ Wenn unter Shop Einstellungen \> Rechtliches die Einstellungen gesetzt sind, wir
 
 Zudem wird dem Kunden bei einem Verzicht auf das Widerrufsrecht, wie es bei einem Download oder einer Dienstleistung der Fall sein kann, der zugehörige Bestätigungstext unterhalb des Bereichs Artikel angezeigt.
 
-## Bestellbestätigung { .section}
+## Bestellbestätigung 
 
 Die Bestellbestätigungs-E-Mail enthält mit der Einrichtung der Verbraucherrechterichtlinie nun standardmäßig AGB und Widerrufsrecht als PDF-Anhang. Das Widerrufsformular wird ebenfalls mitgesendet, wenn unter Shop Einstellungen \> Rechtliches die EinstellungPDF-Formular anbieten gesetzt ist. Zudem werden identische Verweise auf das Widerrufsformular aufgeführt, wie bereits in den Bestellinformationen unter Ihr Konto, wenn die entsprechenden Haken gesetzt sind.
 
-## Online-Widerrufsformular { .section}
+## Online-Widerrufsformular 
 
 **Note:** Der Verweis auf das Online-Widerrufsformular wird unter Shop Einstellungen \> Rechtliches eingestellt. Setze hierzu die Einstellung bei Webformular anbieten im Bereich Widerrufsrecht.
 
@@ -51,7 +51,7 @@ Anschließend folgen Felder für Name, Anschrift und E-Mail-Adresse des Verbrauc
 
 Mit Klick auf die Schaltlfäche Widerruf erklären wird das Formular abgeschickt. Der Kunde erhält eine automatische Bestätigungs-E-Mail.
 
-## Widerrufsbestätigung { .section}
+## Widerrufsbestätigung 
 
 Die Bestätigungsmail wird automatisch an den Kunden versandt. Sie enthält, mit Ausnahme der E-Mail-Adresse des Kunden, alle Informationen, die Bestandteil des Online-Widerrufsformulars sind.
 

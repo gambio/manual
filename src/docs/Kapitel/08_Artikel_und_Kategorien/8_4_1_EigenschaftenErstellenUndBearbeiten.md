@@ -20,13 +20,13 @@ Diese sind von links nach rechts
 -   Eigenschaft löschen
 -   Eigenschafswert hinzufügen
 
-## Eigenschaft erstellen { .section}
+## Eigenschaft erstellen 
 
 Über den Button _**Erstellen**_ können neue Eigenschaften angelegt werden
 
 Über _**Speichern**_ bzw. _**Speichern & Schließen**_ kann die Eigenschaft mit den gemachten Eingaben angelegt werden. Über _**Abbrechen**_ kann die Maske geschlossen werden, ohne die Eigenschaft anzulegen.
 
-## Eigenschaft bearbeiten { .section}
+## Eigenschaft bearbeiten 
 
 Über das Bleistift-Symbol kann eine bestehende Eigenschaft bearbeitet werden.
 
@@ -35,7 +35,7 @@ Diese sind von links nach rechts
 
 Über die Schaltflächen _**Speichern**_ bzw. _**Speichern & Schließen**_ in der Eingabemaske werden die gemachten Änderungen an der Eigenschaft übernommen. Mit _**Abbrechen**_ wird der Dialog verlassen, ohne gemachte Änderungen zu speichern.
 
-## Eingabemaske der Eigenschaft { .section}
+## Eingabemaske der Eigenschaft 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftHinzufuegen.png "Eingabemaske _**Eigenschaft hinzufügen**_")
 
@@ -54,7 +54,7 @@ In der Eingabemaske können die folgenden Angaben gemacht werden:
 
     Der Admin-Name kann verwendet werden, um zwischen Eigenschaften mit gleichem Namen zu unterscheiden. Eine Eigenschaft _**Größe**_ kann z.B. mit dem Admin-Namen _**Konfektionsgröße**_ oder _**Schuhgröße**_ angelegt werden. Im Shop wird für beide Artikel, egal ob T-Shirt oder Turnschuh, die Auswahl _**Größe**_ angezeigt.
 
-## Eigenschaft löschen { .section}
+## Eigenschaft löschen 
 
 ![](Bilder/ArtikelEigenschaftenUebersicht_IconsLoeschen.png "Icon _**Löschen**_ der Eigenschaft
         _**Farbe**_")

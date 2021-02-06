@@ -4,7 +4,7 @@ L채nder, die Kunden beim Anlegen einer Adresse nicht mehr ausw채hlen d체rfen, m�
 
 Klicke unterhalb der L채nderliste auf Alle deaktivieren, um alle L채nder zur Auswahl in Adressformularen zu deaktivieren.
 
-## Einzelne L채nder deaktivieren { .section}
+## Einzelne L채nder deaktivieren 
 
 So deaktivierst du ein einzelnes Land zur Auswahl in Adressformularen:
 

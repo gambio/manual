@@ -1,6 +1,6 @@
 # Labelerstellung 
 
-## Funktion aufrufen { .section}
+## Funktion aufrufen 
 
 Die Labelerstellung erfolgt im Gambio Admin in der Bestellübersicht unter Bestellungen \> Bestellungen. Soll nur für eine Bestellung ein Label erstellt werden, kann die Funktion über die Dropdown-Schaltfläche der jeweiligen Bestellung aufgerufen werden. Werden Bestellungen in der Mehrfachauswahl angehakt, kann die zugehörige Dropdown-Schaltfläche links unten verwendet werden. Es öffnet sich ein Popup mit möglichen Einstellungen zur Labelerstellung.
 
@@ -8,7 +8,7 @@ Die Labelerstellung erfolgt im Gambio Admin in der Bestellübersicht unter Beste
 
 ![](Bilder/BestellungenDropdownShipcloudMulti_.png "Aufruf der Labelerstellung für mehrere Bestellungen")
 
-## Angaben zum Empfänger { .section}
+## Angaben zum Empfänger 
 
 Die aufgeführten Lieferadressen sollten kurz auf Richtigkeit geprüft werden. Beim Einzelaufruf ist auch eine Korrektur der Daten möglich.
 
@@ -16,7 +16,7 @@ Die aufgeführten Lieferadressen sollten kurz auf Richtigkeit geprüft werden. B
 
 ![](Bilder/shipcloud/shipcloud_Auswahl_005.png "Empfängeranschriften beim Mehrfachaufruf")
 
-## Angaben zum Paket { .section}
+## Angaben zum Paket 
 
 Die Größen- und Gewichtsangaben können individuell erfasst oder über eine Paketvorlage ausgewählt werden. Hierbei ist zu beachten, dass die möglichen Größen und Gewichte sich je nach Versanddienstleister unterscheiden können. Gleiches gilt für das allgemeine Angebot, so bieten z.B. nicht alle Dienstleister Briefsendungen an.
 
@@ -24,7 +24,7 @@ Das Feld Nachnahmebetrag wird nur bei Nachnahmebestellungen angezeigt. Ist dies 
 
 ![](Bilder/shipcloud/SCnachnahme.png "Angaben zum Paket")
 
-## Versandkosten ermitteln { .section}
+## Versandkosten ermitteln 
 
 Über die Schaltfläche Versandkosten ermitteln kannst du dir verschiedene Preise ausgeben lassen. Die Angabe nicht möglich bzw. das Fehlen von Preisen in den Abbildungen lässt sich darauf zurückführen, dass der Transport von Sendungen in den angegebenen Abmessungen vom jeweiligen Dienstleister nicht angeboten wird.
 
@@ -32,7 +32,7 @@ Das Feld Nachnahmebetrag wird nur bei Nachnahmebestellungen angezeigt. Ist dies 
 
 ![](Bilder/shipcloud/shipcloud_Auswahl_010.png "Mehrfachauswahl")
 
-## Versandlabel erzeugen und löschen { .section}
+## Versandlabel erzeugen und löschen 
 
 Mit Klick auf Versandlabel erzeugen können die benötigten Label erstellt werden, es öffnet sich ein neues Dialogfenster. Dort wird der Zeitpunkt der Erzeugung protokolliert sowie die Tracking-Nummer und der Preis ausgegeben. Hier kann das Versandlabel aufgerufen oder gelöscht werden.
 
@@ -42,7 +42,7 @@ Mit Klick auf Versandlabel erzeugen können die benötigten Label erstellt werde
 
 ![](Bilder/shipcloud/shipcloud_tracking_4.png "Sendungsverfolgungsseite")
 
-## Tracking-Link versenden { .section}
+## Tracking-Link versenden 
 
 Mit Erstellen des Versandlabels wird die Sendungsnummer automatisch in den Bestelldetails eingetragen. Auch wird ein entsprechender Vermerk in der Bestellstatushistorie hinterlegt. Nun kann von hier aus der Bestellstatus geändert und im gleichen Zug eine Information an den Kunden versendet werden, welche den Tracking-Link enthält, sofern dies ausgewählt worden ist.
 
@@ -52,7 +52,7 @@ Mit Erstellen des Versandlabels wird die Sendungsnummer automatisch in den Beste
 
 ![](Bilder/shipcloud/shipcloud_Auswahl_009.png "Statusänderung")
 
-## Ausnahmen { .section}
+## Ausnahmen 
 
 Das Anlegen des Tracking-Links sowie der Versand des Tracking-Links ist bei Versand über GLS nicht möglich. Im Gegensatz zu anderen Dienstleistern, wird die Sendungsnummer bei GLS erst bei der Abholung der Sendungen erstellt und ist damit zum Zeitpunkt der Labelerstellung im Shop noch nicht bekannt. Somit kann diese Nummer natürlich auch nicht in der Bestellung hinterlegt und an den Kunden versendet werden. Bei Sendungen über GLS ist es daher nötig, die Sendungsnummer manuell in der Bestellung zu hinterlegen.
 

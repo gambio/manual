@@ -5,7 +5,7 @@
 
 Bezahlen mit Amazon kann unter Module \> Zahlungsweisen \> Sonstige installiert werden. Wähle hierzu den gezeigten Modul-Eintrag aus und klicke in der rechten Spalte auf Installieren. Anschließend kann das Modul bearbeitet oder konfiguriert werden.
 
-## Bearbeitung { .section}
+## Bearbeitung 
 
 ![](Bilder/modul-aap.png "Bezahlen mit Amazon nach der Installation")
 

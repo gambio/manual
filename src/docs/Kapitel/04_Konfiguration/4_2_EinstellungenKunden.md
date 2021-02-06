@@ -1,6 +1,6 @@
 # Kunden 
 
-## Kunden { .section}
+## Kunden 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -18,7 +18,7 @@
 
 |
 
-## Kundendaten { .section}
+## Kundendaten 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -39,7 +39,7 @@ Externe Module \(Zahlungsmodule, ERP, Warenwirtschaften etc.\) müssen Straße u
 |Stadtteil|Abfrage des Stadtteils bei der Kundenanmeldung|
 |Telefonnummer|Abfrage der Telefonnummer bei der Kundenanmeldung|
 
-## Mindestlänge für Kundenfelder { .section}
+## Mindestlänge für Kundenfelder 
 
 Über die Mindstlänge können Felder als Plfichtfelder festgelegt werden. Ist für die Mindestlänge ein Wert größer als 0 eingetragen, ist das betreffende Feld ein Pflichtfeld.
 

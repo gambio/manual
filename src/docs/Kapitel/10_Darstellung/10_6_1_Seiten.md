@@ -6,7 +6,7 @@ CAUTION:
 
 Der eingetragene Text im Content Widerrufsrecht & Muster-Widerrufsformular darf nicht angepasst werden, da hierüber einzelne Elemente für die Widerrufsbelehrung zusammengeführt werden \(siehe Kapitel Elemente, Verbraucherrechterichtlinie\).
 
-## Aktionen zu einem Content { .section}
+## Aktionen zu einem Content 
 
 Um die möglichen Aktionen für einen Content anzuzeigen, bewege zunächst den Mauszeiger in die jeweilige Zeile des Contents. Es werden mehrere Symbole angezeigt, diese sind von links nach rechts: Vorschau, Bearbeiten, Löschen, Verschieben. Klicke das jeweilige Symbol an, um eine Aktion auszuführen.
 
@@ -30,7 +30,7 @@ Bewege den Mauszeiger über das Mülltonnen-Symbol des zu löschenden Contents u
 
 Bewege den Mauszeiger über das Pfeilsymbol des gewünschten Contents, klicke und halte die linke Maustaste, um diesen in einen anderen Bereich zu verschieben. Ziehe so den Content nach oben oder unten in den gewünschten Bereich und lasse dort die linke Maustaste wieder los. Jeder Bereich hat seine eigene Funktion \(siehe Bereiche des Abschnitts Seiten\).
 
-## Bereiche des Abschnitts Seiten { .section}
+## Bereiche des Abschnitts Seiten 
 
 Über die Bereiche kann festgelegt werden in welchem Teil des Shops ein Content angezeigt wird \(siehe Kapitel Bereiche des Shopsystems\). Für Inhaltsseiten stehen die folgenden Bereiche zur Verfügung:
 
@@ -39,7 +39,7 @@ Bewege den Mauszeiger über das Pfeilsymbol des gewünschten Contents, klicke un
 -   Infoseiten - der Content wird als Link in der ersten Spalte des Footers \(Mehr über\) angezeigt
 -   Weitere - der Content wird als Link in der Box Informationen angezeigt
 
-## Anlegen eines Contents { .section}
+## Anlegen eines Contents 
 
 ![](Bilder/Abb183_ContentManager_neuerContent.PNG "Anlegen eines Contents per Dropdown")
 
@@ -51,7 +51,7 @@ Bewege den Mauszeiger über das Pfeilsymbol des gewünschten Contents, klicke un
 
 **Note:** Es können aus Sicherheitsgründen keine Skriptdateien mit ausführbarem Programmcode über den Dateimanager hochgeladen werden.
 
-## Eingabemaske { .section}
+## Eingabemaske 
 
 ![](Bilder/Abb184_ContentManager_neuerContentEingabemaske.PNG "Content Eingabemaske") ![](Bilder/Abb185_ContentManager_neuerContentEingabemaske.PNG "Content Eingabemaske")
 

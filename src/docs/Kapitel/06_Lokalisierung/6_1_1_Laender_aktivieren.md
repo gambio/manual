@@ -8,7 +8,7 @@ Klicke auf D, A, CH aktivieren, um die Ländergruppe Deutschland, Österreich un
 
 Klicke auf alle aktivieren, um alle Länder zur Auswahl in Adressformularen zu aktivieren.
 
-## Einzelne Länder aktivieren { .section}
+## Einzelne Länder aktivieren 
 
 So aktivierst du ein einzelnes Land zur Auswahl in Adressformularen:
 

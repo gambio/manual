@@ -1,18 +1,18 @@
 # Rabatte 
 
-## Rabatt Kupons { .section}
+## Rabatt Kupons 
 
 Das Modul Rabatt Kupons wird benötigt, um Rabatt Kupons bei der Summenberechnung zu berücksichtigen.
 
-## Rabatt { .section}
+## Rabatt 
 
 Das Modul Rabatt wird benötigt, um Kundengruppenrabatte bei der Summenberechnung zu berücksichtigen.
 
-## Gutscheine { .section}
+## Gutscheine 
 
 Das Modul Gutscheine wird benötigt, um Gutscheine bei der Summenberechnung zu berücksichtigen.
 
-## Vorkasse Rabatt { .section}
+## Vorkasse Rabatt 
 
 Mit dem Modul Vorkasse Rabatt gibst du einen Rechnungsrabatt auf bestimmte Zahlungsweisen.
 

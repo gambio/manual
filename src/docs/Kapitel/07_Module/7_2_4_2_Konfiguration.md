@@ -2,7 +2,7 @@
 
 Wurde das Modul installiert, kann über die Schaltfläche konfigurieren die Konfigurationsseite des Moduls aufgerufen werden.
 
-## Zugangsdaten { .section}
+## Zugangsdaten 
 
 ![](Bilder/amazonadv-20180920_002.png "Eingabe der Zugangsdaten")
 
@@ -13,7 +13,7 @@ Wurde das Modul installiert, kann über die Schaltfläche konfigurieren die Konf
 |Secret Access Key|40-stellige Kombination aus Groß- und Kleinbuchstaben, Sonderzeichen und Zahlen. Diese erhältst du von Amazon.|
 |Händler-URL|Diese URL sollte im Amazon Seller Central hinterlegt werden, damit die automatische Übertragung von Daten von Amazon in den Shop gewährleistet ist \(Rechnungsdaten, Status\).|
 
-## Erscheinungsbild { .section}
+## Erscheinungsbild 
 
 ![](Bilder/amazonadv-20180920_004.png "Einstellungen für das Erscheinungsbild")
 
@@ -23,7 +23,7 @@ Wurde das Modul installiert, kann über die Schaltfläche konfigurieren die Konf
 |Größe des Buttons|Es stehen mittelgroß, groß und extragroß zur Auswahl.|
 |Versteckter Button|Anzeige des Buttons an- oder ausschalten.|
 
-## Einstellungen { .section}
+## Einstellungen 
 
 ![](Bilder/amazonadv-20180920_005.png "Einstellungen")
 
@@ -45,13 +45,13 @@ Wurde das Modul installiert, kann über die Schaltfläche konfigurieren die Konf
 |Bestellstatus nach erfolgreichen Einzug|Standard: Betrag eingezogen \(Amazon\)|
 |Bestellstatus nach fehlgeschlagenem Einzug|Standard: Einzug fehlgeschlagen \(Amazon\)|
 
-## Standard-Bestellstatūs verwenden { .section}
+## Standard-Bestellstatūs verwenden 
 
 ![](Bilder/amazonadv-20180920_007.png "Standard-Bestellstatūs verwenden")
 
 Sind die oben erwähnten Bestellstatus noch nicht im Shop vorhanden, so können diese hierüber angelegt werden. Die Verwendung ist jedoch optional.
 
-## Verbindung prüfen { .section}
+## Verbindung prüfen 
 
 ![](Bilder/amazonadv-20180920_008.png "Verbindung prüfen")
 

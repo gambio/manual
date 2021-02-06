@@ -9,7 +9,7 @@ Damit der Shop erfolgreich mit IT-Recht Kanzlei verbunden werden kann, muss dies
 ![](Bilder/itrecht/20170329_001.png "Reiter Konfiguration beim Bearbeiten des Moduls IT-Recht
       Kanzlei")
 
-## API-Token { .section}
+## API-Token 
 
 Der API-Token wird benötigt, um die Verbindung zwischen dem Shop und IT-Recht Kanzlei herzustellen. Der Token wird über den Button Token generieren im Shop erstellt und dann bei IT-Recht Kanzlei in deinem Kundenkonto hinterlegt. Gehe hierzu wie folgt vor:
 
@@ -24,11 +24,11 @@ Es öffnet sich nun ein Popup, über das die Art des Shops ausgewählt und der T
 |3. Rufe in einem zweiten Tab deines Browsers die Konfigurationsseite des Moduls im Gambio Admin auf und klicke unter Empfangene Texte auf die Schaltfläche In Content-Manager verwenden.|![](Bilder/itrecht/20170329_008_.png)|
 |4. Bestätige die Angaben|![](Bilder/itrecht/20170329_007.png)|
 
-## AGB-Text in PDF-Rechnung verwenden { .section}
+## AGB-Text in PDF-Rechnung verwenden 
 
 Wird dieser Punkt aktiviert, wird der AGB-Text in die PDF-Rechnung übernommen. Der Text von IT-Recht Kanzlei ersetzt dann den Text, der ggf. unter Shop Einstellungen \> Rechnung/Lieferschein im Tab Inhalt für AGB/Widerruf hinterlegt worden ist.
 
-## Widerrufsbelehrung in PDF-Rechnung verwenden { .section}
+## Widerrufsbelehrung in PDF-Rechnung verwenden 
 
 Wird dieser Punkt aktiviert, wird der Widerrufstext in die PDF-Rechnung übernommen. Der Text von IT-Recht Kanzlei ersetzt dann den Text, der ggf. unter Shop Einstellungen \> Rechnung/Lieferschein im Tab Inhalt für AGB/Widerruf hinterlegt worden ist.
 

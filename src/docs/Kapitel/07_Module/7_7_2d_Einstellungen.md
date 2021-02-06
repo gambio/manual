@@ -19,7 +19,7 @@
 |Altersprüfung bei FSK18-Artikeln|Hier kann die Art der Altersprüfung bei FSK18-Artikeln gewählt werden.|
 |Vorauswahl Premium bei intl. Versand|Ist diese Option aktiv, wird Premium bei der Labelerstellung vorausgewählt.|
 
-## Produkte { .section}
+## Produkte 
 
 ![](Bilder/GKV2_20170628_007.png "Abschnitt Produkte unter Einstellungen")
 

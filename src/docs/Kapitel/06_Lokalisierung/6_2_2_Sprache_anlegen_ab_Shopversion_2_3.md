@@ -2,7 +2,7 @@
 
 Das Shopsystem wird vollständig in Englisch und Deutsch lokalisiert ausgeliefert. Zusätzliche Sprachen können nachträglich hinzugefügt werden. Hierzu sind sowohl Schritte im Administrationsbereich/Gambio Admin des Shops als auch auf dem FTP-Server notwendig.
 
-## Anlegen der Sprache im Administrationsbereich/Gambio Admin { .section}
+## Anlegen der Sprache im Administrationsbereich/Gambio Admin 
 
 Öffne im Gambio Admin den Menüpunkt Shop Einstellungen \> Land/Steuer \> Sprachen und klicke auf Erstellen. Auf der rechten Seite öffnet sich eine Spalte. Hier findet die shopseitige Einrichtung der Sprache statt. Der Hauptbestandteil wird aber erst durch Kopieren der entsprechenden Dateien auf den FTP-Server erstellt. Ein alleiniges Anlegen der Sprache im Administrationsbereich/ Gambio Admin ist keine vollständige Installation.
 
@@ -31,7 +31,7 @@ Zudem müssen Einstellungen für die Formate von Datum und Uhrzeit, sowie die ve
 
 Ändere hier den Eintrag lang="de" entsprechend des Ländercodes ab, in unserem Beispiel also zu lang="es". Bei anderen Sprachen außerhalb des Euro-Raumes muss ggf. unter Währung der Währungscode EUR ebenfalls angepasst werden.
 
-## Anlegen der Sprache auf dem FTP-Server { .section}
+## Anlegen der Sprache auf dem FTP-Server 
 
 Kopiere das Verzeichnis Shopsystem\\Dateien\\lang\\german von der Installations-CD bzw. aus dem Installationsarchiv deines Shops der Versionsreihe 2.3 oder höher auf deinen Computer. Altnernativ kannst du auch den Ordner direkt von deinem FTP-Server herunterladen. Als Beispiel wird im Folgenden die Sprache Spanisch hinzugefügt. Benenne das zuvor kopierte Verzeichnis german auf deinem Computer in spanish um. Wir empfehlen, den englischen Namen der Sprache in Kleinbuchstaben zu verwenden. Wechsele in das Verzeichnis spanish auf deinem Computer. Nun müssen an den Dateien
 
@@ -67,7 +67,7 @@ ausgetauscht werden. Typische Größen sind
 
 **Note:** Die standardmäßig im Gambio Admin verwendete icon.gif kann wahlweise auch durch eine Datei mit anderem Namen ersetzt werden. Der Dateiname kann hierbei beim Bearbeiten der Sprache unter Land/Steuer \> Sprachen bzw. Shop Einstellungen \> Land/Steuer \> Sprachen im Eingabefeld Symbol angepasst werden. Bitte beachte, dass diese Datei sowohl im Sprachverzeichnis, also z.B. /lang/spanish/ als auch im Unterordner /admin/images/ des Sprachverzeichnisses \(z.B. /lang/spanish/admin/images/\) hinterlegt werden muss.
 
-## Anpassungen und Übersetzungen für Zusatzmodule { .section}
+## Anpassungen und Übersetzungen für Zusatzmodule 
 
 Oftmals verwenden die Module von externen Anbietern eigene Sprachdateien, die separat angepasst werden müssen. Diese Module sind teilweise im Grundumfang des Shops vorhanden, standardmäßig sind hier z.B. yoochoose und shopgate betroffen.
 
@@ -95,7 +95,7 @@ require\_once DIR\_FS\_CATALOG.'shopgate/gambiogx/lang/german/modules/payment/sh
 
 Hier sollte der im Unterordner /shopgate/gambiogx/lang/ gelegene Ordner german heruntergeladen und umbenannt werden. Nimm die Übersetzungen in den enthaltenen Dateien entsprechend vor und benenne die Datei /admin/german.php entsprechend der Sprache um. Für unser Beispiel würde die Datei also /admin/spanish.php heißen. Lade anschließend das Verzeichnis wieder hoch.
 
-## Aktivieren der Sprache im Shop { .section}
+## Aktivieren der Sprache im Shop 
 
 Nachdem alle Änderungen auf dem FTP-Server abgeschlossen worden sind, kann die Sprache im Administrationsbereich/Gambio Admin aktiviert werden. Gehe hierzu unter Shop Einstellungen \> Land/Steuer \> Sprachen und setze für die jeweilige Sprache die Haken für aktiv im Frontend bzw. aktiv im Backend. Anschließend müssen unter Toolbox \> Cache die Caches für Texte und E-Mail- Vorlagen geleert werden.
 

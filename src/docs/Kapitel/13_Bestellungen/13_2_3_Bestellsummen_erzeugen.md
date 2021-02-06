@@ -2,12 +2,12 @@
 
 Die Bestellsummen erzeugst du auf der Bestell-Eingabemaske. Klicke auf der Detailseite der Bestellung auf Bearbeiten, um die Bestell-Eingabemaske aufzurufen.
 
-## Sprache der Bestellung einrichten { .section}
+## Sprache der Bestellung einrichten 
 
 1.  Klicke auf Bearbeiten und anschließend auf den Reiter Versandarten, Zahlungsweisen und Summen
 2.  Wähle unter Sprache die Sprache aus, die in der Bestellbestätigung und auf der Rechnung verwendet wird und klicke auf Speichern
 
-## Zahlungsweise und Versandart festlegen { .section}
+## Zahlungsweise und Versandart festlegen 
 
 1.  Klicke auf Bearbeiten und anschließend auf den Reiter Versandarten, Zahlungsweisen und Summen
 2.  Wähle unter Zahlungsweise aus der Liste Neu die gewünschte Zahlungsweise aus und klicke auf Speichern
@@ -17,7 +17,7 @@ Die Bestellsummen erzeugst du auf der Bestell-Eingabemaske. Klicke auf der Detai
 
 Die Versandkosten werden automatisch in die Zusammenfassung eingetragen
 
-## Bestellsummen berechnen { .section}
+## Bestellsummen berechnen 
 
 Ab der Version 2.1 werden die Bestellsummen automatisch berechnet. Setze hierzu den Haken bei Nachbearbeitung beenden und Bestellung neu berechnen bevor du die Bearbeitung schließt.
 

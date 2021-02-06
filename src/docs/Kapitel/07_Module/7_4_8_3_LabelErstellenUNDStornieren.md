@@ -1,6 +1,6 @@
 # Label erstellen und stornieren 
 
-## ProfiPaketService { .section}
+## ProfiPaketService 
 
 Die Labelerstellung wird unabhängig vom gewählten Dienst aus der Bestellübersicht unter Bestellungen \> Bestellungen aufgerufen. Wähle hierzu über die Dropdown-Schaltfläche der Bestellung den Eintrag Hermes Versand aus. Das gleichzeitige Erstellen von Labels für mehrere Bestellungen ist nicht möglich.
 
@@ -23,7 +23,7 @@ Unten siehst du ein Beispiel für ein Label, das mit ProPS erzeugt worden ist, a
 
 ![](Bilder/hermes/HE_20170615_005.png "Gedrucktes Label über ProPS")
 
-## PrivatPaketService { .section}
+## PrivatPaketService 
 
 Das Erstellen eines Labels über PriPS unterscheidet sich in wenigen Punkten von der Verwendung des ProPS. Zum Einen werden die Absender-Daten nicht vorausgefüllt, sondern müssen von Hand eingetragen werden. Zum Anderen ist es notwendig, bei jeder Erstellung eines Labels den Geschäftsbedingungen von Hermes zuzustimmen. Links unten befindet sich eine Auswahl zur Größe des Pakets. Zudem kann festgelegt werden, ob die Lieferung abgeholt werden soll und hierfür ein Termin angegeben werden.
 

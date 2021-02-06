@@ -1,6 +1,6 @@
 # Allgemein 
 
-## Layout { .section}
+## Layout 
 
 ![](Bilder/styleedit4/se4a_0019_BereichAllgemeinLayout.png "Unterabschnitt Layout")
 
@@ -28,7 +28,7 @@ Dieser Wert hat maßgebliche Auswirkung auf die Darstellung des Honeygrids auf e
 |Abstand oben|Abstand oberhalb des Shops im Pixeln|
 |Abstand unten|Abstand unterhalb des Shops in Pixeln|
 
-## Farben { .section}
+## Farben 
 
 **Note:** Dieser Unterabschnitt steht nur im Expertenmodus zur Verfügung.
 
@@ -62,7 +62,7 @@ Die Hauptfarbe wird an verschiedenen Stellen des Shops verwendet. Hierzu zählen
 
 |
 
-## Hintergrund { .section}
+## Hintergrund 
 
 Hier können Einstellungen für den Hintergrund vorgenommen werden. Es können wahlweise Hintergrundbilder oder -farben eingerichtet werden. Es können für letztere auch Farbverläufe eingestellt werden.
 
@@ -74,7 +74,7 @@ Es wird hierbei zwischen dem Hintergrund \(der gesamten Seite\) und dem Hintergr
 
 Die Hintergrundfarbe unter Hintergrund ist blau eingestellt, die Hintergrundfarbe unter Hintergrund des Containers rot.
 
-## Schrift { .section}
+## Schrift 
 
 Es stehen die folgenden Einstellungen zur Verfügung:
 
@@ -91,7 +91,7 @@ Es stehen die folgenden Einstellungen zur Verfügung:
 |Überschriftenfarbe|Schriftfarbe der Überschriften, wird standardmäßig über den Platzhalter $text-color mit der Textfarbe belegt. Nach Entfernen des Platzhalters kann bei Bedarf eine eigene Farbe eingetragen werden.|
 |Überschriftenstärke|Legt die Stäkre der Überschriften fest|
 
-## Abgerundete Ecken { .section}
+## Abgerundete Ecken 
 
 Es stehen die folgenden Einstellungen zur Verfügung, um den Radius der im Honeygrid verwendeten Ecken anzupassen:
 
@@ -104,13 +104,13 @@ Es stehen die folgenden Einstellungen zur Verfügung, um den Radius der im Honey
 -   Eckenradius des horizontalen Kategoriemenüs
 -   Eckenradius der Warenkorb-Summenbox
 
-## Teaser-Slider { .section}
+## Teaser-Slider 
 
 Hier kann an- und abgeschaltet werden, ob der Teaser-Slider für bestimmte Ausgabegeräte angezeigt werden soll.
 
 **Note:** Die Teaser-Slider-Bilder müssen weiterhin für alle Ausgabegrößen separat festgelegt werden
 
-## Page-Up-Button { .section}
+## Page-Up-Button 
 
 ![](Bilder/styleedit4/se4a_0030_PageUpButtonLinks.png "Page-Up-Button mit Schriftfarbe rot (#FF0000), Hintergrundfarbe
         schwarz (#000000), links ausgerichtet")
@@ -128,7 +128,7 @@ Hier kann an- und abgeschaltet werden, ob der Teaser-Slider für bestimmte Ausga
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
-## Buttons { .section}
+## Buttons 
 
 **Note:** Es wird in den Einstellungen zwischen Primary-Button, Default-Button und Kaufen-Button unterschieden.
 
@@ -169,7 +169,7 @@ capitalize: Jedes Wort beginnt mit einem Großbuchstaben
 |Farbverlauf einfügen|Legt einen Farbverlauf als Hintergrund der Default-Buttons fest|
 |Rahmenfarbe Kaufen-Button|Legt die Rahmenfarbe der Kaufen-Buttons fest, ist standardmäßig mit dem Wert darken\($gx-btn-calltoaction-bg-color, 5%\) vorbelegt, kann nachträglich geändert werden|
 
-## Trennlinien { .section}
+## Trennlinien 
 
 Hier können die Farben der verschiedenen Trennlinien geändert werden:
 
@@ -182,7 +182,7 @@ Hier können die Farben der verschiedenen Trennlinien geändert werden:
 
 Die Felder sind zum Teil mit Platzhaltern befüllt, diese können bei Bedarf durch eine eigene Farbangabe ersetzt werden.
 
-## Hinweise { .section}
+## Hinweise 
 
 ![](Bilder/styleedit4/se4a_0031_WarnungWarenkorb.png "Hinweis im Warenkorb")
 
@@ -190,11 +190,11 @@ Im Shop werden an verschiedenen Stellen farblich hervorgehobene Warnungen, Fehle
 
 Die einzelnen Farbeinstellungen sind jeweils mit Platzhaltern für die Standardfarben befüllt, die bei Bedarf durch eigene Farbwerte ersetzt werden können.
 
-## QR-Codes { .section}
+## QR-Codes 
 
 In diesem Abschnitt können Farbe und Hintergrundfarbe der im Shop verwendeten QR-Codes eingestellt werden.
 
-## Modal-Fenster { .section}
+## Modal-Fenster 
 
 ![](Bilder/styleedit4/se4a_0032_ModalFenster.png "Modal-Fenster Versandkosten, das aus dem
         Warenkorb heraus aufgerufen wird")

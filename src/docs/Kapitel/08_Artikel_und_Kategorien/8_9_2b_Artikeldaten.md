@@ -16,7 +16,7 @@ Diese sind von links nach rechts:
 
 Die Aktionen bearbeiten und löschen können über einen Mausklick ausgelöst werden. Um eine Spalte zu verschieben, klicke das Pfeilsymbol an und halte die Maustaste gedrückt. Ziehe anschließend die Maus nach oben oder unten, um die Position der Spalte zu ändern.
 
-## Spalte hinzufügen / bearbeiten { .section}
+## Spalte hinzufügen / bearbeiten 
 
 Klicke auf Erstellen um eine neue Spalte hinzuzufügen. Klicke auf das Bleistift-Icon einer Spalte, um diese zu bearbeiten.
 

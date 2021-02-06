@@ -1,6 +1,6 @@
 # Darstellung im Shop 
 
-## Anzeige des Widgets in der Preisbox auf der Artikeldetailseite { .section}
+## Anzeige des Widgets in der Preisbox auf der Artikeldetailseite 
 
 |![](Bilder/easycredit/ec-2020-09-10_004.png "Darstellung im Honeygrid Theme")
 
@@ -8,13 +8,13 @@
 
 |
 
-## Anzeige des Widgets im Warenkorb { .section}
+## Anzeige des Widgets im Warenkorb 
 
 ![](Bilder/easycredit/ec-2020-09-10_009.png "Darstellung im Honeygrid Theme")
 
 ![](Bilder/easycredit/ec-2020-09-10_007.png "Darstellung im Malibu Theme")
 
-## Anzeige des Ratenrechners { .section}
+## Anzeige des Ratenrechners 
 
 Klickt man auf den Link im Widget, öffnet sich der Ratenrechner.
 

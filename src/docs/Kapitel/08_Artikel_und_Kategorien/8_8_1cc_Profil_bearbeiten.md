@@ -4,7 +4,7 @@
 
 **Note:** Je nach Profil können die änderbaren Einstellungen abweichen. Wenn ein Teil der Konfiguration nicht geändert werden kann, wird dieser ausgegraut dargestellt. Um alle Einstellungen anpassen zu können, empfehlen wir das gewünschte Profil zu kopieren und die Kopie zu bearbeiten.
 
-## Einstellungen { .section}
+## Einstellungen 
 
 ![](Bilder/Abb115_116_Profil_im_Preis_Portal_bearbeiten_.png "Profil im Preis-Portal bearbeiten")
 
@@ -32,7 +32,7 @@ Es stehen die folgenden Bereiche zur Verfügung:
 
 Darunter befindet sich die Checkbox Automatischer Export. Ist der Haken gesetzt, erscheinen die Optionen zum Einrichten des automatischen Exports über einen sogenannten Cronjob. Es können wahlweise die verschiedenen Wochentage an- bzw. abgewählt werden, für die eine Startzeit \(jeweils zur vollen Stunde\) aus dem Dropdown-Menü ausgewählt werden kann oder es kann ein Intervall von einer bis 12 Stunden gewählt werden. Ein so eingestellter automatischer Export wird durch ein Uhr-Symbol in der Spalte Cronjob angezeigt.
 
-## Spalten { .section}
+## Spalten 
 
 Die Anzeige für den Reiter Spalten ist in zwei Teile gegliedert. Der obere Bereich stellt die Spalten der Export-Datei in der Art eines Bücherregals dar, über die Scrollleiste können die "Bücher" hin und her geschoben werden. Mit einem Klick auf den "Buchrücken" kann die Spalte bearbeitet werden. Der obere Teil des "Buchrückens" ist mit einem Pfeilkreuz und einem x versehen. Über das Pfeilkreuz kann die Spalte mit Klicken und Halten der linken Maustaste verschoben werden. Mit einem Klick auf das x kann die Spalte gelöscht werden, dies muss über eine Abfrage bestätigt werden. Über Spalte hinzufügen wird eine neue Spalte am Ende der Tabelle angefügt.
 
@@ -52,7 +52,7 @@ Das untere Drittel dieses Fensters dient zur Vorschau der Export-Datei.
 
 **Note:** Diese Ansicht wird standardmäßig leer angezeigt. Es müssen zunächst die Kategorien im Reiter Kategorien ausgewählt werden, bevor hier eine Vorschau erfolgt.
 
-## Kollektivspalten { .section}
+## Kollektivspalten 
 
 Kollektivspalten dienen der Selektierung von Werten aus verschiedenen Quellen in einer Spalte. Dabei können mehrere Eigenschafts-, Attributs- und/oder Zusatzfeldnamen angegeben werden, aus denen der entsprechende Wert ausgewählt wird.
 
@@ -69,7 +69,7 @@ Kollektivspalten dienen der Selektierung von Werten aus verschiedenen Quellen in
 -   Attribute
 -   Zusatzfelder \(niedrigste Priorität\)
 
-## Kategorien { .section}
+## Kategorien 
 
 Über Auswahl des Reiters Kategorien können die Kategorien für den Export ausgewählt bzw. eingeschränkt werden. Setze hierzu den Haken vor die Kategorien, dessen Artikel du exportieren möchtest. Über einen Klick auf das Ordner-Symbol können die Unterkategorien der jeweiligen Kategorie angezeigt werden.
 

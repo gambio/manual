@@ -6,7 +6,7 @@ CAUTION:
 
 Du kannst dies wahlweise über die shopeigene Funktion unter Toolbox \> Datenbanksicherung oder den Administrationsbereich deines Hosting-Anbieters vornehmen.
 
-## Import der Artikel { .section}
+## Import der Artikel 
 
 Den Import einer CSV-Datei kannst du unter Import/Export \> Artikeldaten über den Reiter Import vornehmen.
 
@@ -18,7 +18,7 @@ Die Dateien im Verzeichnis import werden unter Verfügbare Import-Dateien aufgef
 
 Alle weiteren Einstellungen, beispielsweise zu Eigenschaften, werden über das Export-Profil \(siehe Artikelexport\) vorgenommen und beim Importieren angewendet.
 
-## Import der Artikelbilder { .section}
+## Import der Artikelbilder 
 
 Zu einem vollständigen Import gehören in aller Regel auch die Artikelbilder. Diese müssen händisch auf den FTP-Server hochgeladen werden. Lade die Bild-Dateien hierzu in den Unterordner
 

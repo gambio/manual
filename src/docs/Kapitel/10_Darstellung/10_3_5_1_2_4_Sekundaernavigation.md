@@ -1,6 +1,6 @@
 # Sekundärnavigation 
 
-## Allgemein { .section}
+## Allgemein 
 
 ![](Bilder/styleedit4/se4a_0065_BereicheKategorienSekundaernavigationAllgemein.png "Einstellungen unter Bereiche / Sekundärnavigation /
         Allgemein")
@@ -29,7 +29,7 @@ Sticky bezeichnet die reduzierte Form des Headers, die verwendet wird, wenn mit 
 
 Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
-## Menüpunkte { .section}
+## Menüpunkte 
 
 ![](Bilder/styleedit4/se4a_0068_BereicheKategorienSekundaernavigationMenuepunkte.png "Einstellungen unter Bereiche / Sekundärnavigation /
         Menüpunkte")
@@ -66,7 +66,7 @@ Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzu
 
 Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
-## Kategorien Mobil { .section}
+## Kategorien Mobil 
 
 Diese Einstellungen haben derzeit keine Funktion und werden in einer zukünftigen Version entfernt.
 

@@ -1,6 +1,6 @@
 # Layout & Design 
 
-## Layout & Design { .section}
+## Layout & Design 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -8,7 +8,7 @@
 |Automatische Silbentrennung aktivieren|Artikelnamen orthografisch trennen|
 |Artikel-Ribbons aktivieren|Artikel-Ribbons in der Artikelübersicht anzeigen|
 
-## Lightbox anzeigen { .section}
+## Lightbox anzeigen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -20,13 +20,13 @@
 
 Die Anzeige als Lightbox steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
-## Logo Manager { .section}
+## Logo Manager 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Logo-Manager|Klicke auf aufrufen, um zum Logo Manager zu wechseln|
 
-## Startseite { .section}
+## Startseite 
 
 ![](Bilder/Abb157_ArtikelImSwiper.PNG "Artikel in einem Swiper")
 
@@ -50,7 +50,7 @@ Die Anzeige als Lightbox steht ggf. nicht in allen Templates oder Themes zur Ver
 |Zeichenanzahl nach der die Artikelnamen im "Flyover" gekürzt werden.|Längenbegrenzung des Artikelnames im Flyover.|
 |Zeichenanzahl nach der der Artikelkurztext im "Flyover" gekürzt wird.|Längenbegrenzung der Kurzbeschreibung im Flyover.|
 
-## Artikeldetailseite { .section}
+## Artikeldetailseite 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -82,7 +82,7 @@ Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Au
 
 |
 
-## Artikelübersicht { .section}
+## Artikelübersicht 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -100,7 +100,7 @@ Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Au
 |Hersteller-Liste|Wenn der Wert auf 1 gesetzt wird, wird die Hersteller-Box als Drop-Down-Liste angezeigt. Andernfalls als Liste \(Wert auf 0\).|
 |Hersteller- und Kategorie-Filter anzeigen?|Anzeige des Kategorie- bzw. Hersteller-Dropdowns in der Artikelübersicht.|
 
-## Kategorien { .section}
+## Kategorien 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -125,14 +125,14 @@ Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 |
 |Anzahl an Kategorien pro Zeile|Anzahl an Kategorien, die pro Zeile in den Übersichten angezeigt werden sollen|
 
-## Topmenü { .section}
+## Topmenü 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Währungsauswahl im Top-Menü aktivieren|Währungsauwahl im Top-Menü wird verwendet|
 |Wohnort im Top-Menü aktivieren|Wohnortauswahl im Top-Menü wird verwendet|
 
-## Warenkorb { .section}
+## Warenkorb 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -140,7 +140,7 @@ Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 |"Weiter einkaufen"-Button immer anzeigen|An- und Abschalten des Buttons Weiter einkaufen im Warenkorb|
 |Artikelanzahl statt Artikelstückzahl im kleinen Warenkorb anzeigen|Anzahl der verschiedenen Artikel im Warenkorb anstatt der Gesamtzahl an Artikeln anzeigen|
 
-## Bewertungen { .section}
+## Bewertungen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -161,7 +161,7 @@ Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Be
 |Neue Bewertungen|Maximale Anzahl an neuen Bewertungen, die pro Seite angezeigt werden sollen|
 |Auswahlpool der Bewertungen|Aus wie vielen Bewertungen sollen die zufällig angezeigten Bewertungen in der Box ausgewählt werden?|
 
-## Bildoptionen { .section}
+## Bildoptionen 
 
 Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschiedenen Ausgangsgrößen angepasst. Für jedes Artikelbild werden dabei Kopien angelegt, die für ihre Verwendung skaliert sind. Die tatsächliche Anzeigegröße hängt hierbei von den Einstellungen im StyleEdit ab. Jedoch kann eine Änderung der Ausgangsgrößen erhebliche Auswirkungen auf Bildqualität und Ladezeit haben.
 
@@ -181,7 +181,7 @@ Ausgangsgröße ist nicht gleich angezeigte Bildgröße. In Honeygrid und Malibu
 |Breite der Artikel-Popup Bilder|Breite der Bilder in Großansicht für Flyover, Zoom-Funktion und Artikelbild-Lightbox|
 |Höhe der Artikel-Popup Bilder|Höhe der Bilder in Großansicht für Flyover, Zoom-Funktion und Artikelbild-Lightbox|
 
-## Bildeffekte { .section}
+## Bildeffekte 
 
 |Feldname|Beschreibung|
 |--------|------------|

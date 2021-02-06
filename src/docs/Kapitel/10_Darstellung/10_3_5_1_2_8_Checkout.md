@@ -1,6 +1,6 @@
 # Checkout 
 
-## Allgemein { .section}
+## Allgemein 
 
 ![](Bilder/styleedit4/se4_0115_BereicheCheckoutAllgemein.png "Einstellung unter Bereiche / Checkout /
         Allgemein")
@@ -11,7 +11,7 @@
 
 |
 
-## Warenkorb teilen { .section}
+## Warenkorb teilen 
 
 ![](Bilder/styleedit4/se4_0117_BereicheCheckoutWarenkorbTeilen.png "Einstellungen unter Bereiche / Checkout / Warenkorb
         teilen")
@@ -32,7 +32,7 @@
 
 |
 
-## Warenkorb Zusammenfassungsbox { .section}
+## Warenkorb Zusammenfassungsbox 
 
 ![](Bilder/styleedit4/se4_0122_BereicheWarenkorbZusammenfassungsbox.png "Einstellungen unter Bereiche / Checkout / Warenkorb
         Zusammenfassungsbox")
@@ -58,7 +58,7 @@
 |Bild einfügen|Hintergrundbild des unteren Teils der Zusammenfassungsbox|
 |Farbverlauf einfügen|Farbverlauf als Hintergrund des unteren Teils der Zusammenfassungsbox|
 
-## Checkout Zusammenfassungstabelle { .section}
+## Checkout Zusammenfassungstabelle 
 
 ![](Bilder/styleedit4/se4_0127_BereicheCheckoutCheckoutZusammenfassungstabelle.png "Einstellungen unter Bereiche / Checkout / Checkout
         Zusammenfassungstabelle")
@@ -85,7 +85,7 @@
 |Bild einfügen|Hintergrundbild der Zusammenfassungstabelle|
 |Farbverlauf einfügen|Farbverlauf als Hintergrund der Zusammenfassungstabelle|
 
-## Listenelemente { .section}
+## Listenelemente 
 
 ![](Bilder/styleedit4/se4_0133_BereicheCheckoutListenelemente.png "Einstellungen unter Bereiche / Checkout /
         Listenelemente")
@@ -125,7 +125,7 @@
 |Bild einfügen|Hintergrundbild von Formularen der Listeneinträge|
 |Farbverlauf einfügen|Farbverlauf als Hintergrund von Formularen der Listeneinträge|
 
-## AGB und Widerruf-Checkboxen { .section}
+## AGB und Widerruf-Checkboxen 
 
 ![](Bilder/styleedit4/se4_0141_BereicheCheckoutAGB_undWiderruf_Checkboxen.png "Einstellungen unter Bereiche / Checkout / AGB und
         Widerruf-Checkboxen")

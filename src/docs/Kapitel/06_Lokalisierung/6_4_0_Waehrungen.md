@@ -4,13 +4,13 @@ Bei der Installation des Shopsystems werden die Währungen Euro, Schweizer Frank
 
 ![](Bilder/Abb059_UebersichtUeberDieWaehrungen.PNG "Übersicht über die Währungen")
 
-## Wechselkurse aktualisieren { .section}
+## Wechselkurse aktualisieren 
 
 Klicke im Gambio Admin deines Shops unter Shop Einstellungen \> Land/Steuer \> Währungen auf Wechselkurse aktualisieren. Die Wechselkurse aller Währungen werden kostenfrei bei einem externen Dienstleister abgefragt. Als Referenzkurs wird die als Standardwährung festgelegte Währung verwendet.
 
 **Note:** Unter Umständen können einzelne Währungskurse nicht aktualisiert werden. Ob alle Währungskurse aktualisiert werden konnten, siehst du in den Erfolgs- und Fehlermeldungen oberhalb der Tabelle. Wenn das Abrufen eines Wechselkurses fehlschlägt, führe die Aktion erneut aus.
 
-## Währung hinzufügen { .section}
+## Währung hinzufügen 
 
 Wenn du weitere Währungen anbieten möchtest, füge unter Shop Einstellungen \> Land/Steuer \> Währungen eine neue Währung hinzu.
 
@@ -32,7 +32,7 @@ Wenn du weitere Währungen anbieten möchtest, füge unter Shop Einstellungen \>
 7.  Klicke auf Einfügen
 8.  Aktualisiere die Wechselkurse für die Währungen, wie unter Wechselkurse aktualisieren beschrieben
 
-## Standardwährung ändern { .section}
+## Standardwährung ändern 
 
 Sofern die Option Automatisch auf Landeswährung umstellen unter Shop Einstellungen \> Mein Shop nicht aktiviert ist, werden alle Preise im Shop in der Standardwährung dargestellt. Die Währung muss in diesem Fall über einen der Währungswechsel im oberen rechten Menü oder in der linken Menüleiste umgestellt werden. Wenn du deinen Shop außerhalb der Eurozone betreibst, muss die Standardwährung unter Shop Einstellungen \> Land/Steuer \> Währungen angepasst werden.
 
@@ -48,7 +48,7 @@ Sofern die Option Automatisch auf Landeswährung umstellen unter Shop Einstellun
 
 **Note:** Änderungen an der Standardwährung werden erst nach einem erneuten Anmelden im Shop wirksam. Wenn du Änderungen an der Standardwährung vornimmst, melde dich von deinem Shop ab und wieder an.
 
-## Währung löschen { .section}
+## Währung löschen 
 
 Wenn du eine Währung nicht mehr benötigst, kannst du diese unter Shop Einstellungen \> Land/Steuer \> Währungen entfernen. Die Standardwährung kann nicht gelöscht werden. Wenn du die Standardwährung löschen möchtest, lege zuvor eine neue Standardwährung fest, wie unter Standardwährung ändern beschrieben.
 

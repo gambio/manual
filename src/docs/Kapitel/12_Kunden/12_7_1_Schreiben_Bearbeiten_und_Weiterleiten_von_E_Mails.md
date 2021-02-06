@@ -2,7 +2,7 @@
 
 Mit einem Klick auf Neue E-Mail kannst du eine E-Mail schreiben. Es öffnet sich ein neues Fenster im Reiter Details. Das gleiche Fenster steht dir zur Verfügung, wenn du eine bestehende E-Mail bearbeitest bzw. weiterleitest. Genaueres hierzu findest du im Kapitel Verwalten von E-Mails.
 
-## Details { .section}
+## Details 
 
 ![](Bilder/Abb171_FensterNeueEMail.png "Fenster Neue E-Mail")
 
@@ -14,7 +14,7 @@ Im Reiter HTML ist der sogenannte CK-Editor eingebunden. Hierüber kann der Text
 
 Mit einem Klick auf Senden wird die E-Mail verschickt. Über Speichern wird die Mail gespeichert, um später verschickt zu werden \(siehe Verwalten von E-Mails\). Wurde eine Mail bereits versendet, wird beim Speichern eine neue Mail angelegt.
 
-## BCC & CC { .section}
+## BCC & CC 
 
 ![](Bilder/Abb172_BCCUNDCC.png "BCC & CC")
 
@@ -24,7 +24,7 @@ Mit einem Klick auf Senden wird die E-Mail verschickt. Über Speichern wird die 
 
 Unterhalb der Tabelle kann zwischen den einzelnen Seiten gewechselt werden, wenn nicht alle Einträge auf einer Seite angezeigt werden.
 
-## Anhänge { .section}
+## Anhänge 
 
 ![](Bilder/Abb173_Anhaenge.png "Anhänge")
 

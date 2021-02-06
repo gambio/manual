@@ -1,10 +1,10 @@
 # Brickfox 
 
-## Installation { .section}
+## Installation 
 
 Das Brickfox-Modul ist Standardbestandteil des Shops und kann unter Module \> Modul-Center installiert werden. Wähle hierzu den Eintrag Brickfox in der Liste aus und klicke unten rechts auf Installieren.
 
-## Konfiguration { .section}
+## Konfiguration 
 
 Nach der Installation kann das Modul über den Button Bearbeiten konfiguriert werden.
 
@@ -20,7 +20,7 @@ Nach der Installation kann das Modul über den Button Bearbeiten konfiguriert we
 |ausgeschlossene Produkte|Artikel, die nicht erfasst werden sollen, können hier anhand der Produkt-ID angegeben werden.|
 |Modul aktiv?|Setze den Haken ✔ um das Modul zu aktivieren. Entferne den Haken ✖ um das Modul zu deaktvieren.|
 
-## Verwendung { .section}
+## Verwendung 
 
 Die Benutzung erfolgt direkt über Brickfox, im Shop kann nur die Konfiguration vorgenommen werden. Bei allen Fragen zur Verwendung wende dich bitte an den Support von Brickfox \(https://www.brickfox.de/\).
 

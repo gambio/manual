@@ -12,47 +12,47 @@ CAUTION:
 
 Zudem können bestimmte Logging-Einstellungen zu Einbußen in der Geschwindigkeit des Shops führen. Zudem besteht die Möglichkeit, dass deinen Kunden technische Meldungen angezeigt werden, die diese als Fehler im Shop auffassen könnten.
 
-## Logging aktivieren { .section}
+## Logging aktivieren 
 
 Logging im gesamten Shop aktivieren / deaktivieren \[standardmäßig aktiviert\]
 
-## Speichern der Berechnungszeit der Seite { .section}
+## Speichern der Berechnungszeit der Seite 
 
 Speichern der Zeit, die benötigt wird, um Scripte bis zur Ausgabe der Seite zu berechnen. Diese Funktion erzeugt jedoch ebenfalls eine gewisse Server-Last. Abhängig vom Server kann die Belastung durch die Speicherung der Berechnungszeit minimal bis erheblich sein. Wenn du einen langsamen Server verwendest, sollte diese Funktion nach Möglichkeit deaktiviert werden.
 
-## Speicherort der Logdatei der Berechnungszeit { .section}
+## Speicherort der Logdatei der Berechnungszeit 
 
 Hier wird der absolute Verzeichnispfad mit dem Dateinamen der Logdatei eingetragen. Standardmäßig ist dieses Feld folgendermaßen belegt: /var/log/www/tep/page\_parse\_time.log
 
-## Datumsformat { .section}
+## Datumsformat 
 
 Das Datumsformat für das Logging legt fest, wie die Datumswerte aufgeführt werden. Die Standardvorgabe lautet %d/%m/%Y %H:%M:%S was Tag/Monat/Jahr Stunde:Minute:Sekunde bedeutet.
 
-## Berechnungszeit der Seiten anzeigen { .section}
+## Berechnungszeit der Seiten anzeigen 
 
 Wenn das Speichern der Berechnungszeit für Seiten eingeschaltet ist, kann diese im Footer \(Seitenende\) angezeigt werden.
 
-## SQL-Logging im Frontend { .section}
+## SQL-Logging im Frontend 
 
 Datenbankverändernde SQL-Befehle im Frontend werden geloggt. Dies wäre z.B. dann der Fall, wenn ein Kunde eine Bestellung durchführt.
 
-## SQL-Logging im Backend { .section}
+## SQL-Logging im Backend 
 
 Datenbankverändernde SQL-Befehle im Backend werden geloggt, wie es bei allen Änderungen an Artikeln, Contents, etc. der Fall ist.
 
-## Maximale Dateigröße { .section}
+## Maximale Dateigröße 
 
 Maximale Dateigröße der SQL-Logging-Datei in MB. Wird das Limit überschritten, wird die Log-Datei unter neuem Namen im gz-Format komprimiert angelegt. Damit wird verhindert, dass die Log-Datei unnötig groß wird.
 
-## Speichern aller Datenbankabfragen { .section}
+## Speichern aller Datenbankabfragen 
 
 Speichern der einzelnen Datenbankabfragen in der Logdatei für Berechnungszeiten. Datenbankabfragen sind alle Abrufe von Daten, die im Shop stattfinden.
 
-## E-Mail-Fehlerberichte an { .section}
+## E-Mail-Fehlerberichte an 
 
 E-Mail-Adresse, an die Fehlerberichte gesendet werden sollen. Um keine Berichte zu senden, kann das Feld einfach leer gelassen werden. Zur Sendung von Fehlerberichten an den Gambio Support kann die Adresse debug@gambio-support.de eingetragen werden.
 
-## Unterdrücken von Meldungen { .section}
+## Unterdrücken von Meldungen 
 
 Die nachfolgenden Einstellungen dienen dazu, Meldungen eines bestimmten Typs zu unterdrücken.
 
@@ -70,7 +70,7 @@ Standardmäßig sind hier die Haken für
 
 gesetzt.
 
-## Ausgabeoptionen { .section}
+## Ausgabeoptionen 
 
 Innerhalb der Ausgabeoptionen wird festgelegt, welche Art Meldung auf welche Weise ausgegeben wird. Hierzu zählt sowohl die Anzeige auf dem Bildschirm als auch das Schreiben der Meldung in die jeweilige .log beziehungsweise .html-Datei im Ordner logfiles des Shops oder der Versand als E-Mail.
 

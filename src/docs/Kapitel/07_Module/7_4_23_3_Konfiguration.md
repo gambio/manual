@@ -1,18 +1,18 @@
 # Konfiguration 
 
-## API-Zugangsdaten { .section}
+## API-Zugangsdaten 
 
 Im ersten Schritt erlaubt die Konfiguration nur die Eingabe der API-Daten. Diese Daten erhältst du bei deinem Vertragspartner Hermes. Zudem kann zwischen Live- und Testbetrieb gewählt werden.
 
 ![](Bilder/hermes_hsi/HSI_001.png "Eingabefelder für die API-Zugangsdaten")
 
-## Absender { .section}
+## Absender 
 
 Damit die Label mit den nötigen Angaben erstellt werden können, musst du hier deine Adressdaten hinterlegen.
 
 ![](Bilder/hermes_hsi/HSI_002.png "Eingabefelder für die Absender-Daten")
 
-## Konfiguration { .section}
+## Konfiguration 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -24,7 +24,7 @@ Damit die Label mit den nötigen Angaben erstellt werden können, musst du hier 
 
 ![](Bilder/hermes_hsi/HSI_003.png "Abschnitt Konfiguration")
 
-## Vorgabe-Abmessungen { .section}
+## Vorgabe-Abmessungen 
 
 Wenn du häufig bestimmte Kartongrößen verwendest, so kannst du die Abmessungen dafür hier eintragen. So muss diese bei der Labelerstellung dann nur noch ausgewählt werden, statt die Maße manuell eintragen zu müssen.
 

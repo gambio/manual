@@ -1,6 +1,6 @@
 # Eigenschaftswerte erstellen und bearbeiten 
 
-## Eigenschaftswert hinzufügen { .section}
+## Eigenschaftswert hinzufügen 
 
 ![](Bilder/ArtikelEigenschaftenUebersicht_IconsEigenschaftswertHinzufuegen.png "Icon _**Eigenschaftswert hinzufügen**_ der
         Eigenschaft _**Farbe**_")
@@ -18,7 +18,7 @@
 |Bruttopreis|Brutto-Aufpreis auf den Hauptartikelpreis des Eigenschaftswerts|
 |Bild|Bild zur Auswahl des Eigenschaftswerts bei _**Anzeigeart**_ _**Bild**_ der Eigenschaft|
 
-## Eigenschaftswert bearbeiten { .section}
+## Eigenschaftswert bearbeiten 
 
 ![](Bilder/ArtikelEigenschaftenUebersicht_ausgeklappt.png "Anzeige der Eigenschaftswerte der Eigenschaft
         _**Farbe**_ nach Ausklappen")
@@ -40,7 +40,7 @@
 |Bruttopreis|Brutto-Aufpreis auf den Hauptartikelpreis des Eigenschaftswerts|
 |Bild|Bild zur Auswahl des Eigenschaftswerts bei _**Anzeigeart**_ _**Bild**_ der Eigenschaft|
 
-## Eigenschaftswert löschen { .section}
+## Eigenschaftswert löschen 
 
 ![](Bilder/ArtikelEigenschaften_EigenschaftswertLoeschen.png "Löschen-Icon des Eigenschaftswerts _**Schwarz**_
         der Eigenschaft _**Farbe**_")

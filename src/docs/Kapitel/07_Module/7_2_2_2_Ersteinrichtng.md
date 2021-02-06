@@ -10,7 +10,7 @@ Du gelangst zum Dialog Erste Schritte. Gebe hier deine E-Mail-Adresse an und wä
 
 ![](Bilder/PayPal2Hub/20190611_003.png "Angabe von E-Mail-Adresse und Land")
 
-## Einrichten eines PayPal-Geschäftskontos { .section}
+## Einrichten eines PayPal-Geschäftskontos 
 
 **Note:**
 
@@ -32,7 +32,7 @@ Dies schließt neben Adressdaten auch Details zur Rechtsform deines Unternehmens
 
 Schließe die Angaben ab und bestätige im letzten Schritt deine E-Mail-Adresse, bevor du über die blaue Schaltfläche in den Shop zurückkehrst.
 
-## Anmeldung mit einem bestehenden PayPal-Geschäftskonto { .section}
+## Anmeldung mit einem bestehenden PayPal-Geschäftskonto 
 
 ![](Bilder/PayPal2Hub/20190611_004.png "Einloggen mit E-Mail-Adresse und Passwort")
 

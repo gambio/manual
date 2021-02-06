@@ -1,6 +1,6 @@
 # Rechtliches 
 
-## Link zur Datenschutzerklärung anzeigen { .section}
+## Link zur Datenschutzerklärung anzeigen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -19,7 +19,7 @@
 |im Guthaben versenden Formular|Datenschutzlink im Guthaben versenden Formular anzeigen|
 |IP-Speicherung anzeigen?|Datenschutzlink zusammen mit dem Hinweis zur IP-Speicherung anzeigen|
 
-## Datenschutzerklärung zustimmen { .section}
+## Datenschutzerklärung zustimmen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -37,7 +37,7 @@
 |im Widerrufs-Webformular|Die Datenschutzerklärung muss im Widerrufs-Webformular durch den Kunden bestätigt werden.|
 |im Guthaben versenden Formular|Die Datenschutzerklärung muss im Guthaben versenden Formular durch den Kunden bestätigt werden.|
 
-## Geschäftsbedingungen { .section}
+## Geschäftsbedingungen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -45,7 +45,7 @@
 |im Bestellvorgang bestätigen|Die Allgemeinen Geschäftsbedingungen müssen im Bestellvorgang bestätigt werden.|
 |AGB als PDF an Bestellbestätigung anhängen|Die Allgemeinen Geschäftsbedingungen werden als Anhang der Bestellbestätigung verschickt.|
 
-## Widerruf { .section}
+## Widerruf 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -63,7 +63,7 @@
 |Verzicht auf Widerrufsrecht für Download-Artikel als Pflichtfeld|Muss bei Download-Artikeln zwangsweise auf das Widerrufsrecht verzichtet werden?|
 |Verzicht auf Widerrufsrecht für Dienstleistungen als Pflichtfeld|Muss bei Dienstleistungen zwangsweise auf das Widerrufsrecht verzichtet werden?|
 
-## Datenweitergabe an Versanddienstleister { .section}
+## Datenweitergabe an Versanddienstleister 
 
 **Note:**
 
@@ -91,7 +91,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 |im Bestellvorgang bestätigen|Text zur Datenweitergabe an Versanddienstleister muss im Betellvorgang durch den Kunden bestätigt werden.|
 |Anzeige für Versandart|Für welche Versandarten soll der Text zur Datenweitergabe angezeigt werden?|
 
-## Bestellabschluss { .section}
+## Bestellabschluss 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -99,7 +99,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 |AGB-Link anzeigen|Link zu den Allgemeinen Geschäftsbedigungen wird auf der letzten Seite des Bestellvorgangs \(Bestätigen\) angezeigt.|
 |Widerrufsrecht-Link anzeigen|Link zur Widerrufsbelehrung wird auf der letzten Seite des Bestellvorgangs \(Bestätigen\) angezeigt.|
 
-## IP Adresse speichern { .section}
+## IP Adresse speichern 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -120,7 +120,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 |im Guthaben versenden Formular|IP-Adresse im Guthaben versenden Formular speichern|
 |bei Bestätigung der Datenweitergabe an Transportunternehmen|IP-Adresse bei Bestätigung der Datenweitergabe an Transportunternehmen speichern|
 
-## Mehrwertsteueranzeige { .section}
+## Mehrwertsteueranzeige 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -128,13 +128,13 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 |Auch Mehrwertsteuer anzeigen, wenn diese gleich 0 ist|Setze den Haken, wenn du die Mehrwertsteuer ebenfalls anzeigen möchtest, wenn der Steuersatz 0% ist.|
 |Kleinunternehmerreglung: "Kein Steuerausweis gem. Kleinuntern.-Reg. §19 UStG" statt der MwSt.-Angabe bei jedem Preis anzeigen lassen|Aktiviert die Anzeige zur Kleinunternehmerregelung in den Artikeln.|
 
-## Einwilligungsprotokoll exportieren { .section}
+## Einwilligungsprotokoll exportieren 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Erstellt eine CSV-Datei, die alle Kunden beinhaltet, die den Rechtstexten zugestimmt haben|Klicke auf aufrufen, um die CSV-Datei zu erstellen.|
 
-## Cookie Consent { .section}
+## Cookie Consent 
 
 |Feldname|Beschreibung|
 |--------|------------|

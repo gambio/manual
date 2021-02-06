@@ -3,7 +3,7 @@
 ![](Bilder/styleedit4/se4_0045_BereicheKategorien.png "Unterabschnitte unter Bereiche /
       Kategorien")
 
-## Allgemein { .section}
+## Allgemein 
 
 ![](Bilder/styleedit4/se4a_0046_BereicheKategorienAllgemein.png "Einstellungen unter Bereiche / Kategorien /
         Allgemein")
@@ -20,7 +20,7 @@
 
 Sticky bezeichnet die reduzierte Form des Headers, die verwendet wird, wenn mit fixierter Kopfzeile nach unten gescrollt wird.
 
-## Menüpunkte { .section}
+## Menüpunkte 
 
 ![](Bilder/styleedit4/se4a_0047_BereicheKategorienMenuepunkte.png "Einstellungen unter Bereiche / Allgemein /
         Menüpunkte")
@@ -65,7 +65,7 @@ capitalize: Jedes Wort beginnt mit einem Großbuchstaben
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
-## Kategorien Mobil { .section}
+## Kategorien Mobil 
 
 ![](Bilder/styleedit4/se4a_0051_kategorienMobil.png "Einstellungen unter Bereiche / Kategorien / Kategorien
         Mobil")
@@ -82,7 +82,7 @@ Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Elemen
 
 |
 
-## Mega-Dropdown { .section}
+## Mega-Dropdown 
 
 ![](Bilder/styleedit4/se4a_0054_BereicheKategorienMegaDropdown.png "Einstellungen unter Bereiche / Kategorien /
         Mega-Dropdown")
@@ -112,7 +112,7 @@ Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Elemen
 |Bild einfügen|Hintergrundbild des Buttons Alle Anzeigen|
 |Farbverlauf einfügen|Farbverlauf als Hintergrundbild des Buttons Alle Anzeigen|
 
-## Vertikales Kategoriemenü { .section}
+## Vertikales Kategoriemenü 
 
 ![](Bilder/styleedit4/se4a_0058_BereicheKategorienVertikalesKategoriemenue.png "Einstellungen unter Bereiche / Kategorien / Vertikales
         Kategoriemenü")

@@ -1,12 +1,12 @@
 # Labelerstellung 
 
-## Menüpunkt aufrufen { .section}
+## Menüpunkt aufrufen 
 
 Die Label werden aus der Bestellübersicht heraus erstellt. Verwende hierzu wahlweise die Dropdown-Schaltfläche der einzelnen Bestellung \(siehe Abbildung\) und klicke auf MyDPD/Iloxx-Versandlabel anfordern oder hake die Bestellung\(en\) an und wähle den Eintrag über das Dropdown der Mehrfachauswahl links unterhalb der Bestellübersicht aus.
 
 ![](Bilder/mydpd_iloxx/20190410_010.png "Aufruf der Labelerstellung aus der Bestellübersicht")
 
-## Iloxx Auftragsvorbereitung { .section}
+## Iloxx Auftragsvorbereitung 
 
 Über den Menüpunkt wird automatisch die Auftragsvorbereitung aufgerufen, in der die gewählten Bestellungen untereinander aufgelistet werden. Die Liste enthält hierbei Angaben zu Bestellnummer, Kunde und Versandadresse, Inhalt, DPD Versandart, Warenwert, Sendungsgewicht und die Paketnummer, sofern vorhanden. Es können zudem Änderungen an der Versandart, dem Warenwert sowie dem Versandgewicht vorgenommen werden.
 
@@ -23,7 +23,7 @@ Das Betätigen der Schaltflächen Adressen prüfen, Versandlabels abrufen und Ge
 |Versandlabels abrufen|Erstellt die Versandlabel. Diese Option wirkt sich nur auf die zuvor ausgewählten Bestellungen aus.|
 |Gewählte entfernen|Entfernt die ausgewählten Bestellungen aus der Liste in der Iloxx Auftragsvorbereitung. Die Bestellung selbst wird dadurch nicht gelöscht.|
 
-## Label \(Muster\) { .section}
+## Label \(Muster\) 
 
 Nachfolgend ist ein Muster-Label im Format DIN A6 abgebildet.
 

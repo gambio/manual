@@ -1,6 +1,6 @@
 # Experteneinstellungen 
 
-## Bestellstatusänderungen nach Aktionen { .section}
+## Bestellstatusänderungen nach Aktionen 
 
 ![](Bilder/Abb216_ExperteneinstellungenBestellstatusaenderungNachAktionen.png "Experteneinstellungen Bestellstatusänderungen nach
         Aktionen")
@@ -13,7 +13,7 @@
 
 festgelegt werden. Wähle hierzu den jeweiligen Status über das Dropdown-Menü aus und klicke auf Speichern.
 
-## Integration anderer Zahlungsmodule im PayPal Plus Modus { .section}
+## Integration anderer Zahlungsmodule im PayPal Plus Modus 
 
 ![](Bilder/Abb217_ExperteneinstellungenIntegrationAndererZahlungsmoduleImPayPalPlusModus.png "Experteneinstellungen Integration anderer
         Zahlungsmodule im PayPal Plus Modus")
@@ -26,7 +26,7 @@ und bestätige diese mit einem Klick auf Speichern. Wir empfehlen alle Zahlungsw
 
 **Note:** Bei den hier verwendeten Zahlungsweisen handelt es sich um die shopeigenen Zahlungsmodule. Diese werden nicht ersetzt, sondern lediglich optisch zusammengefasst.
 
-## Darstellung im Shop { .section}
+## Darstellung im Shop 
 
 ![](Bilder/pp3/20190604_003_.png "Experteneinstellungen Darstellung im Shop")
 
@@ -36,7 +36,7 @@ Hierbei kann die Verwendung der ECS \(Express Checkout Shortcut, ‘Direkt zu Pa
 
 Nimm die gewünschten Einstellungen vor und bestätige diese mit einem Klick auf Speichern.
 
-## Sonstige Einstellungen { .section}
+## Sonstige Einstellungen 
 
 ![](Bilder/pp3/20190604_004.png "Experteneinstellungen Sonstige
         Einstellungen")
@@ -60,7 +60,7 @@ Darüber hinaus kann festgelegt werden, ob bei PayPal-Bestellungen Selbstabholun
 
 Nimm die jeweiligen Einstellungen vor und bestätige diese mit einem Klick auf Speichern.
 
-## Entwicklertools { .section}
+## Entwicklertools 
 
 ![](Bilder/Abb220_ExperteneinstellungenEntwicklertools.png "Experteneinstellungen Entwicklertools")
 
@@ -72,7 +72,7 @@ Die Optionen auf dieser Seite dienen der Fehlersuche und Testzwecken. Alle Optio
 
 Nimm hier die gewünschten Einstellungen vor und bestätige diese mit einem Klick auf Speichern.
 
-## Automatische Statusaktualisierungen von Zahlungen \(PayPal-Parameter\) { .section}
+## Automatische Statusaktualisierungen von Zahlungen \(PayPal-Parameter\) 
 
 Über die automatische Statusaktualisierung wird für Bestellungen, dessen Zahlung in der Schwebe ist, eine automatisierte Prüfung durchgeführt und der Bestellstatus im Shop aktualisiert.
 
@@ -82,7 +82,7 @@ Bei der Ersteinrichtung des Moduls wird versucht die automatischen Statusaktuali
 
 Falls kein SSL zur Verfügung steht, kann alternativ auch ein sogenannter Cronjob bei deinem Hosting-Anbieter eingerichtet werden, der den Status jeder offenen PayPal Bestellung überprüft und bei Veränderungen aktualisiert. Verwende die untere URL im Bereich Automatische Statusaktualisierungen von Zahlungen \(PayPal-Parameter\) als Vorlage, um diesen einzurichten.
 
-## Darstellung auf der PayPal Zahlungsseite \(PayPal-Parameter\) { .section}
+## Darstellung auf der PayPal Zahlungsseite \(PayPal-Parameter\) 
 
 Über diesen Unterpunkt kann die grafische Darstellung der PayPal-Zahlungsseite angepasst werden. Die Ersteinrichtung des Moduls erzeugt dabei eine funktionierende Konfiguration, schlägt dies fehl wird oben auf der Seite ein Warnhinweis eingeblendet. Klicke auf Neues Darstellungsprofil anlegen oder löschen um Darstellungsprofile zu verwalten. Bei der Bearbeitung des Profils sind die Einstellungen
 

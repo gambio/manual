@@ -10,7 +10,7 @@
 6.  Horizontale Kategorienavigation
 7.  Horizontale Contentnavigation \(Bereich Hauptkategorien im Content Manager\)
 
-## Sekundärnavigation { .section}
+## Sekundärnavigation 
 
 ![](Bilder/Abb010_Sekundaernavigation.PNG "Sekundärnavigation")
 
@@ -20,7 +20,7 @@ von Links nach Rechts:
 -   Produkt bearbeiten: Bearbeiten des aufgerufenen Artikels
 -   Konto-Schaltfläche: Zugriff auf Ihr Konto und Logout
 
-## Header im Malibu { .section}
+## Header im Malibu 
 
 ![](Bilder/MalibuShopansichtHeader.png "Header im Malibu")
 

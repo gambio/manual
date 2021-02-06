@@ -5,7 +5,7 @@ Einzelne Bereiche sind im StyleEdit 4 bei der Bearbeitung des Malibus anders auf
 ![](Bilder/styleedit4/se4_0186_HGM_Bereiche.png "Aufteilung des Menüs Bereiche im Vergleich
       zwischen Honeygrid (links) und Malibu (rechts)")
 
-## Allgemein { .section}
+## Allgemein 
 
 ![](Bilder/styleedit4/se4_0185_HGM_BereicheAllgemein.png "Vergleich der Aufteilung von Bereiche /
         Allgemein zwischen Honeygrid (links) und Malibu
@@ -19,19 +19,19 @@ Einzelne Bereiche sind im StyleEdit 4 bei der Bearbeitung des Malibus anders auf
         / Buttons zwischen Honeygrid (links) und Malibu
         (rechts)")
 
-## Header { .section}
+## Header 
 
 ![](Bilder/styleedit4/se4_0189_HGM_BereicheHeaderVarianten.png "Vergleich der Einstellungen unter Bereiche / Header /
         Varianten zwischen Honeygrid (links) und Malibu
         (rechts)")
 
-## Footer { .section}
+## Footer 
 
 ![](Bilder/styleedit4/se4_0205_HGM_BereicheFooterVarianten.png "Vergleich der Einstellungen unter Bereiche / Footer /
         Varianten zwischen Honeygrid (links) und Malibu
         (rechts)")
 
-## Produkte { .section}
+## Produkte 
 
 ![](Bilder/styleedit4/se4_0207_HGM_BereicheProdukte.png "Vergleich der Aufteilung von Bereiche /
         Produkte zwischen Honeygrid (links) und Malibu

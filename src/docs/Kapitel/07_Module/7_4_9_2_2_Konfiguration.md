@@ -1,6 +1,6 @@
 # Konfiguration 
 
-## TSID hinzufügen { .section}
+## TSID hinzufügen 
 
 ![](Bilder/trusted_shops/TS-2016-12-14_002.png "Bereich Konfiguration des Trusted Shops-Moduls")
 

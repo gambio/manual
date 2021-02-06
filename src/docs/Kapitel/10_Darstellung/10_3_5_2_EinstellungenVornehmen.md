@@ -1,6 +1,6 @@
 # Vornehmen von Einstellungen 
 
-## Farbeinstellungen { .section}
+## Farbeinstellungen 
 
 ![](Bilder/styleedit4/se4_0171_Farbeinstellung.png "Anzeige der Farbpalette nach Klick auf den Farbwert oder die
         Vorschau")
@@ -19,7 +19,7 @@ Die einzelnen Bereichen sind von oben nach unten und links nach rechts wie folgt
 -   B: Blau-Anteil der Farbe, von 0 bis 255
 -   A: Alpha-Wert / Deckkraft der Farbe, von 0 bis 1
 
-## Farbverlaufeinstellungen { .section}
+## Farbverlaufeinstellungen 
 
 ![](Bilder/styleedit4/se4_0172_Farbverlaufeinstellung.png "Einstellungen zu einem Farbverlauf")
 
@@ -61,7 +61,7 @@ Im Dropdown Winkel ist üblicherweise ein Wert von 0deg voreingestellt. Angezeig
 
 Bei einem radialen Farbverlauf geht dieser vom Mittelpunkt des jeweiligen Elements nach außen. Gut zu erkennen ist, dass der Verlauf sich gleichmäßig über die gesamte Distanz von Mittelpunkt zum äußersten Rand aufteilt. Bei einem Element mit unterschiedlichen Kantenlängen entsteht hierbei entsprechend eine "Ei-Form" statt einer Kugel.
 
-## Bildeinstellungen { .section}
+## Bildeinstellungen 
 
 ![](Bilder/styleedit4/se4_0177_Bildauswahl.png "Bildauswahl im StyleEdit")
 
@@ -71,7 +71,7 @@ Das Vorschau-Fenster hat eine Hover-Funktion, um Bereiche anzuzeigen, die außer
 
 Über Löschen kann das Bild wieder aus der Auswahl entfernt werden.
 
-## Hintergrundbildeinstellungen { .section}
+## Hintergrundbildeinstellungen 
 
 ![](Bilder/styleedit4/se4_0178_Hintergrundbildauswahl.png "Einstellungen für Hintergrundbilder")
 
@@ -84,7 +84,7 @@ Hintergrundbilder können wie reguläre Bilder eingerichtet werden. Es gibt jedo
 |Wiederholung|soll das Hintergrundbild wiederholt werden? \(repeat: Wiederholen in horizontale und vertikale Richtung; repeat-x: wiederholen in horizontale Richtung; repeat-y: wiederholen in vertikale Richtung; space: wiederholt das Bild in beide Richtungen, so oft es hineinpasst, mit Abständen; round: wiederholt das Bild in beide Richtungen, so oft es hinein passt, passt die Bildgröße an; initial: verwendet die Standard-Einstellung; inherit: verwendet die Einstellung des übergeordneten Elements\)|
 |Größe|soll die Größe des Hintergrundbilds angepasst werden? \(auto: Anzeige in Originalgröße; cover: vergrößern zur Abdeckung des gesamten Bereichs; contain: vergrößern, sodass das gesamte Bild sichtbar bleibt; initial: verwendet die Standard-Einstellung; inherit: verwendet die Einstellung des übergeordneten Elements\)|
 
-## Widgets { .section}
+## Widgets 
 
 ![](Bilder/styleedit4/se4_0179_WidgetAnsicht.png "Anzeige der Bereiche, in denen Widgets platziert werden
         können")

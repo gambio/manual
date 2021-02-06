@@ -8,13 +8,13 @@ Nach dem Abruf ändert sich die Darstellung, der Status ändert sich in PLACED.
 
 ![](Bilder/hermes_hsi/HSI_014.png "Anzeige nach dem Abrufen des erzeugten Labels")
 
-## Label { .section}
+## Label 
 
 Das abgerufene Label weist Empfänger, Absender und die Retourenadresse aus. Auch das Versandgewicht und das Datum der Labelerstellung wird angezeigt.
 
 ![](Bilder/hermes_hsi/HSI_013.png "Das abgerufene Hermes-Label")
 
-## Darstellung in Bestellung { .section}
+## Darstellung in Bestellung 
 
 Die Sendungsnummer wurde automatisch in den Bestelldetails hinterlegt und kann jetzt bei einer händischen Änderung des Bestellstatus an den Kunden versendet werden.
 

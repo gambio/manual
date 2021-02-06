@@ -14,7 +14,7 @@ Es öffnet sich ein neues Fenster, in dessen unterem Teil das Bild angezeigt wir
 -   Linkbereich-URL: Ziel des Links
 -   Linkbereich-Ziel: soll der Link im selben Fenster/Tab oder in einem neuen Fenster/Tab geöffnet werden
 
-## Neuen Linkbereich erstellen { .section}
+## Neuen Linkbereich erstellen 
 
 Mit der Schaltfläche Neuen Linkbereich erstellen kann ein Teil des Bilds ausgewählt und verlinkt werden. Vergebe hierzu einen Linkbereich-Titel und füge unter Linkbereich-URL die Adresse ein, die beim Klick in den Linkbereich aufgerufen werden soll.
 
@@ -28,13 +28,13 @@ Mit der Maus kann im unteren Teil des Fensters der Linkbereich festgelegt werden
 
 Bestätige den festgelegten Linkbereich mit einem Klick auf Übernehmen. Wenn du die Einstellungen verwerfen möchtest, klicke auf Abbrechen.
 
-## Bestehenden Linkbereich bearbeiten { .section}
+## Bestehenden Linkbereich bearbeiten 
 
 Um einen Linkbereich zu bearbeiten kann dieser über das Dropdown Linkbereich ausgewählt werden. Es können alle Einstellungen verändert werden, die beim Anlegen des Linkbereichs getroffen worden sind.
 
 Bestätige die Änderungen mit einem Klick auf Übernehmen. Mit einem Klick auf Abbrechen beendest du die Bearbeitung, ohne die Änderungen zu speichern.
 
-## Linkbereich löschen { .section}
+## Linkbereich löschen 
 
 Um einen Linkbereich zu löschen, wähle diesen über das Dropdown Linkbereich aus und klicke auf Löschen.
 

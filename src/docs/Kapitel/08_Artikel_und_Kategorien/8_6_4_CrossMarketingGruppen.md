@@ -6,7 +6,7 @@ Mit Hilfe von Cross-Marketing Gruppen können Cross Selling Artikel mit einem Gr
 
 Cross-Marketing Gruppen sind rein optische Textauszeichnungen. Es ist z.B. standardmäßig nicht möglich, Gruppen von Cross Selling Artikeln einem anderen Artikel zuzuordnen.
 
-## Cross-Marketing Gruppe anlegen { .section}
+## Cross-Marketing Gruppe anlegen 
 
 Um eine Cross-Marketing-Gruppe anzulegen, gehe im Gambio Admin unter Artikel \> Cross-Marketing Gruppen und klicke auf die grüne Schaltfläche Erstellen.
 
@@ -20,15 +20,15 @@ Du kannst den Gruppennamen jeweils pro im Shop vorhandener Sprache eintragen.
 
 Bestätige die Eingabe mit einem Klick auf Einfügen. Über Abbrechen kannst du die Eingabemaske wieder verlassen, ohne die Eingabe zu übernehmen.
 
-## Cross-Marketing Gruppe bearbeiten { .section}
+## Cross-Marketing Gruppe bearbeiten 
 
 Um eine Cross-Marketing Gruppe zu bearbeiten, wähle diese unter Artikel \> Cross-Marketing Gruppen aus und klicke auf die Schaltfläche Bearbeiten, in der rechten, unteren Bildschirmecke. Klicke auf Aktualisieren. um die Änderungen zu übernehmen. Über Abbrechen verlässt du die Eingabemaske wieder, ohne die Eingaben zu speichern.
 
-## Cross-Marketing Gruppe löschen { .section}
+## Cross-Marketing Gruppe löschen 
 
 Um eine Cross-Marketing Gruppe zu löschen, wähle diese unter Artikel \> Cross-Marketing Gruppen aus und klicke auf die Schalftlfäche Löschen in der rechten, unteren Bildschirmecke. Bestätige die Sicherheitsabfrage mit einem erneuten Klick auf Löschen, um die Cross-Marketing Gruppe zu entfernen. Über Abbrechen verlässt du den Dialog, ohne die Gruppe zu löschen.
 
-## Cross-Marketing Gruppe einstellen { .section}
+## Cross-Marketing Gruppe einstellen 
 
 Cross-Marketing Gruppen können nach dem Hinzufügen, beziehungsweise beim Bearbeiten, von Cross Selling Artikeln eingestellt werden.
 

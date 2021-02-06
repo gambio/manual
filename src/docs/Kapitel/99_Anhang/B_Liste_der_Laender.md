@@ -242,7 +242,7 @@
 |Zimbabwe|Zimbabwe|ZW|ZWE|
 |Cyprus|Zypern|CY|CYP|
 
-## Beispiel { .example}
+## Beispiel 
 
 Dies ist "ein 'Beispiel'"
 

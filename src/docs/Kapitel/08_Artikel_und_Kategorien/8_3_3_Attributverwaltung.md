@@ -36,7 +36,7 @@ Es stehen die folgenden Eingabefelder zur Verfügung:
 
 Bestätige vorgenommene Eingaben mit einem Klick auf Speichern.
 
-## Attribute kopieren { .section}
+## Attribute kopieren 
 
 Zugewiesene Optionswerte können bei Bedarf auch von einem Artikel kopiert und direkt einem anderen Artikel zugeordnet werden. Auf diese Weise lassen sich schnell mehrere Artikel mit den gleichen Auswahlmöglichkeiten versehen.
 

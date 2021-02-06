@@ -1,6 +1,6 @@
 # Produkte 
 
-## Artikelbild { .section}
+## Artikelbild 
 
 ![](Bilder/styleedit4/se4_0089_BereicheProdukteArtikelbild.png "Einstellungen unter Bereiche / Produkte /
         Artikelbild")
@@ -27,7 +27,7 @@
 
 Der Artikelbildbereich legt fest, wie viel Platz dem jeweiligen Artikelbild zur Verfügung steht. Da bei der Änderung einer Dimension \(Höhe oder Breite\) die jeweils andere entsprechend skaliert wird, kann der Bildbereich nicht unbegrenzt vergrößert werden.
 
-## Produktliste { .section}
+## Produktliste 
 
 ![](Bilder/styleedit4/se4_0092_BereicheProdukteProduktliste.png "Einstellungen unter Bereiche / Produkte /
         Produktliste")
@@ -78,7 +78,7 @@ Produktlisten können sowohl Kategorien als auch andere Produktseiten sein, wie 
 
 Hovern bzw. Flyover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken.
 
-## Produktdetails Box { .section}
+## Produktdetails Box 
 
 ![](Bilder/styleedit4/se4_0099_BereicheProdukteProduktdetailsBox.png "Einstellungen unter Bereiche / Produkte /
         Produktdetails Box")
@@ -118,7 +118,7 @@ Hovern bzw. Flyover bezeichnet das Platzieren des Mauszeigers über ein Element,
 
 Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken.
 
-## Tabs { .section}
+## Tabs 
 
 ![](Bilder/styleedit4/se4_0106_BereicheProdukteTabs.png "Einstellungen unter Bereiche / Produkte /
         Tabs")
@@ -149,7 +149,7 @@ Hovern bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzu
 |Bild einfügen|Hintergrundbild der Überschrift des aktiven Tabs|
 |Farbverlauf einfügen|Farbverlauf als Hintergrund der Überschrift des aktiven Tabs|
 
-## Ribbons { .section}
+## Ribbons 
 
 ![](Bilder/styleedit4/se4_0111_BereicheProdukteRibbons.png "Einstellungen unter Bereiche / Produkte /
         Ribbons")

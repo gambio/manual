@@ -4,7 +4,7 @@ In diesem Kapitel betrachten wir Schritt für Schritt wie ein Export vorbereitet
 
 Als Beispiel nehmen wir an, dass wir Artikel aus der Kategorie Testkategorie mit den zugeordneten Eigenschaften-Kombination exportieren und hierbei den exportierten Preis von Netto auf Brutto umstellen sowie dabei das Dezimal-Trennzeichen von Punkt auf Komma ändern möchten.
 
-## Schritt 1 - Profil duplizieren { .section}
+## Schritt 1 - Profil duplizieren 
 
 Es ist immer eine gute Idee, eine Kopie des Standardprofils zu verwenden, auch wenn zunächst keine Änderungen daran vorgenommen werden sollen. Da wir jedoch bestehende Spalten anpassen wollen, ist es eine Notwendigkeit.
 
@@ -16,7 +16,7 @@ Es wird mit einem neuen Namen in der Liste angelegt.
 
 ![](Bilder/csv_export_01_dupliziert_.png "Das neue Export-Profil erscheint in der Liste")
 
-## Schritt 2 - Profil bearbeiten { .section}
+## Schritt 2 - Profil bearbeiten 
 
 ![](Bilder/csv_export_01_dupliziert__.png "Bearbeiten des kopierten Profils über das
         Bleistif-Symbol")
@@ -30,7 +30,7 @@ Es wird mit einem neuen Namen in der Liste angelegt.
 
 Bevor wir den Reiter wechseln, klicken wir auf Speichern.
 
-## Schritt 3 - Kategorien festlegen { .section}
+## Schritt 3 - Kategorien festlegen 
 
 Über den Reiter Kategorien legen wir fest, aus welchen Kategorien Artikel exportiert werden sollen.
 
@@ -41,7 +41,7 @@ Da wir in unserem Beispiel Artikel aus der Testkategorie exportieren wollen, set
 
 Auch diesen Schritt bestätigen wir mit einem Klick auf Speichern.
 
-## Schritt 4 - Spalte bearbeiten { .section}
+## Schritt 4 - Spalte bearbeiten 
 
 ![](Bilder/csv_export_04_bearbeitenSpalten_.png "Anzeige im Reiter Spalten")
 
@@ -111,7 +111,7 @@ Die Eingabemaske besteht aus zwei sogenannten Multi-Select-Elementen - Eigenscha
 
 Anschließend kann die Auswahl mit Ok bestätigt werden. Speichere alle Änderungen ab, bevor du den Dialog wieder schließt.
 
-## Schritt 5 - Export durchführen { .section}
+## Schritt 5 - Export durchführen 
 
 ![](Bilder/csv_export_14_ExportDurchfuehren_.png "Icon Exportieren")
 
