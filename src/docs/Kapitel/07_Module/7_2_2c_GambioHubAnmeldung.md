@@ -12,9 +12,11 @@ Solltest du Fragen zu oder Probleme mit diesem Schritt haben, hilft dir auch hie
 
 Die Anmeldung bei Klarna kann zusammen mit der Hub Anmeldung durchgeführt werden. Setze hierzu einfach den Haken bei Ja, ich möchte einen kostenlosen Klarna-Account erstellen. Diese Einstellung ist optional.
 
-**Note:** Über die Links im zweiten Absatz der Checkbox kannst du die Allgemeinen Geschäftsbedingungen von Klarna anzeigen lassen und Weitere Informationen aufrufen.
+!!! Info "Hinweis"
+    Über die Links im zweiten Absatz der Checkbox kannst du die Allgemeinen Geschäftsbedingungen von Klarna anzeigen lassen und Weitere Informationen aufrufen.
 
-**Note:** Die Anmeldung bei Klarna kann auch später aus dem Bereich Module \> Zahlungsweisen \> Gambio Payment Hub vorgenommen werden.
+!!! Info "Hinweis"
+    Die Anmeldung bei Klarna kann auch später aus dem Bereich Module \> Zahlungsweisen \> Gambio Payment Hub vorgenommen werden.
 
 
 
