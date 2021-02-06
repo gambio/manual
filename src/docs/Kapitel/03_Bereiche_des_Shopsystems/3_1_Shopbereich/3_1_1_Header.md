@@ -31,8 +31,7 @@ Der Header im Malibu unterscheidet sich in seiner Darstellung und Andordnung der
 
 ![](Bilder/MalibuShopansichtHeaderLokalisierungSprachauswahlWaehrungsauswahl.png "Ausgeklappte Lokalisierung")
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Standardmäßig ist die Währungsauswahl abgeschaltet.
 

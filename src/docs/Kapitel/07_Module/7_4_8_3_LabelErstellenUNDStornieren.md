@@ -13,8 +13,7 @@ Wenn du ProPS verwendest, werden die Adressdaten vorausgefüllt. Hierbei wird al
 
 Nachdem das Label erzeugt worden ist, ändert sich die Ansicht der Hermes-Versandauftragserfassung. Du hast die Möglichkeit den Auftrag zu stornieren oder das Label auszudrucken.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Die Sendungsnummer wird erst in die Bestellung eingetragen, wenn das Label gedruckt wurde.
 

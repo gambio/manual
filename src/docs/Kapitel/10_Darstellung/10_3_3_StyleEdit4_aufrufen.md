@@ -46,8 +46,7 @@ Nach dem ersten Aufruf gelangst du beim Klick auf den Button Theme bearbeiten un
 
 Aus dem StyleEdit 4 heraus gelangst du bei Bedarf zurück zur Seite Meine Themes. Klicke hierzu auf das Icon mit den drei Linien, in der linken, oberen Ecke oder dem daneben angezeigten Theme-Namen. Über den Button Beenden am unteren Ende des StyleEdits kannst du den Bearbeitungsmodus beenden und gelangst zurück zum Shop.
 
-!!! Info "Hinweis
-	 Beim nächsten Aufruf gelangst du direkt zum StyleEdit, es wird mit dem Style Honeygrid Preview geladen. Um deinen gewünschten Style zu bearbeiten, klicke auf den Namen in der Titelleiste des StyleEdits, um zurück auf die Seite Meine Themes zu gelangen.
+**Note:** Beim nächsten Aufruf gelangst du direkt zum StyleEdit, es wird mit dem Style Honeygrid Preview geladen. Um deinen gewünschten Style zu bearbeiten, klicke auf den Namen in der Titelleiste des StyleEdits, um zurück auf die Seite Meine Themes zu gelangen.
 
 ## Übernahme der Einstellungen des aktiven Template-Styles 
 

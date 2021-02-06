@@ -35,8 +35,7 @@ Die einzelnen Bereichen sind von oben nach unten und links nach rechts wie folgt
 |Typ|Typ des Farbverlaufs \(linear oder radial\)|
 |Winkel|Winkel des Farbverlaufs bei Typ linear|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Wenn ein Feld für eine Farbeinstellung leer ist, lässt sich die Farbpalette nicht über einen Mausklick aufrufen. Hier hilft es, einfach einen beliebigen Farbwert, z.B. \#000000 oder \#FFFFFF in das Feld einzutragen und in einen beliebigen Bereich des Shops zu klicken. Das StyleEdit aktualisiert dann die Einstellung und es erscheint die kleine, quadratische Vorschau-Box.
 
@@ -53,8 +52,7 @@ Der lineare Farbverlauf findet über die Länge einer unsichtbaren Linie statt, 
 
 Im Beispiel sieht man, dass der Verlauf an einer \(gedachten\) Linie von unten links nach oben rechts ausgerichtet ist.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Im Dropdown Winkel ist üblicherweise ein Wert von 0deg voreingestellt. Angezeigt wird jedoch beim ersten Einrichten ein Verlauf mit 90deg.
 
@@ -102,8 +100,7 @@ Unter Aufteilung kann festgelegt werden, wie viele Spalten die Sektion enthalten
 
 Schlussendlich kann der Sektion eine ID und eine Klasse zugeordnet werden.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 
@@ -118,15 +115,13 @@ Für jede Spalte können über das Bleistift-Symbol ebenfalls Einstellungen vorg
 |Typ|Art der Trennlinie: solid \(duchgängig\), hidden \(unsichtbar\), dotted \(gepunktet\), dashed \(gestrichelt\), double \(doppelt\), groove \(gerillt\), ridge \(kammförmig\), inset \(eingefügt, hintergründig\), outset \(hervorgehoben, vordergründig\), initial \(Standardwert\), inherit \(Wert des übergeordneten Elements\)|
 |Farbe|Farbe der Trennlinie|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Durch Klick auf px, em oder % kann die jeweilige Größeneinheit eingestellt werden
 
 Schlussendlich können auch hier ID und Klasse eingetragen werden.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 IDs und Klassen werden auf HTML-Ebene verwendet. Änderungen sind optional.
 

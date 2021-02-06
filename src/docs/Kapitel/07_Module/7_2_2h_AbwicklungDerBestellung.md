@@ -43,8 +43,7 @@ Der Versand kann über eine Bestellstatusänderung an Klarna gemeldet werden. W�
 
 ![](Bilder/klarna_20180111_029.png "Versand melden bei Bestellstatusänderung")
 
-!!! Info "Hinweis
-	 Beachte, dass die Versandmeldung im Regelfall innerhalb des sogenannten Authorisierungszeitraums \(28 Tage\) nach der Bestellung erfolgen muss. Ohne Versandmeldung erfolgt keine Zahlungsaufforderung an den Kunden und es wird kein Geld an den Händler ausgezahlt.
+**Note:** Beachte, dass die Versandmeldung im Regelfall innerhalb des sogenannten Authorisierungszeitraums \(28 Tage\) nach der Bestellung erfolgen muss. Ohne Versandmeldung erfolgt keine Zahlungsaufforderung an den Kunden und es wird kein Geld an den Händler ausgezahlt.
 
 ![](Bilder/klarna/20190812_019_.png "Schaltfläche Authorisierungszeitraum
         verlängern")
@@ -59,8 +58,7 @@ Sofern die ERP!
 
 Soll die Sendungsnummer ebenfalls an Klarna übermittelt werden, so kannst du diese in die Bestellung eintragen und dann Klarna benachrichtigen auswählen. Die Sendungsnummer wird bei der Versandmeldung dann ebenfalls an Klarna übertragen. Klarna hat so die Möglichkeit, bei ausstehenden oder vermissten Sendungen bei der Lösung des Problems mitzuwirken.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Das Hinterlegen der Sendungsnummer allein stellt keine Versandmeldung dar. Im vorherigen Abschnitt Versand melden findest du die notwendigen Schritte um Klarna zu benachrichtigen.
 

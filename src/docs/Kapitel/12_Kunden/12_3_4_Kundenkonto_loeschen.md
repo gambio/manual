@@ -10,8 +10,7 @@ Wenn ein Kunde im Shopbereich auf Kundenkonto löschen klickt, erhältst du eine
 3.  Überprüfe in der nun angezeigten Sicherheitsabfrage, dass du das korrekte Kundenkonto gewählt hast
 4.  Klicke erneut auf Löschen, um das Kundenkonto unwiderruflich zu löschen
 
-!!! Info "Hinweis
-	 Wenn du ein Kundenkonto löscht, werden nur die Stammdaten des Kunden aus dem System gelöscht. Sämtliche Bestellungen und Artikelbewertungen des Kunden bleiben erhalten.
+**Note:** Wenn du ein Kundenkonto löscht, werden nur die Stammdaten des Kunden aus dem System gelöscht. Sämtliche Bestellungen und Artikelbewertungen des Kunden bleiben erhalten.
 
 
 

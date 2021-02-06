@@ -14,8 +14,7 @@ Um eine Zahlungsweise zu verwenden, bewege den Mauszeiger in die jeweilige Zeile
 
 ![](Bilder/Abb060_ZahlungsweisenGambioPaymentHub_.png "Module unter Gambio Payment Hub")
 
-!!! Info "Hinweis
-	 Wenn noch keine Anmeldung am Gambio Hub vorgenommen worden ist, wird an dieser Stelle die Registrierungseite angezeigt.
+**Note:** Wenn noch keine Anmeldung am Gambio Hub vorgenommen worden ist, wird an dieser Stelle die Registrierungseite angezeigt.
 
   
 

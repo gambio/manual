@@ -2,8 +2,7 @@
 
 Das Menü Bereiche beinhaltet Einstellungen für die einzelnen Bereiche des Shops.
 
-!!! Info "Hinweis
-	 Die Einstellungen in diesem Menü hängen vom eingestellten Modus ab. Um weitere Abschnitte anzuzeigen, aktiviere im unteren Teil des StyleEdits den Expertenmodus.
+**Note:** Die Einstellungen in diesem Menü hängen vom eingestellten Modus ab. Um weitere Abschnitte anzuzeigen, aktiviere im unteren Teil des StyleEdits den Expertenmodus.
 
 ![](Bilder/styleedit4/se4_0024_BereicheOhneExpertenmodus.png "Menü Bereiche ohne Expertenmodus")
 

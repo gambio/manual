@@ -2,8 +2,7 @@
 
 Über das Gutschein-System können Gutschein- und Rabatt Kupon-Codes im Warenkorb eingegeben werden. Ist die Einstellung Gutscheinsystem aktivieren? auf ✔ gesetzt, wird die zugehörige Box im Warenkorb angezeigt.
 
-!!! Info "Hinweis
-	 Nur wenn das Gutscheinsystem aktiviert ist, werden auch die zugehörigen Menüpunkte im Gambio Admin angezeigt.
+**Note:** Nur wenn das Gutscheinsystem aktiviert ist, werden auch die zugehörigen Menüpunkte im Gambio Admin angezeigt.
 
 Außerdem stehen dir die folgenden Eingabefelder zur Verfügung:
 

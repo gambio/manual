@@ -43,8 +43,7 @@ Externe Module \(Zahlungsmodule, ERP, Warenwirtschaften etc.\) müssen Straße u
 
 Über die Mindstlänge können Felder als Plfichtfelder festgelegt werden. Ist für die Mindestlänge ein Wert größer als 0 eingetragen, ist das betreffende Feld ein Pflichtfeld.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Die Firma kann standardmäßig nicht als Pflichtangabe gesetzt werden. Eine Prüfung der Mindestlänge findet nur dann statt, wenn eine Eingabe in diesem Feld erfolgt.
 

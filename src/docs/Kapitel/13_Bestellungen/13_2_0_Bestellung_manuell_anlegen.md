@@ -4,8 +4,7 @@ Bestellungen kannst du für deine Kunden im Gambio Admin deines Shops unter Kund
 
 ![](Bilder/Abb185_DropdownSchaltflaeche_BestellungManuellAnlegen.png "Dropdown-Schaltfläche")
 
-!!! Info "Hinweis
-	 In den meisten Fällen ist es einfacher und komfortabler, Bestellungen im Namen des Kunden über den Shopbereich anzulegen. Registriere dazu ein neues Kundenkonto für deinen Kunden, melde dich mit dem Konto in deinem Shop an und führe die Bestellung über den Shopbereich aus.
+**Note:** In den meisten Fällen ist es einfacher und komfortabler, Bestellungen im Namen des Kunden über den Shopbereich anzulegen. Registriere dazu ein neues Kundenkonto für deinen Kunden, melde dich mit dem Konto in deinem Shop an und führe die Bestellung über den Shopbereich aus.
 
   
 

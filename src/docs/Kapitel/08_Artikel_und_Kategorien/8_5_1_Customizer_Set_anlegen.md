@@ -12,8 +12,7 @@ Ein neues Customizer-Set wird angelegt und zum Bearbeiten geöffnet. Das neue Cu
 
     Die voreingestellten Abmessungen sind bereits ideal, wenn das Customizer-Set auf der Artikel-Detailseite oberhalb der Preisanzeige eingebunden werden soll. Wenn das Customizer-Set in der Artikel-Beschreibung eingebunden werden soll, kann die Breite bis auf 760 Pixel erhöht werden.
 
-    !!! Info "Hinweis
-	 Die Einstellungen im letzten Absatz gelten nur für das EyeCandy-Template.
+    **Note:** Die Einstellungen im letzten Absatz gelten nur für das EyeCandy-Template.
 
 4.  Klicke auf Erstellen, um den neuen Bereich zu speichern
 
@@ -66,8 +65,7 @@ Mit Dropdown-Feldern wählen deine Kunden aus einer Reihe von dir vorgegebener W
 
 Über das Element Bild kannst du deinem Customizer-Set ein Bild hinzufügen. Das Bild wird direkt angezeigt und kann durch deine Kunden nicht verändert werden. Lade im Dateifeld Bild ein Bild von deinem Computer hoch. Weitere Einstellungen sind nicht vorzunehmen.
 
-!!! Info "Hinweis
-	 Die Abmessungen werden bei GX-Customizer-Bildern nicht automatisch angepasst und können nachträglich nicht verändert werden. Lade dein Bild in der Größe hoch, in der es später angezeigt werden soll.
+**Note:** Die Abmessungen werden bei GX-Customizer-Bildern nicht automatisch angepasst und können nachträglich nicht verändert werden. Lade dein Bild in der Größe hoch, in der es später angezeigt werden soll.
 
 
 

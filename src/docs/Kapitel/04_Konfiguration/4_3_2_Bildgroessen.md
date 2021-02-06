@@ -12,11 +12,9 @@ Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschi
 
 Ändere die Werte Breite und Höhe bei dem Bild, bei dem du die Ausgangsgröße anpassen möchtest. Die neue Breite und Höhe wird bei über die Artikel-Eingabemaske neu hochgeladenen Artikelbildern angewendet.
 
-!!! Info "Hinweis
-	 **Ausgangsgröße ist nicht gleich angezeigte Bildgröße**. Im Honeygrid hängt die angezeigte Bildgröße von den Einstellungen im StyleEdit ab.
+**Note:** **Ausgangsgröße ist nicht gleich angezeigte Bildgröße**. Im Honeygrid hängt die angezeigte Bildgröße von den Einstellungen im StyleEdit ab.
 
-!!! Info "Hinweis
-	 Wenn die geänderte Ausgangsgröße auch bei bestehenden Artikelbildern übernommen werden soll, führe unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung aus. Beachte, dass die Ausgabeelemente im Shopbereich nicht automatisch an die neue Größe angepasst werden. Wenn du die Bildgröße der Thumbnails oder Info-Bilder änderst, passe anschließend im Bearbeitungsmodus die betroffenen Bereiche im Shop an.
+**Note:** Wenn die geänderte Ausgangsgröße auch bei bestehenden Artikelbildern übernommen werden soll, führe unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung aus. Beachte, dass die Ausgabeelemente im Shopbereich nicht automatisch an die neue Größe angepasst werden. Wenn du die Bildgröße der Thumbnails oder Info-Bilder änderst, passe anschließend im Bearbeitungsmodus die betroffenen Bereiche im Shop an.
 
 
 

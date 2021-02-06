@@ -4,8 +4,7 @@ Mit Verpackungseinheiten \(VPE\) wird angegeben in welchen Einheiten ein Artikel
 
 Unter Artikel \> Verpackungseinheiten können neue Verpackungseinheiten angelegt und bestehende Verpackungseinheiten bearbeitet oder entfernt werden.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Bei der Installation des Shops werden standardmäßig keine Verpackungseinheiten hinzugefügt, sie müssen also händisch angelegt werden.
 
@@ -50,8 +49,7 @@ Klicke auf das Mülltonnen-Symbol, um die Verpackungseinheit zu entfernen.
 
 Es wird eine Sicherheitsabfrage angezeigt. Bestätige mit einem Klick auf Löschen, dass du die Verpackungseinheit wirklich entfernen möchtest. Über einen Klick auf Abbrechen kann der Vorgang abgebrochen werden.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Die Standard-Verpackungseinheit kann nicht gelöscht werden, daher wird für sie kein Mülltonnen-Symbol angezeigt.
 
@@ -80,8 +78,7 @@ Bitte beachte, dass Kommazahlen mit einem Punkt als Dezimaltrenner angegeben wer
 
 Zudem muss der Haken für Anzeige VPE gesetzt werden.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Beispiel: Sechserpack eines Produkts
 
@@ -95,8 +92,7 @@ Der Grundpreis errechnet sich wie folgt:
 
 ![](Bilder/vpe/vpe_sechserpack_artikel_.png "Anzeige des Grundpreises auf der Artikeldetailseite")
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Beispiel: Glasflasche 0,75 Liter
 

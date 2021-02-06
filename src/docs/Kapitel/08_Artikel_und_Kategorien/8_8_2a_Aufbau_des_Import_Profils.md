@@ -1,7 +1,6 @@
 # Aufbau des Import-Profils 
 
-!!! Info "Hinweis
-	 Für eine Aktualisierung deiner Artikel empfehlen wir zunächst einen Export mit dem unveränderten Standardprofil vorzunehmen. Die so erzeugte Datei kann als Ausgangspunkt für die gewünschten Änderungen verwendet werden.
+**Note:** Für eine Aktualisierung deiner Artikel empfehlen wir zunächst einen Export mit dem unveränderten Standardprofil vorzunehmen. Die so erzeugte Datei kann als Ausgangspunkt für die gewünschten Änderungen verwendet werden.
 
 Passe hierbei nur die Daten an welche durch den Export geändert werden sollen und belasse die restliche Datei unverändert. Das unsachgemäße Entfernen von Spalten kann zu Problemen beim Import führen.
 
@@ -56,8 +55,7 @@ Damit deine CSV-Datei erfolgreich importiert werden kann, müssen die Spalten ei
 |p\_image.3|zusätzliches Artikelbild \(NUR der Dateiname , Beispiel: Testartikel.jpg\)|\{products\_image\#3\}|
 |p\_image|Artikelbild \(NUR der Dateiname, Beispiel: Testartikel.jpg\)|\{products\_image\}|
 |p\_name.en|Artikelname in der Sprache Englisch|\{products\_name.en\}|
-|p\_desc.en|Beschreibung in der Sprache Englisch!!! Info "Hinweis
-	
+|p\_desc.en|Beschreibung in der Sprache Englisch**Note:**
 
 Artikel-Tabs werden in der CSV-Datei zusammen mit der Artikelbeschreibung gespeichert. Tabs werden hierbei nach dem Muster \[TAB:Überschrift\]Inhalt des Tabs an die Artikelbeschreibung angehängt.
 
@@ -76,8 +74,7 @@ URL Keywords dürfen weder Leerzeichen, noch Umlaute oder Sonderzeichen enthalte
 |\{gm\_url\_keywords.en\}|
 |rewrite\_url.en|URL Rewrite-Eintrag für die Sprache Englisch|\{rewrite\_url.en\}|
 |p\_name.de|Artikelname in der Sprache Deutsch|\{products\_name.de\}|
-|p\_desc.de|Beschreibung in der Sprache Deutsch!!! Info "Hinweis
-	
+|p\_desc.de|Beschreibung in der Sprache Deutsch**Note:**
 
 Artikel-Tabs werden in der CSV-Datei zusammen mit der Artikelbeschreibung gespeichert. Tabs werden hierbei nach dem Muster \[TAB:Überschrift\]Inhalt des Tabs an die Artikelbeschreibung angehängt.
 

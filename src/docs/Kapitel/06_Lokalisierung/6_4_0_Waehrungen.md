@@ -8,8 +8,7 @@ Bei der Installation des Shopsystems werden die Währungen Euro, Schweizer Frank
 
 Klicke im Gambio Admin deines Shops unter Shop Einstellungen \> Land/Steuer \> Währungen auf Wechselkurse aktualisieren. Die Wechselkurse aller Währungen werden kostenfrei bei einem externen Dienstleister abgefragt. Als Referenzkurs wird die als Standardwährung festgelegte Währung verwendet.
 
-!!! Info "Hinweis
-	 Unter Umständen können einzelne Währungskurse nicht aktualisiert werden. Ob alle Währungskurse aktualisiert werden konnten, siehst du in den Erfolgs- und Fehlermeldungen oberhalb der Tabelle. Wenn das Abrufen eines Wechselkurses fehlschlägt, führe die Aktion erneut aus.
+**Note:** Unter Umständen können einzelne Währungskurse nicht aktualisiert werden. Ob alle Währungskurse aktualisiert werden konnten, siehst du in den Erfolgs- und Fehlermeldungen oberhalb der Tabelle. Wenn das Abrufen eines Wechselkurses fehlschlägt, führe die Aktion erneut aus.
 
 ## Währung hinzufügen 
 
@@ -47,8 +46,7 @@ Sofern die Option Automatisch auf Landeswährung umstellen unter Shop Einstellun
 5.  Klicke auf Aktualisieren
 6.  Aktualisiere die Wechselkurse für die Währungen, wie unter Wechselkurse aktualisieren beschrieben
 
-!!! Info "Hinweis
-	 Änderungen an der Standardwährung werden erst nach einem erneuten Anmelden im Shop wirksam. Wenn du Änderungen an der Standardwährung vornimmst, melde dich von deinem Shop ab und wieder an.
+**Note:** Änderungen an der Standardwährung werden erst nach einem erneuten Anmelden im Shop wirksam. Wenn du Änderungen an der Standardwährung vornimmst, melde dich von deinem Shop ab und wieder an.
 
 ## Währung löschen 
 

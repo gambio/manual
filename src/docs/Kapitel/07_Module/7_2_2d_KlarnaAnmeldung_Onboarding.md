@@ -4,8 +4,7 @@ Der erste Schritt der Klarna Anmeldung besteht in der Angabe deines Unternehmens
 
 ![](Bilder/003_RegistrierungBeiKlarnaUeberDasGambioHub.png "Registrierung bei Klarna über das Gambio Hub")
 
-!!! Info "Hinweis
-	 Leider steht der Service von Klarna für die Branche Tabak derzeit nicht zur Verfügung.
+**Note:** Leider steht der Service von Klarna für die Branche Tabak derzeit nicht zur Verfügung.
 
 Bitte wähle aus, ob dein Unternehmen im Handelsregister verzeichnet ist. Ist dies nicht der Fall, wird das Eingabeformular entsprechend angepasst, sodass die Privatadresse des Inhabers angegeben werden kann.
 
@@ -41,8 +40,7 @@ Sobald die Prüfung des Fragebogens abgeschlossen ist, bist du erfolgreich bei K
 
 ![](Bilder/009_AnmeldungErfolgreich.png "Anmeldung erfolgreich")
 
-!!! Info "Hinweis
-	 Auszahlungen von Klarna erfolgen erst nach der ersten Live-Bestellung eines regulären Kunden. Erst dann ist das Onboarding abgeschlossen.
+**Note:** Auszahlungen von Klarna erfolgen erst nach der ersten Live-Bestellung eines regulären Kunden. Erst dann ist das Onboarding abgeschlossen.
 
 Bis das Onboarding abgeschlossen ist, wird das Klarna Modul mit einem gelben Status-Symbol gekennzeichet, dass je nach Status des Oboardings mit Aktivierung erwartet bzw. Installiert betitelt ist.
 

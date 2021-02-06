@@ -4,8 +4,7 @@ Der Dateimanager kann wahlweise unter Toolbox \> Dateimanager bzw. in dem jeweil
 
 ![](Bilder/Abb161_DateimanagerAufrufen.PNG "Datei-Upload-Sybol ruft den Dateimanager auf")
 
-!!! Info "Hinweis
-	 Der Dateimanager zeigt nur die Dateien und Verzeichnisse an, die für die Bearbeitung relevant sind. Quelldateien, welche die Funktion des Shops betreffen, sind hierüber nicht verfügbar.
+**Note:** Der Dateimanager zeigt nur die Dateien und Verzeichnisse an, die für die Bearbeitung relevant sind. Quelldateien, welche die Funktion des Shops betreffen, sind hierüber nicht verfügbar.
 
 ## Hochladen einer Datei 
 

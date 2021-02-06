@@ -15,8 +15,7 @@ Nach der Installation kann das Findologic-Modul konfiguriert werden. Rufe hierzu
 |Export-Kundengruppe|Wenn Staffelpreise bzw. Kundengruppenpreise im Shop hinterlegt wurden, sollte hier die Kundengruppe ausgewählt werden, deren Preise exportiert werden sollen.|
 |SmartSuggest-Snippet|Das Snippet ist bei Findologic erhältlich und kann in dieses Feld kopiert werden. Dies führt dann dazu, dass im Shop bei der Direktsuche nicht mehr die shopeigenen Suchvorschläge gezeigt werden, sondern die Suchvorschläge von Findologic.|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Die Export-Datei kann standardmäßig unter
 

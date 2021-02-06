@@ -4,8 +4,7 @@ Durch die weiterreichenden Einstellungsmöglichkeiten sind in den einzelnen Bere
 
 ## Header 
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Die Einstellungsmöglichkeiten für den Header ändern sich mit der Auswahl der Header-Variante.
 
@@ -28,8 +27,7 @@ Die nachfolgend für Header 1 gezeigten Aufteilungen und Einstellungen sind anal
 |Höhe außen|Höhe des äußeren Bereichs der horizontalen Navigationsleiste|
 |Abstand unten|Unterer Abstand zur Kategorieleiste, ist mit dem Platzhalter $line-height-computed vorbelegt|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Sticky bezeichnet die reduzierte Form des Headers, die verwendet wird, wenn mit fixierter Kopfzeile nach unten gescrollt wird.
 
@@ -44,8 +42,7 @@ Sticky bezeichnet die reduzierte Form des Headers, die verwendet wird, wenn mit 
 |Farbe|Hintergrundfarbe der horizontalen Menüleiste \(ohne Content-Einträge\), vorbelegt mit transparent|
 |Bild einfügen|Hintergrundbild der horizontalen Menüleiste \(ohne Content-Einträge\)|
 |Farbverlauf einfügen|Farbverlauf für den Hintergrund der horizontalen Menüleiste \(ohne Content-Einträge\)|
-|Hintergrund außen|Hintergrundfarbe, die in der Fortführung der horizontalen Menüleiste links und rechts angezeigt wird!!! Info "Hinweis
-	
+|Hintergrund außen|Hintergrundfarbe, die in der Fortführung der horizontalen Menüleiste links und rechts angezeigt wird**Note:**
 
 Die hier eingestellte Farbe verläuft auf der Breite der kompletten Kategorieleiste. Sie ist auch in der Mitte der Leiste zu sehen, wenn die Einstellung Farbe unter Hintergrund auf transparent gesetzt ist.
 
@@ -72,8 +69,7 @@ capitalize: Jedes Wort beginnt mit einem Großbuchstaben
 |Hintergrund Hover Custom|Hintergrundfarbe der Content-Einträge in der horizontalen Menüleiste, beim Hovern mit der Maus, vorbelegt mit lighten\($gx-custom-bg-color, 10%\)|
 |Hintergrund Aktiv Custom|Hintergrundfarbe des Content-Eintrags in der horizontalen Menüleiste, der aktuell angezeigt wird, vorbelegt mit lighten\($gx-custom-bg-color, 10%\)|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
@@ -147,8 +143,7 @@ Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Elemen
 |Bild einfügen|Hintergrundbild der Hauptkategorien im vertikalen Kategoriemenü|
 |Farbverlauf einfügen|Farbverlauf als Hintergrund der Hauptkategorien im vertikalen Kategoriemenü|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
@@ -174,13 +169,11 @@ Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Elemen
 |Grid-Spalten Medium|Anzahl der Grid-Spalten des Kategoriespalten-Bereichs für mittelgroße Darstellung, typischerweise Tablet im Landscape/Quer-Format|
 |Grid-Spalten Groß|Anzahl der Grid-Spalten des Kategoriespalten-Bereichs für große Darstellung, typischerweise Desktop-Computer|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Sticky bezeichnet die reduzierte Form des Headers, die verwendet wird, wenn mit fixierter Kopfzeile nach unten gescrollt wird.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Die grafische Oberfläche des Shops wird in der Breite in 12 sogenannte Grid-Spalten aufgeteilt. Für jede Größe \(groß, medium, klein\) gibt es eine eigene Einstellung. Die Summe aller Einstellungen einer Größe, die nicht ausgeblendet werden, muss 12 ergeben. Weitere Informationen hierzu sind im Kapitel Grid-Spalten aufgeführt.
 
@@ -206,8 +199,7 @@ Die grafische Oberfläche des Shops wird in der Breite in 12 sogenannte Grid-Spa
 |Bild einfügen|Hintergrundbild der Sekundärnavigationsleiste|
 |Farbverlauf einfügen|Farbverlauf als Hintergrund der Sekundärnavigationsleiste|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Sticky bezeichnet die reduzierte Form des Headers, die verwendet wird, wenn mit fixierter Kopfzeile nach unten gescrollt wird.
 
@@ -242,8 +234,7 @@ Sticky bezeichnet die reduzierte Form des Headers, die verwendet wird, wenn mit 
 |Farbverlauf einfügen|Farbverlauf als Hintergrund der Menüeinträge der Sekundärnavigation beim Ausklappen eines Dropdowns|
 |Link Abstand|innerer Abstand des Textes nach oben und unten bzw. links und rechts zum Rand des Buttons, vorbelegt mit 11px 15px|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
@@ -267,13 +258,11 @@ Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Elemen
 |Grid-Spalten Medium|Anzahl der Grid-Spalten des Sekundär-Spalten-Bereichs für mittelgroße Darstellung, typischerweise Tablet im Landscape/Quer-Format|
 |Grid-Spalten Groß|Anzahl der Grid-Spalten des Sekundär-Spalten-Bereichs für große Darstellung, typischerweise Desktop-Computer|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Sticky bezeichnet die reduzierte Form des Headers, die verwendet wird, wenn mit fixierter Kopfzeile nach unten gescrollt wird.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Die grafische Oberfläche des Shops wird in der Breite in 12 sogenannte Grid-Spalten aufgeteilt. Für jede Größe \(groß, medium, klein\) gibt es eine eigene Einstellung. Die Summe aller Einstellungen einer Größe, die nicht ausgeblendet werden, muss 12 ergeben. Weitere Informationen hierzu sind im Kapitel Grid-Spalten aufgeführt.
 
@@ -299,8 +288,7 @@ Die grafische Oberfläche des Shops wird in der Breite in 12 sogenannte Grid-Spa
 |Farbverlauf einfügen|Farbverlauf als Hintergrund der Icons der Sekundär-Spalte beim Anklicken|
 |Link Abstand|innerer Abstand des Icons nach oben und unten bzw. links und rechts zum Rand des Buttons, vorbelegt mit 25px 10px|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
@@ -360,8 +348,7 @@ Es können die folgenden Varianten für die Produktseite gewählt werden:
 -   Klassisch
 -   Links ausrichten
 
-!!! Info "Hinweis
-	
+**Note:**
 
 DIe Einstellungen für die Produktseite ändern sich mit der Auswahl der Produktseiten-Variante
 
@@ -408,8 +395,7 @@ DIe Einstellungen für die Produktseite ändern sich mit der Auswahl der Produkt
 |Button Rahmenfarbe Hover|Rahmenfarbe der Buttons unterhalb des Warenkorb-Buttons beim Mouseover/Hover|
 |Preisbox mitscrollen|soll die Produktdetailbox mitscrollen?|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 

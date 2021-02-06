@@ -19,8 +19,7 @@ Die meisten Sonderzeichen liegen in der Datenbank als HTML-Umlaut vor. Eine Übe
 3.  Ändere den Text und klicke auf Speichern
 4.  Leere die Caches für Texte und Seitenausgabe unter Toolbox \> Cache.
 
-!!! Info "Hinweis
-	 Manche Texte werden an verschiedenen Stellen des Shops verwendet. Diese Texte sind daher mehreren Sprachvariablen zugewiesen. Der Name der Sprachvariable zu einem Text steht in der Zeile oberhalb des Textes. In den meisten Fällen haben die Sprachvariablen aussagekräftige Namen, die auf den Verwendungszweck hindeuten. Wenn mehrere Texte denselben Variablennamen haben, kann der für den Anwendungsfall zu ändernde Text nur durch Versuchen bestimmt werden.
+**Note:** Manche Texte werden an verschiedenen Stellen des Shops verwendet. Diese Texte sind daher mehreren Sprachvariablen zugewiesen. Der Name der Sprachvariable zu einem Text steht in der Zeile oberhalb des Textes. In den meisten Fällen haben die Sprachvariablen aussagekräftige Namen, die auf den Verwendungszweck hindeuten. Wenn mehrere Texte denselben Variablennamen haben, kann der für den Anwendungsfall zu ändernde Text nur durch Versuchen bestimmt werden.
 
 |HTML-Umlaut|Sonderzeichen|
 |-----------|-------------|

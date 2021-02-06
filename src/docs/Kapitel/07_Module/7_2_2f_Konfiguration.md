@@ -32,8 +32,7 @@ In den Einstellungen stehen die folgenden Bereiche zur Verfügung:
 
 ![](Bilder/011_EinstellungenAllgemein.png "Allgemeine Konfiguration")
 
-!!! Info "Hinweis
-	 Bei Bedarf können die Rechtstexte automatisch übernommen werden, dies ist jedoch erst ab den Shopversionen v3.8.3.x bzw. v3.9.3.x oder mit dem Hub Connector ab v1.7.0 möglich.
+**Note:** Bei Bedarf können die Rechtstexte automatisch übernommen werden, dies ist jedoch erst ab den Shopversionen v3.8.3.x bzw. v3.9.3.x oder mit dem Hub Connector ab v1.7.0 möglich.
 
 Über die Schaltfläche Expertenmodus gelangst du in die weiteren Einstellungen zu Zahlungsweisen und Gestaltung.
 
@@ -51,8 +50,7 @@ Hier kannst du die gewünschten Klarna-Zahlungsweisen auswählen. Zur Auswahl st
 -   Klarna Pay later - Rechnung
 -   Klarna Slice it - Ratenkauf
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Das Aktivieren von Klarna Pay now - Kreditkarte, Lastschrift, Sofortüberweisung deaktiviert die separat zu- bzw. abschaltbaren Zahlungsweisen Klarna Pay now - Lastschrift und Klarna Pay now - Sofortüberweisung, da diese dort bereits enthalten sind.
 
@@ -62,8 +60,7 @@ Zudem kannst du das Debug Logging aktivieren. Dies sollte im Livebetrieb nur zur
 
 Schlussendlich kannst du die Automatische Statusaktualisierung aktivieren. Hierüber werden Bestellstatusänderungen mit Klarna abgeglichen, wenn diese über eine externe Software oder Module erfolgen. So ist es nicht mehr notwendig, dies nachträglich über die Maske im Shop an Klarna zu melden.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Bitte beachte, dass die Automatische Statusaktualisierung noch nicht von allen Programmen bzw. Schnittstellen unterstützt wird. Module wie DHL Geschäftskundenversand, Hermes oder Shipcloud bieten dies jedoch bereits an.
 
@@ -75,8 +72,7 @@ Du kannst hier verschiedene Farbeinstellungen vornehmen. Klicke auf den Kasten r
 
 Werden deine Farbeinstellungen nicht direkt im Shop übernommen, so gehe in den Warenkorb, klicke auf das Aktualisieren-Icon hinter der Bestellmenge und gehe dann im Bestellvorgang weiter zur Zahlungsweisenseite. Nun sollte die Änderung übernommen worden sein.
 
-!!! Info "Hinweis
-	 Es werden die Farben aus dem aktiven Style des Honeygrid-Templates geladen und so vorbelegt. Ist kein aktiver Style vorhanden, werden Standardfarben aus dem Modul herangezogen.
+**Note:** Es werden die Farben aus dem aktiven Style des Honeygrid-Templates geladen und so vorbelegt. Ist kein aktiver Style vorhanden, werden Standardfarben aus dem Modul herangezogen.
 
 |Option|Erläuterung|Abbildung|
 |------|-----------|---------|

@@ -8,8 +8,7 @@ Das Apple Touch Icon kann unter Darstellung \> Logo Manager wie folgt eingericht
 4.  Aktiviere das Kontrollkästchen Datei verwenden
 5.  Klicke auf Speichern, um das neue Apple Touch Icon zu verwenden
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Für Apple Touch Icons ist das PNG-Format vorgesehen. Die Bilddatei sollte quadratische Abmessungen haben.
 

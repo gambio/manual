@@ -10,8 +10,7 @@ Das Shopsystem wird vollständig in Englisch und Deutsch lokalisiert ausgeliefer
 
 Öffne im Administrationsbereich den Menüpunkt Land/Steuer \> Sprachen und klicke auf Sprache anlegen. Auf der rechten Seite öffnet sich eine Spalte. Hier findet die shopseitige Einrichtung der Sprache statt. Der Hauptbestandteil wird aber erst durch Kopieren der entsprechenden Dateien auf den FTP-Server erstellt. Ein alleiniges Anlegen der Sprache im Administrationsbereich ist keine vollständige Installation. Wenn die Sprache hier aktiv geschaltet wird, bevor die Installation auf dem Server besteht, kann es zu schwerwiegenden Fehlern im Shop kommen! Du hast beim Anlegen der Sprache im Administrationsbereich folgende Einstellungsmöglichkeiten:
 
-!!! Info "Hinweis
-	 Wir empfehlen grundsätzlich die Einstellung vorhandene Sprache kopieren beizubehalten. Neue Sprache anlegen kann in Ausnahmefällen verwendet werden, z.B., wenn bereits Sprachdateien aus einer anderen Quelle vorliegen.
+**Note:** Wir empfehlen grundsätzlich die Einstellung vorhandene Sprache kopieren beizubehalten. Neue Sprache anlegen kann in Ausnahmefällen verwendet werden, z.B., wenn bereits Sprachdateien aus einer anderen Quelle vorliegen.
 
 Verwende die Einstellung vorhandene Sprache kopieren, um z.B. Artikel- und Kategoriebeschreibungen mit zu übernehmen. Unter Quellsprache kann die Sprache hierzu ausgewählt werden.
 
@@ -44,8 +43,7 @@ Halte dich beim Übersetzen unbedingt an die vorliegende Struktur. Eine fehlerha
 |yoochoose\_lang\_german.conf|yoochoose\_lang\_spanish.conf|
 |admin/german.php|admin/spanish.php|
 
-!!! Info "Hinweis
-	 Wenn du die Sprache neu anlegst, anstatt eine vorhandene Sprache zu kopieren \(entsprechend der Einstellungen unter Land/Steuer \> Sprachen\), müssen ggf. weitere Sections-Dateien eingebunden werden. Wechsele hierzu in das Verzeichnis spanish/sections/\_samples und verschiebe alle benötigten Dateien in das Verzeichnis spanish/sections. Benenne die mit lang\_\_ beginnenden Dateien so um, dass der Name der neuen Sprache im Dateinamen verwendet wird, also statt
+**Note:** Wenn du die Sprache neu anlegst, anstatt eine vorhandene Sprache zu kopieren \(entsprechend der Einstellungen unter Land/Steuer \> Sprachen\), müssen ggf. weitere Sections-Dateien eingebunden werden. Wechsele hierzu in das Verzeichnis spanish/sections/\_samples und verschiebe alle benötigten Dateien in das Verzeichnis spanish/sections. Benenne die mit lang\_\_ beginnenden Dateien so um, dass der Name der neuen Sprache im Dateinamen verwendet wird, also statt
 
 lang\_\_german\_\_admin\_\_german\_\_\_php.lang.inc.php
 
@@ -105,8 +103,7 @@ Bitte beachte, dass dieser Schritt für alle verwendeten Templates wiederholt we
 
 Abschließend kann die Sprache unter Land/Steuer \> Sprachen über die Spalte Status aktiviert werden. Sollten zu diesem Zeitpunkt noch Übersetzungen notwendig sein, können diese über Toolbox \> Texte anpassen vorgenommen werden. Anschließend sollte unter Toolbox \> Cache leeren der Cache für Modulinformationen geleert werden.
 
-!!! Info "Hinweis
-	 Wenn du Module externer Hersteller verwendest, müssen hier ggf. weitere Sprachdateien kopiert und übersetzt werden. Diese befinden sich im Regelfall im jeweiligen Modulverzeichnis in einem Unterordner/lang/....
+**Note:** Wenn du Module externer Hersteller verwendest, müssen hier ggf. weitere Sprachdateien kopiert und übersetzt werden. Diese befinden sich im Regelfall im jeweiligen Modulverzeichnis in einem Unterordner/lang/....
 
 
 

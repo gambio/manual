@@ -56,8 +56,7 @@
 
 ## Downloadoptionen 
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Dieser Bereich verwendet ein erweitertes Dropdown-Menü zur Auswahl von Einträgen.
 

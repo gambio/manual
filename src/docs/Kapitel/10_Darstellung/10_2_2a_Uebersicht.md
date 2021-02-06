@@ -19,8 +19,7 @@ Standardmäßig ist die Ansicht Desktop aktiviert. Wenn eine der Vorschau-Ansich
 
 Dies ist der Hauptbereich des StyleEdits. Änderungen an den Grafik-Einstellungen können in eigenen Profilen zusammengefasst und gespeichert werden, den sogenannten Styles. Styles lassen sich anlegen, bearbeiten und herunterladen. Sie können ebenfalls dupliziert und gelöscht werden.
 
-!!! Info "Hinweis
-	 Wenn du das StyleEdit v3 das erste Mal aufrufst, sind noch keine Styles vorhanden \(vgl. Abb. StyleEdit v3\). Um Änderungen an deinem Template vornehmen zu können, sollte daher ein neuer Style angelegt werden. Weiteres hierzu findest du im Abschnitt StyleEdit-Buttons.
+**Note:** Wenn du das StyleEdit v3 das erste Mal aufrufst, sind noch keine Styles vorhanden \(vgl. Abb. StyleEdit v3\). Um Änderungen an deinem Template vornehmen zu können, sollte daher ein neuer Style angelegt werden. Weiteres hierzu findest du im Abschnitt StyleEdit-Buttons.
 
 ![](Bilder/Abb133_StyleEdit3_angelegterStyle.PNG "Aktionen für einen angelegten Style")
 
@@ -39,13 +38,11 @@ Wir empfehlen das Anlegen je eines Duplikats deiner Styles als Sicherung.
 
 -   Löschen: Löscht einen bestehenden Style. Es findet eine Sicherheitsabfrage statt. Mit Klick auf Ja wird der Style unwiderruflich gelöscht.
 
-!!! Info "Hinweis
-	 Aktive Styles können nicht gelöscht werden.
+**Note:** Aktive Styles können nicht gelöscht werden.
 
 -   Download: mit Klick auf Download kann der Style heruntergeladen werden.
 
-!!! Info "Hinweis
-	 Styles werden in sogenannten JSON-Dateien gespeichert. JSON steht für JavaScript Object Notation.
+**Note:** Styles werden in sogenannten JSON-Dateien gespeichert. JSON steht für JavaScript Object Notation.
 
 ## StyleEdit-Buttons 
 

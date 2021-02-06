@@ -2,8 +2,7 @@
 
 Über einen Klick auf Profil bearbeiten können die Einstellungen zu dem jeweiligen Profil aufgerufen werden. Es öffnet sich ein Fenster, das standardmäßig mit dem ausgewählten Reiter Einstellungen angezeigt wird. Weitere Reiter sind Spalten, Kollektivspalten und Kategorien. Zudem wird in der oberen Leiste der Name des ausgewählten Profils angegeben.
 
-!!! Info "Hinweis
-	 Je nach Profil können die änderbaren Einstellungen abweichen. Wenn ein Teil der Konfiguration nicht geändert werden kann, wird dieser ausgegraut dargestellt. Um alle Einstellungen anpassen zu können, empfehlen wir das gewünschte Profil zu kopieren und die Kopie zu bearbeiten.
+**Note:** Je nach Profil können die änderbaren Einstellungen abweichen. Wenn ein Teil der Konfiguration nicht geändert werden kann, wird dieser ausgegraut dargestellt. Um alle Einstellungen anpassen zu können, empfehlen wir das gewünschte Profil zu kopieren und die Kopie zu bearbeiten.
 
 ## Einstellungen 
 
@@ -29,8 +28,7 @@ Es stehen die folgenden Bereiche zur Verfügung:
 |Eigenschaftsbild anstelle des Artikelbildes verwenden:|Das Bild der jeweiligen Eigenschaften-Kombination wird anstelle des Haupt-Artikelbilds exportiert|
 |Export-URL|Aus diesem Feld kann der Link zur Export-Datei herauskopiert werden|
 
-!!! Info "Hinweis
-	 Das Feld Versandkostenfrei ab ist standardmäßig mit 0 vorbelegt. Wird hier keine Änderung vorgenommen, werden eingetragene **Versandkosten** im Artikel **nicht berücksichtigt**.
+**Note:** Das Feld Versandkostenfrei ab ist standardmäßig mit 0 vorbelegt. Wird hier keine Änderung vorgenommen, werden eingetragene **Versandkosten** im Artikel **nicht berücksichtigt**.
 
 Darunter befindet sich die Checkbox Automatischer Export. Ist der Haken gesetzt, erscheinen die Optionen zum Einrichten des automatischen Exports über einen sogenannten Cronjob. Es können wahlweise die verschiedenen Wochentage an- bzw. abgewählt werden, für die eine Startzeit \(jeweils zur vollen Stunde\) aus dem Dropdown-Menü ausgewählt werden kann oder es kann ein Intervall von einer bis 12 Stunden gewählt werden. Ein so eingestellter automatischer Export wird durch ein Uhr-Symbol in der Spalte Cronjob angezeigt.
 
@@ -48,13 +46,11 @@ Beim Bearbeiten und Anlegen von Spalten sind folgende Eingaben möglich:
 
 Der Spalteninhalt entspricht einer Variable \(Platzhalter für Dateneintrag\) im Shop. Diese kann über das Dropdown-Menü Verfügbare Variablen festgelegt werden. Hier werden alle Möglichkeiten mit ihrer Beschreibung aufgelistet. Nach Auswahl des Eintrags kann der zugehörige Variablenname mit Klick auf Hinzufügen eingetragen werden. Bestätige die Änderung mit Klick auf OK, über Abbrechen werden die Änderungen verworfen.
 
-!!! Info "Hinweis
-	 Im Bereich Preis-Portal sind andere Variablen auswählbar als beim regulären Export. Bei Bedarf kann jedoch eine Variable von dort kopiert und als Spalteninhalt für ein Export- Profil aus dem Preis-Portal eingefügt werden, um auch diese Inhalte zu exportieren.
+**Note:** Im Bereich Preis-Portal sind andere Variablen auswählbar als beim regulären Export. Bei Bedarf kann jedoch eine Variable von dort kopiert und als Spalteninhalt für ein Export- Profil aus dem Preis-Portal eingefügt werden, um auch diese Inhalte zu exportieren.
 
 Das untere Drittel dieses Fensters dient zur Vorschau der Export-Datei.
 
-!!! Info "Hinweis
-	 Diese Ansicht wird standardmäßig leer angezeigt. Es müssen zunächst die Kategorien im Reiter Kategorien ausgewählt werden, bevor hier eine Vorschau erfolgt.
+**Note:** Diese Ansicht wird standardmäßig leer angezeigt. Es müssen zunächst die Kategorien im Reiter Kategorien ausgewählt werden, bevor hier eine Vorschau erfolgt.
 
 ## Kollektivspalten 
 
@@ -67,8 +63,7 @@ Kollektivspalten dienen der Selektierung von Werten aus verschiedenen Quellen in
 -   Standardwert: Dieser Wert wird als Spaltenwert verwendet, wenn kein passender Wert in den Eigenschaften, Attributen und Zusatzfeldern gefunden wurde.
 -   Eig./Attr./Zus.: Mit diesen Checkboxen kannst du wählen, in welchen Quellen die Namen gesucht werden sollen. Wenn du beispielsweise keine Attribute nutzt, empfiehlt es sich, die entsprechende Checkbox zu deaktivieren. Dies dient der Steigerung der Performanz des Exports.
 
-!!! Info "Hinweis
-	 Sollte es für die Selektierung des Spalteninhalts mehrere Treffer aus verschiedenen Quellen geben, so greift eine vorgegebene Priorisierung:
+**Note:** Sollte es für die Selektierung des Spalteninhalts mehrere Treffer aus verschiedenen Quellen geben, so greift eine vorgegebene Priorisierung:
 
 -   Eigenschaften \(höchste Priorität\)
 -   Attribute

@@ -8,8 +8,7 @@ Mit Rabatt Kupons bietest du deinen Kunden eine Vergünstigung auf bestimmte Art
 
 Installiere das Modul Rabatt Kupons unter Module \> Zusammenfassung, damit Rabatt Kupons bei der Berechnung der Bestellsummen berücksichtigt werden. Informationen zur Konfiguration dieses Moduls erhältst du im Kapitel Zusammenfassung \> Rabatte.
 
-!!! Info "Hinweis
-	 Wenn der Warenwert geringer ist, als der Kupon-Wert, so entfällt der Restwert des Rabatt Kupons nach der Bestellung.
+**Note:** Wenn der Warenwert geringer ist, als der Kupon-Wert, so entfällt der Restwert des Rabatt Kupons nach der Bestellung.
 
   
 

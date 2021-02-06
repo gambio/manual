@@ -12,8 +12,7 @@ Unter Statistiken \> Wer ist online? kannst du anzeigen, wer derzeit deinen Shop
 
 sowie die letzte, aufgerufene URL. Unterhalb der Tabelle wird die Anzahl der derzeitigen Kunden angezeigt.
 
-!!! Info "Hinweis
-	 Bei Kunden, die sich nicht im Shop angemeldet haben, wird als Name Guest und als ID 0 ausgegeben.
+**Note:** Bei Kunden, die sich nicht im Shop angemeldet haben, wird als Name Guest und als ID 0 ausgegeben.
 
 
 

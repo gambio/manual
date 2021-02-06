@@ -2,8 +2,7 @@
 
 ## Installation in selbstgehosteten Shops 
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Die nachfolgenden Schritte sind nur in selbstgehosteten Shops bei Verwendung des händisch zu installierenden Moduls notwendig. In Cloud-Shops kann das Modul direkt unter Module \> Modul-Center installiert werden.
 

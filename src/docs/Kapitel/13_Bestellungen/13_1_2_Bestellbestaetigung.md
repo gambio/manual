@@ -5,8 +5,7 @@ Die Bestellbestätigung wird in der Grundkonfiguration automatisch nach dem Eing
 ![](Bilder/bestaetigungNichtVersendet_.png "Bestellungen ohne versendete Bestellbestätigung in der
       Bestellübersicht")
 
-!!! Info "Hinweis
-	 Bei manuell angelegten Bestellungen wird vom Shopsystem keine automatische Bestellbestätigung versendet.
+**Note:** Bei manuell angelegten Bestellungen wird vom Shopsystem keine automatische Bestellbestätigung versendet.
 
 ## Bestellbestätigung anzeigen 
 

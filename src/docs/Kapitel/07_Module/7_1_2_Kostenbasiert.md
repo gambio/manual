@@ -12,8 +12,7 @@ Wähle unter Versandkosten Methode die Einstellung Preis, nun wird für die Staf
 
 50:3.5,75:5.66,125:7.99
 
-!!! Info "Hinweis
-	 Die eingetragene Staffelung kann eins zu eins für Gewichte übernommen werden, ändere hierzu die Versandkosten Methode von Preis nach Gewicht. Statt der eingestellten Währung wird nun das Versandgewicht verwendet.
+**Note:** Die eingetragene Staffelung kann eins zu eins für Gewichte übernommen werden, ändere hierzu die Versandkosten Methode von Preis nach Gewicht. Statt der eingestellten Währung wird nun das Versandgewicht verwendet.
 
 
 

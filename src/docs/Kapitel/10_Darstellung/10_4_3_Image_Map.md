@@ -18,13 +18,11 @@ Es öffnet sich ein neues Fenster, in dessen unterem Teil das Bild angezeigt wir
 
 Mit der Schaltfläche Neuen Linkbereich erstellen kann ein Teil des Bilds ausgewählt und verlinkt werden. Vergebe hierzu einen Linkbereich-Titel und füge unter Linkbereich-URL die Adresse ein, die beim Klick in den Linkbereich aufgerufen werden soll.
 
-!!! Info "Hinweis
-	 Wenn die Seite außerhalb des Shops liegt **muss** der Link mit http:// bzw. https:// angegeben werden. Bei Seiten innerhalb des Shops reicht die Angabe hinter der Shop-Adresse. Wenn z.B. auf die Kategorie Test mit der URL https://www.beispiel.de/test verlinkt werden soll, reicht die Angabe /test für die Linkbereich-URL aus.
+**Note:** Wenn die Seite außerhalb des Shops liegt **muss** der Link mit http:// bzw. https:// angegeben werden. Bei Seiten innerhalb des Shops reicht die Angabe hinter der Shop-Adresse. Wenn z.B. auf die Kategorie Test mit der URL https://www.beispiel.de/test verlinkt werden soll, reicht die Angabe /test für die Linkbereich-URL aus.
 
 Wähle zudem über Linkbereich-Ziel aus ob die verlinkte Seite im selben Tab/Fenster \(je nach Browsereinstellung\) geöffnet werden soll.
 
-!!! Info "Hinweis
-	 Bei Seiten die außerhalb des Shops liegen empfiehlt sich die Einstellung In neuem Fenster öffnen, sodass der Kunde parallel die Shopseite geöffnet hat. Bei Seiten innerhalb des Shops kann in selbem Fenster öffnen verwendet werden.
+**Note:** Bei Seiten die außerhalb des Shops liegen empfiehlt sich die Einstellung In neuem Fenster öffnen, sodass der Kunde parallel die Shopseite geöffnet hat. Bei Seiten innerhalb des Shops kann in selbem Fenster öffnen verwendet werden.
 
 Mit der Maus kann im unteren Teil des Fensters der Linkbereich festgelegt werden. Klicke hierzu jeweils mit der linken Maustaste in das Bild, um einen Eckpunkt zu setzen. Der Bereich kann über drei oder mehr Eckpunkte festgelegt werden. Durch Drücken und Ziehen mit der linken Maustaste kann ein Punkt verschoben werden. Um einen Punkt zu löschen, klicke mit der rechten Maustaste darauf.
 

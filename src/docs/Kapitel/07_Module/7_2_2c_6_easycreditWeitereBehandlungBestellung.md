@@ -5,8 +5,7 @@ In den Bestelldetails der easyCredit-Bestellung findet sich nun ein Block mit Za
 ![](Bilder/easycredit/ec-2020-09-10_020.png "Anzeige der Zahlungsinformationen für easyCredit in den
       Bestelldetails")
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Eine easyCredit-Bestellung kann nicht nachträglich bearbeitet und die Werte darin geändert werden!
 

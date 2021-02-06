@@ -1,7 +1,6 @@
 # Datenbanksicherung 
 
-!!! Info "Hinweis
-	 Diese Sicherungs-Funktion ist stark serverabhängig. Wenn bestimmte Voraussetzungen nicht gegeben sind, kann es hier zu Fehlern kommen. In diesem Fall sollte eine manuelle Sicherung angelegt werden, wie im Kapitel Manuelle Datensicherung beschrieben.
+**Note:** Diese Sicherungs-Funktion ist stark serverabhängig. Wenn bestimmte Voraussetzungen nicht gegeben sind, kann es hier zu Fehlern kommen. In diesem Fall sollte eine manuelle Sicherung angelegt werden, wie im Kapitel Manuelle Datensicherung beschrieben.
 
 Unter Toolbox \> Datenbanksicherung können Sicherungskopien der Shopdatenbank angelegt werden. Die Tabellen werden in einzelnen SQL-Dateien gesichert, die in einem ZIP-Archiv zusammgefasst werden. Die Sicherung wird im Verzeichnis /admin/backups angelegt.
 
@@ -11,8 +10,7 @@ CAUTION:
 
 Nachdem der Sicherungsprozess gestartet wurde, darf dieser auf keinen Fall unterbrochen werden!
 
-!!! Info "Hinweis
-	 Es werden keine Artikelbilder und Shopdateien gesichert! Diese kannst du separat mit einem FTP-Programm herunterladen, um sie lokal zu sichern. Zudem kann die im Shop verfügbare Sicherungsfunktion verwendet werden, siehe Kapitel Dateien sichern.
+**Note:** Es werden keine Artikelbilder und Shopdateien gesichert! Diese kannst du separat mit einem FTP-Programm herunterladen, um sie lokal zu sichern. Zudem kann die im Shop verfügbare Sicherungsfunktion verwendet werden, siehe Kapitel Dateien sichern.
 
 Der eindeutige Pfad zum Sicherungsverzeichnis wird oberhalb der Schaltfläche Sicherung erstellen angezeigt. Angelegte Sicherungen werden in einer Tabelle im oberen Bereich des Fensters aufgeführt. Durch Klick auf den Dateinamen oder den grünen Pfeil in der entsprechenden Zeile, kann die jeweilige ZIP-Datei heruntergeladen und lokal gespeichert werden.
 

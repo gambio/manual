@@ -8,8 +8,7 @@ Es wird der Bereich Kopieren nach in einem neuen Fenster angezeigt. Im oberen Te
 
 Im Bereich Einfach kann als Ziel nur eine Kategorie ausgewählt werden.
 
-!!! Info "Hinweis
-	 Wenn unter Mehrfach ein oder mehr Haken gesetzt sind, wird die Einstellung unter Einfach komplett ignoriert. Wenn Einfach verwendet werden soll, darf unter Mehrfach kein Haken gesetzt sein.
+**Note:** Wenn unter Mehrfach ein oder mehr Haken gesetzt sind, wird die Einstellung unter Einfach komplett ignoriert. Wenn Einfach verwendet werden soll, darf unter Mehrfach kein Haken gesetzt sein.
 
 Im Bereich Kopiermethode wird festgelegt, ob der Artikel verlinkt oder dupliziert werden soll. Beide Methoden ermöglichen es, Artikel an mehreren Stellen im Shop sichtbar zu machen. Die Auswahl unterscheidet sich folgendermaßen:
 

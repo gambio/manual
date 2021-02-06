@@ -8,8 +8,7 @@ Das Favicon wird in der Adressleiste des Browsers eingebunden, bei den meisten B
 4.  Aktiviere das Kontrollkästchen Datei verwenden
 5.  Klicke auf Speichern, um das neue Favicon zu verwenden
 
-!!! Info "Hinweis
-	 Das Favicon muss im Windows ICO-Format vorliegen. Die Auflösung des Favicons muss 16x16 oder 32x32 Pixel betragen.
+**Note:** Das Favicon muss im Windows ICO-Format vorliegen. Die Auflösung des Favicons muss 16x16 oder 32x32 Pixel betragen.
 
 
 

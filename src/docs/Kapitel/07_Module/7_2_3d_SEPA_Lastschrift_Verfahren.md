@@ -30,8 +30,7 @@ Um Lastschriften bei deiner Bank einreichen zu können ist bei den meisten Banke
 |Fax Bestätigung erlauben|Bei ✔ wird der Kunde aufgefordert, die Fax Bestätigung auszufüllen und Ihnen zuzusenden \[✖\]|
 |Notwendige Bestellungen|Anzahl der notwendigen Bestellungen, bevor Kunden im Bestellvorgang die Zahlungsweise auswählen dürfen|
 
-!!! Info "Hinweis
-	 Dein Kunde muss der Belastung seines Bankkontos durch dich explizit zustimmen. Ob das Absenden der Bestellung mit den Bankdaten als Einverständnis ausreicht, erfrage bitte bei deinem Rechtsberater. Aktiviere im Zweifelsfall die zusätzliche Faxbestätigung.
+**Note:** Dein Kunde muss der Belastung seines Bankkontos durch dich explizit zustimmen. Ob das Absenden der Bestellung mit den Bankdaten als Einverständnis ausreicht, erfrage bitte bei deinem Rechtsberater. Aktiviere im Zweifelsfall die zusätzliche Faxbestätigung.
 
 
 

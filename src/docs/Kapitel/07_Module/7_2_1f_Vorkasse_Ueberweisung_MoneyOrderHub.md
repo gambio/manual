@@ -21,8 +21,7 @@ Es stehen die folgenden Einstellungen zur Verfügung:
 
 Bestätige vorgenommene Einstellungen mit einem Klick auf Speichern. Über Zurück kannst du die Einrichtungsmaske verlassen ohne die Änderungen zu übernehmen. Über Deinstallieren kannst du die Zahlungsweise deinstallieren.
 
-!!! Info "Hinweis
-	 Wenn du eine Zahlungsweise nicht mehr anbieten möchtest, kann diese auch durch Entfernen des Hakens Aktiviert aus dem Bestellvorgang entfernt werden.
+**Note:** Wenn du eine Zahlungsweise nicht mehr anbieten möchtest, kann diese auch durch Entfernen des Hakens Aktiviert aus dem Bestellvorgang entfernt werden.
 
 
 

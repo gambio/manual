@@ -16,8 +16,7 @@
 |Höhe außen|Höhe des äußeren Bereichs der horizontalen Navigationsleiste|
 |Abstand unten|Unterer Abstand zur Kategorieleiste, ist mit dem Platzhalter $line-height-computed vorbelegt|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Sticky bezeichnet die reduzierte Form des Headers, die verwendet wird, wenn mit fixierter Kopfzeile nach unten gescrollt wird.
 
@@ -62,8 +61,7 @@ capitalize: Jedes Wort beginnt mit einem Großbuchstaben
 |Hintergrund Hover Custom|Hintergrundfarbe der Content-Einträge in der horizontalen Menüleiste, beim Hovern mit der Maus, vorbelegt mit darken\($gx-custom-bg-color, 10%\)|
 |Hintergrund Aktiv Custom|Hintergrundfarbe des Content-Eintrags in der horizontalen Menüleiste, der aktuell angezeit wird, vorbelegt mit darken\($gx-custom-bg-color, 10%\)|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
@@ -162,8 +160,7 @@ Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Elemen
 
 |
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 

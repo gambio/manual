@@ -16,8 +16,7 @@
 |im Warenkorb|Warenkorb als Lightbox anzeigen|
 |im Anmeldevorgang|Anmeldevorgang als Lightbox anzeigen|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Die Anzeige als Lightbox steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
@@ -119,8 +118,7 @@ Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Au
 Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
 |
-|Ebene\(n\) in der Kategorieführung anzeigen|Legt fest, welche Ebenen in der Kategorieführung angezeigt werden sollen.!!! Info "Hinweis
-	
+|Ebene\(n\) in der Kategorieführung anzeigen|Legt fest, welche Ebenen in der Kategorieführung angezeigt werden sollen.**Note:**
 
 Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
@@ -151,8 +149,7 @@ Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 -   Vorname kürzen: Es wird nur der erste Buchstaben des Vornamens und der Nachname angezeigt
 -   Nachname kürzen: Es wird der Vorname und nur der erste Buchstabe des Nachnamens angezeigt
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Bestehende Rezensionen bleiben in der Darstellung des Verfassers unverändert.
 
@@ -168,8 +165,7 @@ Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Be
 
 Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschiedenen Ausgangsgrößen angepasst. Für jedes Artikelbild werden dabei Kopien angelegt, die für ihre Verwendung skaliert sind. Die tatsächliche Anzeigegröße hängt hierbei von den Einstellungen im StyleEdit ab. Jedoch kann eine Änderung der Ausgangsgrößen erhebliche Auswirkungen auf Bildqualität und Ladezeit haben.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Ausgangsgröße ist nicht gleich angezeigte Bildgröße. In Honeygrid und Malibu hängt die angezeigte Bildgröße von den Einstellungen im StyleEdit ab. Die Größen-Einstellungen in diesem Bereich wirken sich primär auf die Qualiät der Ausgangsbilder aus.
 

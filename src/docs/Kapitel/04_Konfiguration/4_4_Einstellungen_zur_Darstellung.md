@@ -38,8 +38,7 @@ Die Tabelle Darstellungsoptionen unter Shop Einstellungen \> Maximum Werte biete
 |Bestellübersicht|maximale Anzahl an Bestellungen, die in der Übersicht im Kundenbereich des Shops angezeigt werden sollen \[5\]|
 |Bewertungen in Artikeldetailansicht|Anzahl der angezeigten Bewertungen in der Artikeldetailansicht \[5\]|
 
-!!! Info "Hinweis
-	 Die Einstellung Anzahl an Kategorien pro Zeile wirkt sich nur im EyeCandy aus. Für das Honeygrid wird die Einstellung hierzu im StyleEdit vorgenommen.
+**Note:** Die Einstellung Anzahl an Kategorien pro Zeile wirkt sich nur im EyeCandy aus. Für das Honeygrid wird die Einstellung hierzu im StyleEdit vorgenommen.
 
 
 

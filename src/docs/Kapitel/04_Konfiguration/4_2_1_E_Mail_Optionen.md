@@ -21,8 +21,7 @@ Wenn du die E-Mail Transport-Methode auf SMTP umstellst, beachte die Konfigurati
 |SMTP Passwort|Passwort für den E-Mail Versand|
 |SMTP AUTH|Aktivieren, wenn der SMTP-Server AUTH voraussetzt \[nein\]|
 
-!!! Info "Hinweis
-	 Wenn der Mailversand trotz korrekt vorgenommener Konfiguration im Shop nicht erfolgt, wende dich an deinen Hosting-Provider.
+**Note:** Wenn der Mailversand trotz korrekt vorgenommener Konfiguration im Shop nicht erfolgt, wende dich an deinen Hosting-Provider.
 
 ![](Bilder/Abb022_ErweiterteEMailEinstellungen.PNG "Erweiterte E-Mail-Einstellungen")
 
@@ -65,8 +64,7 @@ Jedem E-Mail Konto sind die folgenden Konfigurationsvariablen zugewiesen. Das Fe
 |E-Mail Betreff|gib hier den Betreff für E-Mails von diesem Konto ein|
 |Weiterleitungsadressen|gib hier kommagetrennt weitere E-Mail Adressen ein, an die ausgehende Nachrichten ebenfalls gesendet werden sollen; darf nicht die Adresse aus dem Feld E-Mail-Adresse enthalten|
 
-!!! Info "Hinweis
-	 Bei manchen Server- und E-Mail-Konfigurationen kann der E-Mail Empfang beim Kunden fehlschlagen. Wenn deine Kunden keine Bestellbestätigungsmails erhalten, stelle sicher, dass die Option Absender der Bestellbestätigungsmail auf Betreiber E‑Mail steht.
+**Note:** Bei manchen Server- und E-Mail-Konfigurationen kann der E-Mail Empfang beim Kunden fehlschlagen. Wenn deine Kunden keine Bestellbestätigungsmails erhalten, stelle sicher, dass die Option Absender der Bestellbestätigungsmail auf Betreiber E‑Mail steht.
 
 
 

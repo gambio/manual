@@ -49,8 +49,7 @@ Der Bereich Spalten hat eine zweigeteilte Ansicht. Oben sind die einzelnen Spalt
 
 Der Bereich darunter ist die Vorschau-Ansicht, in dem die ersten Einträge der Tabelle für jede Spalte dargestellt werden.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Wenn hier keine Einträge auftauchen, wurden wahrscheinlich noch keine Kategorien ausgewählt \(siehe Schritt 3\).
 
@@ -60,8 +59,7 @@ Mit den beiden horizontalen Scrollbalken \(siehe rote Markierungen in der Abbild
 
 In Normalfall werden die Dezimalstellen bei Preisen und Gewichten mit einem Punkt getrennt. Wir wollen jedoch unsere Preise mit einem Komma statt einem Punkt als Dezimaltrenner exportieren. Zudem wollen wir keine Netto-Preise \(wie sie standardmäßig in der Datenbank gespeichert werden\) sondern Brutto-Preise exportieren.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Eine Auflistung der Spalten des Standardprofils mit ihrem Verwendungszweck findest du im nachfolgenden Kapitel Import dieses Handbuchs.
 
@@ -124,8 +122,7 @@ Der Export kann über einen Klick auf das erste Icon gestartet werden.
 
 Anschließend steht die Exportdatei über den Link in der Spalte Dateiname zum Download zur Verfügung.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Wir empfehlen zum Bearbeiten von CSV-Dateien das Programm LibreOffice Calc. Im nachfolgenden Kapitel findest du einen Abschnitt, der die notwendigen Schritte zum Öffnen und Speichern von CSV-Dateien mit LibreOffice Calc beschreibt.
 

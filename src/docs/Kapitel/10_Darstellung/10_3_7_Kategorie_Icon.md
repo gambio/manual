@@ -6,8 +6,7 @@ Das Kategorie Icon wird vor dem Kategorienamen in der Kategorienavigation im Men
 2.  Klicke bei Datei hochladen auf Durchsuchen bzw. Datei auswählen \(je nach Browser\) und wähle das neue Kategorie Icon im Dialogfenster aus
 3.  Klicke auf Speichern, um das neue Kategorie Icon zu verwenden
 
-!!! Info "Hinweis
-	 Das Kategorie Icon, das du unter Darstellung \> Logo Manager hochlädst, wird verwendet, wenn du in der Kategorie selbst kein Icon hochlädst. Kategorie Icons, die direkt in einer Kategorie hochgeladen werden, überschreiben das Standard Icon, das du im Logo Manager hochlädst.
+**Note:** Das Kategorie Icon, das du unter Darstellung \> Logo Manager hochlädst, wird verwendet, wenn du in der Kategorie selbst kein Icon hochlädst. Kategorie Icons, die direkt in einer Kategorie hochgeladen werden, überschreiben das Standard Icon, das du im Logo Manager hochlädst.
 
 
 

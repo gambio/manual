@@ -1,7 +1,6 @@
 # Logs anzeigen 
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Dieser Bereich des Gambio Admins ist nur in selbstgehosteten Shops verfügbar.
 

@@ -11,8 +11,7 @@ Mit der Funktion Tracking-Codes unter Shop Einstellungen \> SEO \> Tracking-Code
 2.  Aktiviere die Option Verwenden, um das Tracking zu aktivieren. Schalte die Option ab, um das Tracking zu deaktivieren.
 3.  Speichere die Änderungen
 
-!!! Info "Hinweis
-	 Erweitertes Tracking, wie beispielsweise Conversion Tracking, kann über die Funktion Tracking-Codes nicht eingebunden werden.
+**Note:** Erweitertes Tracking, wie beispielsweise Conversion Tracking, kann über die Funktion Tracking-Codes nicht eingebunden werden.
 
 CAUTION:
 

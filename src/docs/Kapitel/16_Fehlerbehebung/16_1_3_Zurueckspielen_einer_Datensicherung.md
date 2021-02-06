@@ -4,8 +4,7 @@ CAUTION:
 
 Beim Zurückspielen einer vollständigen Datensicherung gehen sämtliche seit der Datensicherung eingegangenen Bestellungen, neue Kunden und vorgenommene Änderungen unwiderruflich verloren!
 
-!!! Info "Hinweis
-	 Aktiviere vor dem Zurückspielen einer Datensicherung die Funktion Shop offline unter Darstellung \> Shop online/offline.
+**Note:** Aktiviere vor dem Zurückspielen einer Datensicherung die Funktion Shop offline unter Darstellung \> Shop online/offline.
 
 Wenn seit der letzten Datensicherung keine Änderungen an den Quelldateien deines Shops vorgenommen wurde, fahre direkt mit Schritt 3 fort. Änderungen bezeichnen unter Anderem individuelle Anpassungen durch den Hersteller oder Dritte sowie Softwareaktualisierungen.
 

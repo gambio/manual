@@ -19,8 +19,7 @@ Bei der Zahlung per Rechnung legst du dem Kunden der ausgelieferten Ware eine Re
 |Notwendige Bestellungen|Anzahl der notwendigen Bestellungen, bevor Kunden im Bestellvorgang die Zahlungsweise auswählen dürfen|
 |Anzeigereihenfolge|Reihenfolge, in der installierte Zahlungsmodule im Bestellprozess angezeigt werden \(je größer die Zahl, desto weiter unten wird das Modul angezeigt\); einmaliger Wert je Modul \[0\]|
 
-!!! Info "Hinweis
-	 Zahlung per Rechnung ist beim Versand an Behörden oder an Händler eine häufig genutzte Zahlungsweise. Wie du die Zahlung per Rechnung auf bestimmte Kundengruppen eingrenzt, erfährst du im Kapitel Kundengruppen.
+**Note:** Zahlung per Rechnung ist beim Versand an Behörden oder an Händler eine häufig genutzte Zahlungsweise. Wie du die Zahlung per Rechnung auf bestimmte Kundengruppen eingrenzt, erfährst du im Kapitel Kundengruppen.
 
 
 

@@ -8,8 +8,7 @@ Es stehen folgende Einstellungen zur Verfügung:
 
 |Feldname|Beschreibung|
 |--------|------------|
-|Eingerahmter Shop|stellt den Shop eingerahmt dar, die Breite der einzelnen Bereiche wird auf die Breite des Hauptbereichs \(Containers\) reduziert.!!! Info "Hinweis
-	 Wenn der Shop eingerahmt dargestellt wird, hat die Einstellung Kopfzeile fixiert keine Funktion, da die Kopfzeile als Teil des Containers nicht fixiert wird.
+|Eingerahmter Shop|stellt den Shop eingerahmt dar, die Breite der einzelnen Bereiche wird auf die Breite des Hauptbereichs \(Containers\) reduziert.**Note:** Wenn der Shop eingerahmt dargestellt wird, hat die Einstellung Kopfzeile fixiert keine Funktion, da die Kopfzeile als Teil des Containers nicht fixiert wird.
 
 |
 |Top-Navigation zentrieren|Richtet die Sekundärnavigationsleiste am zentralen Bereich \(Container\) aus|
@@ -31,11 +30,9 @@ Dieser Wert hat maßgebliche Auswirkung auf die Darstellung des Honeygrids auf e
 
 ## Farben 
 
-!!! Info "Hinweis
-	 Dieser Unterabschnitt steht nur im Expertenmodus zur Verfügung.
+**Note:** Dieser Unterabschnitt steht nur im Expertenmodus zur Verfügung.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
@@ -57,8 +54,7 @@ Die Hauptfarbe wird an verschiedenen Stellen des Shops verwendet. Hierzu zählen
 |Breadcrumb-Farbe|Hierüber kann die Link/Text-Farbe für die Breadcrumb festgelegt werden. ![](Bilder/styleedit4/se4a_0027_BereicheAllgemeinFarbenBreadcrumb.png "Breadcrumb-Farbe rot
                   (#FF0000)")
 
-!!! Info "Hinweis
-	 Die Trennzeichen \>\> verwenden die Hauptfarbe
+**Note:** Die Trennzeichen \>\> verwenden die Hauptfarbe
 
 |
 |Schriftfarbe Keine Bewertungen Hinweis|Farbe des Hinweises Leider sind noch keine Bewertungen vorhanden. Seien Sie der Erste, der das Produkt bewertet., der auf der Artikeldetailseite angezeigt wird, wenn für den Artikel noch keine Kundenrezension geschrieben worden ist. Standardmäßig wird über den Platzhalter $text-color die Textfarbe verwendet. Dieser Platzahalter kann jedoch bei Bedarf entfernt und durch eine eigene Farbe ersetzt werden.![](Bilder/styleedit4/se4a_0028_BereicheAllgemeinFarbenKeineBewertungenHinweis.png "Schriftfarbe Keine Bewertungen
@@ -112,8 +108,7 @@ Es stehen die folgenden Einstellungen zur Verfügung, um den Radius der im Honey
 
 Hier kann an- und abgeschaltet werden, ob der Teaser-Slider für bestimmte Ausgabegeräte angezeigt werden soll.
 
-!!! Info "Hinweis
-	 Die Teaser-Slider-Bilder müssen weiterhin für alle Ausgabegrößen separat festgelegt werden
+**Note:** Die Teaser-Slider-Bilder müssen weiterhin für alle Ausgabegrößen separat festgelegt werden
 
 ## Page-Up-Button 
 
@@ -129,15 +124,13 @@ Hier kann an- und abgeschaltet werden, ob der Teaser-Slider für bestimmte Ausga
 |Button links ausrichten|Page-Up-Button wird in der linken unteren statt der rechten unteren Ecke angezeigt|
 |Vertikaler Abstand|Abstand zum unteren Rand des Browserfensters|
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Hovern bzw. Mouseover bezeichnet das Platzieren des Mauszeigers über ein Element, ohne es anzuklicken
 
 ## Buttons 
 
-!!! Info "Hinweis
-	 Es wird in den Einstellungen zwischen Primary-Button, Default-Button und Kaufen-Button unterschieden.
+**Note:** Es wird in den Einstellungen zwischen Primary-Button, Default-Button und Kaufen-Button unterschieden.
 
 Primary-Buttons sind z.B. Filtern in der Filter-Box, Senden im Kontaktformular, Anmelden in der Newsletter-Box, Weiter im Bestellvorgang.
 

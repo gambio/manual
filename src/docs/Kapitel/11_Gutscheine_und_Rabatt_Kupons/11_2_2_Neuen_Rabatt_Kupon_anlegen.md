@@ -17,8 +17,7 @@
 
 ![](Bilder/Abb159_BestaetigungsseiteFuerNeueKupons.png "Bestätigungsseite für neue Kupons")
 
-!!! Info "Hinweis
-	 Die Option versandkostenfrei kann ausschließlich mit einem festen Kupon-Wert kombiniert werden. Wenn du die Option versandkostenfrei mit einem prozentualen Kupon-Wert aktivierst, werden deinen Kunden mit dem Kupon ausschließlich die Versandkosten erstattet.
+**Note:** Die Option versandkostenfrei kann ausschließlich mit einem festen Kupon-Wert kombiniert werden. Wenn du die Option versandkostenfrei mit einem prozentualen Kupon-Wert aktivierst, werden deinen Kunden mit dem Kupon ausschließlich die Versandkosten erstattet.
 
 |Feldname|Beschreibung|
 |--------|------------|

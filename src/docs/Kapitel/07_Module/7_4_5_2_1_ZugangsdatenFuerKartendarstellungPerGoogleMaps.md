@@ -16,8 +16,7 @@ Die statische Karte zeigt immer nur einen festen Kartenausschnitt an, während d
 
 Über den Link, welcher unter dem Punkt Maps-Zugangsdaten aufgeführt wird, gelangst du zur entsprechenden Unterseite von Google. Folge den jeweils angezeigten Anweisungen des API Managers, um die Google Maps JavaScript API und die Google Static Maps API zu aktivieren. Anschließend wird ein neuer Bereich URL-Signatur-Secret angezeigt, aus dem das Secret herauskopiert werden kann. Weitere Informationen hierzu erhältst du beim Support von Google.
 
-!!! Info "Hinweis
-	
+**Note:**
 
 Alternativ kann auch der Link
 

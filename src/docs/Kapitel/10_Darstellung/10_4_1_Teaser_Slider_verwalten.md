@@ -2,8 +2,7 @@
 
 Neue Teaser-Slider kannst du im Gambio Admin deines Shops unter Darstellung \> Teaser-Slider anlegen.
 
-!!! Info "Hinweis
-	 Im Teaser-Slider können Vorschaubilder der im Slider enthaltenen Bilder in der unteren rechten Ecke des Sliders angezeigt werden. Die Vorschaubilder \(Thumbnails\) werden nicht vom Shopsystem erstellt und müssen vor dem Hochladen mit einem geeigneten Grafikprogramm auf die gewünschte Größe verkleinert werden.
+**Note:** Im Teaser-Slider können Vorschaubilder der im Slider enthaltenen Bilder in der unteren rechten Ecke des Sliders angezeigt werden. Die Vorschaubilder \(Thumbnails\) werden nicht vom Shopsystem erstellt und müssen vor dem Hochladen mit einem geeigneten Grafikprogramm auf die gewünschte Größe verkleinert werden.
 
 ![](Bilder/Abb144_TeaserSlider.PNG "Teaser-Slider im Gambio Admin")
 

@@ -22,8 +22,7 @@ Die Detailseite zu einer Bestellung enthält zusätzliche Informationen, wie die
 
 ![](Bilder/Abb176_DetailseiteEinerBestellung.png "Detailseite einer Bestellung")
 
-!!! Info "Hinweis
-	 Die Detailseite einer Bestellung enthält alle für die Bestellabwicklung nötigen Funktionen. Wesentliche Funktionen sind zum schnellen Zugriff auch in der Bestellübersicht vorhanden.
+**Note:** Die Detailseite einer Bestellung enthält alle für die Bestellabwicklung nötigen Funktionen. Wesentliche Funktionen sind zum schnellen Zugriff auch in der Bestellübersicht vorhanden.
 
   
 
