@@ -13,11 +13,12 @@ before_script:
     - which pip
     - /usr/bin/python3 -m pip install --upgrade pip
     - /usr/bin/python3 -m pip install mkdocs-material
+    - /usr/bin/python3 -m pip install pymdown-extensions
 build:
     stage: deploy
     environment:
         name: Testing
-        url: https://tt.supp.gambio-server.net/manual/
+        url: https://developers.gambio.de/docs/manual/
     script:
         - '# generate manual with mkdocs'
         - ./src/build.sh v4.3.2.1

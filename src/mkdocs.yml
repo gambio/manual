@@ -19,8 +19,7 @@ theme:
   feature:
     tabs: true
   features:
-    - search.highlight
-    - search.share
+    - header.autohide
     - toc.autohide
     - navigation.tabs
     - navigation.tabs.sticky
@@ -41,6 +40,12 @@ extra_javascript:
   - _assets/highlight-js.min.js
   - _assets/extra.js
 markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.smartsymbols
+  - def_list
+  - footnotes
+  - abbr
   - extra
   - admonition
   - meta
