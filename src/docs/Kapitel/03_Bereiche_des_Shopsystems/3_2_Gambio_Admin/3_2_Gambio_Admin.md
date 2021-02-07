@@ -1,6 +1,6 @@
 # Gambio Admin 
 
-![](/Bilder/Abb013_GambioAdmin.PNG "Gambio Admin")
+![](Bilder/Abb013_GambioAdmin.PNG "Gambio Admin")
 
 1.  rechte Spalte
 2.  linke Spalte: In der linken Spalte des Gambio Admins werden die Konfigurationsmodule in Oberkategorien zusammengefasst dargestellt.
