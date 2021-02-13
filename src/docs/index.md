@@ -1,7 +1,7 @@
 ---
 hide:
-- navigation # Hide navigation
-- toc        # Hide table of contents
+  - navigation # Hide navigation
+  - toc        # Hide table of contents
 ---
 
 # Vorwort
