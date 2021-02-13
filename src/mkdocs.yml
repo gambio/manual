@@ -16,6 +16,7 @@ theme:
   features:
     - header.autohide
     - toc.autohide
+    - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
