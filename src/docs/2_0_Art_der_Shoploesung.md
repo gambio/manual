@@ -1,3 +1,9 @@
+---
+hide:
+- navigation # Hide navigation
+- toc        # Hide table of contents
+---
+
 # Art der Shoplösung
 
 Das Gambio Shopsystem steht sowohl als Installationspaket für einen selbstgehosteten Shop als auch als Cloud-basierte Shoplösung \(gambiocloud.com\) zur Verfügung. Im Umfang des Installationspakets findest du eine separate Installationsanleitung zum Shopsystem.
