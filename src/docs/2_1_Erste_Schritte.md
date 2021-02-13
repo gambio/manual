@@ -4,7 +4,7 @@ hide:
 - toc        # Hide table of contents
 ---
 
-# Allgemeine Hinweise
+# Erste Schritte
 
 !!! Info "Hinweis"
     Dieses Kapitel enthält Empfehlungen für die ersten Schritte mit deinem neuen Onlineshop. Diese Schritte sollten nach der Installation deines Shops durchgeführt werden. Diese Hinweise beziehen sich auf die detaillierteren Ausführungen aus den jeweiligen Kapiteln.
