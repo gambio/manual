@@ -1,3 +1,9 @@
+---
+hide:
+- navigation # Hide navigation
+- toc        # Hide table of contents
+---
+
 # Vorwort
 
 ![](Bilder/IMG_3919.JPG "Michael Krönke, Teamleiter des Technischen Supports"){: align=right }
