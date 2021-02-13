@@ -4,14 +4,12 @@ docs_dir: ./docs
 site_dir: ./../dist/a-version
 copyright: Copyright &copy; 2021 Gambio GmbH
 theme:
-  name: null
-  highlightjs: true
-  custom_dir: ../node_modules/mkdocs-material/material
+  name: material
   favicon: _assets/favicon.ico
+  icon: _assets/logo.svg
   language: de
   palette:
-    primary: indigo
-    accent: indigo
+    scheme: gambio
   font:
     text: Roboto
     code: Roboto Mono
