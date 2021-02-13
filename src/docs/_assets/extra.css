@@ -6,7 +6,7 @@
 	--md-accent-bg-color: #002337;
 }
 
-.md-logo img {
+.md-header-nav .md-logo img {
 	width: 100%;
 	height: 30px;
 }
