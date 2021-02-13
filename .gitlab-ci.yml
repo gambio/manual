@@ -12,8 +12,9 @@ before_script:
     - which python
     - which pip
     - /usr/bin/python3 -m pip install --upgrade pip
-    - /usr/bin/python3 -m pip install mkdocs-material
-    - /usr/bin/python3 -m pip install pymdown-extensions
+    - /usr/bin/python3 -m pip install --upgrade mkdocs
+    - /usr/bin/python3 -m pip install --upgrade mkdocs-material
+    - /usr/bin/python3 -m pip install --upgrade pymdown-extensions
 build:
     stage: deploy
     environment:
