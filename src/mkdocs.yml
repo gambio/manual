@@ -5,7 +5,7 @@ site_dir: ./../dist/a-version
 copyright: Copyright &copy; 2021 Gambio GmbH
 theme:
   name: material
-  favicon: .icons/favicon.ico
+  favicon: _assets/favicon.ico
   logo: _assets/logo.svg
   language: de
   palette:
