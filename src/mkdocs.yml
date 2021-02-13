@@ -5,17 +5,14 @@ site_dir: ./../dist/a-version
 copyright: Copyright &copy; 2021 Gambio GmbH
 theme:
   name: material
-  favicon: _assets/favicon.ico
-  icon:
-    logo: _assets/logo.svg
+  favicon: .icons/favicon.ico
+  logo: _assets/logo.svg
   language: de
   palette:
     scheme: gambio
   font:
     text: Roboto
     code: Roboto Mono
-  feature:
-    tabs: true
   features:
     - header.autohide
     - toc.autohide
