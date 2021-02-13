@@ -6,14 +6,14 @@ copyright: Copyright &copy; 2021 Gambio GmbH
 theme:
   name: material
   favicon: _assets/favicon.ico
-  icon: _assets/logo.svg
+  icon:
+    logo: _assets/logo.svg
   language: de
   palette:
     scheme: gambio
   font:
     text: Roboto
     code: Roboto Mono
-  logo: _assets/logo.svg
   feature:
     tabs: true
   features:
@@ -25,11 +25,11 @@ theme:
 extra:
   generator: false
   social:
-    - type: gitlab
+    - icon: gitlab
       link: https://sources.gambio-server.net
-    - type: twitter
+    - icon: twitter
       link: https://twitter.com/gambio
-    - type: linkedin
+    - icon: linkedin
       link: https://www.linkedin.com/company/gambio-gmbh
 extra_css:
   - _assets/extra.css
