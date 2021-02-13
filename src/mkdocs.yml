@@ -5,6 +5,7 @@ site_dir: ./../dist/a-version
 copyright: Copyright &copy; 2021 Gambio GmbH
 theme:
   name: material
+  custom_dir: html
   favicon: _assets/favicon.ico
   logo: _assets/logo.svg
   language: de
@@ -23,8 +24,6 @@ theme:
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/github-alt
-      link: https://sources.gambio-server.net
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/gambio
     - icon: fontawesome/brands/linkedin
