@@ -46,7 +46,6 @@ markdown_extensions:
   - meta
   - attr_list
   - toc:
-      baselevel: 1
       toc_depth: 6
       permalink: true
 plugins:
