@@ -27,6 +27,10 @@
 	width: 100%;
 }
 
+.md-grid {
+	max-width: initial;
+}
+
 @media only screen and (min-width: 1220px) {
 	img.enlargeable{
 		transition: transform 0.25s ease;
