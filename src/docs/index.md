@@ -6,8 +6,6 @@ hide:
 
 # Vorwort
 
-![](Bilder/IMG_3919.JPG "Michael Krönke, Teamleiter des Technischen Supports"){: align=right }
-
 Du hast dich für Gambio entschieden — das macht uns stolz und wir möchten, dass du mit deinem Shop erfolgreich bist!
 
 Dieses Handbuch ist ein wichtiger Bestandteil des Gambio-Supports und soll dir helfen, sämtliche Funktionen des Shops zu verstehen und diese für deine Bedürfnisse optimal konfigurieren und nutzen zu können. Wir geben uns bereits bei der Entwicklung große Mühe, neue Funktionen so zu entwickeln, dass sie möglichst selbsterklärend sind. Je komplexer ein Thema jedoch ist und je mehr unterschiedliche Konfigurations- und Verwendungsmöglichkeiten es gibt, desto schwieriger wird dieses Unterfangen. Da wir nicht auf sinnvolle Features verzichten möchten, nur weil sie auf den ersten Blick sehr komplex erscheinen mögen, haben wir viel Zeit und Mühe in die Erstellung dieses neuen Handbuches gesteckt. Wir hoffen, es wird dir eine große Hilfe sein und dich von Anfang an begleiten.
@@ -15,6 +13,9 @@ Dieses Handbuch ist ein wichtiger Bestandteil des Gambio-Supports und soll dir h
 Viel Erfolg und gute Umsätze!
 
 Michael Krönke, Teamleiter des Technischen Supports
+
+![](Bilder/IMG_3919.JPG "Michael Krönke, Teamleiter des Technischen Supports"){: align=right }
+
 
 ## Das Gambio-Kundenportal 
 
