@@ -5,7 +5,7 @@ hide:
 ---
 
 # Vorwort
-![](Bilder/IMG_3919.JPG "Michael Krönke, Teamleiter des Technischen Supports"){: align=left }
+![](Bilder/IMG_3919.JPG "Michael Krönke, Teamleiter des Technischen Supports"){: align=right }
 
 Du hast dich für Gambio entschieden — das macht uns stolz und wir möchten, dass du mit deinem Shop erfolgreich bist!
 
