@@ -1,3 +1,8 @@
+---
+hide:
+- navigation # Hide navigation
+---
+
 # Anhang
 
 ## Liste der Länder 
