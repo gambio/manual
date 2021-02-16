@@ -30,10 +30,6 @@ extra:
       link: https://www.linkedin.com/company/gambio-gmbh
 extra_css:
   - _assets/extra.css
-  - _assets/highlight-js-docco.min.css
-extra_javascript:
-  - _assets/highlight-js.min.js
-  - _assets/extra.js
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
