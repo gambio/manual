@@ -6,8 +6,8 @@ copyright: Copyright &copy; 2021 Gambio GmbH
 theme:
   name: material
   custom_dir: html
-  favicon: favicon.ico
-  logo: logo.svg
+  favicon: assets/favicon.ico
+  logo: assets/logo.svg
   language: de
   palette:
     scheme: gambio
@@ -32,7 +32,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/gambio-gmbh
 extra_css:
-  - _assets/extra.css
+  - assets/css/extra.css
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
