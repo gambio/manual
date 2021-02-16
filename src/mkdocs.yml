@@ -24,6 +24,9 @@ theme:
 extra:
   generator: false
   social:
+    - icon: gambio
+      link: https://www.gambio-support.de
+      name: Gambio Kundenportal
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/gambio
     - icon: fontawesome/brands/linkedin
@@ -34,6 +37,12 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
   - pymdownx.smartsymbols
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - html/.icons
   - def_list
   - footnotes
   - abbr
