@@ -6,8 +6,8 @@ copyright: Copyright &copy; 2021 Gambio GmbH
 theme:
   name: material
   custom_dir: html
-  favicon: _assets/favicon.ico
-  logo: _assets/logo.svg
+  favicon: favicon.ico
+  logo: logo.svg
   language: de
   palette:
     scheme: gambio
@@ -42,7 +42,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
       options:
         custom_icons:
-          - html/.icons
+          - assets/.icons
   - def_list
   - footnotes
   - abbr
