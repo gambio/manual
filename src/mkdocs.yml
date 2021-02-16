@@ -6,8 +6,8 @@ copyright: Copyright &copy; 2021 Gambio GmbH
 theme:
   name: material
   custom_dir: html
-  favicon: assets/favicon.ico
-  logo: assets/logo.svg
+  favicon: favicon.ico
+  logo: logo.svg
   language: de
   palette:
     scheme: gambio
@@ -24,7 +24,7 @@ theme:
 extra:
   generator: false
   social:
-    - icon: gambio
+    - icon: gambio/white
       link: https://www.gambio-support.de
       name: Gambio Kundenportal
     - icon: fontawesome/brands/twitter
