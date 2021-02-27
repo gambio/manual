@@ -15,12 +15,9 @@ theme:
     text: Roboto
     code: Roboto Mono
   features:
-    - header.autohide
     - toc.autohide
     - navigation.sections
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.expand
 extra:
   generator: false
   social:
