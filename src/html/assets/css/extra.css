@@ -6,12 +6,12 @@
 	--md-accent-bg-color: #002337;
 }
 
-.md-logo img {
+.md-header .md-logo img {
 	width: 126px;
 	height: 100%;
 }
 
-.md-header__title {
+.md-header__title, .md-tabs__link--active {
 	color: #fdc300;
 }
 
