@@ -28,6 +28,11 @@
 	max-width: initial;
 }
 
+article img {
+	display: block;
+	margin: 0 auto;
+}
+
 @media only screen and (min-width: 1220px) {
 	img.enlargeable{
 		transition: transform 0.25s ease;
