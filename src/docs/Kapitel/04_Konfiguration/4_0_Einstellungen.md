@@ -37,17 +37,17 @@ Am unteren Ende der Seite befindet sich der Speichern-Button. Dieser ist ausgegr
   
 
 
-# E-Mail-Optionen 
+## E-Mail-Optionen 
 
 An der Grundkonfiguration der E-Mail-Optionen muss bei Verwenden der E-Mail Transport- Methode mail keine Änderung vorgenommen werden.
 
 ![](Bilder/Abb021_EinstellungenZumEMailVersand.PNG "Einstellungen zum E-Mail Versand")
 
-## Sendmail 
+#### Sendmail 
 
 Die E-Mail Transport-Methode sendmail sollte nicht verwendet werden. Wenn du sendmail aus technischen Gründen verwenden musst, stelle sicher, dass der Pfad zu Sendmail korrekt konfiguriert ist. Wenn du sendmail verwendest, stelle außerdem sicher, dass unter Shop Einstellungen \> Mein Shop im Feld E-Mail von eine gültige E-Mail Adresse eingetragen ist.
 
-## SMTP-Einstellungen 
+#### SMTP-Einstellungen 
 
 Wenn du die E-Mail Transport-Methode auf SMTP umstellst, beachte die Konfigurationsvariablen aus der Tabelle SMTP Konfigurationsvariablen.
 
@@ -65,7 +65,7 @@ Wenn du die E-Mail Transport-Methode auf SMTP umstellst, beachte die Konfigurati
 
 ![](Bilder/Abb022_ErweiterteEMailEinstellungen.PNG "Erweiterte E-Mail-Einstellungen")
 
-## Erweiterte Einstellungen 
+#### Erweiterte Einstellungen 
 
 CAUTION:
 
@@ -79,7 +79,7 @@ CAUTION:
 |Senden von E-Mails|Automatischen Versand von E-Mails aktivieren \(beispielsweise Bestellbestätigungen\)|
 |Maximale Anzahl E-Mails pro Versand|Schränkt die Anzahl der E-Mails ein, die gleichzeitig versendet werden können|
 
-## E-Mail Einstellungen 
+#### E-Mail Einstellungen 
 
 Das Shopsystem versendet E-Mails von und an drei verschiedene shopinterne E-Mail Konten. In der Grundkonfiguration wird allen E-Mail Konten die bei Erstellung des Hauptadministrators während der Installationsroutine angegebene E-Mail Adresse hinterlegt.
 
@@ -109,7 +109,7 @@ Jedem E-Mail Konto sind die folgenden Konfigurationsvariablen zugewiesen. Das Fe
 
 
 
-# Performance 
+## Performance 
 
 Die Gzip-Kompression dient der Verbesserung der Ladezeiten und kann verwendet werden, um die Seitenaufbaugeschwindikeit zu optimieren. Um die GZip-Kompression zu verwenden, aktiviere unter Shop Einstellungen \> System Einstellungen \> Performance die Einstellung GZip Kompression einschalten.
 
@@ -125,9 +125,9 @@ Wird der Haken CSS inline im Head ausgeben gesetzt, wird der CSS-Code im Head-Be
 
 
 
-# Rechtliches 
+## Rechtliches 
 
-## Link zur Datenschutzerklärung anzeigen 
+#### Link zur Datenschutzerklärung anzeigen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -146,7 +146,7 @@ Wird der Haken CSS inline im Head ausgeben gesetzt, wird der CSS-Code im Head-Be
 |im Guthaben versenden Formular|Datenschutzlink im Guthaben versenden Formular anzeigen|
 |IP-Speicherung anzeigen?|Datenschutzlink zusammen mit dem Hinweis zur IP-Speicherung anzeigen|
 
-## Datenschutzerklärung zustimmen 
+#### Datenschutzerklärung zustimmen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -164,7 +164,7 @@ Wird der Haken CSS inline im Head ausgeben gesetzt, wird der CSS-Code im Head-Be
 |im Widerrufs-Webformular|Die Datenschutzerklärung muss im Widerrufs-Webformular durch den Kunden bestätigt werden.|
 |im Guthaben versenden Formular|Die Datenschutzerklärung muss im Guthaben versenden Formular durch den Kunden bestätigt werden.|
 
-## Geschäftsbedingungen 
+#### Geschäftsbedingungen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -172,7 +172,7 @@ Wird der Haken CSS inline im Head ausgeben gesetzt, wird der CSS-Code im Head-Be
 |im Bestellvorgang bestätigen|Die Allgemeinen Geschäftsbedingungen müssen im Bestellvorgang bestätigt werden.|
 |AGB als PDF an Bestellbestätigung anhängen|Die Allgemeinen Geschäftsbedingungen werden als Anhang der Bestellbestätigung verschickt.|
 
-## Widerruf 
+#### Widerruf 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -190,7 +190,7 @@ Wird der Haken CSS inline im Head ausgeben gesetzt, wird der CSS-Code im Head-Be
 |Verzicht auf Widerrufsrecht für Download-Artikel als Pflichtfeld|Muss bei Download-Artikeln zwangsweise auf das Widerrufsrecht verzichtet werden?|
 |Verzicht auf Widerrufsrecht für Dienstleistungen als Pflichtfeld|Muss bei Dienstleistungen zwangsweise auf das Widerrufsrecht verzichtet werden?|
 
-## Datenweitergabe an Versanddienstleister 
+#### Datenweitergabe an Versanddienstleister 
 
 !!! Info "Hinweis"
 	
@@ -219,7 +219,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 |im Bestellvorgang bestätigen|Text zur Datenweitergabe an Versanddienstleister muss im Betellvorgang durch den Kunden bestätigt werden.|
 |Anzeige für Versandart|Für welche Versandarten soll der Text zur Datenweitergabe angezeigt werden?|
 
-## Bestellabschluss 
+#### Bestellabschluss 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -227,7 +227,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 |AGB-Link anzeigen|Link zu den Allgemeinen Geschäftsbedigungen wird auf der letzten Seite des Bestellvorgangs \(Bestätigen\) angezeigt.|
 |Widerrufsrecht-Link anzeigen|Link zur Widerrufsbelehrung wird auf der letzten Seite des Bestellvorgangs \(Bestätigen\) angezeigt.|
 
-## IP Adresse speichern 
+#### IP Adresse speichern 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -248,7 +248,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 |im Guthaben versenden Formular|IP-Adresse im Guthaben versenden Formular speichern|
 |bei Bestätigung der Datenweitergabe an Transportunternehmen|IP-Adresse bei Bestätigung der Datenweitergabe an Transportunternehmen speichern|
 
-## Mehrwertsteueranzeige 
+#### Mehrwertsteueranzeige 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -256,13 +256,13 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 |Auch Mehrwertsteuer anzeigen, wenn diese gleich 0 ist|Setze den Haken, wenn du die Mehrwertsteuer ebenfalls anzeigen möchtest, wenn der Steuersatz 0% ist.|
 |Kleinunternehmerreglung: "Kein Steuerausweis gem. Kleinuntern.-Reg. §19 UStG" statt der MwSt.-Angabe bei jedem Preis anzeigen lassen|Aktiviert die Anzeige zur Kleinunternehmerregelung in den Artikeln.|
 
-## Einwilligungsprotokoll exportieren 
+#### Einwilligungsprotokoll exportieren 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Erstellt eine CSV-Datei, die alle Kunden beinhaltet, die den Rechtstexten zugestimmt haben|Klicke auf aufrufen, um die CSV-Datei zu erstellen.|
 
-## Cookie Consent 
+#### Cookie Consent 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -270,7 +270,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 
 
 
-# Paketdienste 
+## Paketdienste 
 
 Über den Paketdienste ist es möglich Bestellungen im Shop mit dem Tracking des jeweiligen Versanddienstleisters zu verknüpfen.
 
@@ -281,7 +281,7 @@ Einrträge können auch durch Klick auf das x hinter dem Namen wieder entfernt w
 
 
 
-# Image Processing 
+## Image Processing 
 
 Änderungen die an den Einstellungen unter Darstellung \> Bild-Optionen \> Bild-Optionen vorgenommen werden, wirken sich immer nur auf neu hochgeladene Bilder aus. Um den bestehenden Bild-Bestand anzupassen, muss unter Darstellung \> Bild-Optionen \> Image Processing die Stapelverarbeitung für Bildbearbeitung durchgeführt werden.
 
@@ -301,9 +301,9 @@ Bei Bedarf kann unter Nummer des Startbildes bzw. Dateiname des Startbildes fest
 
 
 
-# System 
+## System 
 
-## E-Mail Optionen 
+#### E-Mail Optionen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -326,7 +326,7 @@ Bei Bedarf kann unter Nummer des Startbildes bzw. Dateiname des Startbildes fest
 |SMTP Verschlüsselung|Wähle hier die Art der SMTP-Verschlüsselung aus|
 |SMTP AUTH|Aktivieren, wenn der SMTP-Server AUTH voraussetzt|
 
-## E-Mail Kontaktadressen 
+#### E-Mail Kontaktadressen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -336,7 +336,7 @@ Bei Bedarf kann unter Nummer des Startbildes bzw. Dateiname des Startbildes fest
 |Kontakt - Antwortadresse|Gib hier eine E-Mailadresse ein, an die Kunden antworten können.|
 |Kontakt - Antwortadresse, Name|Absendername für Antwortmails|
 
-## E-Mail Rechnungsadressen 
+#### E-Mail Rechnungsadressen 
 
 !!! Info "Hinweis"
 	
@@ -352,7 +352,7 @@ Dieser Bereich betrifft das sogenannte Verrechnungsystem des Shops. Hierüber we
 |Verrechnung - Antwortadresse, Name|Absendername für Antwortmails|
 |Verrechnung - E-Mail Betreff|Betreff für E-Mails des Verrechnungssytems|
 
-## E-Mail Supportadressen 
+#### E-Mail Supportadressen 
 
 !!! Info "Hinweis"
 	
@@ -368,26 +368,26 @@ Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden
 |Technischer Support - Antwortadresse, Name|Absendername für Antwortmails|
 |Technischer Support - E-Mail Betreff|Betreff für E-Mails des Supportsytems|
 
-## Rechnung & Lieferschein 
+#### Rechnung & Lieferschein 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Rechnung / Lieferschein|Klicke auf aufrufen, um die Konfigurationsseite für Rechnungen und Lieferschein anzuzeigen.|
 
-## Bestell- und Kundennummer 
+#### Bestell- und Kundennummer 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Nummernkreise|Klicke auf aufrufen, um die Konfigurationsseite für Nummernkreise anzuzeigen.|
 
-## Passwortverschlüsselung 
+#### Passwortverschlüsselung 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Standardverschlüsselung für Kundenpasswörter|Wähle password\_hash, um Passwörter maximal stark zu verschlüsseln \(empfohlen\). Wähle md5, sofern du externe Schnittstellen nutzt, die direkt über die Datenbank Passwörter abgleichen und keine password\_hash-verschlüsselten Passwörter unterstützen.|
 |Kundenpasswörter beim nächsten Login nötigenfalls mit der aktuellen Standardverschlüsselung erneut verschlüsseln? \(empfohlen\)|Aktiviere diese Option, wenn du die Standardverschlüsselung wechseln möchtest und Kunden \(auch Admin-Konten!\) sich weiterhin mit ihren bisher gespeicherten Passwörtern einloggen können sollen. Andernfalls ist der Login nicht mehr möglich und ein neues Passwort muss über die Passwort vergessen-Funktion gesetzt werden.|
 
-## Anmeldeversuche 
+#### Anmeldeversuche 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -395,7 +395,7 @@ Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden
 |Zeitraum \(Sek.\)|Zeitraum in Sekunden, in dem ein wiederholter Login-Versuch geloggt wird|
 |Timeout \(Sek.\)|Zeit in Sekunden, bis ein erneutes Einloggen möglich ist|
 
-## Suchmaschinen 
+#### Suchmaschinen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -403,7 +403,7 @@ Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden
 |Zeitraum \(Sek.\)|Zeitraum in Sekunden, in dem eine wiederholte Suchanfrage geloggt wird|
 |Timeout \(Sek.\)|Zeit in Sekunden, bis eine erneute Suchanfrage abgeschickt werden kann|
 
-## Sicherheitsabfragen 
+#### Sicherheitsabfragen 
 
 Über Sicherheitscodes soll verhindert werden, dass Eingabeformulare von automatischen Skripten, sogenannten Bots, verwendet werden. Zu diesem Zweck müssen die Nutzer ihre Anfrage über einen Sicherheitscode bzw. eine andere Bestätigung verifizieren.
 
@@ -421,7 +421,7 @@ Damit du dich an reCaptcha v2 beteiligen kannst, musst du dich dafür anmelden. 
 |Public key|Public key für reCAPCHA v2|
 |Private key|Private key für reCAPTCHA v2|
 
-## Sicherheitsabfragen anzeigen 
+#### Sicherheitsabfragen anzeigen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -434,7 +434,7 @@ Damit du dich an reCaptcha v2 beteiligen kannst, musst du dich dafür anmelden. 
 |Sicherheitscodeabfrage im Newsletterformular anzeigen?|Aktiviert die Sicherheitscodeabfrage für die Newsletter-Anmeldung|
 |Sicherheitsabfrage in Account-Erstellung anzeigen?|Aktiviert die Sicherheitscodeabfrage bei der Kundenanmeldung|
 
-## Wartungsmodus 
+#### Wartungsmodus 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -451,7 +451,7 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 
 |
 
-## Gambio Admin 
+#### Gambio Admin 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -468,13 +468,13 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 |Umrechnungsgenauigkeit für Dezimalstellen|Anzahl der Dezimalstellen, die intern gespeichert werden. Standardwert: 4|
 |Standardzahlungsweise bei manuell angelegten Bestellungen|Wähle hier aus, welche Zahlungsweise bei manuell im Gambio Admin angelegten Bestellungen vorausgewählt werden soll.|
 
-## Shop Key 
+#### Shop Key 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Shop-Key|Klicke auf aufrufen, um die Konfigurationsseite für den Shop-Key anzuzeigen.|
 
-## Sessions 
+#### Sessions 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -484,7 +484,7 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 |Spider Sessions vermeiden?|Hierdurch kann verhindert werden, dass Bots von Suchmaschinen eine Session im Shop erhalten. Mit einer Session könnten diese Bots Artikel in den Warenkorb legen und würden als normale Besucher gewertet. Die Einstellung ist standardmäßig gesetzt.|
 |Session Gültigkeitsdauer|Legt die Dauer in Minuten fest, wie lange eine Session im Gambio Admin gültig ist. Nach Ablauf dieser festgelegten Zeit wird die Session entfernt und eine erneute Anmeldung ist erforderlich!|
 
-## Performance 
+#### Performance 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -495,7 +495,7 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 |Cache-freundliche Dateinamen|Über die Einstellung Cache-freundliche Dateinamen können die Namen bestimmter Ressourcen \(JavaScript, CSS\) automatisch angepasst werden, damit diese nicht im Browsercache gespeichert, sondern bei jedem Laden der betreffenden Seite aktuell abgerufen werden.|
 |CSS inline im Head ausgeben|Wird der Haken gesetzt, wird der CSS-Code im Head-Bereich der Seite ausgegeben, anstatt die externe CSS-Datei zu verlinken.|
 
-## Logging 
+#### Logging 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -511,7 +511,7 @@ Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enth
 
 
 
-# Drop-Shadow \(Schlagschatten\) 
+## Drop-Shadow \(Schlagschatten\) 
 
 Mit der Drop-Shadow-Funktion wird ein Schlagschatten nach unten rechts hinter das Artikelbild gelegt. Der Schatten wird nicht massiv als Rahmen dargestellt, sondern mit einer zusätzlichen Hintergrundfarbe in einem dynamischen Spektrum berechnet.
 
@@ -527,7 +527,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Konfiguration 
+## Konfiguration 
 
 Dieses Kapitel beschreibt die Grundkonfiguration deines neuen Onlineshops.
 
@@ -570,7 +570,7 @@ Dieses Kapitel beschreibt die Grundkonfiguration deines neuen Onlineshops.
   
 
 
-# Kampagnen 
+## Kampagnen 
 
 Kampagnen sind dafür gedacht, die Herkunft der Kunden zu identifizieren. Es ist möglich, die Artikellinks um eine ID zu ergänzen, bevor man diese in ein Portal wie z.B. idealo.de hochlädt. Kommen Kunden nun über dieses Portal in den Shop, enthalten die Bewegungen des Kunden die Referenznummer der Kampagne und der Shopbetreiber weiß, aus welcher Quelle welche Käufe generiert wurden.
 
@@ -588,7 +588,7 @@ Die Daten können unter Statistiken \> Kampagnen Report ausgewertet werden, weit
 
 
 
-# Bildgröße 
+## Bildgröße 
 
 Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschiedenen Ausgangsgrößen angepasst. Für jedes Artikelbild werden dabei die Kopien aus der Tabelle Artikelbild-Varianten angelegt. Die tatsächliche Anzeigegröße hängt hierbei von den Einstellungen im StyleEdit ab. Jedoch kann eine Änderung der Ausgangsgrößen unter Darstellung \> Bild-Optionen erhebliche Auswirkungen auf Bildqualität und Ladezeit haben.
 
@@ -610,7 +610,7 @@ Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschi
 
 
 
-# Kontaktinformationen 
+## Kontaktinformationen 
 
 Zu den formalen Inhalten des Widerrufsformulars gehören auch die Kontaktinformationen. Sie werden unter Shop Einstellungen \> Mein Shop eingetragen.
 
@@ -627,7 +627,7 @@ Zu den formalen Inhalten des Widerrufsformulars gehören auch die Kontaktinforma
 
 
 
-# Lieferzeiten kennzeichnen 
+## Lieferzeiten kennzeichnen 
 
 Die Angabe der Lieferzeit wurde um den Link Ausland abweichend erweitert. Dieser Link verweist auf die Seite Versand- & Zahlungsbedingungen und informiert deine Kunden darüber, dass die angegebenen Lieferzeiten nicht für den Versand ins Ausland gelten.
 
@@ -639,7 +639,7 @@ Die Anzeige dieses Links kann unter Shop Einstellungen \> Lieferstatus für jede
 
 
 
-# E-Mail-Optionen 
+## E-Mail-Optionen 
 
 CAUTION:
 
@@ -655,7 +655,7 @@ CAUTION:
 
 
 
-# Bild-Effekte 
+## Bild-Effekte 
 
 Das Shopsystem bietet verschiedene Funktionen an, mit denen du einen oder mehrere Effekte auf deine Artikelbilder anwenden kannst. Die Effekte werden auf den jeweiligen Bildtyp \(siehe Kapitel Bildgröße\) separat angewendet. Auf jeden Bildtyp kann ein Effekt, eine Kombination aus verschiedenen Effekten oder alle Effekte angewendet werden.
 
@@ -678,7 +678,7 @@ Das Shopsystem bietet verschiedene Funktionen an, mit denen du einen oder mehrer
 
 
 
-# Shop-Key 
+## Shop-Key 
 
 !!! Info "Hinweis"
 	
@@ -701,7 +701,7 @@ Eine Liste mit den genauen Daten, die an das Gambio Kundenportal weitergegeben w
 
 
 
-# Allgemeines 
+## Allgemeines 
 
 Im Reiter Allgemeines stehen folgende Einstellungen zur Verfügung:
 
@@ -740,7 +740,7 @@ Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Be
 
 
 
-# E-Mail Vorlagen 
+## E-Mail Vorlagen 
 
 Das Shopsystem versendet automatisierte E-Mails. Die Vorlagen kannst du unter Kunden \> E-Mails \> E-Mail Vorlagen anpassen.
 
@@ -770,7 +770,7 @@ Passe die gewünschte E-Mail Vorlage über den CK-Editor an. Klicke auf Vorschau
 
 
 
-# Round-edges \(runde Ecken\) 
+## Round-edges \(runde Ecken\) 
 
 Mit der Round-edges-Funktion werden die Ecken des Artikelbildes abgerundet.
 
@@ -786,7 +786,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Lager- und Bestandseinstellungen 
+## Lager- und Bestandseinstellungen 
 
   
 
@@ -795,13 +795,13 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Artikelbilder löschen 
+## Artikelbilder löschen 
 
 Der Reiter Artikelbilder löschen ist im gleichnamigen Unterkapitel des Kapitels Bild-Optionen beschrieben.
 
 
 
-# Ellipse 
+## Ellipse 
 
 Mit der Ellipse-Funktion wird ein Ausschnitt des Artikelbilds in Form einer Ellipse ausgeschnitten und anstatt des ganzen Bildes angezeigt.
 
@@ -813,7 +813,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Rechtliche Einstellungen 
+## Rechtliche Einstellungen 
 
 CAUTION:
 
@@ -830,15 +830,15 @@ Bitte nimm Änderungen an den rechtlichen Einstellungen ausschließlich in Abspr
 
 
 
-# Suchmaschinenoptimierung 
+## Suchmaschinenoptimierung 
 
-## Kampagnen 
+#### Kampagnen 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Kampagnen|Klicke auf aufrufen, um die Konfigurationsseite für die Kampagnen anzuzeigen.|
 
-## SEO URLs 
+#### SEO URLs 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -849,7 +849,7 @@ Bitte nimm Änderungen an den rechtlichen Einstellungen ausschließlich in Abspr
 |Sprachcode in URLs integrieren|Sprachcodes werden als Teil der URL angezeigt|
 |index.php Suffix in zugehörigen URLs entfernen|Startseite wird ohne die Angabe index.php in der Adressezeile geladen|
 
-## Meta-Angaben 
+#### Meta-Angaben 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -857,13 +857,13 @@ Bitte nimm Änderungen an den rechtlichen Einstellungen ausschließlich in Abspr
 |Standard Meta-Titel Anzeige|legt fest, ob der Standard Meta-Titel vor oder nach dem Seitentitel \(Meta-Titel\) ausgegeben wird|
 |Standard Meta-Titel verwenden?|wenn aktiviert, wird zusätzlich zum Seitentitel der Standard Meta-Titel ausgegeben|
 
-## Einstellungen für Suchmaschinenbots \(robots.txt\) 
+#### Einstellungen für Suchmaschinenbots \(robots.txt\) 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Robots.txt Datei|Klicke auf aufrufen, um die Konfigurationsseite für das Erzeugen der Robots-Datei anzuzeigen.|
 
-## Sitemap 
+#### Sitemap 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -875,13 +875,13 @@ Die im Shop eingestellte Änderungsfrequenz stellt lediglich eine Vorgabe dar. D
 |
 |Standard-Priorität|Welche Priorität soll für Sitemap-Einträge standardmäßig gesetzt werden?|
 
-## Statische Seiten 
+#### Statische Seiten 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Statische Seiten|Klicke auf aufrufen, um die Konfigurationsseite für statische Seiten anzuzeigen|
 
-## Tracking Codes 
+#### Tracking Codes 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -889,7 +889,7 @@ Die im Shop eingestellte Änderungsfrequenz stellt lediglich eine Vorgabe dar. D
 
 
 
-# Artikelbilder löschen 
+## Artikelbilder löschen 
 
 Unter Shop Einstellungen \> Allgemeines \> Artikelbilder löschen besteht die Möglichkeit Artikelbilder bei Bedarf zu löschen. Es können die Originalbilder \(Verzeichnis /images/product\_images/original\_images\) sowie nicht benötigte Artikelbilder, die keinem Artikel mehr zugeordnet sind, entfernt werden.
 
@@ -903,7 +903,7 @@ Die Original-Bilder werden für den Bilderzoom verwendet. Werden diese gelöscht
 
 
 
-# Einstellungen für Kleinunternehmer 
+## Einstellungen für Kleinunternehmer 
 
 Kleinunternehmer führen in Deutschland unter bestimmten Voraussetzungen keine Umsatzsteuer ab und müssen im Shop daher keine Umsatzsteuer ausweisen. Das Shopsystem bietet eine Funktion an, mit der der Artikelpreis regulär eingegeben, die enthaltene Steuer jedoch nicht ausgewiesen wird.
 
@@ -918,7 +918,7 @@ Bei Artikelpreisen und zukünftigen Bestellungen wird anstatt der Umsatzsteuer e
 
 
 
-# Bestell- und Kundennummern 
+## Bestell- und Kundennummern 
 
 Die kommenden, zu vergebenen Bestell- und Kundennummer werden in den Eingabefeldern Nächste Bestellnummer bzw. Nächste Kundennummer angezeigt. Dort können die Nummern auch geändert werden. Hierbei ist zu beachten, dass die neu vergebenen Nummern nicht unter dem angezeigten Minimum liegen dürfen. Zudem kann 1 nicht als Kundennummer vergeben werden, da diese Nummer für den Hauptadministrator vorgesehen ist.
 
@@ -930,7 +930,7 @@ Generell gilt, dass die Kundennummern nur heruntergesetzt werden können, wenn z
 
 
 
-# Such-Optionen 
+## Such-Optionen 
 
 Unter Shop Einstellungen \> Mein Shop kannst du auswählen, ob die Shopsuche in den Artikelbeschreibungen und in den Artikelattributen suchen soll.
 
@@ -939,11 +939,11 @@ Unter Shop Einstellungen \> Mein Shop kannst du auswählen, ob die Shopsuche in 
 
 
 
-# Allgemeines 
+## Allgemeines 
 
 Die allgemeine rechtliche Konfiguration kannst du unter Shop Einstellungen \> Rechtliches vornehmen.
 
-## Datenschutzlink 
+#### Datenschutzlink 
 
 ![](Bilder/Abb032_DatenschutzlinkAnzeigen.png "Datenschutzlink anzeigen")
 
@@ -953,7 +953,7 @@ Ein Link zu den aktuellen Datenschutzbestimmungen wird in der Grundeinstellung a
 
 Zudem kann festgelegt werden, ob ein so angezeigter Link um eine Checkbox ergänzt wird. Der Kunde muss in diesem Fall bestätigen, dass dieser die Datenschutzbestimmungen zur Kenntnis genommen hat, bevor er fortfahren kann.
 
-## Allgemeine Geschäftsbedingungen 
+#### Allgemeine Geschäftsbedingungen 
 
 ![](Bilder/Abb034_AllgemeineGeschaeftsbedingungen.png "Allgemeine Geschäftsbedingungen")
 
@@ -962,7 +962,7 @@ In der Grundkonfiguration werden die Allgemeinen Geschäftsbedinungen \(AGB\) im
 !!! Info "Hinweis"
 	 Deaktiviere das Kontrollkästchen im Bestellvorgang bestätigen, wenn du die Anzeige der AGB im Bestellvorgang deaktivierst. Eine Bestellung ist sonst nicht möglich.
 
-## Widerrufsrecht 
+#### Widerrufsrecht 
 
 ![](Bilder/Abb035_Widerrufsrecht.png "Widerrufsrecht")
 
@@ -985,7 +985,7 @@ In der Grundkonfiguration wird das Widerrufsrecht im Bestellvorgang angezeigt un
 |Verzicht auf Widerrufsrecht für Download-Artikel als Pflichtfeld|Muss bei Download-Artikeln zwangsweise auf das Widerrufsrecht verzichtet werden?|
 |Verzicht auf Widerrufsrecht für Dienstleistungen als Pflichtfeld|Muss bei Dienstleistungen zwangsweise auf das Widerrufsrecht verzichtet werden?|
 
-## Datenweitergabe an Transportunternehmen 
+#### Datenweitergabe an Transportunternehmen 
 
 ![](Bilder/Abb036_DatenweitergabeAnTransportunternehmen.png "Datenweitergabe an Transportunternehmen")
 
@@ -1006,25 +1006,25 @@ Der Hinweis wird nur angezeigt, wenn sowohl die Haken für im Bestellvorgang anz
 
 Die Einstellung im Bestellvorgang bestätigen greift nur, wenn die Einwilligung auch angezeigt wird.
 
-## Bestellbestätigungs-Seite 
+#### Bestellbestätigungs-Seite 
 
 Auf der Bestellbestätigungs-Seite werden in der Grundkonfiguration Links zu den aktuell gültigen Datenschutzerklärungen, den AGB und dem Widerrufsrecht angezeigt. Deaktiviere die Kontrollkästchen zu den Texten, die auf der Bestellbestätigung nicht angezeigt werden sollen.
 
-## IP-Logging 
+#### IP-Logging 
 
 Nähere Informationen zum IP-Logging erhältst du im Kapitel IP-Logging.
 
-## Mehrwertsteuer-Anzeige 
+#### Mehrwertsteuer-Anzeige 
 
 In der Grundkonfiguration wird auf allen Seiten die Mehrwertsteuer unterhalb des Artikelpreises angezeigt, von denen aus ein Artikel in den Warenkorb gelegt werden kann. Deaktiviere das Kontrollkästchen Mehrwertsteuer unter Artikelpreisen anzeigen, wenn du die Anzeige deaktivieren möchtest. Setze den Haken für Auch Mehrwertsteuer anzeigen, wenn diese gleich 0 sind wenn du die Mehrwertsteuer ebenfalls anzeigen möchtest, wenn der Steuersatz 0% ist.
 
-## Einwilligungsprotokoll exportieren 
+#### Einwilligungsprotokoll exportieren 
 
 Über Klick auf die Schaltfläche Exportieren wird eine Liste im CSV-Format erstellt, in der die Zustimmungen deiner Kunden zu den jeweiligen Rechtstexten des Shops aufgeführt werden.
 
 
 
-# IP-Logging 
+## IP-Logging 
 
 Unter Shop Einstellungen \> Rechtliches stehen dir im Abschnitt IP-Logging Funktionen für das Speichern der IP Adresse deines Kunden beim Einloggen und Registrieren sowie bei Bestellungen zur Verfügung.
 
@@ -1038,7 +1038,7 @@ Bevor du die Logging-Optionen aktivierst, erfrage möglicherweise nötige rechtl
 
 
 
-# Grundkonfiguration 
+## Grundkonfiguration 
 
 Nehme nach der Installation des Shopsystems die erstmalige Konfiguration des Shops vor. Im Folgenden findest du Informationen zur Grundkonfiguration deines Shops.
 
@@ -1049,7 +1049,7 @@ Nehme nach der Installation des Shopsystems die erstmalige Konfiguration des Sho
 
 
 
-# Artikelübersicht-Optionen 
+## Artikelübersicht-Optionen 
 
 Unter Shop Einstellungen \> Mein Shop hast du die Möglichkeit, die Anzeige des Hersteller- und Kategorie-Filters an- bzw. abzuschalten. Trage hierzu in das Eingabefeld Hersteller- und Kategorie-Filter anzeigen? eine 1 \(aktivieren\) bzw. eine 0 \(deaktivieren\) ein, um die Anzeige des Kategorie- bzw. Hersteller-Dropdowns in der Artikelübersicht zu steuern. Bestätige deine Eingabe mit einem Klick auf Speichern.
 
@@ -1059,7 +1059,7 @@ Diese Auswahl wird nur dann angezeigt, wenn eine echte Auswahl aus verschiedenen
 
 
 
-# Motion-Blur \(Bewegungs-Effekt\) 
+## Motion-Blur \(Bewegungs-Effekt\) 
 
 Mit der Motion-Blur-Funktion wird ein Ausschnitt des Artikelbilds nach unten rechts multipliziert. Durch die Wiederholung entsteht ein Bewegungs-Effekt.
 
@@ -1077,7 +1077,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Sicherheitseinstellungen 
+## Sicherheitseinstellungen 
 
 Das Shopsystem enthält Funktionen, die die Sicherheit deines Shops auf unterschiedliche Weise verbessern können. Beachte, dass diese Funktionen keine uneingeschränkte Garantie für die Sicherheit deines Shops gegen gezielte Hacker-Angriffe und Spam-Roboter bedeuten.
 
@@ -1088,7 +1088,7 @@ Das Shopsystem enthält Funktionen, die die Sicherheit deines Shops auf untersch
 
 
 
-# Konfiguration des G-Protectors 
+## Konfiguration des G-Protectors 
 
 Die Grundeinstellungen des G-Protectors sind bereits mit dem Kopieren des zugehörigen Ordners in das Shopverzeichnis abgeschlossen. Darüber hinaus besteht die Möglichkeit IP-Adressen zu sperren.
 
@@ -1111,7 +1111,7 @@ Dies kann, neben einzelner Adressen, auch für Adressräume vorgenommen werden:
 
 
 
-# Nummernkreise 
+## Nummernkreise 
 
 Über Nummernkreise wird die automatische Vergabe von Bestell-, Kunden-, Rechnungs- und Lieferscheinnummern konfiguriert. Die entsprechenden Einstellungen findest du unter Shop Einstellungen \> Nummernkreise.
 
@@ -1127,7 +1127,7 @@ Um den Minimumwert für einen Nummernkreis anzeigen zu lassen, bewege den Mausze
 
 
 
-# Rechnungs- und Lieferscheinnummer 
+## Rechnungs- und Lieferscheinnummer 
 
 Hier kannst du die Nummernkreise für Rechnungs- und Lieferscheinnummer anpassen.
 
@@ -1151,7 +1151,7 @@ Beachte, dass diese beiden Nummern fortlaufend sind und jeweils erst bei der Ers
 
 
 
-# Cookie Hinweis 
+## Cookie Hinweis 
 
 Der Cookie Hinweis kann unter Shop Einstellungen \> Rechtliches über den Reiter Cookie Hinweis konfiguriert werden. Der Hinweis erscheint beim ersten Aufruf des Shops und kann durch den Kunden bestätigt oder \(je nach Konfiguration\) geschlossen werden. Zur Bestätigung des Hinweises wird ein eigener Button angezeigt, dessen Beschriftung du frei festlegen kannst.
 
@@ -1192,7 +1192,7 @@ Bestätige alle gemachten Änderungen mit Klick auf Speichern.
 
 
 
-# Bevel \(Button-Effekt\) 
+## Bevel \(Button-Effekt\) 
 
 Mit der Bevel-Funktion werden Artikelbilder erhaben dargestellt und wirken dadurch wie eine Schaltfläche.
 
@@ -1208,9 +1208,9 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Persönliche Daten 
+## Persönliche Daten 
 
-## Shopbetreiber-Anschrift 
+#### Shopbetreiber-Anschrift 
 
 Die Absenderadresse auf der Bestellbestätigung entspricht der unter Shop Einstellungen \> Mein Shop im Feld Adresse eingetragenen Adresse. Füge deine Geschäftsadresse in das Feld Adresse ein und speichere die Änderung. Bei zukünftigen Bestellungen wird diese Adresse im Kopfbereich ausgegeben.
 
@@ -1245,13 +1245,13 @@ Für das Widerrufsformular stehen unter Shop Einstellungen \> Mein Shop separate
 |Telefonnummer|Die Telefonnummer des Shop-Betreibers|
 |Faxnummer|Die Faxnummer des Shop-Betreibers|
 
-## Shopname 
+#### Shopname 
 
 Lege den Namen deines Shops unter Shop Einstellungen \> Mein Shop im Feld Name des Shops fest. Der Name deines Shops wird in automatisch erstellten E-Mails sowie abhängig von der im Kapitel Meta-Titel beschriebenen Einstellungen in der Titelleiste des Webbrowsers angezeigt.
 
 
 
-# Lagerbestände anzeigen 
+## Lagerbestände anzeigen 
 
 Über den Reiter Lagerbestände anzeigen stehen folgende Einstellungen zur Verfügung:
 
@@ -1262,7 +1262,7 @@ Setze bzw. entferne den jeweiligen Haken und klicke in der entsprechenden Zeile 
 
 
 
-# Allgemeines 
+## Allgemeines 
 
 Unter Shop Einstellungen \> Allgemeines befinden sich hauptsächlich Detaileinstellungen zur Anzeige der Artikelnamen, Lagerbestände und Preisanzeige, aber auch andere Funtktionen, wie das Löschen überzähliger Artikelbilder oder Statistiken.
 
@@ -1277,7 +1277,7 @@ Unter Shop Einstellungen \> Allgemeines befinden sich hauptsächlich Detaileinst
 
 
 
-# Greyscale \(Graustufen\) 
+## Greyscale \(Graustufen\) 
 
 Mit der Greyscale-Funktion werden Artikelbilder in Farbstufen eingefärbt. Dadurch ist eine Darstellung von Artikelbildern in Graustufen oder beispielsweise Sepiafärbung möglich.
 
@@ -1297,9 +1297,9 @@ Ein Parameter von \(0,0,0\) färbt dein Artikelbild vollständig schwarz, wohing
 
 
 
-# Artikel & Kategorien 
+## Artikel & Kategorien 
 
-## Produkte 
+#### Produkte 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1313,7 +1313,7 @@ Ein Parameter von \(0,0,0\) färbt dein Artikelbild vollständig schwarz, wohing
 |Neue Artikel Liste|Maximale Anzahl der neuen Artikel, die in der Liste angezeigt werden sollen.|
 |Bestseller|Minimale Anzahl an Bestsellern, die angezeigt werden sollen.|
 
-## Suche 
+#### Suche 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1323,7 +1323,7 @@ Ein Parameter von \(0,0,0\) färbt dein Artikelbild vollständig schwarz, wohing
 |Suche in Artikelattributen/Artikeleigenschaften|Wird dies deaktiviert, werden die Informationen aus den Attributen und Eigenschaften nicht mehr bei der Suche berücksichtigt. Da die Suche in den Artikelattributen und Eigenschaften zu einer ungleich umfassenderen Suche führt, kann dies in Shops mit vielen Attributen bzw. Eigenschaften zu sehr langen Ladezeiten beim Ausführen der Suche führen. Die Deaktivierung kann daher die Performance des Shops verbessern.|
 |Suche in Artikelbeschreibungen|Wird dieser Punkt deaktiviert, sucht der Shop nur noch in den Artikelnamen, Artikelnummern und EANs nach dem Suchbegriff|
 
-## GX Customizer 
+#### GX Customizer 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1335,7 +1335,7 @@ Ein Parameter von \(0,0,0\) färbt dein Artikelbild vollständig schwarz, wohing
 |Anzahl erlaubter Dateiuploads pro Besucher \(0 = keine Begrenzung\)|Begrenzt die Anzahl der Dateien, die über den GX-Customizer hochgeladen werden können.|
 |Zeitraum in Minuten, für den die Begrenzung der Anzahl an Dateiuploads gilt|Wie lange gilt die oben festgelegte Begrenzung?|
 
-## Lagerverwaltung 
+#### Lagerverwaltung 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1353,7 +1353,7 @@ Ein Parameter von \(0,0,0\) färbt dein Artikelbild vollständig schwarz, wohing
 |Lagerbestand vor dem Warenkorb prüfen?|Überprüft den Lagerbestand bereits auf der Artikeldetailseite.|
 |Maximale Bestellmenge je Artikel|Maximale Menge, die je Artikel bestellt werden kann.|
 
-## Downloadoptionen 
+#### Downloadoptionen 
 
 !!! Info "Hinweis"
 	
@@ -1391,7 +1391,7 @@ Auf Nicht-Linux/Unix Systemen sollte diese Einstellung ausgeschaltet sein.
 
 
 
-# Grundeinstellungen 
+## Grundeinstellungen 
 
 Im Administrationsbereich deines Shops werden unter Darstellung \> Bild-Optionen die Einstellungen für die automatische Bildberechnung der Artikelbilder vorgenommen.
 
@@ -1408,7 +1408,7 @@ Bei Verwenden der GDlib1-Bibliotheken für die Bildbearbeitung werden sämtliche
 
 
 
-# Lieferstatus 
+## Lieferstatus 
 
 Lieferstatus geben an, wie lange es voraussichtlich dauert, bis ein gegebener Artikel geliefert wird. Im Shop kann für jede dieser Zeitperioden ein eigener Lieferstatus festgelegt werden, z.B. 3-4 Tage, 1 Woche usw. Unter Shop Einstellungen \> Lieferstatus können diese Status eingesehen und geändert werden. Wenn ein Lieferstatus markiert wird, sodass er blau hinterlegt ist, wird in der Box auf der rechten Seite sowohl die deutsche als auch die englische Bezeichnung angezeigt. Dazu kommen die Anzahl der Wochentage und der obere Schwellenwert.
 
@@ -1432,21 +1432,21 @@ Die Angabe der Lieferzeit beinhaltet den Link Ausland abweichend. Die Anzeige di
 
 
 
-# Sprachen, Länder, Steuern 
+## Sprachen, Länder, Steuern 
 
-## Steuerklassen 
+#### Steuerklassen 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Steuerklassen|Klicke auf aufrufen, um die Konfigurationsseite für die Steuerklassen anzuzeigen|
 
-## Steuersätze 
+#### Steuersätze 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Steuersätze|Klicke auf aufrufen, um die Konfigurationsseite für die Steuersätze anzuzeigen|
 
-## Umsatzsteuer 
+#### Umsatzsteuer 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1468,31 +1468,31 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 |Kundengruppe für USt-IdNr.-geprüfte Kunden \(Ausland\)|Kundengruppe, die ausländischen Kunden nach erfolgreicher Prüfung zugeordnet werden sollen.|
 |Kundengruppe für USt-IdNr.-geprüfte Kunden \(Inland\)|Kundengruppe, die inländischen Kunden nach erfolgreicher Prüfung zugeordnet werden sollen.|
 
-## Steuerzonen 
+#### Steuerzonen 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Steuerzonen|Klicke auf aufrufen, um die Konfigurationsseite für die Steuerzonen anzuzeigen|
 
-## Länder 
+#### Länder 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Länder|Klicke auf aufrufen, um die Konfigurationsseite für die Länder anzuzeigen|
 
-## Währungen 
+#### Währungen 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Währungen|Klicke auf aufrufen, um die Konfigurationsseite für die Währungen anzuzeigen|
 
-## Bundesländer 
+#### Bundesländer 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Bundesländer|Klicke auf aufrufen, um die Konfigurationsseite für die Bundesländer anzuzeigen|
 
-## Sprachen 
+#### Sprachen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1500,7 +1500,7 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 
 
 
-# Bild-Optionen 
+## Bild-Optionen 
 
 !!! Info "Hinweis"
 	
@@ -1522,7 +1522,7 @@ Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server fsockopen
 
 
 
-# Logging-Optionen 
+## Logging-Optionen 
 
 !!! Info "Hinweis"
 	
@@ -1537,47 +1537,47 @@ CAUTION:
 
 Zudem können bestimmte Logging-Einstellungen zu Einbußen in der Geschwindigkeit des Shops führen. Zudem besteht die Möglichkeit, dass deinen Kunden technische Meldungen angezeigt werden, die diese als Fehler im Shop auffassen könnten.
 
-## Logging aktivieren 
+#### Logging aktivieren 
 
 Logging im gesamten Shop aktivieren / deaktivieren \[standardmäßig aktiviert\]
 
-## Speichern der Berechnungszeit der Seite 
+#### Speichern der Berechnungszeit der Seite 
 
 Speichern der Zeit, die benötigt wird, um Scripte bis zur Ausgabe der Seite zu berechnen. Diese Funktion erzeugt jedoch ebenfalls eine gewisse Server-Last. Abhängig vom Server kann die Belastung durch die Speicherung der Berechnungszeit minimal bis erheblich sein. Wenn du einen langsamen Server verwendest, sollte diese Funktion nach Möglichkeit deaktiviert werden.
 
-## Speicherort der Logdatei der Berechnungszeit 
+#### Speicherort der Logdatei der Berechnungszeit 
 
 Hier wird der absolute Verzeichnispfad mit dem Dateinamen der Logdatei eingetragen. Standardmäßig ist dieses Feld folgendermaßen belegt: /var/log/www/tep/page\_parse\_time.log
 
-## Datumsformat 
+#### Datumsformat 
 
 Das Datumsformat für das Logging legt fest, wie die Datumswerte aufgeführt werden. Die Standardvorgabe lautet %d/%m/%Y %H:%M:%S was Tag/Monat/Jahr Stunde:Minute:Sekunde bedeutet.
 
-## Berechnungszeit der Seiten anzeigen 
+#### Berechnungszeit der Seiten anzeigen 
 
 Wenn das Speichern der Berechnungszeit für Seiten eingeschaltet ist, kann diese im Footer \(Seitenende\) angezeigt werden.
 
-## SQL-Logging im Frontend 
+#### SQL-Logging im Frontend 
 
 Datenbankverändernde SQL-Befehle im Frontend werden geloggt. Dies wäre z.B. dann der Fall, wenn ein Kunde eine Bestellung durchführt.
 
-## SQL-Logging im Backend 
+#### SQL-Logging im Backend 
 
 Datenbankverändernde SQL-Befehle im Backend werden geloggt, wie es bei allen Änderungen an Artikeln, Contents, etc. der Fall ist.
 
-## Maximale Dateigröße 
+#### Maximale Dateigröße 
 
 Maximale Dateigröße der SQL-Logging-Datei in MB. Wird das Limit überschritten, wird die Log-Datei unter neuem Namen im gz-Format komprimiert angelegt. Damit wird verhindert, dass die Log-Datei unnötig groß wird.
 
-## Speichern aller Datenbankabfragen 
+#### Speichern aller Datenbankabfragen 
 
 Speichern der einzelnen Datenbankabfragen in der Logdatei für Berechnungszeiten. Datenbankabfragen sind alle Abrufe von Daten, die im Shop stattfinden.
 
-## E-Mail-Fehlerberichte an 
+#### E-Mail-Fehlerberichte an 
 
 E-Mail-Adresse, an die Fehlerberichte gesendet werden sollen. Um keine Berichte zu senden, kann das Feld einfach leer gelassen werden. Zur Sendung von Fehlerberichten an den Gambio Support kann die Adresse debug@gambio-support.de eingetragen werden.
 
-## Unterdrücken von Meldungen 
+#### Unterdrücken von Meldungen 
 
 Die nachfolgenden Einstellungen dienen dazu, Meldungen eines bestimmten Typs zu unterdrücken.
 
@@ -1595,7 +1595,7 @@ Standardmäßig sind hier die Haken für
 
 gesetzt.
 
-## Ausgabeoptionen 
+#### Ausgabeoptionen 
 
 Innerhalb der Ausgabeoptionen wird festgelegt, welche Art Meldung auf welche Weise ausgegeben wird. Hierzu zählt sowohl die Anzeige auf dem Bildschirm als auch das Schreiben der Meldung in die jeweilige .log beziehungsweise .html-Datei im Ordner logfiles des Shops oder der Versand als E-Mail.
 
@@ -1607,7 +1607,7 @@ CAUTION:
 
 
 
-# Verbraucherrechterichtlinie 
+## Verbraucherrechterichtlinie 
 
 Mit Inkrafttreten der Verbraucherrechterichtlinie hat es im Shop zahlreiche Veränderungen gegeben. Dieser Teil des Handbuches zeigt dir in einer Schritt-Für-Schritt-Anleitung, wie sich die einzelnen Komponenten einstellen lassen.
 
@@ -1630,15 +1630,15 @@ Das Vorhandensein der Bestandteile ist zur rechtlichen Absicherung deines Shops 
 
 
 
-# Download-Optionen 
+## Download-Optionen 
 
 Unter Shop Einstellungen \> Download-Optionen können die Grundeinstellungen für den Verkauf von Download-Artikeln vorgenommen werden. Es stehen der Reihe nach folgende Konfigurationsmöglichkeiten zur Verfügung:
 
-## Download von Artikeln erlauben 
+#### Download von Artikeln erlauben 
 
 Hierdurch wird die Download-Artikel-Funktion aktiviert. Setze diese Einstellung, wenn du Download-Artikel anbieten möchtest.
 
-## Download durch Weiterleitung 
+#### Download durch Weiterleitung 
 
 Über diese Einstellung kann eine Browser-Umleitung für Artikeldownloads eingeschaltet werden. Diese Einstellung ist standardmäßig nicht gesetzt.
 
@@ -1646,37 +1646,37 @@ CAUTION:
 
 Bitte aktiviere diese Funktion nur, wenn du dir absolut sicher bist, dass sie benötigt wird. Anderenfalls kann das Herunterladen von Dateien durch diese Einstellung beeinträchtigt oder unmöglich gemacht werden.
 
-## Download Zahlungsmodule 
+#### Download Zahlungsmodule 
 
 Der Punkt Download Zahlungsmodule listet alle Zahlungsmodule auf, die für Bestellungen mit Download-Artikeln nicht verwendet werden sollen. Liste hier die Module mit Komma getrennt \(ohne Leerzeichen\) auf, indem du die internen Modulnamen einträgst. Die internen Modulnamen können unter Module \> Zahlungsweisen eingesehen werden, sie sind jeweils in Klammern hinter der Zahlungsweise aufgeführt.
 
 Typische Zahlungsweisen für diesen Fall sind: banktransfer,cod,invoice,moneyorder
 
-## Download-Bestellstatus 
+#### Download-Bestellstatus 
 
 Setze hier bei den Bestellstatus einen Haken, für den du den Download freigeben möchtest.
 
 
 
-# Wasserzeichen 
+## Wasserzeichen 
 
 Du kannst deine Bilder durch ein Wasserzeichen über deinen Shopbildern schützen. Beachte, dass die nachfolgenden Änderungen ausschließlich auf neu hochgeladene Produktbilder angewendet werden. Lade eine Wasserzeichengrafik im GIF-Format über Darstellung \> Logo Manager \> Wasserzeichen hoch. Dein Wasserzeichen sollte idealerweise einen reinweißen Hintergrund haben. Die Position des Wasserzeichens kannst du über ein Parameterset in den Bildoptionen bestimmen.
 
 Das Parameterset setzt sich aus fünf Teilen zusammen und wird am Beispiel \(overlay.gif,20,30,60,FFFFFF\) erklärt.
 
-## Teil 1: overlay.gif 
+#### Teil 1: overlay.gif 
 
 Der erste Parameter bezieht sich auf den Dateinamen und darf nicht verändert werden. Die hochgeladene GIF-Grafik wird automatisch in overlay.gif umbenannt.
 
-## Teil 2&3: 20,30 
+#### Teil 2&3: 20,30 
 
 Der zweite und dritte Parameter beschreibt gemeinsam die Position des Wasserzeichens \(x,y\) über dem Produktbild.
 
-## Teil 4: 60 
+#### Teil 4: 60 
 
 Der vierte Parameter entspricht der Durchsichtigkeit des Wasserzeichens auf dem Bild. Ein Wert von 100 macht das Wasserzeichen über dem Produktbild vollständig sichtbar, ein Wert von 0 macht das Wasserzeichen kaum sichtbar.
 
-## Teil 5: FFFFFF 
+#### Teil 5: FFFFFF 
 
 Der fünfte Parameter beschreibt die Farbe im Wasserzeichen, die als Hintergrund betrachtet und vollständig durchsichtig sein soll. Wir empfehlen, diesen Wert auf FFFFFF \(100% weiß\) zu belassen und die Hintergrundfarbe der hochzuladenden GIF-Grafik entsprechend anzulegen.
 
@@ -1689,9 +1689,9 @@ Trage diese Parameter unter Darstellung \> Bild-Optionen kommagetrennt in einfac
 
 
 
-# Shop 
+## Shop 
 
-## Allgemein 
+#### Allgemein 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1700,7 +1700,7 @@ Trage diese Parameter unter Darstellung \> Bild-Optionen kommagetrennt in einfac
 |Geschäftsadresse und Telefonnummer etc.|Geschäftsadresse, wird z.B. im Briefkopf der Bestellbestätigung verwendet|
 |Deine Zeitzone|Zeitzone des Firmensitzes|
 
-## Shopbetreiber 
+#### Shopbetreiber 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1719,7 +1719,7 @@ Trage diese Parameter unter Darstellung \> Bild-Optionen kommagetrennt in einfac
 
 
 
-# Einbinden der Rechtstexte 
+## Einbinden der Rechtstexte 
 
 Zuallererst sollten die Rechtstexte zum Widerrufsrecht hinterlegt werden. Dies geschieht unter Darstellung \> Content Manager \> Elemente, hier stehen mehrere Contents zur Verfügung, über die die Widerrufstexte verwaltet werden. Hierzu zählen die Inhalte Widerrufsrecht 1 bis Widerrufsrecht 4 \(ID 3889896 bis 3889899\). Auf diese Contents kann der Widerrufstext, je nach thematischer Abgrenzung, verteilt werden. Er wird dann grafisch unterteilt in separaten Textboxen im Bestellvorgang angezeigt. Es ist nicht notwendig alle Contents zu verwenden, aber der Text muss in mindestens einem dieser Contents hinterlegt werden. Zusammenfassend für die Widerrufstexte steht der Content Widerrufsrecht & Muster-Widerrufsformular \(ID 3889895\) im Bereich Seiten des Content Managers, unter dem die einzelnen Widerrufstexte kombiniert werden und der ebenfalls eine Download-Möglichkeit für das Widerrufsformular beinhaltet.
 
@@ -1748,15 +1748,15 @@ Lade die Datei, wie bereits beschrieben, über Muster-Widerrufsformular in den S
 
 
 
-# Versand-Optionen 
+## Versand-Optionen 
 
 Unter Module \> Versandarten \> Versand-Optionen findest du folgende Einstellungsmöglichkeiten:
 
-## Versandland & Postleitzahl des Versandstandortes: 
+#### Versandland & Postleitzahl des Versandstandortes: 
 
 Hinterlege hier das Land und die Postleitzahl, von denen aus versendet wird.
 
-## Maximalgewicht, das als Paket versendet werden kann: 
+#### Maximalgewicht, das als Paket versendet werden kann: 
 
 Gib das maximal pro Paket mögliche Gewicht ein. Die Eingabe erfolgt in Kilogramm, als Trennzeichen wird ein Punkt verwendet. Die Eingaben 31,5kg oder 31,5 sind also nicht korrekt, die Angabe des Maximalgewichtes muss in diesem Beispiel als 31.5 erfolgen.
 
@@ -1764,39 +1764,39 @@ CAUTION:
 
 In diesem Feld muss immer eine Eingabe erfolgen, da es sonst zu Fehlermeldungen kommen kann. Es ist jedoch möglich, das Gewicht auf fiktive Werte wie z.B. 999999 zu setzen.
 
-## Paketleergewicht: 
+#### Paketleergewicht: 
 
 Wenn du das Gewicht der Verpackung in den Versandkosten berücksichtigen möchtest, kannst du hier einen fixen Wert eingeben, zum Beispiel 0.4, wenn die Verpackung immer mit 400g berücksichtigt werden soll. Dies ist optional.
 
-## Gewichtszuwachs in %: 
+#### Gewichtszuwachs in %: 
 
 Diese Eingabe ist ebenfalls optional und wird nur berücksichtigt, wenn das Paketleergewicht nicht ausgefüllt wurde. Du hast also die Möglichkeit, entweder das Paketleergewicht mit einem fixen Gewicht anzugeben oder einen Gewichtszuwachs, der einen bestimmten Prozentsatz des Artikelgewichtes beträgt. Gehst du bei der Berechnung der Versandkosten also davon aus, dass das Gewicht der Verpackung immer ca. 10% des Gesamtgewichtes ausmachen wird, so gib hier eine 10 ein.
 
-## Versandkostenanzeige in Artikelinfos & Warenkorb: 
+#### Versandkostenanzeige in Artikelinfos & Warenkorb: 
 
 Diese beiden Punkte stellen sicher, dass die Links zu den Versandkosten-Informationen in Artikel und Warenkorb eingeblendet werden. Beachte, dass die Anzeige im Warenkorb nur möglich ist, wenn die Anzeige der Links auch für die Artikelinfos aktiviert wurde.
 
-## Versandgewicht im Warenkorb anzeigen: 
+#### Versandgewicht im Warenkorb anzeigen: 
 
 Wenn du möchtest, kannst du auch das Versandgewicht im Warenkorb anzeigen lassen, wenn du diese Option aktivierst.
 
 
 
-# Sicherheitscenter 
+## Sicherheitscenter 
 
 Unter Shop Einstellungen \> System Einstellungen \> Sicherheitscenter stehen dir Funktionen zum Spamschutz sowie allgemeine Sicherheitseinstellungen zur Verfügung. Die Einstellungen sind nach der Installation des Shopsystems bereits ideal konfiguriert. Passe die Einstellungen nur an, wenn du vermehrten Missbrauch der betroffenen Bereiche feststellst.
 
 !!! Info "Hinweis"
 	 Beachte, dass diese Funktionen keinen vollständigen Schutz für den jeweiligen Anwendungsbereich garantieren können!
 
-## Passwortverschlüsselung 
+#### Passwortverschlüsselung 
 
 In diesem Bereich kann festgelegt werden, mit welchem Verfahren Passwörter verschlüsselt werden sollen. Passwörter werden grundsätzlich im Shop nicht im Klartext gespeichert, sondern in Form eines sogenannten Hash-Werts.
 
 -   Standardverschlüsselung für Kundenpasswörter: wähle password\_hash, um Passwörter maximal stark zu verschlüsseln \(empfohlen\). Wähle md5, sofern du externe Schnittstellen nutzt, die direkt über die Datenbank Passwörter abgleichen und keine password\_hash-verschlüsselten Passwörter unterstützen.
 -   Kundenpasswörter beim nächsten Login nötigenfalls mit der aktuellen Standardverschlüsselung erneut verschlüsseln? \(empfohlen\): aktiviere diese Option, wenn du die Standardverschlüsselung wechseln möchtest und Kunden \(auch Admin-Konten!\) sich weiterhin mit ihren bisher gespeicherten Passwörtern einloggen können sollen. Andernfalls ist der Login nicht mehr möglich und ein neues Passwort muss über die Passwort vergessen-Funktion gesetzt werden.
 
-## Login-Tracker 
+#### Login-Tracker 
 
 Der Login-Tracker schützt Kundenkonten davor, durch Passwort-Erraten übernommen zu werden.
 
@@ -1804,7 +1804,7 @@ Der Login-Tracker schützt Kundenkonten davor, durch Passwort-Erraten übernomme
 -   Zeitraum: Zeitraum in Sekunden, in dem ein wiederholter Login-Versuch geloggt wird
 -   Timeout: Zeit in Sekunden, bis ein erneutes Einloggen möglich ist
 
-## Such-Tracker 
+#### Such-Tracker 
 
 Der Such-Tracker schützt deinen Shop vor Überlastung durch bösartige Skripte, die die Suchfunktion gezielt mehrfach aufrufen.
 
@@ -1812,7 +1812,7 @@ Der Such-Tracker schützt deinen Shop vor Überlastung durch bösartige Skripte,
 -   Zeitraum: Zeitraum in Sekunden, in dem eine wiederholte Suchanfrage geloggt wird
 -   Timeout: Zeit in Sekunden, bis eine erneute Suchanfrage abgeschickt werden kann
 
-## Art der Sicherheitsabfrage 
+#### Art der Sicherheitsabfrage 
 
 Über Sicherheitscodes soll verhindert werden, dass Eingabeformulare von automatischen Skripten, sogenannten Bots, verwendet werden. Zu diesem Zweck müssen die Nutzer ihre Anfrage über einen Sicherheitscode bzw. eine andere Bestätigung verifizieren. Die Art der Sicherheitscodeabfrage legt fest, welche Art Abfrage verwendet werden soll. Es stehen folgende Wahlmöglichkeiten zur Verfügung:
 
@@ -1821,13 +1821,13 @@ Der Such-Tracker schützt deinen Shop vor Überlastung durch bösartige Skripte,
 
 Damit du dich an reCaptcha v2 beteiligen kannst, musst du dich dafür anmelden. Dies kannst du unter https://developers.google.com/recaptcha/ tun. Public Key und Private Key erhältst du nach der Anmeldung für reCaptcha v2. Gebe diese dann im Sicherheitscenter im Shop ein. Den API-Key kannst du auch unter folgendem Link erhalten, wenn du dich schon für reCAPTCHA v2 angemeldet hast: https://www.google.com/recaptcha/admin/create Bitte beachte, dass dies keine Auswirkungen auf den Spam über das Widerrufsformular haben wird. Das Widerrufsformular darf keine Sicherheitsabfrage enthalten, somit wird auch das reCAPTCHA v2 dort nicht angezeigt.
 
-## Sicherheitscodeabfragen 
+#### Sicherheitscodeabfragen 
 
 Auf Shopseiten mit automatisch generierten Kontaktformularen kann zum Schutz vor Skripten, die Kontaktformulare gezielt mehrfach abschicken, ein Sicherheitscode abgefragt werden. Aktiviere das Kontrollkästchen zu den jeweiligen Seiten, auf denen der Sicherheitscode abgefragt werden soll. In der Grundkonfiguration wird auf allen automatisch generierten Kontaktformularen ein Sicherheitscode abgefragt.
 
 
 
-# Frame \(Rahmen\) 
+## Frame \(Rahmen\) 
 
 Mit der Frame-Funktion wird um das Artikelbild ein 3D-Rahmen gezeichnet.
 
@@ -1844,9 +1844,9 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 
 
-# Layout & Design 
-
 ## Layout & Design 
+
+#### Layout & Design 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1854,7 +1854,7 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 |Automatische Silbentrennung aktivieren|Artikelnamen orthografisch trennen|
 |Artikel-Ribbons aktivieren|Artikel-Ribbons in der Artikelübersicht anzeigen|
 
-## Lightbox anzeigen 
+#### Lightbox anzeigen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1867,13 +1867,13 @@ Trage den fertigen Parameter mit runden Klammern ohne Anführungszeichen in das 
 
 Die Anzeige als Lightbox steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 
-## Logo Manager 
+#### Logo Manager 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Logo-Manager|Klicke auf aufrufen, um zum Logo Manager zu wechseln|
 
-## Startseite 
+#### Startseite 
 
 ![](Bilder/Abb157_ArtikelImSwiper.PNG "Artikel in einem Swiper")
 
@@ -1897,7 +1897,7 @@ Die Anzeige als Lightbox steht ggf. nicht in allen Templates oder Themes zur Ver
 |Zeichenanzahl nach der die Artikelnamen im "Flyover" gekürzt werden.|Längenbegrenzung des Artikelnames im Flyover.|
 |Zeichenanzahl nach der der Artikelkurztext im "Flyover" gekürzt wird.|Längenbegrenzung der Kurzbeschreibung im Flyover.|
 
-## Artikeldetailseite 
+#### Artikeldetailseite 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1929,7 +1929,7 @@ Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Au
 
 |
 
-## Artikelübersicht 
+#### Artikelübersicht 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1947,7 +1947,7 @@ Das Reverse Cross-Marketing kann bei einer größeren Anzahl von Artikeln die Au
 |Hersteller-Liste|Wenn der Wert auf 1 gesetzt wird, wird die Hersteller-Box als Drop-Down-Liste angezeigt. Andernfalls als Liste \(Wert auf 0\).|
 |Hersteller- und Kategorie-Filter anzeigen?|Anzeige des Kategorie- bzw. Hersteller-Dropdowns in der Artikelübersicht.|
 
-## Kategorien 
+#### Kategorien 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1973,14 +1973,14 @@ Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 |
 |Anzahl an Kategorien pro Zeile|Anzahl an Kategorien, die pro Zeile in den Übersichten angezeigt werden sollen|
 
-## Topmenü 
+#### Topmenü 
 
 |Feldname|Beschreibung|
 |--------|------------|
 |Währungsauswahl im Top-Menü aktivieren|Währungsauwahl im Top-Menü wird verwendet|
 |Wohnort im Top-Menü aktivieren|Wohnortauswahl im Top-Menü wird verwendet|
 
-## Warenkorb 
+#### Warenkorb 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1988,7 +1988,7 @@ Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.
 |"Weiter einkaufen"-Button immer anzeigen|An- und Abschalten des Buttons Weiter einkaufen im Warenkorb|
 |Artikelanzahl statt Artikelstückzahl im kleinen Warenkorb anzeigen|Anzahl der verschiedenen Artikel im Warenkorb anstatt der Gesamtzahl an Artikeln anzeigen|
 
-## Bewertungen 
+#### Bewertungen 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -2010,7 +2010,7 @@ Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Be
 |Neue Bewertungen|Maximale Anzahl an neuen Bewertungen, die pro Seite angezeigt werden sollen|
 |Auswahlpool der Bewertungen|Aus wie vielen Bewertungen sollen die zufällig angezeigten Bewertungen in der Box ausgewählt werden?|
 
-## Bildoptionen 
+#### Bildoptionen 
 
 Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschiedenen Ausgangsgrößen angepasst. Für jedes Artikelbild werden dabei Kopien angelegt, die für ihre Verwendung skaliert sind. Die tatsächliche Anzeigegröße hängt hierbei von den Einstellungen im StyleEdit ab. Jedoch kann eine Änderung der Ausgangsgrößen erhebliche Auswirkungen auf Bildqualität und Ladezeit haben.
 
@@ -2031,7 +2031,7 @@ Ausgangsgröße ist nicht gleich angezeigte Bildgröße. In Honeygrid und Malibu
 |Breite der Artikel-Popup Bilder|Breite der Bilder in Großansicht für Flyover, Zoom-Funktion und Artikelbild-Lightbox|
 |Höhe der Artikel-Popup Bilder|Höhe der Bilder in Großansicht für Flyover, Zoom-Funktion und Artikelbild-Lightbox|
 
-## Bildeffekte 
+#### Bildeffekte 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -2062,7 +2062,7 @@ Ausgangsgröße ist nicht gleich angezeigte Bildgröße. In Honeygrid und Malibu
 
 
 
-# Artikeltyp festlegen 
+## Artikeltyp festlegen 
 
 Nach der Verbraucherrechterichtlinie wird bei im Shop vorhandenen Artikeln nach Standard- Artikeln \(materiellen Produkten\), Download-Artikeln und Dienstleistungen unterschieden. Diese Klassifizierung ist shopseitig notwendig, um bei Downloads und Dienstleistungen ggf. auf das Widerrufsrecht verzichten zu können. Zudem besteht die Möglichkeit, den genannten Verzicht als Pflichteingabe im Bestellprozess festzulegen.
 
@@ -2084,7 +2084,7 @@ Unter Import/Export \> Artikeldaten trägt die Spalte die Bezeichnung p\_type.
 
 
 
-# Einstellungen zur Darstellung 
+## Einstellungen zur Darstellung 
 
 An mehreren Stellen unter dem Menüpunkt Shop Einstellungen kannst du allgemeine Einstellungen zu Darstellungsoptionen deines Shops vornehmen. Einstellungen zum Aussehen deines Shops nimmst du mit dem Zusatzmodul StyleEdit vor. Nähere Informationen zu StyleEdit erhältst du im Kapitel Darstellung.
 
@@ -2129,9 +2129,9 @@ Die Tabelle Darstellungsoptionen unter Shop Einstellungen \> Maximum Werte biete
 
 
 
-# Kunden 
-
 ## Kunden 
+
+#### Kunden 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -2149,7 +2149,7 @@ Die Tabelle Darstellungsoptionen unter Shop Einstellungen \> Maximum Werte biete
 
 |
 
-## Kundendaten 
+#### Kundendaten 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -2170,7 +2170,7 @@ Externe Module \(Zahlungsmodule, ERP, Warenwirtschaften etc.\) müssen Straße u
 |Stadtteil|Abfrage des Stadtteils bei der Kundenanmeldung|
 |Telefonnummer|Abfrage der Telefonnummer bei der Kundenanmeldung|
 
-## Mindestlänge für Kundenfelder 
+#### Mindestlänge für Kundenfelder 
 
 Über die Mindstlänge können Felder als Plfichtfelder festgelegt werden. Ist für die Mindestlänge ein Wert größer als 0 eingetragen, ist das betreffende Feld ein Pflichtfeld.
 
@@ -2196,7 +2196,7 @@ Die Firma kann standardmäßig nicht als Pflichtangabe gesetzt werden. Eine Prü
 
 
 
-# Statistiken löschen 
+## Statistiken löschen 
 
 Über den Reiter Statistiken löschen können bei Bedarf die shopeigenen Statistiken geleert werden. Dies kann z.B. dann sinnvoll sein, wenn auf Basis einer bestehenden Shopdatenbank ein neuer Shop erstellt worden ist.
 
@@ -2204,7 +2204,7 @@ Setze die Haken für die gewünschte\(n\) Statisik\(en\) und bestätige mit Klic
 
 
 
-# Sessions 
+## Sessions 
 
 Unter Shop Einstellungen \> System Einstellungen \> Sessions werden die Einstellungen vorgenommen die Auswirkungen auf die Funktionen der jeweiligen Session haben, wie z.B. das Einloggen, den Warenkorb und Merkzettel.
 
@@ -2214,37 +2214,37 @@ CAUTION:
 
 Bitte führe hier nur Änderungen durch, wenn du dir über die möglichen Folgen im Klaren bist und du dir sicher bist, dass diese Funktion vom Server unterstützt wird!
 
-## Überprüfen der SSL Session ID 
+#### Überprüfen der SSL Session ID 
 
 Wenn diese Option auf ✔ gesetzt wurde, wird die Session ID bei SSL Verbindungen über HTTPS daraufhin geprüft, ob diese mit der Session ID ohne SSL identisch ist.
 
 Dies kann zur Folge haben, dass ein Einloggen nicht mehr möglich ist, sollten die Session IDs voneinander abweichen. Diese Option sollte daher nicht gesetzt werden.
 
-## Überprüfen des User Browsers 
+#### Überprüfen des User Browsers 
 
 Wenn diese Option auf ✔ eingestellt ist, wird der Browser des Kunden daraufhin überprüft ob dieser einen korrekten Referer enthält. Sollte der Browser des Kunden nicht erkannt werden, kann das Einloggen für diesen unmöglich werden. Diese Option ist standardmäßig nicht gesetzt.
 
-## Überprüfen der IP-Adresse 
+#### Überprüfen der IP-Adresse 
 
 Wenn diese Option gesetzt wurde, wird geprüft, ob sich die IP Adresse des Kunden zwischen den Seitenaufrufen geändert hat. Ist dies der Fall, wird die Session zwangsweise beendet und der Kunde ist nicht mehr eingeloggt. Dies kann sehr unerwartet auftreten, beispielsweise wenn die IP Adresse kundenseitig durch eine erneute Einwahl ins Internet geändert wurde.
 
 Diese Option sollte daher ebenfalls nicht gesetzt werden, um den Verlust der Session zu vermeiden.
 
-## Session erneuern 
+#### Session erneuern 
 
 Diese Option erneuert die Session ID, wenn der Kunde sich während einer Session ausloggt und wieder einloggt. Da dies aber einige Server von sich aus vornehmen, ist diese Einstellung standardmäßig nicht gesetzt. Diese Option kann erst ab der PHP Version 4.1 genutzt werden, da bei älteren Varianten die Sitzung in Mitleidenschaft gezogen wird. Wenn die Sitzung erfolgreich erneuert wurde, bleiben Warenkorb und Login erhalten.
 
-## Session Gültigkeitsdauer 
+#### Session Gültigkeitsdauer 
 
 Legt die Dauer in Minuten fest, wie lange eine Session im Gambio Admin gültig ist. Nach Ablauf dieser festgelegten Zeit wird die Session entfernt und eine erneute Anmeldung ist erforderlich!
 
-## Spider Sessions vermeiden 
+#### Spider Sessions vermeiden 
 
 Hierdurch kann verhindert werden, dass Bots von Suchmaschinen eine Session im Shop erhalten. Mit einer Session könnten diese Bots Artikel in den Warenkorb legen und würden als normale Besucher gewertet. Die Einstellung ist standardmäßig gesetzt.
 
 
 
-# Festlegen der Versand- & Zahlungsbedingungen 
+## Festlegen der Versand- & Zahlungsbedingungen 
 
 Der Content Versand- & Zahlungsbedingungen \(ID 3889891\) verfügt über eine Matrix zur Auflistung der Versandkosten und Zahlungsweisen für die im Shop aktivierten Länder. Im Textfeld wird diese Matrix mit Hilfe des Platzhalters \{$shipping\_and\_payment\_ matrix\} eingebunden. Dieser ist standardmäßig im Content vorhanden.
 
@@ -2281,7 +2281,7 @@ Mit Klick auf Speichern werden die Einstellungen aus beiden Schritten gespeicher
 
 
 
-# Sendungsnummer zuordnen 
+## Sendungsnummer zuordnen 
 
 Um einen Paketdienst einer Bestellung zuzuordnen, gehe bitte im Gambio Admin in das Menü Bestellungen \> Bestellungen. Wähle die Bestellung durch einen Klick aus, sodass sie blau hinterlegt ist und klicke auf das Augen-Symbol, um die Bestellung aufzurufen.
 
@@ -2296,7 +2296,7 @@ Die zugewiesene Sendungsnummer, der Paketdienst, sowie das Datum der Zuweisung w
 
 
 
-# Einstellen des Widerrufsrechts 
+## Einstellen des Widerrufsrechts 
 
 Die Grundeinstellungen zum Widerrufsrecht werden unter Shop Einstellungen \> Rechtliches vorgenommen. Hierzu zählen der Reihe nach:
 
@@ -2324,9 +2324,9 @@ Lege hier fest, in welchem Format du das Widerrufsformular anbieten möchtest, a
 
 
 
-# Lieferung 
+## Lieferung 
 
-## Lieferstatus 
+#### Lieferstatus 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -2343,7 +2343,7 @@ Lege hier fest, in welchem Format du das Widerrufsformular anbieten möchtest, a
 |Paketleergewicht|Wenn du das Gewicht der Verpackung in den Versandkosten berücksichtigen möchtest, kannst du hier einen fixen Wert eingeben, zum Beispiel 0.4, wenn die Verpackung immer mit 400g berücksichtigt werden soll.|
 |Bei größeren Leerpaketen - Gewichtszuwachs in %|Diese Eingabe ist ebenfalls optional und wird nur berücksichtigt, wenn das Paketleergewicht nicht ausgefüllt wurde. Du hast also die Möglichkeit, entweder das Paketleergewicht mit einem fixen Gewicht anzugeben oder einen Gewichtszuwachs, der einen bestimmten Prozentsatz des Artikelgewichtes beträgt. Gehst du bei der Berechnung der Versandkosten also davon aus, dass das Gewicht der Verpackung immer ca. 10% des Gesamtgewichtes ausmachen wird, so gib hier eine 10 ein.|
 
-## Versanddienstleister 
+#### Versanddienstleister 
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -2351,7 +2351,7 @@ Lege hier fest, in welchem Format du das Widerrufsformular anbieten möchtest, a
 
 
 
-# Lagerverwaltungs-Optionen 
+## Lagerverwaltungs-Optionen 
 
 Unter Shop Einstellungen \> Lagerverwaltungs-Optionen lässt sich die shopeigene Lagerverwaltung einrichten. Folgende Einstellungsmöglichkeiten sind gegeben:
 
@@ -2371,17 +2371,17 @@ Unter Shop Einstellungen \> Lagerverwaltungs-Optionen lässt sich die shopeigene
 !!! Info "Hinweis"
 	 Lagerstands-Einstellungen greifen nur bedingt bei Artikel-Eigenschaften. Wenn Artikel- Eigenschaften verwendet werden, wird die Lagerverwaltung in den Kombinationen des Artikels eingestellt. Bearbeite hierzu den Artikel und klicke auf Eigenschaften.
 
-## Artikel inaktiv setzen 
+#### Artikel inaktiv setzen 
 
 Wenn Artikel inaktiv gesetzt werden sollen, müssen Überprüfen des Artikelbestandes und Artikelmenge abziehen auf Ja gesetzt sein, Einkaufen nicht vorrätiger Artikel hingegen auf Nein.
 
-## Attribute inaktiv setzen 
+#### Attribute inaktiv setzen 
 
 Diese Funktion sollte nur in Verbindung mit Artikel inaktiv setzen verwendet werden, damit Artikel, die nicht mehr auf Lager sind, nicht angezeigt werden. Anderenfalls können Artikel, dessen Attribute nicht mehr auf Lager sind, ohne Attribute in den Warenkorb gelegt werden.
 
 
 
-# Paketdienste anlegen und bearbeiten 
+## Paketdienste anlegen und bearbeiten 
 
 Unter Shop Einstellungen \> Paketdienste kannst du die Dienstleister hinterlegen und bearbeiten. Klicke auf Hinzufügen, um einen neuen Paketversender anzulegen. Gib unter Name einen allgemeinen Bezeichner ein, z.B. DHL.
 
