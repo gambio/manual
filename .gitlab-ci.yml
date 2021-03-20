@@ -22,6 +22,7 @@ build:
         url: https://developers.gambio.de/docs/manual/
     script:
         - '# generate manual with mkdocs'
+        - export
         - ./src/build.sh v4.3.2.1
         - rm -r .git # Remove git directory before upload
         - ssh redmine 'rm -r /var/www/developers.gambio.de/docs/manual/; mkdir /var/www/developers.gambio.de/docs/manual/'
