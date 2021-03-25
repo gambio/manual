@@ -1,9 +1,0 @@
-# Darstellung im Shop 
-
-  
-
-  
-
-
-
-
