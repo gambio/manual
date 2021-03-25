@@ -24,9 +24,9 @@ build:
     script:
         - '# generate manual with mkdocs'
         - export
-        - ./src/build.sh ${CI_COMMIT_TAG}
+        - ./src/build.sh ${CI_COMMIT_REF_NAME}
         - rm -r .git # Remove git directory before upload
-        - ssh redmine "mkdir -p /var/www/developers.gambio.de/docs/manual/${CI_COMMIT_TAG}/"
-        - scp -r ./dist/${CI_COMMIT_TAG}/* redmine:/var/www/developers.gambio.de/docs/manual/${CI_COMMIT_TAG}/
+        - ssh redmine "mkdir -p /var/www/developers.gambio.de/docs/manual/${CI_COMMIT_REF_NAME}/"
+        - scp -r ./dist/${CI_COMMIT_REF_NAME}/* redmine:/var/www/developers.gambio.de/docs/manual/${CI_COMMIT_REF_NAME}/
     only:
         - branches
