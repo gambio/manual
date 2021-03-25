@@ -29,4 +29,4 @@ build:
         - ssh redmine "mkdir -p /var/www/developers.gambio.de/docs/manual/${CI_COMMIT_TAG}/"
         - scp -r ./dist/${CI_COMMIT_TAG}/* redmine:/var/www/developers.gambio.de/docs/manual/${CI_COMMIT_TAG}/
     only:
-        - tags
+        - branches
