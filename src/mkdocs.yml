@@ -51,7 +51,7 @@ markdown_extensions:
       toc_depth: 6
       permalink: true
 plugins:
-  - markdown-image-caption.plugin
+  - markdown_image_caption.plugin
   - search:
       lang: de
       separator: '[\s\-\.]+'
