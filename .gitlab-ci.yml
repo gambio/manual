@@ -30,3 +30,5 @@ build:
         - scp -r ./dist/${CI_COMMIT_REF_NAME}/* redmine:/var/www/developers.gambio.de/docs/manual/${CI_COMMIT_REF_NAME}/
     only:
         - branches
+    except:
+        - master
