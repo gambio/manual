@@ -55,3 +55,5 @@ plugins:
   - search:
       lang: de
       separator: '[\s\-\.]+'
+  - section-index
+  - toc-sidebar

@@ -22,6 +22,7 @@ Die folgenden Menüpunkte stehen in Cloud-Shops nicht zur Verfügung:
 
 -   Shop Einstellungen \> System Einstellungen \> Shop-Key
 -   Shop Einstellungen \> System Einstellungen \> Logging-Optionen
+-   Toolbox \> Datenbanksicherung
 -   Toolbox \> Dateien sichern
 -   Toolbox \> Logs anzeigen
 -   Toolbox \> Server-Info
