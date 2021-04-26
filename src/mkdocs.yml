@@ -52,8 +52,8 @@ markdown_extensions:
       toc_depth: 6
       permalink: true
 plugins:
+  - section-index
+  - toc-sidebar
   - search:
       lang: de
       separator: '[\s\-\.]+'
-  - section-index
-  - toc-sidebar
