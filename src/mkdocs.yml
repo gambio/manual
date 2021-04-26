@@ -53,7 +53,6 @@ markdown_extensions:
       permalink: true
 plugins:
   - section-index
-  - toc-sidebar
   - search:
       lang: de
       separator: '[\s\-\.]+'
