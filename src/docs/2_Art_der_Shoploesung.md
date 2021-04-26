@@ -10,7 +10,7 @@ Das Gambio Shopsystem steht sowohl als Installationspaket für einen selbstgehos
 
 Beide Systeme sind bis auf wenige Besonderheiten auf der Cloud-Seite identisch, daher kann dieses Handbuch für beide Varianten verwendet werden.
 
-## Wesentliche Unterschiede zwischen selbstgehosteten und Cloud-basierten Shops auf einen Blick 
+## Wesentliche Unterschiede zwischen selbstgehosteten und Cloud-basierten Shops
 
 -   Cloud-Shops verfügen über einen Einrichtungsassistenten
 -   Cloud-Shops bieten nur einen eingeschränkten FTP-Zugriff, die Installation von Drittanbieter-Modulen ist bis auf Weiteres nicht möglich
