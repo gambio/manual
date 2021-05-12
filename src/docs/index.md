@@ -23,7 +23,7 @@ www.gambio-support.de
 
 Über das Gambio-Kundenportal hast du Zugriff auf das offizielle Gambio-Forum. Viele tausend Shopbetreiber sind im offiziellen Gambio-Forum aktiv und mit großer Wahrscheinlichkeit findest du hier bereits eine Antwort auf deine Fragen. Das Forum erreichst du direkt über das Gambio-Kundenportal.
 
-Wenn sowohl das Handbuch als auch das Gambio-Forum keine Hilfe bieten konnten, wende dich direkt an unser Support Team. Ein neues Support-Ticket kannst du direkt über das Gambio Kundenportal eröffnen.
+Wenn sowohl das Handbuch als auch das Gambio-Forum keine Hilfe bieten konnten, wende dich direkt an unser Support Team. Ein neues Support-Ticket kannst du direkt über das Gambio Kundenportal eröffnen. 
 
 Verbesserungsvorschläge? Gerne! Sende uns einfach eine E-Mail an:
 
