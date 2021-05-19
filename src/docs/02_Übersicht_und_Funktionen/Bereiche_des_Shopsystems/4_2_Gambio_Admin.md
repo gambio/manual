@@ -1,11 +1,10 @@
 # Gambio Admin 
 
-![](../../Bilder/Abb013_GambioAdmin.PNG "Gambio Admin")
+![](../../Bilder/GambioAdminDashboard_.png "Gambio Admin")
 
 1.  \(I\) rechte Spalte
 2.  \(II\) linke Spalte: In der linken Spalte des Gambio Admins werden die Konfigurationsmodule in Oberkategorien zusammengefasst dargestellt.
 3.  \(III\) oberes Menü: Im zentralen Bereich des oberen Menüs findest du ein Feld zur Schnellsuche von Artikeln, Bestellungen und Kunden. Hier kannst du gezielt nach Artikelnamen, Bestellnummern oder Kundennamen suchen. Im rechten Bereich des oberen Menüs findest du einen zusätzlichen Eintrag für die Suche, die Admin-Info-Box für Benachrichtigungen sowie Schaltflächen zum Aufrufen des Shops und zum Abmelden.
-4.  \(IV\) Admin-Info Box: In der Admin-Info Box werden Informationen zu deinem Shop angezeigt. Dazu gehören unter Anderem Hinweise auf Updates und Patches für deine Shopversion sowie Hinweise und Warnungen.
 
 !!! note "Hinweis"
 	 Einträge des Konfigurationsmenüs können als Favorit zugeordnet werden, diese werden dann zusätzlich unter Favs angezeigt.
