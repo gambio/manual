@@ -103,7 +103,7 @@ Wenn Eigenschaften beim Export berücksichtigt werden, steht als letzter Eintrag
 Die Kombinationen im Artikel werden über die _**Kombinationsdaten**_ ausgewählt. Diese sind der Reihe nach:
 
 -   _**products\_properties\_combis\_id**_: ID der Kombinationen pro Artikel
--   _**combi\_sort\_orde**_r: die Sortierreihenfolge der Kombination
+-   _**combi\_sort\_order**_: die Sortierreihenfolge der Kombination
 -   _**combi\_model**_: die Artikelnummer der Kombination
 -   _**combi\_ean**_: die EAN der Kombination
 -   _**combi\_quantity**_: der Lagerstand der Kombination
@@ -116,7 +116,6 @@ Die Kombinationen im Artikel werden über die _**Kombinationsdaten**_ ausgewähl
 
     fix = Kombinationsfestpreis
 
--   _**combi\_image**_: das eingerichtete Kombination-Bild
 -   _**combi\_vpe\_id**_: die Verpackungseinheit der Kombination
 -   _**combi\_vpe\_value**_: der Wert im Bezug auf den Grundpreis
 
@@ -607,7 +606,6 @@ Wenn Eigenschaften-Kombinationen beim Import berücksichtigt werden sollen, kön
 
     fix = Kombinationsfestpreis
 
--   _**combi\_image**_: das eingerichtete Kombination-Bild
 -   _**combi\_vpe\_id**_: die Verpackungseinheit der Kombination
 -   _**combi\_vpe\_value**_: der Wert im Bezug auf den Grundpreis
 

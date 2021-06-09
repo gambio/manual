@@ -57,7 +57,7 @@ Das Element _**Eingabefeld**_ liegt in den Varianten _**einzeilig**_ und _**mehr
 
 1.  Trage im Feld _**Erlaubte Dateitypen**_ kommagetrennt und ohne Leerzeichen die Dateiendungen ein, die von Kunden hochgeladene Dateien haben dürfen
 2.  Trage im Feld _**Min. Dateigröße**_ eine Mindestgröße für hochgeladene Dateien ein
-3.  Trage im Feld Max. Dateigröße eine Maximalgröße für hochgeladene Dateien ein
+3.  Trage im Feld _**Max. Dateigröße**_ eine Maximalgröße für hochgeladene Dateien ein
 
 ### Dropdown
 

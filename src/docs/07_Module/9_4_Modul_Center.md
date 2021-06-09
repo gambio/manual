@@ -2087,3 +2087,28 @@ Der Sandbox-Modus kann für dieses Modul nicht einfach gesetzt werden. Wenn du d
 
 
 
+## Magnalister
+
+!!! note "Hinweis"
+	 Das Magnalister-Modul wird zwar im Grundumfang des Shopsystems ausgeliefert, Entwicklung und Support finden jedoch durch Magnalister statt. 
+	 
+### Verfügbarkeit und Installation
+
+Das Magnalister-Modul ist im Standardumfang der Shopsoftware enthalten und kann unter _**Module > Modul-Center**_ installiert werden. Wähle hierzu den Eintrag _**magnalister**_ aus und klicke unten rechts auf die Schaltfläche _**Installieren**_. Nach der Installation wird im Menü des Gambio Admins ein weiterer Menüpunkt _**Marketing**_ mit mehreren Unterpunkten angezeigt.
+
+### Konfiguration
+
+Beim ersten Aufruf wird die globale Konfiguration angezeigt. Hier muss zunächst die Passphrase eingetragen werden, bevor man die anderen Punkte im Modul öffnen kann. Die Passphrase erhält man, wenn der Shop im Konto bei Magnalister eingetragen wurde. 
+
+![](../Bilder/magnalister/20190408_001.png "Globale Konfiguration vor dem Eintragen der Passphrase")
+
+Nach dem Eintragen der Passphrase stellt sich die Konfigurationsseite so dar (Experteneinstellungen wurden aktiviert): 
+
+![](../Bilder/magnalister/2020-10-01_006.png "Globale Konfiguration nach dem Eintragen der Passphrase")
+
+### Anleitung
+
+Bei näheren Fragen zur Konfiguration, wende dich bitte an die Kollegen von Magnalister. Du findest die Magnalister-FAQ unter folgendem Link:
+
+https://otrs.magnalister.com/otrs/public.pl?Action=PublicFAQExplorer;CategoryID=5
+

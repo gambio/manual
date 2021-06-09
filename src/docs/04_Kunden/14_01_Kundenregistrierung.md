@@ -1,6 +1,6 @@
 # Kundenregistrierung
 
-![](../Bilder/Abb160_RegistrierungsformularInDerShopansicht.png "Registrierungsformular in der Shopansicht")
+![](../Bilder/EinKundenkontoErstellen.png "Registrierungsformular in der Shopansicht")
 
 Im Gambio Admin deines Shops kannst du unter _**Kunden \> Kunden \> Kunden-Details**_ festlegen, ob deine Kunden über ein Registrierungsformular selbständig ein Kundenkonto anlegen können. Wähle bei _**Art der Kontoerstellung**_ eine der in der Tabelle _**Art der Kontoerstellung**_ beschriebenen Optionen aus. Klicke anschließend auf _**Speichern**_, um die Änderungen zu speichern.
 

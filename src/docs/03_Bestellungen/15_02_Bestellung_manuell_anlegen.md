@@ -25,6 +25,11 @@ Bei einer vorhandenen Bestellung kannst du die Kundendaten, wie die Versand- und
 
 Einer vorhandenen Bestellung kannst du neue Artikel über die Bestell-Eingabemaske hinzufügen. Klicke auf der Detailseite der Bestellung im Bereich _**Artikel**_ auf _**Bearbeiten**_, um die Bestell-Eingabemaske aufzurufen.
 
+!!! danger "Achtung"
+	 Gutschein-Artikel können nur direkt im Shop bestellt werden. Das manuelle Anlegen oder Nachbearbeiten einer Bestellung mit Gutschein-Artikeln ist nicht vorgesehen; so hinzugefügte oder bearbeitete Gutscheine werden nicht vom Gutscheinsystem verarbeitet.
+
+	 Anstelle einer händisch angelegten Bestellung sollte die Funktion _**Als Kunde einloggen**_ über die Dropdown-Schaltfläche des jeweiligen Kundenkontos unter _**Kunden > Kunden**_ verwendet werden, um eine Bestellung anstelle des Kunden auszuführen.
+
 1.  Trage im Feld _**Artikelsuche**_ den Namen oder einen Teil des Namens des hinzuzufügenden Artikels ein, lasse das Feld leer, um alle Artikel anzeigen zu lassen
 2.  Klicke auf _**Suchen**_
 3.  Trage in das Feld in der Spalte _**Anzahl**_ bei dem hinzuzufügenden Artikel die bestellte Menge des Artikels ein

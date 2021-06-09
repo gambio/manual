@@ -48,7 +48,7 @@ Die meisten Funktionen ähneln denen von herkömmlichen Textverarbeitungen, es g
 
 -   Link einfügen/editieren: siehe Kapitel _**Link einfügen/editieren**_
 -   Link entfernen
--   Anker einfügen/editieren
+-   Anker
 
 ![](../../Bilder/Icons/CK05_Suchen.png)
 
@@ -180,4 +180,81 @@ Es ist auch möglich Bilder mit einem Link zu versehen. Klicke hierzu mit der li
 
 
 
+
+## Anker
+
+Über die Funktion _**Anker**_ können im CK-Editor Sprungmarkierungen innerhalb eines Inhalts, wie etwa einer Content-Seite oder Artikelbeschreibung, gesetzt werden. Diese Marken können dann mit Hilfe von Links aufgerufen werden, sodass der Browser selbsttätig zur verlinkten Markierung springt.
+
+### Anker setzen
+
+![](../../Bilder/ankerAnkerSetzen_buttonAnker.png "Button _**Anker**_ im CK-Editor")
+
+Über die Schaltfläche mit dem Flaggen-Symbol kann ein Anker gesetzt werden. Markiere den Text, zu dem gesprungen werden soll und klicke auf die Flagge um den Anker zu setzen.
+
+![](../../Bilder/ankerAnkerSetzen_buttonAnkerModal.png "Dialog zum Setzen des Ankers")
+
+Es öffnet sich ein Dialogfenster, in dem du den Namen für den Anker festlegen kannst.
+
+!!! danger "Achtung"
+	 Der Name für den Anker muss eindeutig sein, .d.h. er darf nicht an anderer Stelle nochmals verwendet werden.
+
+Gib einen aussagekräftigen Namen ein und bestätige mit Klick auf _**OK**_.
+
+![](../../Bilder/ankerAnkerSetzen_ankerGesetzt.png "Anker wurde gesetzt")
+
+### Anker bearbeiten
+
+Ein gesetzter Anker kann über einen Rechtsklick auf den Anker und den Eintrag im Kontextmenü bearbeitet werden:
+
+![](../../Bilder/ankerAnkerBearbeiten_Kontextmenue.png "Eintrag _**Anker bearbeiten**_ im Kontextmenü")
+
+Der Name des Ankers kann nachträglich angepasst werden:
+
+![](../../Bilder/ankerAnkerBearbeiten_Dialog.png "Dialog zum Bearbeiten des Ankers")
+
+
+
+### Anker entfernen
+
+Ein gesetzter Anker kann über einen Rechtsklick auf den Anker und den Eintrag im Kontextmenü gelöscht werden:
+
+![](../../Bilder/ankerAnkerLoeschen_Kontextmenue.png "Eintrag _**Anker entfernen**_ im Kontextmenü")
+
+### Anker verlinken
+
+Der Link zu einem Anker kann über die Schaltfläche _**LInk einfügen/editieren**_ festgelegt werden:
+
+![](../../Bilder/ankerAnkerVerlinken_buttonLink.png "Schaltfläche _**Link einfügen/editieren**_ im CK-Editor")
+
+Markieren den Text, den du als Link verwenden möchtest und klicke auf die Schaltfläche mit den Kettengliedern. 
+
+![](../../Bilder/ankerAnkerVerlinken_linkTypFestlegen.png "Auswahl des Link-Typs im Dialog _**Link**_ über das Dropdown")
+
+Wähle im Dialogfenster über das Dropdown _**Link-Typ**_ den Eintrag _**Anker in dieser Seite**_ aus. Es werden neue Einstellungen angezeigt:
+
+![](../../Bilder/ankerAnkerVerlinken_ankerAuswaehlen.png "Auswahl des Ankers im Dialogfenster")
+
+Der Anker kann nun über das linke Dropdown _**Nach Ankername**_ ausgewählt werden:
+
+![](../../Bilder/ankerAnkerVerlinken_ankerAuswaehlenName.png "Anker _**Überschrift2**_ kann über das Dropdown ausgewählt werden")
+
+Bestätige mit Klick auf _**OK**_ um den Link zu setzen:
+
+![](../../Bilder/ankerAnkerVerlinken_linkGesetzt.png "Der Link auf den Anker wurde gesetzt")
+
+### Anker-Link bearbeiten
+
+Ein so gesetzter Link kann nachträglich bearbeitet werden. Klicke hierzu mit der rechten Maustaste auf den jeweiligen Link und wähle aus dem Kontextmenü den Eintrag _**Link bearbeiten**_ aus:
+
+![](../../Bilder/ankerAnkerLinkBearbeiten_Kontextmenue.png "Eintrag _**Link bearbeiten**_ im Kontextmenü")
+
+Es öffnet sich das Menü _**Link**_ in dem ein anderer Anker ausgewählt werden kann:
+
+![](../../Bilder/ankerAnkerLinkBearbeiten_Dialog.png "Menü _**Link**_ beim Bearbeiten des Anker-Links")
+
+### Anker-Link entfernen
+
+Über einen Rechtsklick kann ein gesetzter Anker-Link ebenfalls wieder entfernt werden. Wähle hierzu den Eintrag _**Link entfernen**_ aus dem Kontextmenü aus:
+
+![](../../Bilder/ankerAnkerLinkEntfernen_Kontextmenue.png "Eintrag _**Link entfernen**_ im Kontextmenü")
 

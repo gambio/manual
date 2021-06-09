@@ -57,6 +57,11 @@ Der Gutschein-Empfänger erhält eine E-Mail mit dem gewählten Betreff. Die E-M
 
 Gutscheine können als Artikel im Shop angeboten werden. Deine Kunden kaufen mit einem Gutschein-Artikel Guthaben, das sie einer anderen Person per E-Mail schenken oder bei einem späteren Einkauf verrechnen lassen können.
 
+!!! danger "Achtung"
+	 Gutschein-Artikel können nur direkt im Shop bestellt werden. Das manuelle Anlegen oder Nachbearbeiten einer Bestellung mit Gutschein-Artikeln ist nicht vorgesehen; so hinzugefügte oder bearbeitete Gutscheine werden nicht vom Gutscheinsystem verarbeitet.
+
+	 Anstelle einer händisch angelegten Bestellung sollte die Funktion _**Als Kunde einloggen**_ über die Dropdown-Schaltfläche des jeweiligen Kundenkontos unter _**Kunden > Kunden**_ verwendet werden, um eine Bestellung anstelle des Kunden auszuführen.
+
 1.  Lege einen neuen Gutschein-Artikel an.
 
     Achte beim Anlegen von Gutschein-Artikeln auf die im Kapitel _**Artikel anlegen**_ beschriebenen Pflichtfelder.

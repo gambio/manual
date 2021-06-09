@@ -1,8 +1,8 @@
 # Zahlungsweisen
 
-Im Gambio Admin deines Shops unter Module \> Zahlungsweisen stehen dir verschiedene Zahlungsweisen und Schnittstellenmodule für Zahlungsdienstleister zur Verfügung.
+Im Gambio Admin deines Shops unter _**Module \> Zahlungsweisen**_ stehen dir verschiedene Zahlungsweisen und Schnittstellenmodule für Zahlungsdienstleister zur Verfügung.
 
-Der Bereich _**Zahlungsweisen**_ teilt sich in das_** Gambio Payment Hub**_ und _**Sonstige**_ auf. Unter _**Gambio Payment Hub**_ werden die Hub-basierten Zahlungsmodule angezeigt, unter _**Sonstige**_ die vom Shop selbst bereitgestellten Module.
+Der Bereich _**Zahlungsweisen**_ teilt sich in das _**Gambio Payment Hub**_ und _**Sonstige**_ auf. Unter _**Gambio Payment Hub**_ werden die Hub-basierten Zahlungsmodule angezeigt, unter _**Sonstige**_ die vom Shop selbst bereitgestellten Module.
 
 !!! note "Hinweis"
 	 Für die Schnittstellenmodule der Zahlungsdienstleister benötigst du ein Konto beim jeweiligen Zahlungsdienstleister.
@@ -111,7 +111,7 @@ Bestätige vorgenommene Einstellungen mit einem Klick auf _**Speichern**_. Über
 
 Installiere das Modul _**Rechnung**_ um Zahlungen per Rechnung im Shop zu ermöglichen.
 
-![](../Bilder/Abb067_Hub_Rechnung.png "Konfigurationsmaske von _**Rechnung
+![](../Bilder/rechnung_invoicehub/2021-05-20_007.png "Konfigurationsmaske von _**Rechnung
       (InvoiceHub)**_")
 
 Es stehen die folgenden Einstellungen zur Verfügung:
@@ -119,6 +119,7 @@ Es stehen die folgenden Einstellungen zur Verfügung:
 |Feldname|Beschreibung|
 |--------|------------|
 |Aktiviert|Haken setzen, um Modul im Bestellvorgang anzuzeigen|
+|Zahlungsabgleich mit GiroConnect|Hier kannst du den Zahlungsabgleich per GiroConnect aktivieren oder deaktivieren|
 |Kürzel für Bestellübersicht|Kürzel in der Spalte _**Zahlung**_ unter _**Bestellungen \> Bestellungen**_|
 |Erlaubte Länder|Bestellung für diese Länder erlauben, Angabe als zweistelliger ISO-Code, durch Komma getrennt \(z.B. DE,AT,CH\)|
 |Erlaubte Sprachen|nur in diesen Sprachen kann bestellt werden, durch Komma getrennte Sprachcodes \(z.B. de,en\)|
@@ -937,10 +938,11 @@ Bei der Zahlung per Vorkasse wird deinem Kunden nach dem Aufgeben der Bestellung
 4.  Nimm die Konfiguration des Moduls anhand der Tabelle _**Konfiguration der Zahlungsweise Vorkasse**_ vor
 5.  Klicke auf _**Aktualisieren**_, um die Änderungen an der Konfiguration zu übernehmen
 
-![](../Bilder/Abb064_KonfigurationsmaskeVorkasse.png "Konfigurationsmaske _**Vorkasse**_")
+![](../Bilder/moneyorder_2021-05-19_002.png "Konfigurationsmaske _**Vorkasse**_")
 
 |Feldname|Beschreibung|
 |--------|------------|
+|Kürzel für Bestellübersicht|Hier kann eingetragen werden, unter welchem Kürzel Bestellungen mit dieser Zahlungsweise in der Bestellübersicht angezeigt werden sollen|
 |Vorkasse/Überweisung Modul aktivieren|Bei ✔ kann der Kunde die Zahlungsweise im Bestellvorgang auswählen \[✔\]|
 |Erlaubte Zonen|kommagetrennte Liste der zweistelligen ISO-Codes für Länder, aus denen die Zahlungsweise verwendet werden darf \(alle Länder bei keinem Eintrag\)|
 |Zahlungszone|Steuerzone, aus der die Zahlungsweise verwendet werden darf \(überschreibt _**Erlaubte Zonen**_\) \[--keine--\]|
@@ -977,10 +979,11 @@ Bei der Zahlung per Rechnung legst du dem Kunden der ausgelieferten Ware eine Re
 4.  Nimm die Konfiguration des Moduls anhand der Tabelle _**Konfiguration der Zahlungsweise Rechnung**_ vor
 5.  Klicke auf _**Aktualisieren**_, um die Änderungen an der Konfiguration zu übernehmen
 
-![](../Bilder/Abb066_KonfigurationsmaskeRechnung.png "Konfigurationsmaske _**Rechnung**_")
+![](../Bilder/rechnung_invoice/2021-05-20_004.png "Konfigurationsmaske _**Rechnung**_")
 
 |Feldname|Beschreibung|
 |--------|------------|
+|Kürzel für Bestellübersicht|Kürzel, das für die Zahlungsweise in der Bestellübersicht angezeigt wird|
 |Rechnungsmodul aktivieren|Bei ✔ kann der Kunde die Zahlungsweise im Bestellvorgang auswählen \[✔\]|
 |Erlaubte Zonen|kommagetrennte Liste der zweistelligen ISO-Codes für Länder, aus denen die Zahlungsweise verwendet werden darf \(alle Länder bei keinem Eintrag\)|
 |Zahlungszone|Steuerzone, aus der die Zahlungsweise verwendet werden darf \(überschreibt _**Erlaubte Zonen**_\) \[--keine--\]|
@@ -1001,7 +1004,7 @@ Bei der Zahlung per Nachnahme bezahlt der Kunde die Ware direkt bei der Zustellu
 4.  Nimm die Konfiguration des Moduls anhand der Tabelle _**Konfiguration der Zahlungsweise Nachnahme**_ vor
 5.  Klicke auf _**Aktualisieren**_, um die Änderungen an der Konfiguration zu übernehmen
 
-![](../Bilder/Abb067_KonfigurationsmaskeNachnahme.png "Konfigurationsmaske _**Nachnahme**_")
+![](../Bilder/nachnahme_cod/2021-05-20_003.png "Konfigurationsmaske _**Nachnahme**_")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1027,7 +1030,7 @@ Bei der Zahlungsweise _**SEPA-Lastschriftverfahren**_ übermittelt dein Kunde di
 4.  Nimm die Konfiguration des Moduls anhand der Tabelle _**Konfiguration der Zahlungsweise SEPA-Lastschriftverfahren**_ vor
 5.  Klicke auf _**Aktualisieren**_, um die Änderungen an der Konfiguration zu übernehmen
 
-![](../Bilder/Abb068_KonfigurationsmaskeSEPA_Lastschriftverfahren.png "Konfigurationsmaske
+![](../Bilder/sepa/2021-05-20_005.png "Konfigurationsmaske
       _**SEPA-Lastschriftverfahren**_")
 
 !!!danger "Achtung"
@@ -1036,6 +1039,7 @@ Bei der Zahlungsweise _**SEPA-Lastschriftverfahren**_ übermittelt dein Kunde di
 
 |Feldname|Beschreibung|
 |--------|------------|
+|Kürzel für Bestellübersicht|Kürzel, das für die Zahlungsweise in der Bestellübersicht angezeigt wird|
 |Sepa Zahlungen erlauben|Bei ✔ kann der Kunde die Zahlungsweise im Bestellvorgang auswählen \[✔\]|
 |Gläubiger-ID|Gib in dieses Feld deine Gläubiger-ID ein|
 |Mandat-Formular senden?|Bei ✔ wird das Mandat-Formular mit der Bestellbestätigung zusammen versendet \[✖\]|
@@ -1062,10 +1066,11 @@ Die Zahlungsweise _**Barzahlung**_ ist im Shopbereich ausschließlich in Verbind
 4.  Nimm die Konfiguration des Moduls anhand der Tabelle _**Konfiguration der Zahlungsweise Barzahlung**_ vor
 5.  Klicke auf _**Aktualisieren**_, um die Änderungen an der Konfiguration zu übernehmen
 
-![](../Bilder/Abb069_KonfigurationsmaskeBarzahlung.png "Konfigurationsmaske _**Barzahlung**_")
+![](../Bilder/barzahlung_cash/2021-05-20_002.png "Konfigurationsmaske _**Barzahlung**_")
 
 |Feldname|Beschreibung|
 |--------|------------|
+|Kürzel für Bestellübersicht|Kürzel in der Spalte Zahlung unter _**Bestellungen > Bestellungen**_|
 |Barzahlungsmodul aktivieren|Bei ✔ kann der Kunde die Zahlungsweise im Bestellvorgang auswählen \[✔\]|
 |Erlaubte Zonen|kommagetrennte Liste der zweistelligen ISO-Codes für Länder, aus denen die Zahlungsweise verwendet werden darf \(alle Länder bei keinem Eintrag\)|
 |Zahlungszone|Steuerzone, aus der die Zahlungsweise verwendet werden darf \(überschreibt _**Erlaubte Zonen**_\) \[--keine--\]|
