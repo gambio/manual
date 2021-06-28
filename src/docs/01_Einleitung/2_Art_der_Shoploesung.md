@@ -20,8 +20,7 @@ Beide Systeme sind bis auf wenige Besonderheiten auf der Cloud-Seite identisch, 
 
 Die folgenden Menüpunkte stehen in Cloud-Shops nicht zur Verfügung:
 
--   Shop Einstellungen \> System Einstellungen \> Shop-Key
--   Shop Einstellungen \> System Einstellungen \> Logging-Optionen
+-   Einstellungen / System / Shop Key
 -   Toolbox \> Datenbanksicherung
 -   Toolbox \> Dateien sichern
 -   Toolbox \> Logs anzeigen

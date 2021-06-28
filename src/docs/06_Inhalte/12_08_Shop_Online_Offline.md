@@ -1,6 +1,6 @@
 # Shop Online/Offline
 
-Über den Menüpunkt _**Darstellung \> Shop online/offline**_ bzw. _**Inhalte \> Shop online/offline**_ kann eine sogenannte Offline-Seite dem Shop vorgeschaltet werden. Auf diese Weise ist es für Besucher und Kunden nicht möglich Inhalte des Shops zu sehen oder Bestellungen durchzuführen. Dies ist besonders dann nützlich wenn der Shop erstmalig eingerichtet oder umstrukturiert wird.
+Über den Menüpunkt _**Inhalte \> Shop online/offline**_ kann eine sogenannte Offline-Seite dem Shop vorgeschaltet werden. Auf diese Weise ist es für Besucher und Kunden nicht möglich Inhalte des Shops zu sehen oder Bestellungen durchzuführen. Dies ist besonders dann nützlich wenn der Shop erstmalig eingerichtet oder umstrukturiert wird.
 
 !!! danger "Achtung"
 

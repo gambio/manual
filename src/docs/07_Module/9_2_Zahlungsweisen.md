@@ -1526,7 +1526,7 @@ Es muss dabei beachtet werden, dass für jede Zahlungsweise auch ein Modul unter
 
 |Feldname|Beschreibung|
 |--------|------------|
-|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Shop Einstellungen \> Land/Steuer \> Länder**_ bzw. _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
+|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
 |Zugelassene Ampelwerte|Hier kannst du festlegen, welche Ampelwerte zulässig sind. Hat ein Kunde einen Ampelwert, der nicht den hier eingestellten entspricht, ist die Zahlung über dieses Modul nicht möglich. Die Ampelwerte werden im Abschnitt _**Bonitätsprüfung**_ näher erläutert.|
 
 ![](../Bilder/payone/P1-cc_004.png "Einstellungen für Kreditkarten")
@@ -1566,7 +1566,7 @@ Hier kann ausgewählt werden, welche Kreditkarten akzeptiert werden sollen. Die 
 
 |Feldname|Beschreibung|
 |--------|------------|
-|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Shop Einstellungen \> Land/Steuer \> Länder**_ aktiviert sind.|
+|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
 |Zugelassene Ampelwerte|Hier kannst du festlegen, welche Ampelwerte zulässig sind. Hat ein Kunde einen Ampelwert, der nicht den hier eingestellten entspricht, ist die Zahlung über dieses Modul nicht möglich. Die Ampelwerte werden im Abschnitt _**Bonitätsprüfung**_ näher erläutert.|
 
 ![](../Bilder/payone/2016-12-02_006.png "Einstellungen für Online-Überweisungen")
@@ -1592,7 +1592,7 @@ Hier kann ausgewählt werden, welche Zahlartypen akzeptiert werden sollen. Die N
 
 |Feldname|Beschreibung|
 |--------|------------|
-|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Shop Einstellungen \> Land/Steuer \> Länder**_ bzw. _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
+|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
 |Zugelassene Ampelwerte|Hier kannst du festlegen, welche Ampelwerte zulässig sind. Hat ein Kunde einen Ampelwert, der nicht den hier eingestellten entspricht, ist die Zahlung über dieses Modul nicht möglich. Die Ampelwerte werden im Abschnitt _**Bonitätsprüfung**_ näher erläutert.|
 |Zahlarttypen|Als Zahlarttyp ist nur Paypal möglich. Der Name der Zahlungsweise kann manuell geändert werden.|
 
@@ -1617,7 +1617,7 @@ Hier kann ausgewählt werden, welche Zahlartypen akzeptiert werden sollen. Die N
 
 |Feldname|Beschreibung|
 |--------|------------|
-|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Shop Einstellungen \> Land/Steuer \> Länder**_ bzw. _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
+|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
 |Zugelassene Ampelwerte|Hier kannst du festlegen, welche Ampelwerte zulässig sind. Hat ein Kunde einen Ampelwert, der nicht den hier eingestellten entspricht, ist die Zahlung über dieses Modul nicht möglich. Die Ampelwerte werden im Abschnitt _**Bonitätsprüfung**_ näher erläutert.|
 
 ![](../Bilder/payone/P1-2016-12-14_006.png "Einstellungen für _**Kontobasierte
@@ -1657,7 +1657,7 @@ Als Zahlarttypen stehen hier ausschließlich direkt Kontobezogene Zahlarten zur 
 
 |Feldname|Beschreibung|
 |--------|------------|
-|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Shop Einstellungen \> Land/Steuer \> Länder**_ bzw. _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
+|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
 |Zugelassene Ampelwerte|Hier kannst du festlegen, welche Ampelwerte zulässig sind. Hat ein Kunde einen Ampelwert, der nicht den hier eingestellten entspricht, ist die Zahlung über dieses Modul nicht möglich. Die Ampelwerte werden im Abschnitt _**Bonitätsprüfung**_ näher erläutert.|
 |Zahlarttypen|Bei dieser Zahlungsweise ist Ratenzahlung nur über _**CommerzFinanz**_ möglich.|
 
@@ -1682,7 +1682,7 @@ Als Zahlarttypen stehen hier ausschließlich direkt Kontobezogene Zahlarten zur 
 
 |Feldname|Beschreibung|
 |--------|------------|
-|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Shop Einstellungen \> Land/Steuer \> Länder**_ bzw. _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
+|Aktive Länder|Die einzelnen Länder können durch Setzen bzw. Entfernen der zugehörigen Haken aktiviert respektive deaktiviert werden. Über _**Alle Länder aktivieren**_ oder _**Alle Länder deaktivieren**_ kann die Auswahl entsprechend für alle Länder festgelegt werden. Es werden nur Länder angezeigt, die unter _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.|
 |Zugelassene Ampelwerte|Hier kannst du festlegen, welche Ampelwerte zulässig sind. Hat ein Kunde einen Ampelwert, der nicht den hier eingestellten entspricht, ist die Zahlung über dieses Modul nicht möglich. Die Ampelwerte werden im Abschnitt _**Bonitätsprüfung**_ näher erläutert.|
 
 ![](../Bilder/payone/P1-2016-12-14_012.png "Einstellungen für

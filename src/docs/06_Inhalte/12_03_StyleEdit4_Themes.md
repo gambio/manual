@@ -44,10 +44,10 @@ Mit einem Klick auf _**Bearbeiten**_ wird das StyleEdit 4 aufgerufen und das jew
 
 ## StyleEdit 4 aufrufen
 
-Das StyleEdit 4 kann unter _**Darstellung \> Template-Einstellungen**_ bzw. _**Inhalte \> Template-Einstellungen**_ aufgerufen werden:
+Das StyleEdit 4 kann unter _**Inhalte \> Template-Einstellungen**_ aufgerufen werden:
 
-![](../Bilder/styleedit4/se4a_0000_template_einstellungen.png "Schaltfläche _**Theme bearbeiten**_ unter
-      _**Darstellung > Template-Einstellungen**_")
+![](../Bilder/InhalteTemplateEinstellungenThemeBearbeiten.png "Schaltfläche _**Theme bearbeiten**_ unter
+      _**Inhalte > Template-Einstellungen**_")
 
 Wird nur der Button _**Theme bearbeiten**_ angezeigt, verwendet der Shop ein Theme, sodass im Dropdown _**Templateset \(Theme\)**_im Regelfall der Eintrag _**Honeygrid \(Theme\)**_ bzw. _**Malibu \(Theme\)**_ o.ä. eingestellt ist.
 
@@ -83,7 +83,7 @@ Wähle hier, ebenfalls über das Dropdown in der blauen Schaltfläche, den Eintr
 
 ![](../Bilder/styleedit4/se4a_0004_bearbeiten_emfalse.png "Das StyleEdit 4 wird mit der Kopie des Themes geladen")
 
-Nach dem ersten Aufruf gelangst du beim Klick auf den Button _**Theme bearbeiten**_ unter _**Dartstellung \> Template-Einstellungen**_ bzw. _**Inhalte \> Template-Einstellungen**_ direkt zum StyleEdit 4.
+Nach dem ersten Aufruf gelangst du beim Klick auf den Button _**Theme bearbeiten**_ unter _**Inhalte \> Template-Einstellungen**_ direkt zum StyleEdit 4.
 
 ![](../Bilder/styleedit4/se4_0005_meineThemes.png "Aufruf der Theme-Übersicht aus dem StyleEdit 4")
 
@@ -413,7 +413,7 @@ Hier kann an- und abgeschaltet werden, ob der Teaser-Slider für bestimmte Ausga
 |--------|------------|
 |Abgerundete Ecken|Ecken-Radius der Schaltflächen im Shop, Angabe erfolgt zusammen mit einer Einheit, z.B.: 10px|
 |Texttransformation|Ändert Groß- und Kleinschreibung der Beschriftung der Buttons|
-|  |_**none**_: Text wird so ausgegeben, wie er im Shop \(z.B. _**Toolbox \> Texte anpassen**_ bzw. _**Inhalte \> Texte anpassen**_\) hinterlegt ist
+|  |_**none**_: Text wird so ausgegeben, wie er im Shop \(z.B. _**Inhalte \> Texte anpassen**_\) hinterlegt ist
 |  |_**uppercase**_: Text wird in Großbuchstaben ausgegeben
 |  |_**lowercase**_: Text wird in Kleinbuchstaben ausgegeben
 |  |_**capitalize**_: Jedes Wort beginnt mit einem Großbuchstaben|

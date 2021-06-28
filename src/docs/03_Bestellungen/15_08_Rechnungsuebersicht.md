@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-Die Übersicht der erstellten Rechnungen kann unter _**Bestellungen \> Rechnungen**_ aufgerufen werden. Über die Reiter _**Einstellungen**_ und _**Nummernkreise**_ gelangst du direkt zu den Menüpunkten _**Shop Einstellungen \> Rechnung/Lieferschein**_ bzw. _**Shop Einstellungen \> Nummernkreis**_e \(siehe Kapitel _**Rechnung & Lieferschein konfigurieren**_ respektive _**Nummernkreise**_\).
+Die Übersicht der erstellten Rechnungen kann unter _**Bestellungen \> Rechnungen**_ aufgerufen werden. Über die Reiter _**Einstellungen**_ und _**Nummernkreise**_ gelangst du direkt zu den jeweiligen Optionen (siehe Kapitel _**Rechnung & Lieferschein konfigurieren**_ respektive _**Nummernkreise**_ ).
 
 !!! note "Hinweis"
 

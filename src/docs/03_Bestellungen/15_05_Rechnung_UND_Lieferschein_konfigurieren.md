@@ -1,6 +1,6 @@
 # Rechnung & Lieferschein konfigurieren
 
-Die Darstellung von Rechnung und Lieferschein kannst du unter _**Shop Einstellungen \> Rechnung/Lieferschein**_ bzw. _**Einstellungen / System / Rechnung & Lieferschein**_, nach Aufrufen der Seite, anpassen.
+Die Darstellung von Rechnung und Lieferschein kannst du unter _**Einstellungen / System / Rechnung & Lieferschein**_, nach Aufrufen der Seite, anpassen.
 
 ## Inhalt
 

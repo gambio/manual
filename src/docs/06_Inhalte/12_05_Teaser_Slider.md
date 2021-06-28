@@ -6,7 +6,7 @@ Ein Teaser-Slider ist eine Bildpräsentation, die im Shopbereich oberhalb des Se
 
 ## Teaser-Slider verwalten
 
-Neue Teaser-Slider kannst du im Gambio Admin deines Shops unter _**Darstellung \> Teaser-Slider**_ bzw. _**Inhalte \> Teaser-Slider**_ anlegen.
+Neue Teaser-Slider kannst du im Gambio Admin deines Shops unter _**Inhalte \> Teaser-Slider**_ anlegen.
 
 !!! note "Hinweis" 
 	 Im Teaser-Slider können Vorschaubilder der im Slider enthaltenen Bilder in der unteren rechten Ecke des Sliders angezeigt werden. Die Vorschaubilder \(Thumbnails\) werden nicht vom Shopsystem erstellt und müssen vor dem Hochladen mit einem geeigneten Grafikprogramm auf die gewünschte Größe verkleinert werden.
@@ -54,13 +54,13 @@ Teaser-Slider kannst du einer oder mehreren Kategorien, Artikeln und Content-Sei
 
 ### Startseiten-Slider festlegen
 
-Den Startseiten-Slider kannst du im Gambio Admin deines Shops unter _**Darstellung \> Teaser‑Slider**_ bzw. _**Inhalte \> Teaser-Slider**_ festlegen. Setze hierzu in der Spalte _**Startseite**_ den Haken für den gewüschten Teaser-Slider.
+Den Startseiten-Slider kannst du im Gambio Admin deines Shops unter _**Inhalte \> Teaser-Slider**_ festlegen. Setze hierzu in der Spalte _**Startseite**_ den Haken für den gewüschten Teaser-Slider.
 
 ### Content-Slider festlegen
 
 ![](../Bilder/Abb145_TeaserSliderZuweisenContent.png "Teaser-Slider zuweisen (Content)")
 
-Den Teaser-Slider für einen Content kannst du im Gambio Admin unter _**Darstellung \> Content Manager**_ bzw. _**Inhalte \> Content Manager**_ festlegen.
+Den Teaser-Slider für einen Content kannst du im Gambio Admin unter _**Inhalte \> Content Manager**_ festlegen.
 
 1.  Klicke bei dem Content auf das Bleistift-Symbol \(bearbeiten\), zu dem du einen Slider hinterlegen möchtest
 2.  Wähle aus der Liste _**Content Teaser-Slider**_ den Teaser-Slider für diesen Content aus

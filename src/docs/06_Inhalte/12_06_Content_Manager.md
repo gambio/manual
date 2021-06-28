@@ -1,6 +1,6 @@
 # Content Manager
 
-Im Bereich _**Darstellung**_ bzw. _**Inhalte**_ des Gambio Admins findest du den Eintrag _**Content Manager**_, dort kannst du Informationsseiten für deinen Shop anlegen und bestehende Informationsseiten bearbeiten. Der Content Manager ist in drei Abschnitte aufgeteilt, die über einen Klick auf den jeweiligen Reiter ausgewählt werden können:
+Im Bereich _**Inhalte**_ des Gambio Admins findest du den Eintrag _**Content Manager**_, dort kannst du Informationsseiten für deinen Shop anlegen und bestehende Informationsseiten bearbeiten. Der Content Manager ist in drei Abschnitte aufgeteilt, die über einen Klick auf den jeweiligen Reiter ausgewählt werden können:
 
 -   Seiten
 -   Elemente

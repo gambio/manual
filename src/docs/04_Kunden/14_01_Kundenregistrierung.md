@@ -63,11 +63,11 @@ Beim Anlegen eines Kundenkontos ist es möglich anzugeben, ob der Kunde als Gewe
 
 !!! note "Hinweis"
 
-	 Bitte beachte, dass der Administrator immer wie ein Gewerbetreibender behandelt wird. Unabhängig von seinem ausgewählten Wohnort, sieht der Administrator immer die Mehrwertsteuer, die für das unter _**Shop Einstellungen \> Mein Shop**_ bzw. _**Einstellungen / Shop / Shopbetreiber**_ ausgewählte Land des Shopbetreibers gilt.
+	 Bitte beachte, dass der Administrator immer wie ein Gewerbetreibender behandelt wird. Unabhängig von seinem ausgewählten Wohnort, sieht der Administrator immer die Mehrwertsteuer, die für das unter _**Einstellungen / Shop / Shopbetreiber**_ ausgewählte Land des Shopbetreibers gilt.
 
 ## Pflichtfelder festlegen
 
-Im Gambio Admin deines Shops unter _**Shop Einstellungen \> Minimum-Werte**_ bzw. _**Einstellungen / Kunden / Mindestlänge für Kundenfelder**_ kannst du festlegen, welche der abgefragten Werte bei der Registrierung Pflichtangaben sind.
+Im Gambio Admin deines Shops unter _**Einstellungen / Kunden / Mindestlänge für Kundenfelder**_ kannst du festlegen, welche der abgefragten Werte bei der Registrierung Pflichtangaben sind.
 
 ![](../Bilder/Abb161_PflichtfelderFestlegenMinimumWerte.png "Pflichtfelder festlegen (Minimum Werte)")
 

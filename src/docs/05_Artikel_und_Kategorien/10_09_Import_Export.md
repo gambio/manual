@@ -1,6 +1,6 @@
 # Import/Export
 
-Über den Menüpunkt _**Import / Export \> Artikeldaten**_ bzw. _**Artikel \> Import/Export**_ können neben dem Export zu Preis-Suchmaschinen und -Portalen auch reguläre CSV Exporte nach eigenen Profilen vorgenommen und Importe durchgeführt werden.
+Über den Menüpunkt _**Artikel \> Import/Export**_ können neben dem Export zu Preis-Suchmaschinen und -Portalen auch reguläre CSV Exporte nach eigenen Profilen vorgenommen und Importe durchgeführt werden.
 
 !!! note "Hinweis" 
 	 Exporte und Importe sind auf die Dateiformate _**.csv**_ bzw. _**.txt**_ beschränkt. Hierbei muss immer der Zeichensatz _**UTF-8 ohne BOM**_ \(BOM steht für Byte Order Mark\) verwendet werden. Der Einsatz anderer Zeichencodierungen kann zu Problemen beim Import oder fehlerhaften Einträgen in der Datenbank führen.
@@ -14,11 +14,11 @@ Die einzelnen Bereiche können über die Reiter _**Artikelexport**_, _**Preis-Po
 !!! note "Hinweis"
 	 _**CSV**_ \(Character Separated Values\) steht für _**zeichengetrennte Werte**_. Für CSV-Dateien besteht kein einheitliches Format, da das Trennzeichen nicht innerhalb der Spaltentexte vorkommen darf und CSV-Dateien für eine Vielzahl von Anwendungszwecken genutzt werden. Da auch Spalten-Namen nicht einheitlich normiert sind, können sich CSV-Dateien von zwei verschiedenen Programmen grundlegend voneinander unterscheiden.
 
-	 Das _**Trennzeichen**_ und das _**Texterkennungszeichen**_ für den Export kannst du unter _**Import/Export \> Artikeldaten**_ bzw. _**Artikel \> Import/Export**_ konfigurieren, wenn du das Profil bearbeitest. Für den Import können beide Zeichen im Reiter _**Import**_ festgelegt werden. Wenn keine Änderungen vorgenommen wurden, werden Exporte mit einer Pipe \(\|,Senkrechtstrich\) als Trennzeichen und einem doppelten Anführungszeichen \("\) als Texttrenner/Texterkennungszeichen angelegt und Importe anhand derselben Einstellungen vorgenommen.
+	 Das _**Trennzeichen**_ und das _**Texterkennungszeichen**_ für den Export kannst du unter _**Artikel \> Import/Export**_ konfigurieren, wenn du das Profil bearbeitest. Für den Import können beide Zeichen im Reiter _**Import**_ festgelegt werden. Wenn keine Änderungen vorgenommen wurden, werden Exporte mit einer Pipe \(\|,Senkrechtstrich\) als Trennzeichen und einem doppelten Anführungszeichen \("\) als Texttrenner/Texterkennungszeichen angelegt und Importe anhand derselben Einstellungen vorgenommen.
 
 	 Exporte und Importe sind auf die Dateiformate _**.csv**_ bzw. _**.txt**_ beschränkt. Hierbei muss immer der Zeichensatz _**UTF-8 ohne BOM**_ \(BOM steht für Byte Order Mark\) verwendet werden.
 
-Wenn du den Menüpunkt _**Import/Export \> Artikeldaten**_ bzw. _**Artikel \> Import/Export**_ das erste Mal aufrufst, findest du im Reiter _**Artikelexport**_ das Standard-Export-Profil _**\[Gambio\] Artikelexport**_. Über die Profile werden die Einstellungen für den Export verwaltet. Du kannst beliebig viele Profile für unterschiedliche Exporte anlegen und diese ganz nach deinen Wünschen anpassen. Zunächst gehen wir von einem Export aller Artikel aus.
+Wenn du den Menüpunkt _**Artikel \> Import/Export**_ das erste Mal aufrufst, findest du im Reiter _**Artikelexport**_ das Standard-Export-Profil _**\[Gambio\] Artikelexport**_. Über die Profile werden die Einstellungen für den Export verwaltet. Du kannst beliebig viele Profile für unterschiedliche Exporte anlegen und diese ganz nach deinen Wünschen anpassen. Zunächst gehen wir von einem Export aller Artikel aus.
 
 Du kannst wahlweise das Standard-Profil bearbeiten, um deine Einstellungen vorzunehmen oder durch einen Klick auf das Plus-Zeichen eine Kopie dieses Profils anlegen. Wenn du das Profil zuerst kopierst, hast du immer eine Sicherung der Original-Konfiguration vorliegen.
 
@@ -290,7 +290,7 @@ Als Beispiel nehmen wir an, dass wir Artikel aus der Kategorie _**Testkategorie*
 
 Es ist immer eine gute Idee, eine Kopie des Standardprofils zu verwenden, auch wenn zunächst keine Änderungen daran vorgenommen werden sollen. Da wir jedoch bestehende Spalten anpassen wollen, ist es eine Notwendigkeit.
 
-Wir rufen also im Gambio Admin den Menüpunkt _**Import/Export \> Artikeldaten**_ bzw. _**Artikel \> Import/Export**_ auf und gelangen direkt in den Abschnitt _**Artikelexport**_. Hier finden wir das Standardprofil. Über einen Klick auf das grüne Plus-Zeichen duplizieren wir das Profil.
+Wir rufen also im Gambio Admin den Menüpunkt _**Artikel \> Import/Export**_ auf und gelangen direkt in den Abschnitt _**Artikelexport**_. Hier finden wir das Standardprofil. Über einen Klick auf das grüne Plus-Zeichen duplizieren wir das Profil.
 
 ![](../Bilder/csv_export_00_duplizieren_.png "Duplizieren des Standard-Profils")
 
@@ -660,7 +660,7 @@ Es werden dir nun nochmals die wichtigsten Einstellungen angezeigt. Stelle hierb
 
 #### Import der Artikel
 
-Den Import einer CSV-Datei kannst du unter _**Import/Export \> Artikeldaten**_ bzw. _**Artikel \> Import/Export**_ über den Reiter _**Import**_ vornehmen.
+Den Import einer CSV-Datei kannst du unter _**Artikel \> Import/Export**_ über den Reiter _**Import**_ vornehmen.
 
 ![](../Bilder/Abb113_ArtikelImportieren.png "Artikel importieren")
 
@@ -676,5 +676,5 @@ Zu einem vollständigen Import gehören in aller Regel auch die Artikelbilder. D
 
 _**/images/product\_images/original\_images/**_
 
-deines Shopverzeichnisses. Anschließend muss unter _**Darstellung \> Bild-Optionen \> Image Processing**_ bzw. _**Einstellungen / Layout & Design / Bildverarbeitung \(Image Processing\) **_ die Stapelverarbeitung ausgeführt werden, um die verwendeten Bilder für die Artikel zu erzeugen \(z.B. Info-Bild, Thumbnails usw.\).
+deines Shopverzeichnisses. Anschließend muss unter _**Einstellungen / Layout & Design / Bildverarbeitung \(Image Processing\) **_ die Stapelverarbeitung ausgeführt werden, um die verwendeten Bilder für die Artikel zu erzeugen \(z.B. Info-Bild, Thumbnails usw.\).
 

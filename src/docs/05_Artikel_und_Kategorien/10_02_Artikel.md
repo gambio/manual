@@ -134,7 +134,7 @@ In aller Regel sollen jedoch zusätzliche Kategorien verlinkt werden. Hierzu kö
 ![](../Bilder/Abb090_neuesZusatzfeldNachAnlegen.png "Neues Zusatzfeld ist in anderen Artikeln verfügbar")
 
 !!! note "Hinweis" 
-	 Die Anzeige der Zusatzfelder kann unter _**Darstellung \> Template-Einstellungen**_ bzw. _**Einstellungen / Layout & Design / Artikeldetailseite**_ an- und abgeschaltet werden. Setze bzw. entferne hierzu den Haken _**Zusatzfelder auf Detailseite aktivieren**_ und bestätige die Änderung mit einem Klick auf _**Speichern**_.
+	 Die Anzeige der Zusatzfelder kann unter _**Einstellungen / Layout & Design / Artikeldetailseite**_ an- und abgeschaltet werden. Setze bzw. entferne hierzu den Haken _**Zusatzfelder auf Detailseite aktivieren**_ und bestätige die Änderung mit einem Klick auf _**Speichern**_.
 
 Um ein Zusatzfeld anzulegen, klicke auf die Schaltfläche _**Hinzufügen**_. Es werden pro im Shop verwendete Sprache jeweils ein Feld für _**Bezeichnung**_ und _**Wert**_ angezeigt. Nach der Eingabe kann das Zusatzfeld mit Klick auf _**Speichern**_ oder _**Übernehmen**_ übernommen werden.
 
@@ -201,7 +201,7 @@ siehe Kapitel _**Artikelbilder**_
 ![](../Bilder/Abb093_Kundengruppe.png "Einstellung _**Kundengruppe**_")
 
 !!! note "Hinweis" 
-	 Der Bereich _**Kundengruppe**_ wird nur angezeigt, wenn unter _**Shop Einstellungen \> Zusatzmodule**_ bzw. _**Einstellungen / Kunden / Kunden**_ der _**Kundengruppencheck**_ aktiviert ist.
+	 Der Bereich _**Kundengruppe**_ wird nur angezeigt, wenn unter _**Einstellungen / Kunden / Kunden**_ der _**Kundengruppencheck**_ aktiviert ist.
 
 Über die Einstellung Kundengruppe kann festgelegt werden welche Kundengruppe einen Artikel sehen und aufrufen kann. Ist der Haken für eine Kundengruppe nicht gesetzt, wird dieser in Kategorien, Suchergebnissen und sonstigen Artikelseiten \(z.B. _**Unsere Empfehlungen**_\) nicht angezeigt. Auch wenn der Link zum Artikel aus anderer Quelle bekannt sein sollte, kann dieser über eine Kundengruppe ohne Haken nicht aufgerufen werden.
 

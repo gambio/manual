@@ -20,7 +20,7 @@ Im oberen rechten Menü erscheint nun der Button _**Gambio Admin**_.
 
 ## Shop offline stellen 
 
-Direkt nach der Installation ist der Shop noch nicht für die Öffentlichkeit geeignet. Zunächst muss die Grundkonfiguration vorgenommen, die Artikeldaten eingefügt und das Layout angepasst werden. Versetze deinen Shop unter _**Darstellung \> Shop online/offline**_ bzw. _**Inhalte \> Shop online/offline**_ in den Offline-Modus. Die im Offline-Modus angezeigte Seite dient als Platzhalter und enthält kein Anmeldeformular. Ein spezielles Anmeldeformular für Administratoren kannst du jederzeit über www.DeinShop.de/login\_admin.php aufrufen \(ersetze hierbei www.DeinShop.de durch deine tatsächliche Shopadresse\).
+Direkt nach der Installation ist der Shop noch nicht für die Öffentlichkeit geeignet. Zunächst muss die Grundkonfiguration vorgenommen, die Artikeldaten eingefügt und das Layout angepasst werden. Versetze deinen Shop unter _**Inhalte \> Shop online/offline**_ in den Offline-Modus. Die im Offline-Modus angezeigte Seite dient als Platzhalter und enthält kein Anmeldeformular. Ein spezielles Anmeldeformular für Administratoren kannst du jederzeit über www.DeinShop.de/login\_admin.php aufrufen \(ersetze hierbei www.DeinShop.de durch deine tatsächliche Shopadresse\).
 
 !!! danger "Achtung"
 
@@ -28,14 +28,14 @@ Direkt nach der Installation ist der Shop noch nicht für die Öffentlichkeit ge
 	 
 ## Grundkonfiguration vornehmen
 
-In verschiedenen Bereichen muss dein neuer Onlineshop nach der Installation erstmalig konfiguriert werden. Überprüfe zunächst sämtliche Angaben unter _**Shop Einstellungen \> Mein Shop**_ bzw. _**Einstellungen / Shop**_. Beachte hier besonders die Felder _**Name des Shops**_, _**Inhaber**_ sowie _**Land**_, _**Region**_ und _**Geschäftsadresse und Telefonnummer**_ etc..
+In verschiedenen Bereichen muss dein neuer Onlineshop nach der Installation erstmalig konfiguriert werden. Überprüfe zunächst sämtliche Angaben unter _**Einstellungen / Shop**_. Beachte hier besonders die Felder _**Name des Shops**_, _**Inhaber**_ sowie _**Land**_, _**Region**_ und _**Geschäftsadresse und Telefonnummer**_ etc..
 
 !!! note "Hinweis" 
 	 Leere nach dem Aktivieren der SEO Boost URLs die Servercaches unter _**Toolbox \> Cache**_. Betätige hierzu die Schaltflächen von unten nach oben.
 
 ![](../Bilder/Abb007_SEO_Boost_aktivieren.png "SEO Boost aktivieren")
 
-Sofern dein Server es zulässt, empfehlen wir, die Gambio SEO Boost URLs zu verwenden. Installiere den SEO Boost unter _**Shop Einstellungen \> SEO \> Gambio SEO Boost**_ bzw. _**Einstellungen / Suchmaschinenoptimierung / SEO URLs**_. Die SEO Boost URLs simulieren aus dem dynamischen Shopinhalt statische Dokumente und fördern die Lesbarkeit deiner URLs. Die Kontrollkästchen sind nicht auswählbar, solange die vorherig genannte Konfiguration nicht vorgenommen wurde.
+Sofern dein Server es zulässt, empfehlen wir, die Gambio SEO Boost URLs zu verwenden. Installiere den SEO Boost unter _**Einstellungen / Suchmaschinenoptimierung / SEO URLs**_. Die SEO Boost URLs simulieren aus dem dynamischen Shopinhalt statische Dokumente und fördern die Lesbarkeit deiner URLs. Die Kontrollkästchen sind nicht auswählbar, solange die vorherig genannte Konfiguration nicht vorgenommen wurde.
 
 !!! note "Hinweis" 
 	 Bei der Installation des Shopsystems werden die Grundeinstellungen zu den Steuersätzen für Deutschland angelegt. Shopbetreiber aus Ländern der Europäischen Union \(EU\) korrigieren die voreingestellten Steuersätze für die Steuerzone EU. Shopbetreiber aus der Schweiz und Ländern außerhalb der EU legen zunächst eine neue Steuerzone für ihr Land an und fügen neue Steuersätze für diese Steuerzone hinzu. Nähere Informationen erhältst du im Kapitel _**Lokalisierung**_.
@@ -47,7 +47,7 @@ Sofern dein Server es zulässt, empfehlen wir, die Gambio SEO Boost URLs zu verw
 Installiere anschließend jeweils mindestens eine Versandart und ein Zahlungsmodul. Die Zahlungsweisen findest du im Gambio Admin unter _**Module \> Zahlungsweisen**_, die Versandarten unter _**Module \> Versandarten**_.
 
 !!! note "Hinweis" 
-	 **Hinweis für Kleinunternehmer**: Aktiviere die Kleinunternehmer-Regelung, bevor du beginnst, Preise einzugeben. Die Kleinunternehmer-Regelung aktivierst du im Gambio Admin unter _**Shop Einstellungen \> Allgemeines**_ bzw. _**Einstellungen / Rechtliches / Mehrwertsteueranzeige**_ sowie unter _**Module \> Zusammenfassung**_. Wähle anschließend bei allen Preisangaben den Standardsteuersatz aus.
+	 **Hinweis für Kleinunternehmer**: Aktiviere die Kleinunternehmer-Regelung, bevor du beginnst, Preise einzugeben. Die Kleinunternehmer-Regelung aktivierst du im Gambio Admin unter _**Einstellungen / Rechtliches / Mehrwertsteueranzeige**_ sowie unter _**Module \> Zusammenfassung**_. Wähle anschließend bei allen Preisangaben den Standardsteuersatz aus.
 
 !!! note "Hinweis" 
 	 Wenn du die Zahlung per _**PayPal**_ anbieten möchtest, trage die API Daten, die du von PayPal erhältst, auf der Konfigurationsseite des Moduls ein. Gehe hierzu unter _**Module \> Zahlungsweisen**_, wähle das Modul _**PayPal und PayPal Plus**_ aus und klicke auf die Schaltflächen _**Installieren **_\(sofern noch nicht geschehen\) und _**Konfiguration**_. Nähere Informationen zu den Zahlungsmodulen von Drittanbietern erhältst du beim jeweiligen Anbieter.
@@ -71,7 +71,7 @@ Wenn du große Mengen von Artikeln einpflegen möchtest, zu denen du bereits ein
 
 	 Lasse den nachfolgenden Schritt abschließend von deinem Rechts- und/oder Steuerberater prüfen! Falsche oder fehlerhafte Texte bergen die Gefahr einer Abmahnung!
 
-Jeder Shop im Internet muss bestimmte Informationspflichten erfüllen. Diese Texte kannst du in den dafür vorgesehenen Contents unter _**Darstellung \> Content Manager**_ bzw. _**Inhalte \> Content Manager**_ hinterlegen.
+Jeder Shop im Internet muss bestimmte Informationspflichten erfüllen. Diese Texte kannst du in den dafür vorgesehenen Contents unter _**Inhalte \> Content Manager**_ hinterlegen.
 
 Wenn du zusätzliche Informationen hinterlegen möchtest, bearbeite einen der vorhandenen Contents im Content Manager oder legen neue Contents an. Informationsseiten können dabei automatisch in einer der Navigationen verlinkt werden.
 
@@ -148,7 +148,7 @@ Bitte beachte, dass vor der SSL Aktivierung bereits ein gültiges SSL-Zertifikat
 
 ## Layout anpassen
 
-Wenn Artikel und Contents angelegt und Zahlungsweisen und Versandarten konfiguriert sind, starte den Shop unter _**Darstellung \> Template-Einstellungen**_ bzw. _**Inhalte \> Template-Einstellungen**_ im Bearbeitungsmodus. Im Bearbeitungsmodus kannst du das Aussehen des mitgelieferten Templates bzw. Themes an deine Bedürfnisse anpassen.
+Wenn Artikel und Contents angelegt und Zahlungsweisen und Versandarten konfiguriert sind, starte den Shop unter _**Inhalte \> Template-Einstellungen**_ im Bearbeitungsmodus. Im Bearbeitungsmodus kannst du das Aussehen des mitgelieferten Templates bzw. Themes an deine Bedürfnisse anpassen.
 
 ## Testen
 
@@ -156,6 +156,6 @@ Teste abschließend alle relevanten Funktionen. Führe mit Testkunden aus jeder 
 
 ## Shop online stellen
 
-Wenn du die Grundkonfiguration des Shops und das Einstellen von Artikeln abgeschlossen sowie das Layout angepasst hast, ist dein Shop bereit, im Internet veröffentlicht zu werden. Stelle den Shop unter _**Darstellung \> Shop online/offline**_ bzw. _**Inhalte \> Shop online/offline**_ wieder online und melde ihn in den gängigen Suchmaschinen an.
+Wenn du die Grundkonfiguration des Shops und das Einstellen von Artikeln abgeschlossen sowie das Layout angepasst hast, ist dein Shop bereit, im Internet veröffentlicht zu werden. Stelle den Shop unter _**Inhalte \> Shop online/offline**_ wieder online und melde ihn in den gängigen Suchmaschinen an.
 
 Wenn du einen älteren Shop auf die aktuelle Shopversion aktualisiert hast, solltest du vor dem Onlinestellen den alten Shop ebenfalls offline stellen und zunächst die Shops wie in der Anleitung zum Import Assistenten beschrieben umstellen. Schalte den neuen Shop erst anschließend online.

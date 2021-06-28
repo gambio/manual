@@ -1,16 +1,16 @@
 # Zusatzmodule
 
-Der Shop verfügt über sogenannte Zusatzmodule, dies sind kleine Hilfsprogramme, die die Grundfunktionen unterstützen. Die nachfolgenden Einstellungen findest du unter _**Shop Einstellungen \> Zusatzmodule**_.
+Der Shop verfügt über sogenannte Zusatzmodule, dies sind kleine Hilfsprogramme, die die Grundfunktionen unterstützen. 
 
 !!! note "Hinweis"
 
-	 Ab Version 4.3 wurden die Zusatzmodule in den Bereich _**Einstellungen**_ verschoben und neu zugeordnet \(siehe Kapitel _**Einstellungen**_\).
+	 Ab Version 4.3 wurden die meisten Zusatzmodule in den Bereich _**Einstellungen**_ verschoben und neu zugeordnet \(siehe Kapitel _**Einstellungen**_\).
 
 ## WYSIWYG-Editor
 
 ### WYSIWYG-Editor aktivieren
 
-Der WYSIWYG \(What You See Is What You Get\)-Editor ist ein Texteingabefeld mit eingebauter Vorschaufunktion. Seit der Shopversion 2.1 wird hierfür der sogeannte _**CK-Editor**_ verwendet. Er wird hauptsächlich für Artikel- und Kategoriebeschreibungen, sowie Contents \(Informationsseiten, diese werden unter _**Darstellung \> Content Manager**_ bzw. _**Inhalte \> Content Manager**_ verwaltet\) verwendet, kommt aber auch an anderer Stelle zum Einsatz.
+Der WYSIWYG \(What You See Is What You Get\)-Editor ist ein Texteingabefeld mit eingebauter Vorschaufunktion. Seit der Shopversion 2.1 wird hierfür der sogeannte _**CK-Editor**_ verwendet. Er wird hauptsächlich für Artikel- und Kategoriebeschreibungen, sowie Contents \(Informationsseiten, diese werden unter _**Inhalte \> Content Manager**_ verwaltet\) verwendet, kommt aber auch an anderer Stelle zum Einsatz.
 
 Diese Funktion ist standardmäßig aktiviert und der eingegebene Text wird weitestgehend so dargestellt, wie er auch im Shop angezeigt wird. Wird der WYSIWYG-Editor abgeschaltet, steht nur ein einfaches Texteingabefeld zur Verfügung, das den Inhalt als HTML-Code anzeigt.
 

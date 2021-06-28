@@ -23,7 +23,7 @@ Cross Selling ist eine Marketing-Funktion, mit der du einem Artikel weitere Arti
 
 ### Automatische Rückverknüpfung
 
-Artikelempfehlungen werden in der Grundeinstellung des Shopsystems automatisch in beide Richtungen verknüpft. Im empfohlenen Artikel wird der ursprüngliche Artikel auf der Artikel-Detailseite unter _**Dieses Produkt ist kompatibel zu**_ angezeigt. Die automatische Rückverknüpfung kannst du im Gambio Admin deines Shops unter _**Shop Einstellungen \> Zusatzmodule**_ bzw. _**Einstellungen / Layout / Design / Artikeldetailseite**_ deaktivieren. Ändere die Option bei _**Reverse Cross-Marketing**_ auf ✖ und speichere die Änderung.
+Artikelempfehlungen werden in der Grundeinstellung des Shopsystems automatisch in beide Richtungen verknüpft. Im empfohlenen Artikel wird der ursprüngliche Artikel auf der Artikel-Detailseite unter _**Dieses Produkt ist kompatibel zu**_ angezeigt. Die automatische Rückverknüpfung kannst du im Gambio Admin deines Shops unter _**Einstellungen / Layout / Design / Artikeldetailseite**_ deaktivieren. Ändere die Option bei _**Reverse Cross-Marketing**_ auf ✖ und speichere die Änderung.
 
 ![](../Bilder/Abb097_AutomatischeRueckverknuepfungAktivieren.png "Automatische Rückverknüpfung aktivieren")
 
@@ -88,7 +88,7 @@ Beim Anlegen des zugehörigen Artikels unter _**Artikel \> Artikel/Kategorien**_
 
 Um die Datei im Shop zur Verfügung stellen zu können, muss sie auf den FTP-Server hochgeladen werden. Verbinde dich hierzu mit deinem FTP-Server und wechsele in dein Shop-Verzeichnis. Lade die Datei in den Ordner _**download**_ hoch.
 
-Um den Download-Artikel einzurichten, muss das passende Attribut zugeordnet werden. Wähle hierzu den Artikel unter_** Artikel \> Artikel/Kategorien**_ aus und wähle _**Attribute editieren**_ über die Dropdown-Schaltfläche oder verwende die Auswahl unter _**Artikel \> Artikelattribute \> Attributverwaltung**_. Du siehst eine Auflistung aller Attribute, die dem Artikel zugeordnet werden können. Ein Aufruf ist auch direkt aus de Artikelmaske, über den Dropdown-Button _**Attribute**_ möglich.
+Um den Download-Artikel einzurichten, muss das passende Attribut zugeordnet werden. Wähle hierzu den Artikel unter _**Artikel \> Artikel/Kategorien**_ aus und wähle _**Attribute editieren**_ über die Dropdown-Schaltfläche oder verwende die Auswahl unter _**Artikel \> Artikelattribute \> Attributverwaltung**_. Du siehst eine Auflistung aller Attribute, die dem Artikel zugeordnet werden können. Ein Aufruf ist auch direkt aus de Artikelmaske, über den Dropdown-Button _**Attribute**_ möglich.
 
 Setze den Haken bei der von dir gewählten Bezeichnung, in unserem Beispiel also bei _**PDF-Download**_. Die vorher ausgegrauten Eingabefelder zur Einrichtung von Attributen werden nun angezeigt. Unterhalb dieser Zeile finden sich zudem Einstellungen, die nur für Download-Artikel zur Verfügung stehen.
 
@@ -103,18 +103,21 @@ Im Dropdown-Menü unterhalb des Namens _**PDF-Download**_ kannst du die vorher h
 
 Unter _**Mögl. Downloads**_ wird hinterlegt, wie oft die Datei von einem Kunden heruntergeladen werden kann. Unter _**Downloadzeit \(Tage\)**_ wird festgelegt, wie lange der Download-Link für den jeweiligen Kunden gültig ist. Beide Einträge müssen vorgenommen werden und größer als 0 sein, damit die Datei vom Kunden heruntergeladen werden kann.
 
-Der Download-Link wird für den Kunden verfügbar, sodass er den Artikel in seinem Konto herunterladen kann, wenn ein bestimmter Bestellstatus erreicht wurde. Diesen kannst du selber unter _**Shop Einstellungen \> Download-Optionen**_ bzw. _**Einstellungen / Artikel & Kategorien / Downloadoptionen**_ im Bereich _**Download-Bestellstatus**_ festlegen. Du kannst wahlweise einen \(oder mehrere\) bestehende\(n\) Bestellstatus verwenden oder einen neuen Status \(z.B. _**Download erlaubt**_\) unter _**Bestellungen \> Bestellstatus**_ zu diesem Zweck anlegen.
+!!! note "Hinweis"
+	 Bei bereits abgeschlossenen Bestellungen ist eine nachträgliche Änderung der möglichen Downloads oder der Downloadzeit nicht vorgesehen. Beide werden zusammen mit der Bestellung gespeichert und bei einer Anpassung innerhalb der Optionswerte nicht aktualisiert. 
+
+Der Download-Link wird für den Kunden verfügbar, sodass er den Artikel in seinem Konto herunterladen kann, wenn ein bestimmter Bestellstatus erreicht wurde. Diesen kannst du selber unter _**Einstellungen / Artikel & Kategorien / Downloadoptionen**_ im Bereich _**Download-Bestellstatus**_ festlegen. Du kannst wahlweise einen \(oder mehrere\) bestehende\(n\) Bestellstatus verwenden oder einen neuen Status \(z.B. _**Download erlaubt**_\) unter _**Bestellungen \> Bestellstatus**_ zu diesem Zweck anlegen.
 
 !!! note "Hinweis" 
-	 Über die Einstellung _**Download Zahlungsmodule**_ unter _**Shop Einstellungen \> Download-Optionen**_ bzw. _**Einstellungen / Artikel & Kategorien / Downloadoptionen**_ kannst du festlegen, welche Zahlungsweisen bei Download-Artikeln nicht verwendet werden dürfen. Standardmäßig sind hier die Module _**banktransfer**_, _**cod**_, _**invoice**_ und _**moneyorder**_ eingetragen.
+	 Über die Einstellung _**Download Zahlungsmodule**_ unter _**Einstellungen / Artikel & Kategorien / Downloadoptionen**_ kannst du festlegen, welche Zahlungsweisen bei Download-Artikeln nicht verwendet werden dürfen. Standardmäßig sind hier die Module _**banktransfer**_, _**cod**_, _**invoice**_ und _**moneyorder**_ eingetragen.
 
 !!! danger "Achtung"
 
 	 Die Einstellung _**Download durch Weiterleitung**_ ist standardmäßig abgeschaltet. Sie sollte nur verwendet werden, wenn dies unbedingt erforderlich ist.
 
-Setze die Einstellungen im Bereich _**Download-Bestellstatus**_ unter _**Shop Einstellungen \> Download-Optionen**_ bzw. _**Einstellungen / Artikel & Kategorien / Downloadoptionen**_ für die Bestellstatus, mit denen du einen Download ermöglichen möchtest. Wenn du den Status der Bestellung änderst, z.B. nach einem bestätigen Zahlungseingang, kannst du deinen Kunden über die Benachrichtigungsfunktion innerhalb der Bestellung \(_**Bestellstatus ändern**_, Haken setzen für _**Kunde benachrichtigen**_ und _**Kommentare mitsenden**_\) darüber informieren, dass der Download nun zur Verfügung steht.
+Setze die Einstellungen im Bereich _**Download-Bestellstatus**_ unter _**Einstellungen / Artikel & Kategorien / Downloadoptionen**_ für die Bestellstatus, mit denen du einen Download ermöglichen möchtest. Wenn du den Status der Bestellung änderst, z.B. nach einem bestätigen Zahlungseingang, kannst du deinen Kunden über die Benachrichtigungsfunktion innerhalb der Bestellung \(_**Bestellstatus ändern**_, Haken setzen für _**Kunde benachrichtigen**_ und _**Kommentare mitsenden**_\) darüber informieren, dass der Download nun zur Verfügung steht.
 
-Bei Zahlung per Zahlungsweisen mit sofortiger Transaktionsbestätigung wie PayPal oder Sofortüberweisung, kann der Kunde den Artikel direkt nach Abschluss der Bestellung herunterladen. Achte hierbei darauf, dass der betreffende Status unter _**Shop Einstellungen \> Download-Optionen**_ bzw. _**Einstellungen / Artikel & Kategorien / Downloadoptionen**_ aktiviert ist.
+Bei Zahlung per Zahlungsweisen mit sofortiger Transaktionsbestätigung wie PayPal oder Sofortüberweisung, kann der Kunde den Artikel direkt nach Abschluss der Bestellung herunterladen. Achte hierbei darauf, dass der betreffende Status unter _**Einstellungen / Artikel & Kategorien / Downloadoptionen**_ aktiviert ist.
 
 Bei Zahlung per PayPal kannst du unter _**Module \> Zahlungsweisen \> PayPal**_ und _**PayPal Plus \> Konfiguration \> Experteneinstellungen**_ unter _**Bestellstatusänderungen nach Aktionen**_ einen Bestellstatus auswählen, der nach erfolgreicher Bestellung automatisch zugewiesen wird. Wenn du einen eigenen Status verwendest kann dieser hier eingestellt werden \(z.B. _**Download erlaubt**_\). Nach erfolgreicher Bestellung mit Zahlung über PayPal wird im Konto des Kunden der Downloadlink zum Herunterladen der hinterlegten Datei freigeschaltet.
 

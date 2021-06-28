@@ -62,7 +62,7 @@ Damit schränken wir die Nutzung des Moduls ein, sodass der Versand mit diesem M
 
 !!! danger "Achtung"
 
-	 Bitte stelle sicher, dass alle Länder, in die du versenden möchtest, unter _**Shop Einstellungen \> Land/Steuer \> Länder**_ bzw. _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.
+	 Bitte stelle sicher, dass alle Länder, in die du versenden möchtest, unter _**Einstellungen / Sprachen, Länder, Steuern / Länder**_, nach Aufrufen der Seite, aktiviert sind.
 
 Dann folgt das Verteilen der Länder auf die eigentlichen Versandzonen. Da wir für Österreich und die Schweiz identische Versandkosten annehmen, können beide Länder in eine Zone eingetragen werden. Zusammengefasst sieht dies folgendermaßen aus:
 

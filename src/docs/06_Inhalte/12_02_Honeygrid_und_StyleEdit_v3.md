@@ -8,7 +8,7 @@ Das _**StyleEdit v3**_ oder kurz _**StyleEdit3**_ genannt, dient ausschließlich
 
 ## Einrichten des Honeygrids als aktuelles Template
 
-Das Template kann unter _**Darstellung \> Template-Einstellungen**_ bzw. _**Inhalte \> Template-Einstellungen**_ festgelegt werden. Verwende hierzu das Dropdown-Menü _**Templateset \(Theme\)**_ und wähle den Eintrag _**Honeygrid \(Template\)**_ aus. Bestätige die Änderung mit einem Klick auf _**Speichern**_.
+Das Template kann unter _**Inhalte \> Template-Einstellungen**_ festgelegt werden. Verwende hierzu das Dropdown-Menü _**Templateset \(Theme\)**_ und wähle den Eintrag _**Honeygrid \(Template\)**_ aus. Bestätige die Änderung mit einem Klick auf _**Speichern**_.
 
 !!! note "Hinweis"
 
@@ -18,10 +18,8 @@ Wechsele anschließend im Gambio Admin zum Menü _**Toolbox \> Cache**_ und leer
 
 ## Template-Einstellungen
 
-Über _**Darstellung \> Template-Einstellungen**_ bzw. _**Inhalte \> Template-Einstellungen**_ kann das _**StyleEdit v3**_ gestartet werden. Klicke hierzu auf _**Shop im Bearbeitungsmodus**_ laden.
+Über _**Inhalte \> Template-Einstellungen**_ kann das _**StyleEdit v3**_ gestartet werden. Klicke hierzu auf _**Aktives Template bearbeiten**_ laden.
 
-!!! note "Hinweis" 
-	 Ist das _**EyeCandy**_-Template aktiv, kann das _**StyleEdit3**_ über die Schaltfläche _**Shop im Honeygrid-Bearbeitungsmodus laden**_ gestartet werden, ohne das Template umzustellen.
 
 ### Übersicht
 
@@ -220,11 +218,11 @@ In diesem Abschnitt kann die Anzeige der einzelnen _**Menüboxen**_ an- und abge
 
 !!! note "Hinweis"
 
-	 Der Bereich _**Icons**_ wird nur angezeigt, wenn unter _**Shop Einstellungen \> Mein Shop**_, bzw. _**Darstellung \> Template-Einstellungen**_ oder _**Inhalte \> Template-Einstellungen**_ für _**Templateset \(Theme\)**_ der Eintrag _**Honeygrid \(Theme\)**_ eingestellt worden ist.
+	 Der Bereich _**Icons**_ wird nur angezeigt, wenn unter _**Inhalte \> Template-Einstellungen**_ für _**Templateset \(Theme\)**_ der Eintrag _**Honeygrid \(Theme\)**_ eingestellt worden ist.
 	 
 ## Template Konfiguration
 
-Unter _**Darstellung \> Template-Einstellungen**_ bzw. _**Inhalte \> Template-Einstellungen**_ befindet sich die _**Themeauswahl**_. Hier kann über die Einstellung _**Templateset \(Theme\)**_ das gewünschte Theme oder Template zur Anzeige im Shop ausgewählt werden. Es können ebenfalls generelle Einstellungen vorgenommen werden, die nicht an Styles gebunden sind.
+Unter _**Inhalte \> Template-Einstellungen**_ befindet sich die _**Themeauswahl**_. Hier kann über die Einstellung _**Templateset \(Theme\)**_ das gewünschte Theme oder Template zur Anzeige im Shop ausgewählt werden. Es können ebenfalls generelle Einstellungen vorgenommen werden, die nicht an Styles gebunden sind.
 
 !!! note "Hinweis"
 

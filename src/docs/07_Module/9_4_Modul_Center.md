@@ -89,7 +89,7 @@ Wechsele in den Reiter _**Konfiguration**_, um die Ersteinrichtung vorzunehmen u
 
 !!! danger "Achtung"
 
-	 Damit der Shop erfolgreich mit IT-Recht Kanzlei verbunden werden kann, muss dieser unter _**Darstellung \> Shop online/offline**_ bzw. _**Inhalte \> Shop online/offline**_ online geschaltet werden. Anderenfalls ist ein Abgleich der Rechtstexte nicht möglich und die Anbindung kann nicht abgeschlossen werden.
+	 Damit der Shop erfolgreich mit IT-Recht Kanzlei verbunden werden kann, muss dieser unter _**Inhalte \> Shop online/offline**_ online geschaltet werden. Anderenfalls ist ein Abgleich der Rechtstexte nicht möglich und die Anbindung kann nicht abgeschlossen werden.
 
 ![](../Bilder/itrecht/20170329_001.png "Reiter Konfiguration beim Bearbeiten des Moduls IT-Recht
       Kanzlei")
@@ -115,11 +115,11 @@ Es öffnet sich nun ein Popup, über das die Art des Shops ausgewählt und der T
 
 ##### AGB-Text in PDF-Rechnung verwenden
 
-Wird dieser Punkt aktiviert, wird der AGB-Text in die PDF-Rechnung übernommen. Der Text von IT-Recht Kanzlei ersetzt dann den Text, der ggf. unter _**Shop Einstellungen \> Rechnung/Lieferschein**_ bzw. _**Einstellungen / System / Rechnung & Lieferschein**_ im Tab _**Inhalt**_ für _**AGB/Widerruf**_ hinterlegt worden ist.
+Wird dieser Punkt aktiviert, wird der AGB-Text in die PDF-Rechnung übernommen. Der Text von IT-Recht Kanzlei ersetzt dann den Text, der ggf. unter _**Einstellungen / System / Rechnung & Lieferschein**_ im Tab _**Inhalt**_ für _**AGB/Widerruf**_ hinterlegt worden ist.
 
 ##### Widerrufsbelehrung in PDF-Rechnung verwenden
 
-Wird dieser Punkt aktiviert, wird der Widerrufstext in die PDF-Rechnung übernommen. Der Text von IT-Recht Kanzlei ersetzt dann den Text, der ggf. unter _**Shop Einstellungen \> Rechnung/Lieferschein**_ bzw. _**Inhalte / System / Rechnung & Lieferschein**_ im Tab _**Inhalt**_ für _**AGB/Widerruf**_ hinterlegt worden ist.
+Wird dieser Punkt aktiviert, wird der Widerrufstext in die PDF-Rechnung übernommen. Der Text von IT-Recht Kanzlei ersetzt dann den Text, der ggf. unter _**Inhalte / System / Rechnung & Lieferschein**_ im Tab _**Inhalt**_ für _**AGB/Widerruf**_ hinterlegt worden ist.
 
 #### Empfangene Texte
 
@@ -285,7 +285,7 @@ Es werden sowohl der _**Live**_- als auch der _**Sandbox API-Schlüssel**_ angez
 
 |Feldname|Beschreibung|
 |--------|------------|
-|_**Tracking-Link-Vorlage**_|Unter _**Shop Einstellungen \> Paketdienste**_ bzw. _**Einstellungen / Lieferung / Versanddienstleister**_, nach Aufrufen der Seite _**Paketdienste**_, befinden sich standardmäßig einige Tracking-Link-Vorlagen, die für den Versand der Sendungsnummer benutzt werden. Da das Label über Shipcloud erstellt wurde, empfehlen wir die gleichnamige Vorlage zu verwenden.|
+|_**Tracking-Link-Vorlage**_|Unter _**Einstellungen / Lieferung / Versanddienstleister**_, nach Aufrufen der Seite _**Paketdienste**_, befinden sich standardmäßig einige Tracking-Link-Vorlagen, die für den Versand der Sendungsnummer benutzt werden. Da das Label über Shipcloud erstellt wurde, empfehlen wir die gleichnamige Vorlage zu verwenden.|
 |_**Bestellstatus nach Labelerzeugung**_|Wenn der Bestellstatus nach dem Erstellen des Labels geändert werden soll, muss dieser hier ausgewählt werden.|
 |_**E-Mail-Benachrichtigung nach Bestellstatusänderung**_|Wurde dieser Punkt aktiviert, werden Kunden automatisch über die eingestellte Änderung des Bestellstatus' informiert.|
 |_**E-Mail-Adresse des Kunden an Shipcloud weitergeben und Telefonnummer des Kunden an Shipcloud weitergeben **_|Ist diese Einstellung abgeschaltet, werden die Kontaktdaten des Kunden nicht an Shipcloud weitergegeben, selbst wenn dieser im Bestellvorgang der Weitergabe zugestimmt hat.|
@@ -300,7 +300,7 @@ Die Absenderdaten müssen komplett ausgefüllt sein.
 
 ![](../Bilder/shipcloud/shipcloud_Absender.png "Absenderdaten in der Eingabemaske")
 
-Die Daten werden im Regelfall direkt aus den Einstellungen unter _**Shop Einstellungen \> Mein Shop**_ bzw. _**Einstellungen / Shop / Shopbetreiber**_ bezogen und können in der Konfiguration des Moduls nachträglich angepasst werden.
+Die Daten werden im Regelfall direkt aus den Einstellungen unter _**Einstellungen / Shop / Shopbetreiber**_ bezogen und können in der Konfiguration des Moduls nachträglich angepasst werden.
 
 #### Bankverbindung für Nachnahme
 
@@ -561,7 +561,7 @@ In den Account-Infos werden die Kundeninformationen des ProfiPaketServices aufge
 
 ### Tracking-Link versendens
 
-Mit dem Druck des Hermes-Labels erfolgt automatisch ein Eintrag der Sendungsnummer in die jeweilige Bestellung. Der Tracking-Link setzt sich, je nach gewähltem Dienst \(PriPS oder ProPS\), aus dem Link unter _**Shop Einstellungen \> Paketdienste**_ bzw. _**Einstellungen / Lieferung / Versanddienstleister**_, nach Aufrufen der Seite _**Paketdienste**_, und der Sendungsnummer zusammen.
+Mit dem Druck des Hermes-Labels erfolgt automatisch ein Eintrag der Sendungsnummer in die jeweilige Bestellung. Der Tracking-Link setzt sich, je nach gewähltem Dienst \(PriPS oder ProPS\), aus dem Link unter _**Einstellungen / Lieferung / Versanddienstleister**_, nach Aufrufen der Seite _**Paketdienste**_, und der Sendungsnummer zusammen.
 
 ![](../Bilder/hermes/HE_20170615_017.png "Eintrag der Sendungsnummer nach Druck eines Hermes-Labels")
 
@@ -773,7 +773,7 @@ Nach der Installation kann das Modul konfiguriert werden. Wähle hierzu den Eint
 |_**Versandoptionen bei Gewichtsberechnung berücksichtigen**_|Bei der Labelerstellung muss das Sendungsgewicht eingegeben werden. Dies kann mit dem Artikelgewicht vorausgefüllt werden. Wenn diesem Wert noch das Verpackungsgewicht aufgeschlagen werden soll, wie unter _**Module \> Versandarten \> Versand-Optionen**_ konfiguriert, muss dieser Punkt aktiviert werden.|
 |_**Standard-Versandart**_|Voreingestellt auf _**Normalpaket Flex**_, was DPD Predict entspricht. Es kann auch eine andere Versandart ausgewählt werden.|
 |_**Standard-Versandart Nachnahme**_|Voreingestellt auf _**Normalpaket Flex**_, was DPD Predict entspricht. Es kann auch eine andere Versandart ausgewählt werden.|
-|_**Tracking-Link-Vorlage**_|Unter _**Shop Einstellungen \> Paketdienste**_ bzw. _**Einstellungen / Lieferung / Versanddienstleister**_, nach Aufrufen der Seite _**Paketdienste**_, sind verschiedene Tracking-Links zu einigen Paketdienstleistern vorangelegt, aus denen eine entsprechende Vorlage ausgewählt werden kann. Wir empfehlen _**DPD**_ zu verwenden, damit die Sendungsnummer mit dem korrekten Link zur DPD Sendungsverfolgung kombiniert werden kann.|
+|_**Tracking-Link-Vorlage**_|Unter _**Einstellungen / Lieferung / Versanddienstleister**_, nach Aufrufen der Seite _**Paketdienste**_, sind verschiedene Tracking-Links zu einigen Paketdienstleistern vorangelegt, aus denen eine entsprechende Vorlage ausgewählt werden kann. Wir empfehlen _**DPD**_ zu verwenden, damit die Sendungsnummer mit dem korrekten Link zur DPD Sendungsverfolgung kombiniert werden kann.|
 |_**Logging**_|Aktiviert das Logging.|
 |_**Sandbox-/Debug-Modus**_|Aktiviert den Testbetrieb.|
 
@@ -898,7 +898,7 @@ Für die Inbetriebnahme müssen mehrere Schritte durchlaufen werden.
 
 #### CSV-Export erstellen
 
-Zuerst muss im Gambio Admin unter _**Import/Export \> Artikeldaten**_ bzw. _**Artikel \> Import/Export**_ im Reiter _**Preis-Portal**_ der Ampify-Export erstellt werden. Details zum Bearbeiten der CSV-Profile findest du im Kapitel _**Import/Export**_ des Handbuchs. Folgende Schritte sind hier nötig:
+Zuerst muss im Gambio Admin unter _**Artikel \> Import/Export**_ im Reiter _**Preis-Portal**_ der Ampify-Export erstellt werden. Details zum Bearbeiten der CSV-Profile findest du im Kapitel _**Import/Export**_ des Handbuchs. Folgende Schritte sind hier nötig:
 
 -   Export bearbeiten
 -   im Tab _**Einstellungen**_ die Export-URL kopieren
@@ -1180,7 +1180,7 @@ In der Grundansicht informiert das Cookie Consent-Panel den Besucher allgemein �
 
 !!! note "Hinweis"
 
-	 Der Text des Links im Footer kann bei Bedarf über _**Toolbox \> Texte anpassen**_ bzw. _**Inhalte \> Texte anpassen**_ geändert werden.
+	 Der Text des Links im Footer kann bei Bedarf über _**Inhalte \> Texte anpassen**_ geändert werden.
 
 ![](../Bilder/cookie_consent/cookieconsent_shopansicht_cookieEinstellungen_preference.png "Anzeige des Cookie-Preference-Center nach Klick auf
       _**Cookie Einstellungen**_")
@@ -1200,7 +1200,7 @@ Das Modul kann unter _**Module \> Modul-Center**_ installiert werden. Wähle hie
 
 Im Bereich _**Allgemein**_ kann das Modul über die Einstellung _**Status**_ an- und abgeschaltet werden. Setze bzw. entferne hierzu den Haken und bestätige dies mit einem Klick auf die Schaltfläche _**Speichern**_, am unteren Ende der Seite.
 
-Zudem können die im Cookie Consent-Panel verwendeten Texte für die im Backend aktivierten Sprachen \(_**Shop Einstellungen \> Land/Steuer \> Sprachen**_ bzw. _**Einstellungen / Sprachen, Länder, Steuern / Sprachen**_, nach Aufruf der Seite\) eingestellt werden. Hierzu zählen die folgenden Einstellungen:
+Zudem können die im Cookie Consent-Panel verwendeten Texte für die im Backend aktivierten Sprachen \(_**Einstellungen / Sprachen, Länder, Steuern / Sprachen**_, nach Aufruf der Seite\) eingestellt werden. Hierzu zählen die folgenden Einstellungen:
 
 ![](../Bilder/cookie_consent/cookieconsent_shopansicht_bereiche_.png "Bereiche des Cookie Consent-Panels mit den zugehörigen
       Einstellungen")
@@ -1314,7 +1314,7 @@ Hier wird ausgewählt, welcher Rechtstext in welchem Content ausgegeben werden s
 
 	 Wichtig beim Widerruf: hier darf nicht der Content _**Widerrufsrecht & Muster-Widerrufsformular**_ \(ID 3889895\) ausgewählt werden, sondern nur einer der darüber eingebundenen Widerrufscontents _**Widerruf 1-4**_ \(IDs 3889896 bis 3889899\).
 
-Für die Handlungsanleitung und das Batteriegesetz gibt es keine vorangelegten Contents im Shop, diese musst du vorher unter _**Darstellung \> Content Manager**_ bzw. _**Inhalte \> Content Manager**_ selbst anlegen und anschließend im Protected Shops-Modul auswählen.
+Für die Handlungsanleitung und das Batteriegesetz gibt es keine vorangelegten Contents im Shop, diese musst du vorher unter _**Inhalte \> Content Manager**_ selbst anlegen und anschließend im Protected Shops-Modul auswählen.
 
 ![](../Bilder/protectedshops/ps-20200213_004.png "Verwendung der Dokumente in Content-Seiten")
 
@@ -1373,7 +1373,7 @@ Damit die Label mit den nötigen Angaben erstellt werden können, musst du hier 
 |--------|------------|
 |Bestellstatus nach Speichern des Versandauftrags|Wenn gewünscht, kann direkt nach dem Erstellen des Labels schon ein abweichender Bestellstatus gesetzt werden. Welcher dies ist, kann hier ausgewählt werden.|
 |Bestellstatus nach Abruf des Labels|Auch nach dem Abruf des Labels kann der Bestellstatus geändert werden, eine Auswahl ist über das Dropdown-Menü hier möglich.|
-|Paketdienst|Hier kann der gewünschte Paketdienst gewählt werden, die unter _**Shop Einstellungen \> Paketdienste**_ bzw. _**Einstellungen / Lieferung / Paketdienste**_, nach Aufruf der Seite, konfiguriert werden können und in denen man einrichten kann, welcher Trackinglink für die Sendungsverfolgung verwendet wird. Als Standard sollte hier _**Hermes**_ gewählt werden. Der Paketdienst_** MyHermes**_ betraf nur Sendungen, die mit PriPS \(PrivatPaketService\) erstellt wurden, was aktuell noch über die Hermes-Webseite möglich ist.|
+|Paketdienst|Hier kann der gewünschte Paketdienst gewählt werden, die unter _**Einstellungen / Lieferung / Paketdienste**_, nach Aufruf der Seite, konfiguriert werden können und in denen man einrichten kann, welcher Trackinglink für die Sendungsverfolgung verwendet wird. Als Standard sollte hier _**Hermes**_ gewählt werden. Der Paketdienst_** MyHermes**_ betraf nur Sendungen, die mit PriPS \(PrivatPaketService\) erstellt wurden, was aktuell noch über die Hermes-Webseite möglich ist.|
 |Methode für Labeldownload|Hier kann gewählt werden, ob das Label beim Abruf direkt im Browserfenster geöffnet werden oder zuerst heruntergeladen werden soll. Da es in der Vergangenheit in einigen Browserversionen Probleme beim Öffnen und Drucken von PDF-Dateien im Browser gab, kann diese Option helfen, eben diese Probleme zu vermeiden.|
 |Sofortdownload verwenden|Hier kann gewählt werden, ob das erstelle Label sofort im Shop abgerufen wird oder ob dies später manuell z.B. über die Oberfläche im Hermes-Geschäftskundenkonto geschehen soll.|
 |Vorgabe Paketgewicht|Das Sendungsgewicht kann berechnet werden, sofern in den Artikeln ein Artikelgewicht hinterlegt wurde. An dieser Stelle kann gewählt werden, ob die Berechnung nur das Artikelgewicht oder zusätzlich noch das Verpackungsgewicht einschließt.|
@@ -1708,7 +1708,7 @@ Hier werden die Login-Daten zur Portokasse benötigt.
 
 #### Absender
 
-Diese Felder werden automatisch vorausgefüllt, können aber nachträglich angepasst werden. Es handelt sich hier um die Absenderangaben des Shopbetreibers, die vollständig vorliegen sollten und unter _**Shop Einstellungen \> Mein Shop**_ bzw. _**Einstellungen \> Shop**_ \(ab Shopversion _**4.3**_\) sowie in diesem Formular bearbeitet werden können.
+Diese Felder werden automatisch vorausgefüllt, können aber nachträglich angepasst werden. Es handelt sich hier um die Absenderangaben des Shopbetreibers, die vollständig vorliegen sollten und unter _**Einstellungen \> Shop**_ \(ab Shopversion _**4.3**_\) sowie in diesem Formular bearbeitet werden können.
 
 ![](../Bilder/internetmarke/20190408_002.png "Maske zur Anpassung der Absenderangaben")
 
@@ -1717,7 +1717,7 @@ Diese Felder werden automatisch vorausgefüllt, können aber nachträglich angep
 -   _**Produkt**_: Hier kann die gewünschte Art des Versands \(Umschlaggröße, Warensendung, Büchersendung, etc\) ausgewählt werden.
 -   _**Druckformat**_: Mit/ohne Adresse; Gibt an, ob Kunden- und Absenderadresse mit auf die Marke gedruckt werden
 -   _**Seitenformat**_: Hier kann das Format des zu bedruckenden Papiers/Umschlags gewählt werden. Es stehen verschiedene Umschlaggrößen zur Verfügung
--   _**Tracking-Link-Vorlage**_: Möchtest du einen Tracking-Link anbieten \(wahrscheinlich nicht bei allen Produkten möglich\), so kann hier eine selbst erstellte Vorlage ausgewählt werden. Unter _**Shop Einstellungen \> Paketdienste**_ bzw. _**Einstellungen / Lieferung / Versanddienstleister**_, nach Aufruf der Seite _**Paketdienste**_, können weitere Vorlagen angelegt werden. Über die Option _**E-Mail-Benachrichtigung nach Bestellstatusänderung**_ wird jedoch bereits ein Tracking-Link erstellt und versendet, die Auswahl der Vorlage ist also nur dann interessant, wenn ein spezieller Trackinglink verwendet werden soll.
+-   _**Tracking-Link-Vorlage**_: Möchtest du einen Tracking-Link anbieten \(wahrscheinlich nicht bei allen Produkten möglich\), so kann hier eine selbst erstellte Vorlage ausgewählt werden. Unter _**Einstellungen / Lieferung / Versanddienstleister**_, nach Aufruf der Seite _**Paketdienste**_, können weitere Vorlagen angelegt werden. Über die Option _**E-Mail-Benachrichtigung nach Bestellstatusänderung**_ wird jedoch bereits ein Tracking-Link erstellt und versendet, die Auswahl der Vorlage ist also nur dann interessant, wenn ein spezieller Trackinglink verwendet werden soll.
 -   _**Bestellstatus nach Labelerzeugung**_: Wenn der Bestellstatus nach Erstellen des Labels verändert werden soll, kann dieser hier ausgewählt werden.
 -   _**E-Mail-Benachrichtigung nach Bestellstatusänderung**_: Versendet eine Nachricht an den Kunden, die einen Trackinglink enthält.
 -   _**Niedrigen Guthabensstand beachten**_: Wenn aktiviert, werden nur Produkte angezeigt, die mit dem aktuellen Guthabensstand deiner Portokasse erworben werden können. Bei Verwendung von Portokasse auf Rechnung \(Guthaben kann negativ sein\) bitte deaktivieren.
@@ -1942,14 +1942,14 @@ Als Referenz ist die Variable _**%orders\_id%**_ für die Bestellnummer hinterle
 |Bestellstatus nach Labelerzeugung|Nach der Labelerzeugung kann automatisch ein Bestellstatus gesetzt werden, z.B. _**Label erstellt**_, o.ä. Dies hilft dir, die Bestellungen mit bereits erstelltem Label schon in der Bestellübersicht anhand des Status zu erkennen.|
 |Labels in neuem Tab/Fenster öffnen|Hier kann eingestellt werden, ob das Label gleich in einem neuen Tab geöffnet werden soll.|
 |Kunden benachrichtigen über Bestellstatusänderung|Wenn der Status automatisch geändert wurde, kann vom Shop auch automatisch eine Benachrichtigung darüber an den Kunden versendet werden.|
-|Tracking-Link-Vorlage|Als Tracking-Link-Vorlage sollte _**DHL**_ eingestellt werden. Ausgewählt wird aus den Vorlagen, die unter _**Shop Einstellungen \> Paketdienste**_ bzw. _**Einstellungen / Lieferung / Versanddienstleister**_, nach Aufruf der Seite _**Paketdienste**_, eingesehen und bearbeitet werden können. Die Vorlage wird um die Sendungsnummer des erstellten Labels ergänzt und bildet so den Link zur Sendungsverfolgung, der dem Kunden zugeschickt werden kann. Auch die Auswahl _**Sendungsverfolgung nicht verwenden**_ ist möglich, wenn kein Tracking-Link angeboten werden soll.|
+|Tracking-Link-Vorlage|Als Tracking-Link-Vorlage sollte _**DHL**_ eingestellt werden. Ausgewählt wird aus den Vorlagen, die unter _**Einstellungen / Lieferung / Versanddienstleister**_, nach Aufruf der Seite _**Paketdienste**_, eingesehen und bearbeitet werden können. Die Vorlage wird um die Sendungsnummer des erstellten Labels ergänzt und bildet so den Link zur Sendungsverfolgung, der dem Kunden zugeschickt werden kann. Auch die Auswahl _**Sendungsverfolgung nicht verwenden**_ ist möglich, wenn kein Tracking-Link angeboten werden soll.|
 
 !!! note "Hinweis" 
 	 Würde als Tracking-Linkg-Vorlage z.B. _**Hermes**_ ausgewählt, wird als Tracking-Link in der Bestellung ein Link zu Hermes mit der Sendungsnummer von DHL erstellt. Es sollte daher keine abweichende Vorlage eingestellt werden.
 
 |Feldname|Beschreibung|
 |--------|------------|
-|E-Mail-Adresse / Telefonnummer des Kunden an DHL weitergeben|Hier kann generell festgelegt werden, ob die Kontaktdaten der Kunden an DHL weitergegeben werden sollen. Hat der Kunde der Weitergabe im Bestellvorgang jedoch widersprochen, werden die Daten nicht übermittelt. Unter _**Shop Einstellungen \> Rechtliches**_ bzw. _**Einstellungen / Rechtliches**_ kann eine entsprechende Abfrage im Bestellvorgang aktiviert werden.|
+|E-Mail-Adresse / Telefonnummer des Kunden an DHL weitergeben|Hier kann generell festgelegt werden, ob die Kontaktdaten der Kunden an DHL weitergegeben werden sollen. Hat der Kunde der Weitergabe im Bestellvorgang jedoch widersprochen, werden die Daten nicht übermittelt. Unter _**Einstellungen / Rechtliches**_ kann eine entsprechende Abfrage im Bestellvorgang aktiviert werden.|
 |Verpackungsgewicht addieren|Hiermit wird das Verpackungsgewicht dem Artikelgewicht hinzugefügt.|
 |Retourenlabel anfordern \(Beilegretoure\)|Wenn du diese Option bei DHL gebucht hast, wird bei jeder Labelerstellung auch ein Retourenlabel erstellt, das dem Paket gleich beigelegt werden kann. **Achtung**: Diese Option darf nur aktiv sein, wenn Retourenlabel auch in deinem Vertrag enthalten sind. Ist dies nicht der Fall, wird es zu Problemen bei der Labelerstellung kommen.|
 |Altersprüfung bei FSK18-Artikeln|Hier kann die Art der Altersprüfung bei FSK18-Artikeln gewählt werden.|

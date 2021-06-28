@@ -2,6 +2,41 @@
 
 Im Gambio Admin unter _**Kunden \> Kunden**_ verwaltest du die Kundenkonten deiner Kunden.
 
+![](../Bilder/KundenKunden.png "Übersicht unter _**Kunden > Kunden**_")
+
+Für jedes Konto stehen verrschiedene Einstellungen zur Verfügung. Wenn du den Mauszeiger über einen Eintrag bewegst, werden verschiedene Symbole und eine Dropdown-Schaltfläche angezeigt.
+
+Über die Symbole können gängige Funktionen direkt aufgerufen werden:
+
+![](../Bilder/KundenKundenIcons.png "Symbole für _**Bearbeiten**_, _**Löschen**_ und _**Bestellungen**_ für ein Kundenkonto")
+
+- _**Bearbeiten**_: öffnet die Maske zum Bearbeiten des Kontos
+- _**Löschen**_: entfernen des Kontos nach Bestätigung einer Sicherheitsabfrage
+- _**Bestellungen**_: Anzeige der von diesem Konto ausgeführten Bestellungen
+
+Folgende Funktionen stehen über den Dropdown-Button eines Kundenkontos zur Verfügung:
+
+![](../Bilder/KundenKundenDropdownButton.png "Funktionen des Dropdown-Buttons eines Kundenkontos")
+
+- _**Bearbeiten**_: Kundenkonto bearbeiten
+- _**E-Mail**_: E-Mail an Kunden schreiben
+- _**IP-Log**_: zeigt Details zu der Aktivität des Kontos an
+- _**Personenbezogene Daten exportieren**_: erstellt eine Zip-Datei mit den zu diesem Konto gespeicherten, personenbezogenen Daten
+- _**Löschen**_: entfernt das Kundenkonto
+- _**Personenbezogene Daten löschen**_: entfernt die zu diesem Konto gespeicherten, personenbezogenen Daten
+- _**Als Kunde einloggen**_: du meldest dich mit dem gewählten Kundenkonto an
+- _**Kundengruppe**_: ändert die Kundengruppe des gewählten Kontos
+- _**Bestellungen**_: listet die von diesem Konto gemachten Bestellungen auf
+- _**Neue Bestellung**_: legt eine neue Bestellung für dieses Kundenkonto an
+
+![](../Bilder/KundenKundenUntereLeiste.png "Untere Leiste der Seite _**Kunden > Kunden**_, mit der Schaltfläche _**Gastkonten löschen**_ und den Dropdowns zum Filtern der Anzeige")
+
+Unterhalb der Auflistung befindet sich die links die Schaltfläche _**Gastkonten löschen**_, über die Gastkonten entfernt werden können.
+
+Mit Hilfe der Dropdowns können die Konten nach _**Kundengruppen**_ gefiltert und die Anzahl der pro Seite angezeigten Konten eingestellt werden.
+
+Über die Schaltfläche _**Erstellen**_ kann ein neues Konto manuell angelegt werden.
+
 ## Kundenkonto manuell anlegen
 
 Kundenkonten kannst du im Gambio Admin deines Shops unter _**Kunden \> Kunden**_ von Hand erstellen.
@@ -102,3 +137,61 @@ Wenn ein Kunde im Shopbereich auf _**Kundenkonto löschen**_ klickt, erhältst d
 	 Wenn du ein Kundenkonto löscht, werden nur die Stammdaten des Kunden aus dem System gelöscht. Sämtliche Bestellungen und Artikelbewertungen des Kunden bleiben erhalten.
 	 
 	 
+## IP-Log
+
+![](../Bilder/KundenKundenIPLog.png "Dialog _**IP-Log**_ nach Aufruf über die Dropdown-Schaltfläche eines Kundenkontos")
+
+Folgende Informationen werden angezeigt:
+
+- Erstellungsdatum
+- Datum der letzten Änderung
+- Datum der letzten Anmeldung
+- Anzahl der Anmeldungen
+- Land des Kundenkontos
+- Anzahl der Kundenrezensionen
+
+Klicke auf die Schaltfläche _**Schließen**_ oder das _**x**_-Symbol, um das Dialog-Fenster wieder zu schließen.
+
+## Personenbezogene Daten exportieren
+
+![](../Bilder/KundenKundenPersonenbezogeneDatenExportieren.png "Dialog _**Personenbezogene Daten exportieren**_")
+
+Diese Funktion erstellt eine ZIP-Datei (komprimiertes Archiv) der personenbezogenen Daten, welche zu dem jeweiligen Kundenkonto gespeichert werden.  Die einzelnen Daten werden in einer XML-Datei (Textdatei, die so aufgebaut ist, dass sie sowohl von Menschen als auch Maschinen gelesen werden kann) bzw. als PDF-Dateien (Rechnungen und Lieferscheine) innerhalb des Archivs abgelegt.
+
+![](../Bilder/KundenKundenPersonenbezogeneDatenExportierenArchivInhalt.png "Beispiel für den Inhalt eines Archivs nach dem Export")
+
+Es können folgende Daten unabhängig voneinander durch Setzen bzw. Entfernen der jeweiligen Haken für den Export an- oder abgewählt werden:
+
+- Stammdaten inklusive Adressen
+- Bestellungen, Rechnungen und Lieferscheine
+- Widerrufe
+- Einwilligungen
+- E-Mails
+- Warenkörbe
+- Bewertungen
+- Newsletter-Anmeldungen
+
+Klicke auf die Schaltfläche _**Exportieren**_, um die ausgewählten Daten zu exportieren. Durch Klick auf die Schaltfläche _**Schließen**_ kann der Dialog geschlossen werden, ohne einen Export vorzunehmen.
+
+## Personenbezogene Daten löschen
+
+![](../Bilder/KundenKundenPersonenbezogeneDatenLoeschen.png "Dialog _**Personenbezogene Daten löschen**_")
+
+Über die Funktion _**Personenbezogene Daten löschen**_ können die personenbezogenen Daten zu einem Kundenkonto entfernt werden. Welche Daten gelösch werden sollen, lässt sich jeweils durch Setzen oder Entfernen der Haken an- bzw. abwählen:
+
+- Stammdaten inklusive Adressen
+- Bestellungen, Rechnungen und Lieferscheine
+- Widerrufe
+- Einwilligungen
+- E-Mails
+- Warenkörbe
+- Bewertungen
+- Newsletter-Anmeldungen
+
+Klicke auf _**Löschen**_, um die ausgewählten Daten zu entfernen oder _**Schließen**_, um den Dialog zu verlassen, ohne etwas zu löschen.
+
+## Kundengruppe
+
+![](../Bilder/KundenKundenKundengruppe.png "Dialog _**Kundengruppe**_")
+
+Über die Funktion _**Kundengruppe**_ kann die Kundengruppe eines Kontos geändert werden. Wähle hierzu die gewünschte Funktion über das Dropdown aus und bestätige die Änderung mit einem Klick auf _**Aktualisieren**_. Klicke auf _**Schließen**_, wenn du den Dialog verlassen möchtest, ohne eine Änderung vorzunehmen.

@@ -40,13 +40,13 @@ _**Ich bin einverstanden und verlange ausdrücklich, dass Sie vor Ende der Wider
 bestätigt werden.
 
 !!! note "Hinweis" 
-	 Das Setzen dieses Hakens kann für Download-Artikel und Dienstleistungen durch den Shop-Betreiber als Pflichtfeld festgelegt werden. Die entsprechenden Einstellungen findest du unter _**Shop Einstellungen \> Rechtliches**_ bzw. _**Einstellungen / Rechtliches**_. Siehe _**Rechtliche Einstellungen**_.
+	 Das Setzen dieses Hakens kann für Download-Artikel und Dienstleistungen durch den Shop-Betreiber als Pflichtfeld festgelegt werden. Die entsprechenden Einstellungen findest du unter _**Einstellungen / Rechtliches**_. Siehe _**Rechtliche Einstellungen**_.
 
 Über den Link \(_**Als PDF downloaden**_\) hat der Kunde die Möglichkeit sowohl die Allgemeinen Geschäftsbedingungen als auch das Widerrufsrecht als PDF-Datei herunterzuladen.
 
 ### Bestellinformationen
 
-Wenn unter _**Shop Einstellungen \> Rechtliches**_ bzw. _**Einstellungen / Rechtliches**_ die Einstellungen gesetzt sind, wird in den Bestellinformationen unter _**Ihr Konto**_ der entsprechende Verweis auf das Widerrufsformular angezeigt. Dies kann wahlweise im PDF-Format und/oder als Online-Formular erfolgen.
+Wenn unter _**Einstellungen / Rechtliches**_ die Einstellungen gesetzt sind, wird in den Bestellinformationen unter _**Ihr Konto**_ der entsprechende Verweis auf das Widerrufsformular angezeigt. Dies kann wahlweise im PDF-Format und/oder als Online-Formular erfolgen.
 
 ![](../Bilder/Abb201_VerweisAufWiderrufsformularImPDF_FormatUndAlsOnline_Formular.png "Verweis auf Widerrufsformular im PDF-Format und als
         Online-Formular")
@@ -55,16 +55,16 @@ Zudem wird dem Kunden bei einem Verzicht auf das Widerrufsrecht, wie es bei eine
 
 ### Bestellbestätigung
 
-Die Bestellbestätigungs-E-Mail enthält mit der Einrichtung der Verbraucherrechterichtlinie nun standardmäßig AGB und Widerrufsrecht als PDF-Anhang. Das Widerrufsformular wird ebenfalls mitgesendet, wenn unter _**Shop Einstellungen \> Rechtliches**_ bzw. _**Einstellungen / Rechtliches**_ die Einstellung_** PDF-Formular anbieten**_ gesetzt ist. Zudem werden identische Verweise auf das Widerrufsformular aufgeführt, wie bereits in den Bestellinformationen unter Ihr Konto, wenn die entsprechenden Haken gesetzt sind.
+Die Bestellbestätigungs-E-Mail enthält mit der Einrichtung der Verbraucherrechterichtlinie nun standardmäßig AGB und Widerrufsrecht als PDF-Anhang. Das Widerrufsformular wird ebenfalls mitgesendet, wenn unter _**Einstellungen / Rechtliches**_ die Einstellung_** PDF-Formular anbieten**_ gesetzt ist. Zudem werden identische Verweise auf das Widerrufsformular aufgeführt, wie bereits in den Bestellinformationen unter Ihr Konto, wenn die entsprechenden Haken gesetzt sind.
 
 ### Online-Widerrufsformular
 
 !!! note "Hinweis" 
-	 Der Verweis auf das Online-Widerrufsformular wird unter _**Shop Einstellungen \> Rechtliches**_ bzw. _**Einstellungen / Rechtliches**_ eingestellt. Setze hierzu die Einstellung bei _**Webformular anbieten**_ im Bereich _**Widerrufsrecht**_.
+	 Der Verweis auf das Online-Widerrufsformular wird unter _**Einstellungen / Rechtliches**_ eingestellt. Setze hierzu die Einstellung bei _**Webformular anbieten**_ im Bereich _**Widerrufsrecht**_.
 
 Das Online-Widerrufsformular kann sowohl über den allgemeinen Content _**Widerrufsrecht & Muster-Widerrufsformular**_ \(siehe Box _**Mehr über...**_ im Footer\) als auch aus den Bestellungen unter _**Ihr Konto**_ aufgerufen werden \(siehe _**Bestellinformationen**_\). Erfolgt der Aufruf aus der betroffenen Bestellung selbst, ist das Online-Formular bereits weitestgehend vorausgefüllt. Generell werden Pflichtfelder mit einem Sternchen \* gekennzeichnet. Diese Funktion ist bei Gast- Kunden eingeschränkt.
 
-Das Formular enthält standardmäßig die unter _**Shop Einstellungen \> Mein Shop**_ bzw. _**Einstellungen / Shop / Shopbetreiber**_ eingetragenen Kontaktinformationen als Adressat, sowie im Bereich _**Widerruf**_ ein Texteingabefeld, das mit einem Standardtext belegt ist:
+Das Formular enthält standardmäßig die unter _**Einstellungen / Shop / Shopbetreiber**_ eingetragenen Kontaktinformationen als Adressat, sowie im Bereich _**Widerruf**_ ein Texteingabefeld, das mit einem Standardtext belegt ist:
 
 Hiermit widerrufe\(n\) ich/wir den von mir/uns abgeschlossenen Vertrag über den Kauf der folgenden Waren / die Erbringung der folgenden Dienstleistung:
 
