@@ -16,7 +16,9 @@ Gib die bei der Installation festgelegte E-Mail Adresse und das Passwort in die 
 
 Im oberen rechten Menü erscheint nun der Button _**Gambio Admin**_.
 
-![](../Bilder/Abb006a_GambioAdminButton.png "Einloggen als Administrator über den Shopbereich") ![](../Bilder/Abb006b_GambioAdminButton.png "Einloggen als Administrator über den Shopbereich")
+![](../Bilder/ErsteSchritte_ImShopAnmelden_EinloggenAlsAdministratorUeberDenShopbereich.png
+ "Einloggen als Administrator über den Shopbereich") ![](../Bilder/ErsteSchritte_ImShopAnmelden_GambioAdminButton.png
+ "Einloggen als Administrator über den Shopbereich")
 
 ## Shop offline stellen 
 
@@ -33,7 +35,7 @@ In verschiedenen Bereichen muss dein neuer Onlineshop nach der Installation erst
 !!! note "Hinweis" 
 	 Leere nach dem Aktivieren der SEO Boost URLs die Servercaches unter _**Toolbox \> Cache**_. Betätige hierzu die Schaltflächen von unten nach oben.
 
-![](../Bilder/Abb007_SEO_Boost_aktivieren.png "SEO Boost aktivieren")
+![](../Bilder/ErsteSchritte_GrundkonfigurationVornehmen_SEOBoostAktivieren.png "SEO Boost aktivieren")
 
 Sofern dein Server es zulässt, empfehlen wir, die Gambio SEO Boost URLs zu verwenden. Installiere den SEO Boost unter _**Einstellungen / Suchmaschinenoptimierung / SEO URLs**_. Die SEO Boost URLs simulieren aus dem dynamischen Shopinhalt statische Dokumente und fördern die Lesbarkeit deiner URLs. Die Kontrollkästchen sind nicht auswählbar, solange die vorherig genannte Konfiguration nicht vorgenommen wurde.
 

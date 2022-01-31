@@ -2,7 +2,7 @@
 
 Der _**CK-Editor**_ ist ein sogenannter WYSIWYG \(What You See Is What You Get\)-Editor. Er bietet also eine Vorschaufunktion, die den Inhalt weitestmöglich so anzeigt, wir er auch im Shop selbst dargestellt wird. Er wird hauptsächlich für Artikel- und Kategoriebeschreibungen sowie Contents \(Informationsseiten\) verwendet.
 
-![](../../Bilder/Abb015_CK_Editor.png "CK-Editor")
+![](../../Bilder/BereicheDesShopsystems_CKEditor_CKEditor.png "CK-Editor")
 
 Auf diese Weise ist es nicht notwendig den HTML-Code direkt einzugeben, der für die Strukturierung des Inhalts notwendig ist.
 
@@ -101,7 +101,7 @@ Die meisten Funktionen ähneln denen von herkömmlichen Textverarbeitungen, es g
 
 ## Bilder einbinden
 
-![](../../Bilder/Abb016_Bild_Eigenschaften.png "Bild-Eigenschaften")
+![](../../Bilder/BereicheDesShopsystems_CKEditor_BilderEinbinden_BildEigenschaften.png "Bild-Eigenschaften")
 
 Verwende die Schaltfläche mit den Pyramiden \(_**Bild**_\), um ein Bild einzubinden. Es öffnet sich das Fenster _**Bild-Eigenschaften**_. Klicke hier auf _**Server durchsuchen**_, du erhältst eine Übersicht des Bild-Verzeichnisses auf deinem Server. Je nach Einstellung im Gambio Admin wird entweder der _**FileManager**_ oder der _**Responsive FileManager**_ geladen.
 
@@ -169,7 +169,7 @@ Bestätige die Änderung mit Klick auf _**OK**_ und speichere den jeweiligen Ber
 
 Über die Schaltfläche _**Link einfügen/editieren**_ kann ein Link gesetzt werden. Schreibe hierzu zunächst den Text, welchen du als Link verwenden möchtest. Markiere den Text anschließend und klicke auf den Button mit den Kettengliedern \(_**Link einfügen/editieren**_\). Als _**Link-Typ**_ ist standardmäßig _**URL**_ und als _**Protokoll**_ _**http://**_ ausgewählt. Diese Einstellungen können im Normalfall beibehalten werden; wenn dein Shop jedoch vollständig SSL-verschlüsselt ist, sollte als Protokoll stattdessen _**https://**_ eingestellt werden.
 
-![](../../Bilder/Abb018_Link.png "Link")
+![](../../Bilder/BereicheDesShopsystems_CKEditor_LinkEinfuegenEditieren_LInk.png "Link")
 
 Kopiere die Adresse, auf die du verlinken möchtest, in das Feld _**URL**_. Über den Reiter _**Zielseite**_ kann optional ausgewählt werden, ob der Link z.B. in einem neuen Fenster geöffnet werden soll. Mit einem Klick auf _**OK**_ wird der Link angelegt bzw. aktualisiert.
 

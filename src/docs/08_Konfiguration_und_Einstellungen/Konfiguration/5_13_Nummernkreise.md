@@ -2,7 +2,7 @@
 
 Über Nummernkreise wird die automatische Vergabe von Bestell-, Kunden-, Rechnungs- und Lieferscheinnummern konfiguriert. Die entsprechenden Einstellungen findest du unter _**Einstellungen / System / Bestell- und Kundennummer**_, nach Aufruf der Seite _**Nummernkreise**_.
 
-![](../../Bilder/NummernkreiseMinimum.png "Feststellen der Minimum-Werte")
+![](../../Bilder/Konfiguration_Nummernkreise_FeststellenDerMinimumWerte.png "Feststellen der Minimum-Werte")
 
 Um den Minimumwert für einen Nummernkreis anzeigen zu lassen, bewege den Mauszeiger in die zugehörige Zeile über das dann angezeigte Info-Symbol \(in der Abbildung rot markiert\).
 

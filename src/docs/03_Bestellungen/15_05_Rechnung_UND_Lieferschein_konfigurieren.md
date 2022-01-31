@@ -10,7 +10,7 @@ Auf der Registerkarte _**Inhalt**_ kannst du Inhalte vorgeben, die auf allen Rec
 
 Auf der Registerkarte _**Inhalt**_ im Abschnitt _**Kopfteil**_ kannst du deine Firmenanschrift und den Inhalt für die Betreffzeile eintragen. Gib die gewünschten Daten ein und klicke auf _**Speichern**_.
 
-![](../Bilder/Abb577_KopfteilDerRechnungKonfigurieren.png "Kopfteil der Rechnung konfigurieren")
+![](../Bilder/Bestellungen_RechnungUNDLieferscheinKonfigurieren_Inhalte_KopfteilDerRechnungKonfigurieren.png "Kopfteil der Rechnung konfigurieren")
 
 Wenn du den Kopfteil der Rechnung verwenden möchtest, wähle auf der Registerkarte _**Konfiguration**_ im Abschnitt _**Anzeige**_ bei der _**Liste Kopfteil verwenden?**_ den Wert ✔ aus.
 
@@ -18,7 +18,7 @@ Wenn du den Kopfteil der Rechnung verwenden möchtest, wähle auf der Registerka
 
 Auf der Registerkarte _**Inhalt**_ im Abschnitt _**Hinweistexte**_ kannst du Hinweistexte für die Rechnung und den Lieferschein hinterlegen, die auf jeder Rechnung ausgegeben werden. Gib die gewünschten Daten ein und klicke auf _**Speichern**_.
 
-![](../Bilder/Abb578_HinweistexteFuerRechnungUndLieferschein.png "Hinweistexte für Rechnung und Lieferschein")
+![](../Bilder/Bestellungen_RechnungUNDLieferscheinKonfigurieren_Inhalte_HinweistexteFuerRechnungUndLieferschein.png "Hinweistexte für Rechnung und Lieferschein")
 
 Wenn du die Hinweistexte verwenden möchtest, wähle auf der Registerkarte _**Konfiguration**_ im Abschnitt _**Anzeige**_ bei den Checkboxen _**Hinweis verwenden?**_ und _**Hinweistext verwenden?**_ jeweils den Wert ✔ aus.
 
@@ -44,7 +44,7 @@ Auf der Registerkarte _**Inhalt**_ im Abschnitt _**E-Mail Rechnung**_ kannst du 
 
 Auf der Registerkarte _**Schriften**_ kannst du die Schriftarten, -farben und -größen einstellen, die auf der Rechnung verwendet werden.
 
-![](../Bilder/Abb579_SchriftenFuerDieRechnungKonfigurieren.png "Schriften für die Rechnung konfigurieren")
+![](../Bilder/Bestellungen_RechnungUNDLieferscheinKonfigurieren_Schriften_SchriftenFuerDieRechnungKonfigurieren.png "Schriften für die Rechnung konfigurieren")
 
 1.  Wähle aus der ersten Liste einer Schrift die Schriftart aus
 2.  Wähle aus der zweiten Liste einer Schrift den Schritstil aus
@@ -109,7 +109,7 @@ Klicke nach vorgenommenen Änderungen auf Speichern, um die Änderungen für zuk
 
 Auf der Registerkarte _**Konfiguration**_ im Abschnitt _**Layout**_ kannst du die Abstände auf der Rechnung vorgeben. Mit den Listen _**Zoomfaktor der PDF im Reader**_ und _**Seitenlayout der PDF im Reader**_ stellst du das Verhalten der PDF-Rechnung im PDF-Betrachtungsprogramm ein. In der Liste _**Ausgabemodus**_ kannst du auswählen, ob dir PDF-Dateien nach dem Erzeugen im Browser angezeigt oder direkt heruntergeladen werden.
 
-![](../Bilder/Abb195_SeitenabstaendeDerRechnung.png "Seitenabstände der Rechnung")
+![](../Bilder/Bestellungen_RechnungUNDLieferscheinKonfigurieren_Konfiguration_SeitenabstaendeDerRechnung.png "Seitenabstände der Rechnung")
 
 Klicke nach vorgenommenen Änderungen auf _**Speichern**_, um die Änderungen für zukünftige Rechnungen zu übernehmen.
 
@@ -117,13 +117,13 @@ Klicke nach vorgenommenen Änderungen auf _**Speichern**_, um die Änderungen f�
 
 Auf der Registerkarte _**Konfiguration**_ im Abschnitt _**Sicherheit**_ kannst du die PDF-Sicherheitseinstellungen vorgeben. Klicke nach vorgenommenen Änderungen auf _**Speichern**_, um die Änderungen für zukünftige Rechnungen zu übernehmen.
 
-![](../Bilder/Abb340_PDF_Sicherheitseinstellungen.png "PDF-Sicherheitseinstellungen")
+![](../Bilder/Bestellungen_RechnungUNDLieferscheinKonfigurieren_Konfiguration_PDFSicherheitseinstellungen.png "PDF-Sicherheitseinstellungen")
 
 ### Bestellstatus und Rechnungsdatum
 
 Auf der Registerkarte _**Konfiguration**_ im Abschnitt _**Bestellstatus und Rechnungsdatum**_ legst du fest, welchen Bestellstatus eine Bestellung erhalten soll, wenn die Rechnung erstellt oder per E-Mail versendet wurde. Wähle in der Liste _**Bestellstatus, der zur Ermittlung des Rechnungsdatum verwendet werden soll**_ den Bestellstatus aus, der zur Ermittlung des Rechnungsdatums verwendet werden soll. Als Rechnungsdatum auf der Rechnung wird der Zeitpunkt des erstmaligen Erreichen des konfigurierten Bestellstatus verwendet.
 
-![](../Bilder/Abb197_BestellstatusNachRechnungsstellung.png "Bestellstatus nach Rechnungsstellung")
+![](../Bilder/Bestellungen_RechnungUNDLieferscheinKonfigurieren_Konfiguration_BestellstatusNachRechnungsstellung.png "Bestellstatus nach Rechnungsstellung")
 
 Klicke nach vorgenommenen Änderungen auf _**Speichern**_, um die Änderungen für zukünftige Rechnungen zu übernehmen.
 
@@ -131,7 +131,7 @@ Klicke nach vorgenommenen Änderungen auf _**Speichern**_, um die Änderungen f�
 
 Auf der Registerkarte _**Vorschau**_ kannst du eine Vorschau einer Rechnung oder eines Lieferscheins mit der aktuellen Konfiguration erstellen.
 
-![](../Bilder/Abb198_Rechnungsvorschau.png "Rechnungsvorschau")
+![](../Bilder/Bestellungen_RechnungUNDLieferscheinKonfigurieren_Vorschau_Rechnungsvorschau.png "Rechnungsvorschau")
 
 !!! note "Hinweis" 
 	 Du kannst die Rechnungsvorschau nur generieren, wenn bereits mindestens eine Bestellung in deinem Shop eingegangen ist. Wenn du deinen Shop noch einrichtest, erstelle zunächst eine Testbestellung.

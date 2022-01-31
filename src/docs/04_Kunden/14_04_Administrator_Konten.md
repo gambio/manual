@@ -4,7 +4,7 @@ Bei der Installation deines Shopsystems wird ein Hauptadministrator-Konto angele
 
 ## Administrator-Konto anlegen
 
-![](../Bilder/Abb166_AdminrechteVergeben.png "Adminrechte vergeben")
+![](../Bilder/Kunden_AdministratorKonten_AdministratorKontoAnlegen_AdminrechteVergeben.png "Adminrechte vergeben")
 
 1.  Wähle aus der Kundenliste das mit Administrator-Rechten zu versehende Kundenkonto aus oder lege ein neues Kundenkonto an, wie im Kapitel _**Kundenkonto manuell erstellen**_ beschrieben und wähle das neu erstellte Kundenkonto aus
 
@@ -25,14 +25,14 @@ Mit Rollen und Berechtigungen werden ab Shopversion 3.9 die Zugriffsrechte für 
 
 Im Bereich _**Admins verwalten**_ werden alle Konten der Gruppe _**Admin**_ angezeigt. Wenn du den Mauszeiger in die jeweilige Zeile eines Administrators bewegst, wird ein Bleistift-Symbol angezeigt. Hierüber kann dem Admin eine Rolle zugeordnet werden.
 
-![](../Bilder/Abb241_RollenUndBerechtigungen.png "Bereich _**Admins verwalten**_")
+![](../Bilder/Kunden_AdministratorKonten_RollenUndBerechtigungen_BereichAdminsVerwalten.png "Bereich _**Admins verwalten**_")
 
 !!! note "Hinweis" 
 	 Wird kein Bleistift-Symbol zu einen Admin-Konto angezeigt, handelt es sich um den Hauptadministrator. Dieser hat per Definition alle Rechte.
 
 Ein Klick auf das Bleistift-Symbol ruft die Rollenzuweisung für den jeweiligen Administrator auf. Es werden die einzelnen Zugriffsrollen angezeigt. Wird ein Haken in der Spalte _**Rolle zuweisen**_ gesetzt, wird die jeweilige Rolle dem Administrator-Konto zugeordnet.
 
-![](../Bilder/Abb242_RolleZuweisen.png "Rollenzuweisung für einen Administrator")
+![](../Bilder/Kunden_AdministratorKonten_RollenUndBerechtigungen_RollenzuweisungFuerEinenAdministrator.png "Rollenzuweisung für einen Administrator")
 
 !!! note "Hinweis" 
 	 Standardmäßig ist nur die Rolle _**Super-Administrator**_ angelegt. Weitere Rollen können über den Reiter _**Zugriffsrollen verwalten**_ erstellt werden.
@@ -41,13 +41,13 @@ Ein Klick auf das Bleistift-Symbol ruft die Rollenzuweisung für den jeweiligen 
 
 Im Reiter _**Zugriffsrollen verwalten**_ werden alle Rollen aufgelistet. Zudem können über die Schaltfläche _**Neue Zugriffsrolle**_ weitere Rollen hinzugefügt werden. Wenn du den Mauszeiger in die Zeile einer Zugriffsrolle bewegst, werden die möglichen _**Aktionen**_ zu dieser Rolle angezeigt. Diese sind von links nach rechts: _**Bearbeiten**_, _**Konfigurieren**_, _**Löschen**_, _**Verschieben**_.
 
-![](../Bilder/Abb243_ZugriffsrollenVerwalten.png "Bereich _**Zugriffsrollen verwalten**_")
+![](../Bilder/Kunden_AdministratorKonten_RollenUndBerechtigungen_BereichZugriffsrollenVerwalten.png "Bereich _**Zugriffsrollen verwalten**_")
 
 !!! danger "Achtung"
 
 	 Die Rolle _**Super-Administrator**_ sollte weder gelöscht noch geändert werden.
 
-![](../Bilder/Abb244_ZugriffsrolleErstellen.png "_**Zugriffsrolle erstellen**_")
+![](../Bilder/Kunden_AdministratorKonten_RollenUndBerechtigungen_ZugriffsrolleErstellen.png "_**Zugriffsrolle erstellen**_")
 
 **Aktionen**
 
@@ -56,13 +56,13 @@ Im Reiter _**Zugriffsrollen verwalten**_ werden alle Rollen aufgelistet. Zudem k
 -   _**Löschen**_
 -   _**Verschieben**_: ändert die Reihenfolge der angezeigten Zugriffsrollen, klicke und halte die linke Maustaste und ziehe den Eintrag an die gewünschte Position
 
-![](../Bilder/Abb245_ZugriffsrolleBearbeiten.png "_**Zugriffsrolle bearbeiten**_")
+![](../Bilder/Kunden_AdministratorKonten_RollenUndBerechtigungen_ZugriffsrolleBearbeiten.png "_**Zugriffsrolle bearbeiten**_")
 
 **Zugriffsrechte**
 
 Setze beziehungsweise entferne den Haken _**Zugriff erlauben**_ hinter einem Zugriffsrecht, um das Recht zu gewähren respektive zu entziehen. Bewege den Mauszeiger über das Info-Symbol, um die Beschreibung des jeweiligen Zugriffsrechts anzuzeigen.
 
-![](../Bilder/Abb246_ZugriffsrolleKonfigurieren.png "Anzeige der Zugriffsrechte über _**Konfigurieren**_")
+![](../Bilder/Kunden_AdministratorKonten_RollenUndBerechtigungen_AnzeigeDerZugriffsrechteUeberKonfigurieren.png "Anzeige der Zugriffsrechte über _**Konfigurieren**_")
 
 |Feldname|Beschreibung|
 |--------|------------|

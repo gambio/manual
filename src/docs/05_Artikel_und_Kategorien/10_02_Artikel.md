@@ -7,7 +7,7 @@ Neue Artikel kannst du in der Artikel- und Kategorieübersicht unter _**Artikel 
 !!! note "Hinweis" 
 	 Um in eine Kategorie zu wechseln, klicke auf das schwarze Ordnersymbol vor dem Kategorienamen, oder wähle die gewünschte Kategorie aus der Liste _**Gehe zu**_ rechts in der Leiste am unteren Bildschirmrand aus.
 
-![](../Bilder/Abb084_ArtikelAnlegen.png "Artikel anlegen")
+![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_ArtikelAnlegen.png "Artikel anlegen")
 
 !!! note "Hinweis"
 
@@ -34,7 +34,7 @@ Neue Artikel kannst du in der Artikel- und Kategorieübersicht unter _**Artikel 
 !!! note "Hinweis" 
 	 Die einzelnen Bereich der Artikelmaske können mit Klick auf das Minus-Icon minimiert und über das Plus-Icon maximiert werden. Wenn also ein hier aufgeführter Bereich nicht angezeigt wird, klicke am rechten Ende der grauen Leiste auf das Plus-Icon.
 
-![](../Bilder/ArtikelPlusMinus_.png "Icon zum Ein- und Ausklappen der Bereiche")
+![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_IconZumEinUndAusklappenDerBereiche.png "Icon zum Ein- und Ausklappen der Bereiche")
 
 ### Kategorien
 
@@ -54,7 +54,7 @@ In aller Regel sollen jedoch zusätzliche Kategorien verlinkt werden. Hierzu kö
 
 ### Artikelstammdaten
 
-![](../Bilder/Abb085_ArtikelEingabemaske.png "Artikelstammdaten in der Artikelmaske")
+![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_ArtikelstammdatenInDerArtikelmaske.png "Artikelstammdaten in der Artikelmaske")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -127,11 +127,11 @@ In aller Regel sollen jedoch zusätzliche Kategorien verlinkt werden. Hierzu kö
 
 Über Zusatzfelder können weitere Informationen zu einem Artikel gespeichert werden. Die Angaben werden hauptsächlich für den Export zu Preisportalen verwendet, können jedoch auch auf der Artikel-Detailseite ausgegeben werden. Jedes Zusatzfeld hat eine Bezeichnung und einen Wert.
 
-![](../Bilder/Abb088_neuesZusatzfeldAnlegen.png "Neues Zusatzfeld über Hinzufügen anlegen")
+![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_NeuesZusatzfeldUeberHinzufuegenAnlegen.png "Neues Zusatzfeld über Hinzufügen anlegen")
 
-![](../Bilder/Abb089_neuesZusatzfeldAnlegen.png "Neues Zusatzfeld über Hinzufügen anlegen")
+![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_NeuesZusatzfeldUeberHinzufuegenAnlegen_.png "Neues Zusatzfeld über Hinzufügen anlegen")
 
-![](../Bilder/Abb090_neuesZusatzfeldNachAnlegen.png "Neues Zusatzfeld ist in anderen Artikeln verfügbar")
+![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_NeuesZusatzfeldIstInAnderenArtikelnVerfuegbar.png "Neues Zusatzfeld ist in anderen Artikeln verfügbar")
 
 !!! note "Hinweis" 
 	 Die Anzeige der Zusatzfelder kann unter _**Einstellungen / Layout & Design / Artikeldetailseite**_ an- und abgeschaltet werden. Setze bzw. entferne hierzu den Haken _**Zusatzfelder auf Detailseite aktivieren**_ und bestätige die Änderung mit einem Klick auf _**Speichern**_.
@@ -154,7 +154,7 @@ Im Abschnitt Filterauswahl kannst du Artikel-Filter für deinen neuen Artikel fe
 
 Über _**Google Kategorie**_ kann der Artikel der internen Taxonomie von Google Shopping zugeordnet werden, wenn dieser zu Google Shopping exportiert wird. Die Auswahl hat auf die Kategorien des Shops keinen Einfluss.
 
-![](../Bilder/Abb091_GoogleKategorieHinzufuegen.png "Google Kategorie hinzufügen")
+![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_GoogleKategorieHinzufuegen.png "Google Kategorie hinzufügen")
 
 ![](../Bilder/Abb092_GoogleKategorie.png "zugeordnete Google Kategorie")
 
@@ -198,7 +198,7 @@ siehe Kapitel _**Artikelbilder**_
 
 ### Kundengruppe
 
-![](../Bilder/Abb093_Kundengruppe.png "Einstellung _**Kundengruppe**_")
+![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_EinstellungKundengruppe.png "Einstellung _**Kundengruppe**_")
 
 !!! note "Hinweis" 
 	 Der Bereich _**Kundengruppe**_ wird nur angezeigt, wenn unter _**Einstellungen / Kunden / Kunden**_ der _**Kundengruppencheck**_ aktiviert ist.
@@ -215,7 +215,7 @@ Im Bereich _**Preisoptionen**_ stehen folgende Einstellungen zur Verfügung
 -   _**Rabatt**_: möglicher Rabatt auf den Artikel in Prozent \(siehe Kapitel _**Artikelrabatt**_\)
 -   _**Steuerklasse**_: Steuerklasse des Artikels, bestimmt den verwendeten Steuersatz \(siehe Kapitel _**Steuer**_\)
 
-![](../Bilder/Abb094_Preisoptionen.png "Preisoptionen der Artikelmaske")
+![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_PreisoptionenInDerArtikelmaske.png "Preisoptionen der Artikelmaske")
 
 Zudem steht für jede Kundengruppe außer _**Admin**_ \(typischerweise _**Gast**_, _**Neuer Kunde**_ und _**Händler**_\) je ein Eingabefeld für einen eigenen Kundengruppenpreis zur Verfügung. Über das dahinterstehende + kann zudem ein Staffelpreis für die jeweilige Kundengruppe eingerichtet werden \(siehe Kapitel _**Staffelpreise**_\).
 
@@ -330,7 +330,7 @@ Um eine Verpackungseinheit anzulegen, gehe im Gambio Admin unter _**Artikel \> V
 
 Klicke hier in der rechten, oberen Ecke auf die Schaltfläche _**Erstellen**_
 
-![](../Bilder/vpe/artikel_vpe_erstellen_maske.png "Eingabemaske für das Erstellen einer Verpackungseinheit")
+![](../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_EingabemaskeFuerDasErstellenEinerVerpackungseinheit.png "Eingabemaske für das Erstellen einer Verpackungseinheit")
 
 Es öffnet sich das Eingabefenster zum Anlegen einer neuen Verpackungseinheit. Trage hier den Namen der Einheit für die im Shop vorhandenen Sprachen ein und bestätige die Eingabe mit einem Klick auf _**Hinzufügen**_. Über _**Abbrechen**_ kann das Dialogfenster geschlossen werden, ohne die Einheit anzulegen. Wenn du vor dem Anlegen den Haken für _**Standard**_ setzt, wird die neue Einheit als Standard-Verpackungseinheit definiert.
 
@@ -343,7 +343,7 @@ Um eine Verpackungseinheit zu bearbeiten, gehe unter _**Artikel \> Verpackungsei
 
 Klicke hier auf das Bleistift-Symbol, um die Eingabemaske zum Bearbeiten zu öffnen.
 
-![](../Bilder/vpe/artikel_vpe_bearbeiten_maske.png "Eingabemaske beim Bearbeiten einer Verpackungseinheit")
+![](../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_EingabemaskeFuerDasBearbeitenEinerVerpackungseinheit.png "Eingabemaske beim Bearbeiten einer Verpackungseinheit")
 
 Es kann jeweils der Name der Verpackungseinheit pro Sprache angepasst werden. Zudem kann eine Verpackungseinheit nachträglich als Standard definiert oder diese Festlegung wieder entfernt werden.
 
@@ -358,7 +358,7 @@ Um eine Verpackungseinheit zu löschen, gehe unter _**Artikel \> Verpackungseinh
 
 Klicke auf das Mülltonnen-Symbol, um die Verpackungseinheit zu entfernen.
 
-![](../Bilder/vpe/artikel_vpe_loeschen_abfrage.png "Sicherheitsabfrage vor dem Löschen")
+![](../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_SicherheitsabfrageVorDemLoeschen.png "Sicherheitsabfrage vor dem Löschen")
 
 Es wird eine Sicherheitsabfrage angezeigt. Bestätige mit einem Klick auf _**Löschen**_, dass du die Verpackungseinheit wirklich entfernen möchtest. Über einen Klick auf _**Abbrechen**_ kann der Vorgang abgebrochen werden.
 
@@ -397,13 +397,13 @@ Zudem muss der Haken für _**Anzeige VPE**_ gesetzt werden.
 
 	 Gehen wir davon aus, dass du ein Produkt in einem Gebinde von jeweils sechs Stück zu 7,99 Euro verkaufst. In diesem Fall wähle die Verpackungseinheit _**Stück**_ aus und trage als _**VPE Wert**_ 6 ein.
 
-	 ![](../Bilder/vpe/vpe_sechserpack_.png "VPE-Einstellungen in den Artikelstammdaten")
+	 ![](../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_VPEEinstellungenInDenArtikelstammdaten.png "VPE-Einstellungen in den Artikelstammdaten")
 
 	 Der Grundpreis errechnet sich wie folgt:
 
 	 7,99 / 6 = 1,331666667 =\> 1,33 Euro pro Stück
 
-	 ![](../Bilder/vpe/vpe_sechserpack_artikel_.png "Anzeige des Grundpreises auf der Artikeldetailseite")
+	 ![](../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_AnzeigeDesGrundpreisesAufDerArtikeldetailseite.png "Anzeige des Grundpreises auf der Artikeldetailseite")
 
 !!! example "Beispiel"
 
@@ -411,13 +411,25 @@ Zudem muss der Haken für _**Anzeige VPE**_ gesetzt werden.
 
 	 Hier möchten wir den Grundpreis pro Liter angeben. Wir wählen für _**VPE**_ den Eintrag _**Liter**_ aus und tragen den Faktor 0.75 als _**VPE Wert**_ ein.
 
-	 ![](../Bilder/vpe/vpe_075.png "VPE-Einstellungen in den Artikelstammdaten")
+	 ![](../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_VPEEinstellungenInDenArtikelstammdaten_.png "VPE-Einstellungen in den Artikelstammdaten")
 
 	 Bei einem Verkaufspreis von 49 Cent errechnet sich der Grundpreis entsprechend:
 
 	 0,49 / 0,75 = 0,653333333 =\> 0,65 Euro pro Liter
 
-	 ![](../Bilder/vpe/vpe_075_artikel_.png "Anzeige des Grundpreises auf der Artikeldetailseite")
+	 ![](../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_AnzeigeDesGrundpreisesAufDerArtikeldetailseite_.png "Anzeige des Grundpreises auf der Artikeldetailseite")
+
+!!! example "Beispiel"
+	 Beispiel: Meterware, die in Stücken zu 2,5 Meter verkauft wird
+	 
+	 Es soll Meterware in vordefinierten Längen verkauft werden. Wir wählen für _**VPE**_ entsprechend den Eintrag _**m**_ und tragen die Länge 2.5 als _**VPE Wert**_ ein.
+	 
+	 ![](../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_MeterwareEinstellungenVPE.png "VPE-Einstellungen in den Artikelstammdaten")
+	 
+	 10,00 / 2,5 = 4,00 Euro pro Meter
+	 
+	 ![](../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_MeterwareAnzeigeImArtikel.png "Anzeige des Grundpreises auf der Artikeldetailseite")
+
 
 ### Mengeneinheiten
 
@@ -442,7 +454,7 @@ Zudem muss der Haken für _**Anzeige VPE**_ gesetzt werden.
 
 Artikel lassen sich unter _**Artikel \> Artikel / Kategorien**_ kopieren. Markiere die Artikel, die du kopieren möchtest, indem du in den zugehörigen Boxen die Haken setzt. In der Leiste unter der Auflistung wird nun der Dropdown-Button angezeigt. Klicke auf der rechten Seite des Buttons auf den nach unten weisenden Pfeil und anschließend auf _**Kopieren**_.
 
-![](../Bilder/Abb087_ArtikelKopieren.png "Artikel kopieren")
+![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelKopieren_ArtikelKopieren.png "Artikel kopieren")
 
 Es wird der Bereich _**Kopieren nach**_ in einem neuen Fenster angezeigt. Im oberen Teil dieser Spalte findest du eine Auflistung der Artikel, die kopiert werden sollen. Darunter ist der Bereich _**Mehrfach**_, hier ist der komplette Kategorie-Baum deines Shops aufgeführt. Durch Anhaken der entsprechenden Boxen werden die Zielkategorien gewählt, in die die Artikel kopiert werden sollen.
 

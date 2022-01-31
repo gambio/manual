@@ -2,7 +2,7 @@
 
 Ein Teaser-Slider ist eine Bildpräsentation, die im Shopbereich oberhalb des Seiteninhalts angezeigt wird. Teaser-Slider kannst du auf der Startseite und auf Content-Seiten sowie auf Kategorieseiten und Artikeldetailseiten individuell einbinden.
 
-![](../Bilder/Abb143_Teaser_SliderInDerShopansicht.png "Teaser-Slider in der Shopansicht")
+![](../Bilder/Inhalte_TeaserSlider_TeaserSliderInDerShopAnsicht.png "Teaser-Slider in der Shopansicht")
 
 ## Teaser-Slider verwalten
 
@@ -11,7 +11,7 @@ Neue Teaser-Slider kannst du im Gambio Admin deines Shops unter _**Inhalte \> Te
 !!! note "Hinweis" 
 	 Im Teaser-Slider können Vorschaubilder der im Slider enthaltenen Bilder in der unteren rechten Ecke des Sliders angezeigt werden. Die Vorschaubilder \(Thumbnails\) werden nicht vom Shopsystem erstellt und müssen vor dem Hochladen mit einem geeigneten Grafikprogramm auf die gewünschte Größe verkleinert werden.
 
-![](../Bilder/Abb144_TeaserSlider.png "Teaser-Slider im Gambio Admin")
+![](../Bilder/Inhalte_TeaserSlider_TeaserSliderVerwalten_TeaserSliderImGambioAdmin.png "Teaser-Slider im Gambio Admin")
 
 ### Slider anlegen
 
@@ -58,7 +58,7 @@ Den Startseiten-Slider kannst du im Gambio Admin deines Shops unter _**Inhalte \
 
 ### Content-Slider festlegen
 
-![](../Bilder/Abb145_TeaserSliderZuweisenContent.png "Teaser-Slider zuweisen (Content)")
+![](../Bilder/Inhalte_TeaserSlider_TeaserSliderZuweisen_TeaserSliderZuweisenContent.png "Teaser-Slider zuweisen (Content)")
 
 Den Teaser-Slider für einen Content kannst du im Gambio Admin unter _**Inhalte \> Content Manager**_ festlegen.
 
@@ -68,7 +68,7 @@ Den Teaser-Slider für einen Content kannst du im Gambio Admin unter _**Inhalte 
 
 ### Kategorie-Slider festlegen
 
-![](../Bilder/KategorieBearbeitenButton.png "Bearbeiten der Kategorie über die Dropdown-Schaltfläche")
+![](../Bilder/Inhalte_TeaserSlider_TeaserSliderZuweisen_BearbeitenDerKategorieUeberDieDropdownSchaltflaeche.png "Bearbeiten der Kategorie über die Dropdown-Schaltfläche")
 
 Den Teaser-Slider für eine Kategorie kannst du im Gambio Admin unter _**Artikel \> Artikel/Kategorien**_ festlegen.
 
@@ -79,7 +79,7 @@ Den Teaser-Slider für eine Kategorie kannst du im Gambio Admin unter _**Artikel
 
 ### Artikel-Slider festlegen
 
-![](../Bilder/ArtikelBearbeitenIconButton.png "Bearbeiten eines Artikels über das Bleistift-Symbol oder die Dropdown-Schaltfläche")
+![](../Bilder/Inhalte_TeaserSlider_TeaserSliderZuweisen_BearbeitenEinesArtikelsUeberDasBleistiftSymbolOderDieDropdownSchaltflaeche.png "Bearbeiten eines Artikels über das Bleistift-Symbol oder die Dropdown-Schaltfläche")
 
 Den Teaser-Slider für einen Artikel kannst du im Gambio Admin unter _**Artikel \> Artikel/Kategorien**_ festlegen.
 
@@ -94,7 +94,7 @@ Jedem Bild im Teaser-Slider \(außer Vorschaubildern\) kann eine sogenannte Imag
 
 Gehe zunächst unter _**Darstellung \> Teaser-Slider**_ bzw. _**Inhalte \> Teaser-Slider**_ und bearbeite den gewünschten Slider. Scrolle zum jeweiligen Slide und bewege den Mauszeiger in die Zeile des Bilds \(z.B. Bild für Desktop\), für das eine Image-Map angelegt werden soll. Klicke hier auf das Image-Map-Icon:
 
-![](../Bilder/IconImageMap.png "Image-Map-Icon hinter einer Bildauswahl im Slide (blau
+![](../Bilder/Inhalte_TeaserSlider_LinkbereichImageMap_ImageMapIconHinterEinerBildauswahlImSlideBlauMarkiert.png "Image-Map-Icon hinter einer Bildauswahl im Slide (blau
       markiert)")
 
 Es öffnet sich ein neues Fenster, in dessen unterem Teil das Bild angezeigt wird. Im oberen Teil werden der Reihe nach folgende Einstellungen angezeigt:

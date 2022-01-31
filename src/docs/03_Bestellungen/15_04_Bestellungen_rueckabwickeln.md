@@ -7,7 +7,7 @@
 
 Bestellungen kannst du im Gambio Admin deines Shops unter _**Bestellungen \> Bestellungen**_ stornieren. Der Bestellstatus einer stornierten Bestellung kann nachträglich nicht mehr verändert werden.
 
-![](../Bilder/BestellungenDropdown_Stornieren.png "Dropdown-Schaltfläche")
+![](../Bilder/Bestellungen_BestellungRueckabwickeln_BestellungStornieren_DropdownSchaltflaeche__Stornieren.png "Dropdown-Schaltfläche")
 
 1.  Wähle aus der Bestellübersicht die zu stornierende Bestellung aus
 
@@ -27,7 +27,7 @@ Bestellungen kannst du im Gambio Admin deines Shops unter _**Bestellungen \> Bes
 
 	 Wurde zu einer zu stornierenden Bestellung bereits eine Rechnung erstellt, sollte hierzu eine Stornorechnung erzeugt werden \(siehe _**Stornorechnung erzeugen**_\).
 
-![](../Bilder/Abb207_BestellungStornieren.png "Bestellung stornieren")
+![](../Bilder/Bestellungen_BestellungRueckabwickeln_BestellungStornieren_BestellungStornieren.png "Bestellung stornieren")
 
 |Feldname|Beschreibung|
 |--------|------------|

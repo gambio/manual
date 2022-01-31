@@ -2,7 +2,7 @@
 
 Im Gambio Admin unter _**Module \> Versandarten**_ stehen dir verschiedene Module zur Verfügung, mit denen du deine Versandkosten konfigurieren kannst.
 
-![](../Bilder/Abb060_UebersichtUeberDieVersandarten.png "Übersicht über die Versandarten")
+![](../Bilder/Module_Versandarten_UebersichtUeberDieVersandarten.png "Übersicht über die Versandarten")
 
 !!! note "Hinweis" 
 	 Bitte beachte, dass die bei den Modulen für bestimmte Versanddienstleister hinterlegten Versandkosten unter Umständen nicht aktuell sind, da diese nur als Beispiel dienen.
@@ -11,7 +11,7 @@ Im Gambio Admin unter _**Module \> Versandarten**_ stehen dir verschiedene Modul
 
 Im Grundumfang des Systems stehen hauptsächlich Versandarten zur Verfügung, über die die Versandkosten anhand des Gesamtgewichts der Bestellung ermittelt werden. Einige Versandarten bieten mehrere Zonen für die Versandkosten-Staffelung an, sodass die Versandkosten für unterschiedliche Lieferzonen konfiguriert werden können.
 
-![](../Bilder/Abb061_KonfigurationsmaskeDerVersandarten.png "Konfigurationsmaske der Versandarten")
+![](../Bilder/Module_Versandarten_Gewichtbasiert_KonfigurationsmaskeDerVersandarten.png "Konfigurationsmaske der Versandarten")
 
 Die Versandkosten werden im Feld _**Versandkosten**_, beziehungsweise bei Versand nach Zonen im Feld _**Zone \[x\] Versandkosten**_ kommagetrennt und ohne Leerzeichen im Format _**Gewicht\_bis:Versandkosten**_ hinterlegt. Die nachfolgende Übersicht enthält Feldnamen und Beschreibungen, die für alle gewichtbasierten Module gelten.
 
@@ -135,9 +135,9 @@ Für kostenfreie Lieferungen stehen dir zwei Methoden zur Verfügung:
 
 ### Versandart Versandkostenfrei
 
-Unter_** Module \> Versandarten**_ findest du das Modul _**Versandkostenfrei**_. In dieses trägst du den gewünschten Mindestbestellwert ein. Bis zum Erreichen des Mindestbestellwerts gibt das Versandmodul eine Meldung aus, dass der Versand ab dem konfigurierten Betrag kostenfrei erfolgt. Der Kunde kann nach Erreichen des Mindestbestellwerts zwischen normalem Versand und kostenlosem Versand wählen.
+Unter _**Module \> Versandarten**_ findest du das Modul _**Versandkostenfrei**_. In dieses trägst du den gewünschten Mindestbestellwert ein. Bis zum Erreichen des Mindestbestellwerts gibt das Versandmodul eine Meldung aus, dass der Versand ab dem konfigurierten Betrag kostenfrei erfolgt. Der Kunde kann nach Erreichen des Mindestbestellwerts zwischen normalem Versand und kostenlosem Versand wählen.
 
-![](../Bilder/Abb062_KonfigurationDerVersandartVesandkostenfrei.png "Konfiguration der Versandart
+![](../Bilder/Module_Versandarten_Versandkostenfrei_KonfigurationDerVersandartVersandkostenfrei.png "Konfiguration der Versandart
         _**Versandkostenfrei**_")
 
 ### Zusammenfassung-Modul Versandkosten
@@ -154,7 +154,7 @@ Neben den gewicht- und kostenbasierten Versandarten stehen weitere Versandarten 
 
 Im Artikel-Versandkosten-Modul werden die grundsätzlichen Versandkosten gewichtbasiert nach Zonen berechnet. Zusätzlich zu den gewichtbasierten Versandkosten werden die in der Artikel-Eingabemaske hinterlegten Versandkosten aus den Artikeln des Warenkorbs berechnet. Die Versandkosten werden dabei nicht je Position, sondern je Artikel berechnet.
 
-![](../Bilder/Abb063_ArtikelVesandkostenInDerArtikelEingabemaske.png "Artikel-Versandkosten in der Artikel-Eingabemaske")
+![](../Bilder/Module_Versandarten_Weitere_ArtikelVersandkostenInDerArtikelEingabemaske.png "Artikel-Versandkosten in der Artikel-Eingabemaske")
 
 !!! note "Hinweis" 
 	 Die Artikel-Versandkosten sollten nicht gemeinsam mit dem Zusammenfassungs-Modul _**Versandkostenzuschlag**_ verwendet werden. Beide Module arbeiten mit dem _**Versandkosten**_- Feld der Artikel-Eingabemaske, die zusätzlichen Versandkosten werden bei gleichzeitiger Verwendung doppelt berechnet.

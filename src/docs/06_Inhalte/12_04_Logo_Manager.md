@@ -2,7 +2,7 @@
 
 Das Shopsystem verwendet verschiedene Logos. Die vom System verwendeten Logos kannst du im Gambio Admin unter _**Einstellungen / Layout & Design / Logo Manager**_, nach Aufrufen der Seite, hochladen.
 
-![](../Bilder/Abb142_LogoManager.png "Logo Manager")
+![](../Bilder/Inhalte_LogoManager_LogoManager.png "Logo Manager")
 
 ## Shop Logo
 

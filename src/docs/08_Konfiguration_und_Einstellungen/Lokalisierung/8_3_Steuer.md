@@ -15,7 +15,7 @@ Die Steuereinstellungen werden von der Installationsroutine für Deutschland fes
 
 Wenn du deinen Onlineshop in der Europäischen Union betreibst, sind Änderungen an den Steuersätzen unter _**Einstellungen / Sprachen, Länder, Steuern / Steuersätze**_, nach Aufruf der Seite, nötig, wenn die Steuersätze in deinem Land von denen in Deutschland abweichen.
 
-![](../../Bilder/Abb056_LaenderInDerSteuerzoneSteuerzoneEU.png "Länder in der Steuerzone Steuerzone EU")
+![](../../Bilder/Lokalisierung_Steuer_LaenderSteuerzoneEU.png "Länder in der Steuerzone Steuerzone EU")
 
 1.  Markiere den Steuersatz _**Standardsatz**_ für die Steuerzone _**Steuerzone EU**_
 2.  Klicke auf _**Bearbeiten**_
@@ -30,7 +30,7 @@ Wenn du deinen Onlineshop in der Europäischen Union betreibst, sind Änderungen
 
 Wenn du deinen Onlineshop außerhalb der Europäischen Union betreibst, musst du für dein Land unter _**Einstellungen / Sprachen, Länder, Steuern / Steuerzonen**_, nach Aufruf der Seite, eine neue Steuerzone anlegen.
 
-![](../../Bilder/Abb057_UebersichtUeberDieSteuerzonen.png "Übersicht über die Steuerzonen")
+![](../../Bilder/Lokalisierung_Steuer_UebersichtUeberDieSteuerzonen.png "Übersicht über die Steuerzonen")
 
 1.  Klicke auf _**Erstellen**_
 
@@ -67,7 +67,7 @@ Entferne nun dein Land aus der Steuerzone _**Steuerzone EU-Ausland**_ unter _**E
 
 Lege nun die Steuersätze für dein Land fest. Lege dazu neue Steuersätze unter _**Einstellungen / Sprachen, Länder, Steuern / Steuersätze**_, nach Aufruf der Seite, an.
 
-![](../../Bilder/Abb058_UebersichtUeberDieSteuersaetze.png "Übersicht über die Steuersätze")
+![](../../Bilder/Lokalisierung_Steuer_UebersichtUeberDieSteuersaetze.png "Übersicht über die Steuersätze")
 
 1.  Klicke auf _**Erstellen**_
 

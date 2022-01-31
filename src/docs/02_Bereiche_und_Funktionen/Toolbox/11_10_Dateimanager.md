@@ -45,7 +45,7 @@ Setze bzw. entferne einen Haken, um die jeweiligen Einstellung zu aktivieren bzw
 
 Das Fenster des Dateimanagers besteht aus einem zentralen Bereich, in dem Dateien und Verzeichnisse angezeigt werden, sowie zwei Leisten über die Einstellungen vorgenommen werden können.
 
-![](../../Bilder/Abb162_Dateimanager.png "Dateimanager")
+![](../../Bilder/Toolbox_Dateimanager_FunktionsuebersichtDesDateimanagers_Dateimanager.png "Dateimanager")
 
 Die Hauptfunktionen befinden sich am linken Ende der oberen Leiste, diese sind von links nach rechts:
 

@@ -66,7 +66,7 @@ Bewege den Mauszeiger über das Pfeilsymbol des gewünschten Contents, klicke un
 
 ### Eingabemaske
 
-![](../Bilder/Abb184_ContentManager_neuerContentEingabemaske.png "Content Eingabemaske") ![](../Bilder/Abb185_ContentManager_neuerContentEingabemaske.png "Content Eingabemaske")
+![](../Bilder/Inhalte_ContentManager_Seiten_ContentEingabemaske.png "Content Eingabemaske")
 
 Die Eingabemaske, welche beim Anlegen oder Bearbeiten eines Contents angezeigt wird, unterscheidet sich je nach der gewählten Seitenart. Bei einer Inhaltsseite steht die Eingabe über den CK-Editor unter _**Inhalt**_ im Vordergrund, während bei einer Verlinkung die eingetragene URL ausschlaggebend ist. Nachfolgend führen wir die verfügbaren Felder auf:
 
@@ -227,7 +227,7 @@ Nimm die Eintragungen nach Bedarf vor. Mit einem Klick auf _**Speichern**_ speic
 
 Artikelinhalte, auch Artikelcontents genannt, können einem Artikel als zusätzlicher Download zugeordnet werden. Dies eignet sich beispielsweise dazu zu einem Produkt eine PDF-Anleitung zum Download anbieten zu können.
 
-![](../Bilder/Abb186_ContentManager_Artikelinhalte.png "_**Artikelinhalte**_ im Content Manager")
+![](../Bilder/Inhalte_ContentManager_Artikelinhalte_ArtikelinhalteImContentManager.png "_**Artikelinhalte**_ im Content Manager")
 
 !!! note "Hinweis" 
 	 Im Gegensatz zu Download-Artikeln ist das Herunterladen dieser Dateien immer möglich. Der Artikel muss hierzu nicht bestellt werden.
@@ -258,7 +258,7 @@ Bewege den Mauszeiger über das Mülltonnen-Symbol des zu löschenden Contents u
 
 **Datei**
 
-![](../Bilder/Abb187_ContentManager_ArtikelinhalteNeueDatei.png "Artikelinhalte-Eingabemaske für Dateien")
+![](../Bilder/Inhalte_ContentManager_Artikelinhalte_ArtikelinhalteEingabemaskeFuerDateien.png "Artikelinhalte-Eingabemaske für Dateien")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -272,7 +272,7 @@ Bewege den Mauszeiger über das Mülltonnen-Symbol des zu löschenden Contents u
 
 **Link**
 
-![](../Bilder/Abb188_ContentManager_ArtikelinhalteNeuerLink.png "Artikelinhalte-Eingabemaske für Links")
+![](../Bilder/Inhalte_ContentManager_Artikelinhalte_ArtikelinhalteEingabemaskeFuerLinks.png "Artikelinhalte-Eingabemaske für Links")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -288,4 +288,4 @@ Wähle im Bereich _**Artikel**_ den gewünschten Artikel aus, um den Artikelcont
 
 Nimm die Eintragungen nach Bedarf vor. Mit einem Klick auf _**Speichern**_ speicherst du die Änderungen ab und verlässt die Eingabemaske. Über _**Aktualisieren**_ werden die Änderungen gespeichert, ohne jedoch die Eingabemaske zu verlassen. Mit _**Zurück**_ verlässt du die Eingabemaske, die zuletzt gemachten Änderungen werden verworfen.
 
-![](../Bilder/Abb189_ContentManager_ArtikelinhalteAnzeigeArtikel.png "Artikelinhalte auf der Artikeldetailseite")
+![](../Bilder/Inhalte_ContentManager_Artikelinhalte_ArtikelinhalteAufDerArtikeldetailseite.png "Artikelinhalte auf der Artikeldetailseite")

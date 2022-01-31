@@ -2,13 +2,13 @@
 
 Mit Kundengruppen organisierst du deine Kunden nach beliebigen Kriterien. Jeder Kunde ist Mitglied einer Kundengruppe und kann nicht mehreren Kundengruppen zugewiesen sein. Mit Kundengruppenpreisen kannst du Sonderpreise erstellen, die ausschließlich für spezielle Kundenkreise gelten.
 
-![](../Bilder/Abb167_UebersichtUeberDieKundengruppen.png "Übersicht über die Kundengruppen")
+![](../Bilder/Kunden_Kundengruppen_UebersichtUeberDieKundengruppen.png "Übersicht über die Kundengruppen")
 
 ## Kundengruppen anlegen
 
 Neue Kundengruppen kannst du im Gambio Admin deines Shops unter _**Kunden \> Kundengruppen**_ anlegen.
 
-![](../Bilder/Abb168_KundengruppenEingabemaske.png "Kundengruppen-Eingabemaske")
+![](../Bilder/Kunden_Kundengruppen_KundengruppenAnlegen_KundengruppenEingabemaske.png "Kundengruppen-Eingabemaske")
 
 1.  Klicke oberhalb der Kundengruppen-Liste auf _**Erstellen**_
 
@@ -59,9 +59,9 @@ Die Einstellungen von vorhandenen Kundengruppen kannst du im Gambio Admin deines
 
 Bestehende Kundenkonten kannst du unter _**Kunden \> Kunden**_ einer Kundengruppe zuweisen.
 
-![](../Bilder/DropdownKundengruppe.png "Kunde auswählen")
+![](../Bilder/Kunden_Kundengruppen_KundengruppenZuweisen_KundeAuswaehlen.png "Kunde auswählen")
 
-![](../Bilder/Abb169_KundengruppeZuweisen.png "Kundengruppe zuweisen")
+![](../Bilder/Kunden_Kundengruppen_KundengruppenZuweisen_KundengruppeZuweisen.png "Kundengruppe zuweisen")
 
 1.  Wähle aus der Liste _**Kunden**_ den Kunden aus, der einer neuen Kundengruppe zugewiesen werden soll
 2.  Klicke über die Dropdown-Schaltfläche auf _**Kundengruppe**_

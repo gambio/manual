@@ -1,12 +1,12 @@
 # Zusammenfassung
 
-![](../Bilder/Abb070_UebersichtUeberDieZusammenfassungModule.png "Übersicht über die Zusammenfassung‑Module")
+![](../Bilder/Module_Zusammenfassung_UebersichtUeberDieZusammenfassungsmodule.png "Übersicht über die Zusammenfassung‑Module")
 
 ## Rabatte
 
-### Rabatt Kupons
+### Rabatt Coupons
 
-Das Modul _**Rabatt Kupons**_ wird benötigt, um Rabatt Kupons bei der Summenberechnung zu berücksichtigen.
+Das Modul _**Rabattcoupons**_ wird benötigt, um Rabatt Coupons bei der Summenberechnung zu berücksichtigen.
 
 ### Rabatt
 
@@ -30,7 +30,7 @@ Das Modul kann unter _**Module \> Zusammenfassung**_ installiert werden,
 
 #### Konfiguration
 
-![](../Bilder/ot_payment.png "Eingabemaske des _**Vorkasse Rabatt**_
+![](../Bilder/Module_Zusammenfassung_Rabatte_EingabemaskeDesVorkasseRabattModuls.png "Eingabemaske des _**Vorkasse Rabatt**_
         Moduls")
 
 |Feldname|Beschreibung|
@@ -60,7 +60,7 @@ Das Modul zur Berechnung der Nachnahmegebühr kannst du im Gambio Admin deines S
 4.  Nimm die Konfiguration des Moduls anhand der Tabelle Konfiguration des Moduls _**Nachnahmegebühr**_ vor
 5.  Klicke in der rechten Spalte auf _**Aktualisieren**_, um die Änderungen zu speichern
 
-![](../Bilder/Abb071_KonfigurationsmaskeNachnahmegebuehr.png "Konfigurationsmaske _**Nachnahmegebühr**_")
+![](../Bilder/Module_Zusammenfassung_Gebuehren_KonfigurationsmaskeNachnahmegebuehr.png "Konfigurationsmaske _**Nachnahmegebühr**_")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -80,7 +80,7 @@ Mit dem Modul _**Versandkostenzuschlag**_ kannst du einen Zuschlag auf die regul
 4.  Nimm die Konfiguration des Moduls anhand der Tabelle _**Konfiguration des Moduls Versandkostenzuschlag**_ vor
 5.  Klicke in der rechten Spalte auf _**Aktualisieren**_, um die Änderungen zu speichern
 
-![](../Bilder/Abb072_KonfigurationsmaskeVersandkostenzuschlag.png "Konfigurationsmaske
+![](../Bilder/Module_Zusammenfassung_Gebuehren_Versandkostenzuschlag_KonfigurationsmaskeVersandkostenzuschlag.png "Konfigurationsmaske
       _**Versandkostenzuschlag**_")
 
 |Feldname|Beschreibung|
@@ -102,7 +102,7 @@ Mit dem Modul _**Mindermengenzuschlag**_ kannst du einen Zuschlag auf Bestellung
 4.  Nimm die Konfiguration des Moduls anhand der Tabelle _**Konfiguration des Moduls Mindermengenzuschlag**_ vor
 5.  Klicke in der rechten Spalte auf _**Aktualisieren**_, um die Änderungen zu speichern
 
-![](../Bilder/Abb073_KonfigurationsmaskeMindenmengenzuschlag.png "Konfigurationsmaske
+![](../Bilder/Module_Zusammenfassung_Gebuehren_Mindermengenzuschlag_KonfigurationsmaskeMindermengenzuschlag.png "Konfigurationsmaske
       _**Mindermengenzuschlag**_")
 
 |Feldname|Beschreibung|
@@ -125,7 +125,7 @@ Wenn du Ware versendest, die eigenhändig vom Empfänger entgegengenommen werden
 4.  Nimm die Konfiguration des Moduls anhand der Tabelle _**Konfiguration des Moduls Eigenhändig**_ vor
 5.  Klicke in der rechten Spalte auf _**Aktualisieren**_, um die Änderungen zu speichern
 
-![](../Bilder/Abb074_KonfigurationsmaskeEigenhaendig.png "Konfigurationsmaske _**Eigenhändig**_")
+![](../Bilder/Module_Zusammenfassung_Gebuehren_Eigenhaendig_KonfigurationsmaskeEigenhaendig.png "Konfigurationsmaske _**Eigenhändig**_")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -144,7 +144,7 @@ Das Modul _**Versandkosten**_ berechnet im Shop die Versandkosten, die du unter 
 3.  Nimm die _**Konfiguration des Moduls**_ anhand der Tabelle _**Konfiguration des Moduls Versandkosten**_ vor
 4.  Klicke in der rechten Spalte auf _**Aktualisieren**_, um die Änderungen zu speichern
 
-![](../Bilder/Abb075_KonfigurationsmaskeVersandkosten.PNG "Konfigurationsmaske _**Versandkosten**_")
+![](../Bilder/Module_Zusammenfassung_Gebuehren_Versandkosten_KonfigurationsmaskeVersandkosten.png "Konfigurationsmaske _**Versandkosten**_")
 
 |Feldname|Beschreibung|
 |--------|------------|

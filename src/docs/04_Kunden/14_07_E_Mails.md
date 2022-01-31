@@ -2,7 +2,7 @@
 
 Über _**Kunden \> E-Mails**_ hast du die Möglichkeit E-Mails an Kunden zu verschicken und zu verwalten.
 
-![](../Bilder/0101_Abb156_s354_UebersichtEMails.png "Übersicht unter Kunden > E-Mails")
+![](../Bilder/Kunden_EMails_UebersichtUnterKundenEMails.png "Übersicht unter Kunden > E-Mails")
 
 ## Schreiben, Bearbeiten und Weiterleiten von E-Mails
 
@@ -10,7 +10,7 @@ Mit einem Klick auf _**Neue E-Mail**_ kannst du eine E-Mail schreiben. Es öffne
 
 ### Details
 
-![](../Bilder/Abb171_FensterNeueEMail.png "Fenster Neue E-Mail")
+![](../Bilder/Kunden_EMails_SchreibenBearbeitenUndWeiterleitenVonEMails_FensterNeueEMail.png "Fenster Neue E-Mail")
 
 Im oberen Abschnitt können _**Betreff**_, _**Absender**_, _**Empfänger**_ sowie eine optionale Antwortadresse \(_**Antwort an**_\) eingetragen werden.
 
@@ -22,7 +22,7 @@ Mit einem Klick auf _**Senden**_ wird die E-Mail verschickt. Über _**Speichern*
 
 ### BCC & CC
 
-![](../Bilder/Abb172_BCCUNDCC.png "BCC & CC")
+![](../Bilder/Kunden_EMails_SchreibenBearbeitenUndWeiterleitenVonEMails_BCCUNDCC.png "BCC & CC")
 
 Über den Reiter _**BCC & CC**_ können weitere Empfänger, sowohl als _**Carbon Copy**_ als auch als _**Blind Carbon Copy**_ hinzugefügt werde. Trage hierzu die Adresse im Feld _**E-Mail**_ ein und wähle über das Dropdown-Menü _**Typ**_ aus, ob du _**BCC**_ oder _**CC**_ verwenden möchtest. Mit einem Klick auf _**Hinzufügen**_ wird die Adresse als Empfänger hinzugefügt. Über das Mülltonnen-Symbol in der Spalte _**Aktionen**_ kann ein Adressat wieder gelöscht werden.
 
@@ -32,11 +32,11 @@ Unterhalb der Tabelle kann zwischen den einzelnen Seiten gewechselt werden, wenn
 
 ### Anhänge 
 
-![](../Bilder/Abb173_Anhaenge.png "Anhänge")
+![](../Bilder/Kunden_EMails_SchreibenBearbeitenUndWeiterleitenVonEMails_Anhaenge.png "Anhänge")
 
 Über den Reiter _**Anhänge**_ kann die Mail mit Datei-Anhängen versehen werden. Klicke hierzu unter _**Anhang hochladen**_ auf den Button _**Durchsuchen**_. Nach der Auswahl der Datei über den Dialog wird diese hochgeladen und der E-Mail hinzugefügt. Die Datei wird mit dem Server-Pfad in der darunterstehenden Tabelle angezeigt. Über den Klick auf das Mülltonnen-Symbol in der Spalte _**Aktionen**_ kann der Anhang wieder entfernt werden. Über das Download-Symbol kann die Datei vom Server heruntergeladen werden.
 
-![](../Bilder/AnhaengeDownload.png "Download-Symbol im Tab Anhänge")
+![](../Bilder/Kunden_EMails_SchreibenBearbeitenUndWeiterleitenVonEMails_DownloadSymbolImTabAnhaenge.png "Download-Symbol im Tab Anhänge")
 
 Über das Dropdown-Menü _**Einträge anzeigen**_ kann die Anzahl der angezeigten Anhänge pro Seite festgelegt werden, wahlweise werden 5 oder 10 Einträge pro Seite aufgelistet. Über das Eingabefeld _**Suchen**_ lassen sich die Einträge nach dem Dateinamen im Pfad filtern, die Eingrenzung der Einträge erfolgt direkt bei der Eingabe. Zudem können über die Spaltenüberschrift der Tabelle die Anhänge nach Dateiname sortiert werden.
 

@@ -41,7 +41,7 @@ Mit Hilfe der Dropdowns können die Konten nach _**Kundengruppen**_ gefiltert un
 
 Kundenkonten kannst du im Gambio Admin deines Shops unter _**Kunden \> Kunden**_ von Hand erstellen.
 
-![](../Bilder/Abb163_NeuesKundenkontoAnlegen.png "Neues Kundenkonto anlegen")
+![](../Bilder/Kunden_KundenkontenVerwalten_KundenkontoManuellAnlegen_NeuesKundenkontoAnlegen.png "Neues Kundenkonto anlegen")
 
 1.  Klicke auf _**Erstellen**_ unterhalb der Admin-Info Box
 2.  Trage die Kundendaten in der Kunden-Eingabemaske ein, eine Übersicht über die Bedeutung der einzelnen Felder findest du in der Tabelle _**Übersicht über die Kundenkonto-Eingabemaske**_
@@ -51,7 +51,7 @@ Kundenkonten kannst du im Gambio Admin deines Shops unter _**Kunden \> Kunden**_
 6.  Trage im Feld _**Zusätzlicher E-Mail-Text**_ eine persönliche Nachricht für die Benachrichtigung an den Kunden ein
 7.  Klicke auf _**Einfügen**_, um das neue Kundenkonto zu speichern
 
-![](../Bilder/Abb164_KundenEingabemaskeGambioAdmin.png "Kunden-Eingabemaske (Gambio Admin)")
+![](../Bilder/Kunden_KundenkontenVerwalten_KundenkontoManuellAnlegen_KundenEingabemaskeGambioAdmin.png "Kunden-Eingabemaske (Gambio Admin)")
 
 |Feldname|Beschreibung|
 |--------|------------|

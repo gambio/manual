@@ -6,12 +6,12 @@ Unter _**Bestellungen \> Widerrufe**_ werden die eingegangenen Widerrufe nach Da
 
 Die Bestellnummer kann über das zugehörige Eingabefeld geändert werden. Über die Schaltflächen _**Kunde aufrufen**_ \(bei Gast-Kunden nicht vorhanden\) und _**Bestelldetails öffnen**_ gelangst du direkt zur zugehörigen Kunden- bzw. Bestellungs-Detailseite. Neben den Kundendaten, Bestelldaten und dem eigentlichen Widerrufstext wird im unteren Bereich der Seite angezeigt, ob der Widerruf durch den Kunden oder den Administrator erzeugt wurde. Mit Klick auf _**Zurück**_ gelangst du zurück zur Widerrufsübersicht. Mit Klick auf _**Löschen**_ kann der gewählte Widerruf entfernt werden. Dies wird mit einer Sicherheitsabfrage bestätigt.
 
-![](../Bilder/Abb199_MarkierteWiderrufeUnterBestellungenBestellungen.png "Markierte Widerrufe unter _**Bestellungen >
+![](../Bilder/Bestellungen_Widerrufe_VerwaltenDerWiderrufeImGambioAdmin_MarkierteWiderrufeUnterBestellungenBestellungen.png "Markierter Widerruf unter _**Bestellungen >
       Bestellungen**_")
 
 Der Menüpunkt _**Bestellungen \> Bestellungen**_ enthält eine Anzeige neben der Spalte _**Status**_. Das dort eingeblendete Icon gibt an, dass für diese Bestellung ein Widerruf vorliegt. Mehrere eingegangene Widerrufe werden durch mehrere, aufeinanderfolgende Icons angezeigt. Mit einem Klick auf das rote Icon gelangst du direkt zum jeweiligen Widerruf. Die zugehörige ID wird als Tooltip angezeigt, wenn der Mauszeiger über dem Symbol platziert wird.
 
-![](../Bilder/WiderrufInBestellung_.png "Es liegt ein Widerruf vor")
+![](../Bilder/Bestellungen_Widerrufe_VerwaltenDerWiderrufeImGambioAdmin_EsLiegtEinWiderrufVor.png "Es liegt ein Widerruf vor")
 
 Zudem kann sowohl aus der Bestellübersicht als auch aus der Bestelldetailansicht zu der gewählten Bestellung ein Widerruf durch den Administrator erstellt werden. Es öffnet sich das vorausgefüllte Online-Widerrufsformular in einem neuen Tab bzw. neuem Fenster \(je nach Browser-Einstellung\).
 

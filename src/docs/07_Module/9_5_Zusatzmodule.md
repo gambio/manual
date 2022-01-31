@@ -20,7 +20,7 @@ Diese Funktion ist standardmäßig aktiviert und der eingegebene Text wird weite
 	 
 ## Gutschein-System
 
-Über das Gutschein-System können Gutschein- und Rabatt Kupon-Codes im Warenkorb eingegeben werden. Ist die Einstellung _**Gutscheinsystem aktivieren?**_ auf ✔ gesetzt, wird die zugehörige Box im Warenkorb angezeigt.
+Über das Gutschein-System können Gutschein- und Rabatt Coupon-Codes im Warenkorb eingegeben werden. Ist die Einstellung _**Gutscheinsystem aktivieren?**_ auf ✔ gesetzt, wird die zugehörige Box im Warenkorb angezeigt.
 
 !!! note "Hinweis" 
 	 Nur wenn das _**Gutscheinsystem**_ aktiviert ist, werden auch die zugehörigen Menüpunkte im _**Gambio Admin**_ angezeigt.
@@ -29,11 +29,11 @@ Außerdem stehen dir die folgenden Eingabefelder zur Verfügung:
 
 -   Länge des Gutschein-Codes
 -   Willkommens-Geschenk Gutscheinwert
--   Willkommens-Rabatt Kupon Code
+-   Willkommens-Rabatt Coupon Code
 
-Hierüber kann wahlweise ein Gutschein oder ein Rabatt Kupon bei der Kontoerstellung als Willkommensgeschenk mitgeschickt werden. Für den Gutschein kann hier der Wert und die Länge des automatisch generierten Codes festgelegt werden.
+Hierüber kann wahlweise ein Gutschein oder ein Rabatt Coupon bei der Kontoerstellung als Willkommensgeschenk mitgeschickt werden. Für den Gutschein kann hier der Wert und die Länge des automatisch generierten Codes festgelegt werden.
 
-Der Kupon muss vorher unter _**Gutscheine \> Rabatt Kupons**_ angelegt werden. Anschließend kann der zugehörige Code hier eingetragen werden, um den Kupon als Willkommens-Geschenk zu verwenden.
+Der Coupon muss vorher unter _**Gutscheine \> Rabatt Coupons**_ angelegt werden. Anschließend kann der zugehörige Code hier eingetragen werden, um den Coupon als Willkommens-Geschenk zu verwenden.
 
 !!! danger "Achtung"
 
@@ -48,14 +48,14 @@ Der Kupon muss vorher unter _**Gutscheine \> Rabatt Kupons**_ angelegt werden. A
 
 Über den Kundengruppencheck kann eingestellt werden, welche Kundengruppe \(z.B. Neuer Kunde, Gast, usw.\) auf welche Inhalte zugreifen darf. Dies schließt sowohl Artikel, Kategorien als auch Contents \(Informationsseiten\) ein. Ist der Kundengruppencheck aktiviert, wird beim Anlegen oder Bearbeiten eines Artikels, Contents oder einer Kategorie die Einstellung _**Kundengruppe**_ hinzugefügt. Jede Kundengruppe, bei der ein Haken gesetzt ist, kann auf den jeweiligen Inhalt zugreifen.
 
-![](../Bilder/Abb078prelim_EinstellungKundengruppeBeimAnlegenEinesArtikels.png "Einstellung _**Kundengruppe**_ beim Anlegen eines
+![](../Bilder/Module_Zusatzmodule_ArtikelModule_EinstellungenKundengruppencheckBeimAnlegenEinesArtikels.png "Einstellung _**Kundengruppe**_ beim Anlegen eines
         Artikels")
 
 ### Artikelnavigator
 
 Der Artikelnavigator ist eine zusätzliche Auswahl in der Artikel-Detailansicht, über die der Kunde innerhalb einer Kategorie von Artikel zu Artikel wechseln kann. So ist es nicht notwendig, die Kategorie erneut aufzurufen.
 
-![](../Bilder/Abb079_AnzeigeDesArtikelnavigatorsInDerArtikel_Detailansicht__.png "Anzeige des _**Artikelnavigators**_ in der
+![](../Bilder/Module_Zusatzmodule_ArtikelModule_AnzeigeDesArtikelnavigatorsInDerArtikelDetailansicht.png "Anzeige des _**Artikelnavigators**_ in der
         Artikel- Detailansicht")
 
 ### Verlinken/Kopieren aktivieren

@@ -2,7 +2,7 @@
 
 Der Bereich _**Module \> Modul-Center**_ enthält eine Zusammenstellung von Modulen zu verschiedenen Anwendungszwecken, sowie einzelne Unterfunktionen des Shops, die hier aktiviert bzw. konfiguriert werden können. Genauere Informationen zu den einzelnen Modulen kannst du den zugeordneten Unterkapiteln oder der jeweiligen Modulanleitung entnehmen.
 
-![](../Bilder/Abb077_ModulCenter.png "Modul-Center")
+![](../Bilder/Module_ModulCenter_ModulCenter.png "Modul-Center")
 
 ## Brickfox
 
@@ -43,19 +43,19 @@ Nach der Installation steht der Button _**Bearbeiten**_ zur Verfügung. Hierübe
 
 #### Aktivierung
 
-![](../Bilder/20170330_001.png "Aktivierungsformular")
+![](../Bilder/Module_ModulCenter_Ekomi_Konfiguration_Aktivierungsformular.png "Aktivierungsformular")
 
 Über dieses Formular kannst du dich bei eKomi anmelden und die kostenlose Version nutzen. Diese ist allerdings in den Funktionen eingeschränkt, das eKomi Widget für den Shop z.B. kann hier nicht verwendet werden, dafür wäre ein Umstieg auf die kostenpflichtige Version nötig.
 
 #### Konfiguration
 
-![](../Bilder/20170330_002.png "eKomi-Konfiguration")
+![](../Bilder/Module_ModulCenter_Ekomi_Konfiguration_EkomiKonfiguration.png "eKomi-Konfiguration")
 
 Nach der Anmeldung bei eKomi wird die _**Interface-ID**_ und das _**Interface-Passwort**_ automatisch ausgefüllt. Damit das Modul verwendet werden kann, muss der Haken bei _**eKomi aktiv**_ gesetzt werden. Das Verwenden eines Widget-Einbettungscodes ist nur mit einem kostenpflichtigen Vertrag mit eKomi möglich.
 
 #### Bewertungs-E-Mail-Versand
 
-![](../Bilder/20170330_003.png "Bewertungs-E-Mail-Versand")
+![](../Bilder/Module_ModulCenter_Ekomi_Konfiguration_BewertungsEmailVersand.png "Bewertungs-E-Mail-Versand")
 
 Es ist möglich, die noch nicht versendeten Bewertungsanfragen über einen CronJob auszulösen. Hierfür muss bei deinem Hosting-Provider oder einem anderen entsprechenden Anbieter eine CronJob-URL hinterlegt und der Aufruf eingerichtet werden. Die nötige _**CronJob-URL**_ wird im Shop ausgegeben \(im Screenshot unkenntlich gemacht\).
 
@@ -91,7 +91,7 @@ Wechsele in den Reiter _**Konfiguration**_, um die Ersteinrichtung vorzunehmen u
 
 	 Damit der Shop erfolgreich mit IT-Recht Kanzlei verbunden werden kann, muss dieser unter _**Inhalte \> Shop online/offline**_ online geschaltet werden. Anderenfalls ist ein Abgleich der Rechtstexte nicht möglich und die Anbindung kann nicht abgeschlossen werden.
 
-![](../Bilder/itrecht/20170329_001.png "Reiter Konfiguration beim Bearbeiten des Moduls IT-Recht
+![](../Bilder/Module_ModulCenter_ITRechtKanzlei_Ersteinrichtung_ReiterKonfiguration.png "Reiter Konfiguration beim Bearbeiten des Moduls IT-Recht
       Kanzlei")
 
 ##### API-Token
@@ -147,7 +147,7 @@ Das Afterbuy-Modul kann unter _**Module \> Modul-Center**_ installiert werden. W
 
 Nachdem das Afterbuy-Modul installiert worden ist, kann es konfiguriert werden. Wähle hierzu unter _**Module \> Modul-Center**_ den Eintrag _**Afterbuy \(neu\)**_ aus und klicke auf die Schaltfläche _**Bearbeiten**_, in der rechten, unteren Bildschirmecke. Du gelangst zur Konfigurationsseite, hier können die Daten von Afterbuy hinterlegt werden.
 
-![](../Bilder/afterbuy/afterbuy001.png "Die Konfigurationsseite des Afterbuy-Moduls")
+![](../Bilder/Module_ModulCenter_Afterbuy_DieKonfigurationsseiteDesAfterbuyModuls.png"Die Konfigurationsseite des Afterbuy-Moduls")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -185,7 +185,7 @@ Das Modul kann unter _**Module \> Modul-Center**_ installiert werden. Wähle hie
 
 Ist das Modul installiert, kann es unter _**Module \> Modul-Center**_ konfiguriert werden. Wähle hierzu den Eintrag _**DHL Paketshops**_ aus der Liste aus und klicke auf die Schaltfläche _**Bearbeiten**_, in der rechten, unteren Bildschirmecke. Die Konfiguration beschränkt sich auf wenige Eingaben.
 
-![](../Bilder/dhl_paketshops/dhl_paketshops_konfiguration.png "Konfiguration des Moduls _**DHL
+![](../Bilder/Module_ModulCenter_DHLPaketshops_KonfigurationDesModulsDHLPaketshops.png "Konfiguration des Moduls _**DHL
       Paketshops**_")
 	  
 #### Zugangsdaten für Kartendarstellung per Google Maps \(optional\) 
@@ -260,7 +260,7 @@ Das Shipcloud-Modul kann im Gambio Admin unter _**Module \> Modul-Center**_ inst
 
 Die notwendigen Zugangsdaten erhältst du von Shipcloud. Bewege den Mauszeiger über das Info-Symbol um den Tooltipp anzuzeigen. Dieser enthält einen Link zu Shipcloud.
 
-![](../Bilder/shipcloud/shipcloud_Zugangsdaten.png "Eingabe der Zugangsdaten im Shop")
+![](../Bilder/Module_ModulCenter_Shipcloud_Konfiguration_EingabeDerZugangsdatenImShop.png "Eingabe der Zugangsdaten im Shop")
 
 Logge dich bei Shipcloud ein und klicke oben rechts auf deine E-Mail-Adresse. Wähle hier den Punkt _**API-Key**_ bzw. _**API-Schlüssel**_ aus.
 
@@ -298,7 +298,7 @@ Es werden sowohl der _**Live**_- als auch der _**Sandbox API-Schlüssel**_ angez
 
 Die Absenderdaten müssen komplett ausgefüllt sein.
 
-![](../Bilder/shipcloud/shipcloud_Absender.png "Absenderdaten in der Eingabemaske")
+![](../Bilder/Module_ModulCenter_Shipcloud_Konfiguration_AbsenderdatenEingabemaske.png "Absenderdaten in der Eingabemaske")
 
 Die Daten werden im Regelfall direkt aus den Einstellungen unter _**Einstellungen / Shop / Shopbetreiber**_ bezogen und können in der Konfiguration des Moduls nachträglich angepasst werden.
 
@@ -306,17 +306,17 @@ Die Daten werden im Regelfall direkt aus den Einstellungen unter _**Einstellunge
 
 Die Bankverbindung sollte ebenfalls komplett hinterlegt werden. Dies ist vor allem dann wichtig, wenn die Zahlung per Nachnahme angeboten wird.
 
-![](../Bilder/shipcloud/shipcloud_Bankdaten.png "Eingabefelder für die Bankverbindung")
+![](../Bilder/Module_ModulCenter_Shipcloud_Konfiguration_EingabefelderFuerDieBankverbindung.png "Eingabefelder für die Bankverbindung")
 
 #### Webhook \(automatische Statusaktualisierung\)
 
 Wurden Webhooks noch nicht konfiguriert, wird hier ein Button angezeigt, über den diese eingerichtet werden können.
 
-![](../Bilder/shipcloud/SC-20181016_002.png "Webhooks wurden noch nicht eingerichtet")
+![](../Bilder/ABB_293.png "Webhooks wurden noch nicht eingerichtet")
 
 Innerhalb der Einstellungen kann für jeden Sendungsstatus ein Bestellstatus zugeordnet werden.
 
-![](../Bilder/shipcloud/SC-20181016_003.png "Einstellungen für das Einrichten eines Webhooks")
+![](../Bilder/ABB_294.png "Einstellungen für das Einrichten eines Webhooks")
 
 #### Dienstanbieter
 
@@ -324,7 +324,7 @@ In diesem Bereich kannst du festlegen, welche Dienstanbieter du für den Versand
 
 Hier muss beachtet werden, dass Diensteanbieter hinzukommen oder wegfallen können, wenn die Kooperationen zwischen Shipcloud und den einzelnen Dienstleistern sich ändern.
 
-![](../Bilder/shipcloud/shipcloud_Dienstanbieter.png "Auswahl der Dienstanbieter")
+![](../Bilder/ABB_295.png "Auswahl der Dienstanbieter")
 
 ### Paketvorlagen
 
@@ -336,7 +336,7 @@ Zudem kann der _**Pakettyp**_ ausgewählt werden. Es stehen die folgenden Typen 
 
 ![](../Bilder/shipcloud/2020-09-22_003.png "Auswahl des Pakettyps")
 
-![](../Bilder/shipcloud/shipcloud_Paketvorlage2.png "Paketvorlage in der Übersicht")
+![](../Bilder/ABB_296-298.png "Paketvorlage in der Übersicht")
 
 ### Labelerstellung
 
@@ -344,17 +344,17 @@ Zudem kann der _**Pakettyp**_ ausgewählt werden. Es stehen die folgenden Typen 
 
 Die Labelerstellung erfolgt im Gambio Admin in der Bestellübersicht unter _**Bestellungen \> Bestellungen**_. Soll nur für eine Bestellung ein Label erstellt werden, kann die Funktion über die Dropdown-Schaltfläche der jeweiligen Bestellung aufgerufen werden. Werden Bestellungen in der Mehrfachauswahl angehakt, kann die zugehörige Dropdown-Schaltfläche links unten verwendet werden. Es öffnet sich ein Popup mit möglichen Einstellungen zur Labelerstellung.
 
-![](../Bilder/BestellungenDropdownShipcloudSingle_.png "Aufruf der Labelerstellung für eine einzelne Bestellung")
+![](../Bilder/ABB_299.png "Aufruf der Labelerstellung für eine einzelne Bestellung")
 
-![](../Bilder/BestellungenDropdownShipcloudMulti_.png "Aufruf der Labelerstellung für mehrere Bestellungen")
+![](../Bilder/ABB_300.png "Aufruf der Labelerstellung für mehrere Bestellungen")
 
 #### Angaben zum Empfänger
 
 Die aufgeführten Lieferadressen sollten kurz auf Richtigkeit geprüft werden. Beim Einzelaufruf ist auch eine Korrektur der Daten möglich.
 
-![](../Bilder/shipcloud/shipcloud_Auswahl_004.png "Angaben zum Empfänger beim Einzelaufruf")
+![](../Bilder/ABB_301.png "Angaben zum Empfänger beim Einzelaufruf")
 
-![](../Bilder/shipcloud/shipcloud_Auswahl_005.png "Empfängeranschriften beim Mehrfachaufruf")
+![](../Bilder/ABB_302.png "Empfängeranschriften beim Mehrfachaufruf")
 
 #### Angaben zum Paket
 
@@ -364,21 +364,21 @@ Das Feld _**Nachnahmebetrag**_ wird nur bei Nachnahmebestellungen angezeigt. Ist
 
 Wenn in der Modulkonfiguration das automatische Ausfüllen der _**Inhaltsangabe**_ ausgewählt wurde, so werden hier die Artikel jetzt kommagetrennt voneinander ausgegeben. Über _**Abholzeit**_ kann angegeben werden, wann das Paket vom Dienstleister abgeholt werden soll. Sofern ein Vertrag mit Shipcloud/GLS existiert, der die _**GLS 24-Stunden-Zustellung**_ mit einschließt, kann die garantierte 24-Stunden-Zustellung hier ausgewählt werden.
 
-![](../Bilder/shipcloud/Abb_275_Shipcloud.png "Angaben zum Paket")
+![](../Bilder/ABB_303.png "Angaben zum Paket")
 
 #### Versandkosten ermitteln
 
 Über die Schaltfläche _**Versandkosten ermitteln**_ kannst du dir verschiedene Preise ausgeben lassen. Die Angabe _**nicht möglich**_ bzw. das Fehlen von Preisen in den Abbildungen lässt sich darauf zurückführen, dass der Transport von Sendungen in den angegebenen Abmessungen vom jeweiligen Dienstleister nicht angeboten wird.
 
-![](../Bilder/shipcloud/shipcloud_kosten_3.png "Einzelne Labels")
+![](../Bilder/ABB_304.png "Einzelne Labels")
 
-![](../Bilder/shipcloud/shipcloud_Auswahl_010.png "Mehrfachauswahl")
+![](../Bilder/ABB_305.png "Mehrfachauswahl")
 
 #### Versandlabel erzeugen und löschen
 
 Mit Klick auf _**Versandlabel erzeugen**_ können die benötigten Label erstellt werden, es öffnet sich ein neues Dialogfenster. Dort wird der Zeitpunkt der Erzeugung protokolliert sowie die Tracking-Nummer und der Preis ausgegeben. Hier kann das Versandlabel aufgerufen oder gelöscht werden.
 
-![](../Bilder/shipcloud/shipcloud_Auswahl_003.png "Details zum erzeugten Versandlabel")
+![](../Bilder/ABB_306.png "Details zum erzeugten Versandlabel")
 
 Über die Schaltfläche _**Sendungsverfolgung**_ wird man zur Sendungsverfolgungsseite weitergeleitet.
 
@@ -390,9 +390,9 @@ Mit Erstellen des Versandlabels wird die Sendungsnummer automatisch in den Beste
 
 ![](../Bilder/shipcloud/shipcloud_Auswahl_008.png "Auswahlfenster")
 
-![](../Bilder/shipcloud/20190702_005.png "Bestellstatushistorie")
+![](../Bilder/ABB_309.png "Bestellstatushistorie")
 
-![](../Bilder/shipcloud/shipcloud_Auswahl_009.png "Statusänderung")
+![](../Bilder/ABB_310.png "Statusänderung")
 
 #### Ausnahmen
 
@@ -400,7 +400,7 @@ Das Anlegen des Tracking-Links sowie der Versand des Tracking-Links ist bei Vers
 
 ### Abholung beauftragen
 
-![](../Bilder/shipcloud/20190702_007.png "Abholung beauftragen")
+![](../Bilder/ABB_311.png "Abholung beauftragen")
 
 Ruft man zu einer oder mehreren Bestellung\(en\) die bereits vorhandenen Label auf, so kann man dort den gewünschten Abholzeitraum auswählen und auf _**Abholungen beauftragen**_ klicken. Es können so auch Abholungen für mehrere Pakete gleichzeitig beauftragt werden.
 
@@ -467,17 +467,20 @@ Die Findologic-Suche im Shop unterscheidet sich von der Verwendung und Darstellu
 
 ## Hermes
 
+!!! danger "Achtung"
+	 Das Modul ist nicht mehr funktionsfähig, da die zugehörige Schnittstelle seitens Hermes abgeschaltet worden ist. Es wird mit der Version _**4.5.1.0**_ aus dem Shop entfernt. Bitte verwende stattdessen das Modul _**Hermes HSI**_. 
+
 ### Installation
 
 Das Hermes-Modul wird im Gambio Admin unter _**Module \> Modul-Center**_ installiert. Wähle hierzu den Eintrag _**Hermes-Versand**_ aus und klicke auf die Schaltfläche _**Installieren**_ in der rechten, unteren Bildschirmecke. Nach der Installation erscheinen links im Menü weitere Einträge.
 
-![](../Bilder/hermes/HE_20170615_008.png "Menüeinträge nach Installation des Hermes-Moduls")
+![](../Bilder/Module_ModulCenter_HermesVersand_Installation_MenueeintraegeNachDerInstallationDesHermesModuls.png "Menüeinträge nach Installation des Hermes-Moduls")
 
 ### Konfiguration
 
 Du erreichst die Konfigurationsseite wahlweise unter _**Module \> Modul-Center**_, indem du den Eintrag _**Hermes-Versand**_ auswählst und auf _**Bearbeiten**_ klickst, oder den neuen Menüeintrag _**Hermes \> Konfiguration**_ aufrufst.
 
-![](../Bilder/hermes/HE_20170615_001.png "Konfigurationsseite des Hermes-Moduls")
+![](../Bilder/Module_ModulCenter_HermesVersand_Konfiguration_KonfigurationsseiteDesHermesModuls.png "Konfigurationsseite des Hermes-Moduls")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -489,15 +492,15 @@ Du erreichst die Konfigurationsseite wahlweise unter _**Module \> Modul-Center**
 
 ### Label erstellen und stornieren
 
-#### ProfiPaketService
-
 Die Labelerstellung wird unabhängig vom gewählten Dienst aus der Bestellübersicht unter _**Bestellungen \> Bestellungen**_ aufgerufen. Wähle hierzu über die Dropdown-Schaltfläche der Bestellung den Eintrag _**Hermes Versand**_ aus. Das gleichzeitige Erstellen von Labels für mehrere Bestellungen ist nicht möglich.
 
-![](../Bilder/BestellungenDropdownHermes_.png "Aufruf der Labelerstellung")
+![](../Bilder/Module_ModulCenter_HermesVersand_LabelErstellenUndStornieren_AufrufDerLabelerstellung.png "Aufruf der Labelerstellung")
+
+#### ProfiPaketService
 
 Wenn du ProPS verwendest, werden die Adressdaten vorausgefüllt. Hierbei wird als Absenderadresse die Shopbetreiberadresse verwendet, wie sie bei Hermes im Geschäftskundenkonto hinterlegt wurde. Klicke auf _**Auftrag speichern + senden**_, um das Label zu erzeugen.
 
-![](../Bilder/hermes/HE_20170615_003.png "Erzeugen eines Labels mit der
+![](../Bilder/Module_ModulCenter_HermesVersand_LabelErstellenUndStornieren_ErzeugenEinesLabelsMitDerHermesVersandauftragserfassung.png "Erzeugen eines Labels mit der
         Hermes-Versandauftragserfassung")
 
 Nachdem das Label erzeugt worden ist, ändert sich die Ansicht der Hermes-Versandauftragserfassung. Du hast die Möglichkeit den Auftrag zu stornieren oder das Label auszudrucken.
@@ -567,7 +570,7 @@ Mit dem Druck des Hermes-Labels erfolgt automatisch ein Eintrag der Sendungsnumm
 
 Der Tracking-Link kann dem Kunden unter _**Bestellungen \> Bestellungen**_ per E-Mail zugesendet werden. Ändere hierzu wahlweise aus der Bestellübersicht oder aus der Detailansicht der Bestellung den Bestellstatus und setze jeweils die Haken _**Kunde benachrichtigen**_ und _**Sendungsnummer mitsenden**_.
 
-![](../Bilder/hermes/HE_20170615_018.png "Senden des Tracking-Links über die
+![](../Bilder/Module_ModulCenter_HermesVersand_TrackingLinkVersenden_SendenDesTrackingLinksUeberDieBestellstatusaenderungsmail.png "Senden des Tracking-Links über die
       Bestellstatusänderungsmail")
 
 
@@ -577,7 +580,7 @@ Der Tracking-Link kann dem Kunden unter _**Bestellungen \> Bestellungen**_ per E
 
 Das Trusted Shops-Modul kann im Gambio Admin unter _**Module \> Modul-Center**_ installiert werden. Wähle hierzu den Eintrag _**Trusted Shops**_ aus der Liste aus und klicke auf die Schaltfläche _**Installieren**_, in der rechten, unteren Bildschirmrecke.
 
-![](../Bilder/trusted_shops/TS-2016-12-14_008.png "Trusted Shops-Modul unter Module > Modul-Center")
+![](../Bilder/Module_ModulCenter_TrustedShops_TrustedShopsModulUnterModuleModulCenter.png "Trusted Shops-Modul unter Module > Modul-Center")
 
 ### Einrichtung
 
@@ -733,7 +736,7 @@ Das Modul kann unter _**Module \> Modul-Center**_ installiert werden. Wähle hie
 
 Nach der Installation kann das Modul konfiguriert werden. Wähle hierzu den Eintrag _**Checkout Loading-Spinner**_ aus und klicke auf die Schaltfläche _**Bearbeiten**_, in der rechten, unteren Bildschirm-Ecke.
 
-![](../Bilder/checkout_loading_spinner/20190410_004.png "Konfiguration des Checkout Loading-Spinners")
+![](../Bilder/Module_ModulCenter_CheckoutLoadingSpinner_KonfigurationDesCheckoutLoadingSpinners.png "Konfiguration des Checkout Loading-Spinners")
 
 Setze den Haken für _**Aktiviert**_, um den Checkout Loading-Spinner zu verwenden. Über das Feld _**Nach Timeout anzeigen \(Sekunden\)**_ kannst du die Zeit festlegen, nach der der Checkout Loading-Spinner während des Ladevorgangs angezeigt wird. Standardeinstellung ist hier 0, sodass der Spinner immer angezeigt wird, wenn er aktiviert wurde. Stellt man hier eine Sekundenanzahl ein, wird die Animation nur dann angezeigt, wenn sich das Laden der Zahlungsweisenseite tatsächlich um den festgelegten Zeitraum verzögert.
 
@@ -742,7 +745,7 @@ Setze den Haken für _**Aktiviert**_, um den Checkout Loading-Spinner zu verwend
 
 Über die Direkthilfe kann das zugehörige Handbuch-Kapitel zur jeweiligen Unterseite des Gambio Admins aufgerufen werden. Gibt es zu der aufgerufenen Seite keine Kapitel-Zuordnung, wird der Anfang des Handbuchs geladen. Klicke zum Laden der Seite auf das Glühbirnen-Symbol am unteren Bildrand.
 
-![](../Bilder/direkthilfe/20190410_006.png "Glühbirnen-Symbol zum Aufruf des Handbuchs")
+![](../Bilder/Module_ModulCenter_Direkthilfe_GluehbirnenSymbolZumAufrufDesHandbuchs.png "Glühbirnen-Symbol zum Aufruf des Handbuchs")
 
 ### Installation
 Die Installation kann im Gambio Admin unter _**Module \> Modul-Center**_ vorgenommen werden. Wähle hierzu den Eintrag _**Direkthilfe**_ aus der Liste aus und klicke auf die Schaltfläche _**Installieren**_ in der rechten, unteren Bildschirmecke.
@@ -762,7 +765,7 @@ Die Installation kann im Gambio Admin unter _**Module \> Modul-Center**_ vorgeno
 
 Nach der Installation kann das Modul konfiguriert werden. Wähle hierzu den Eintrag _**MyDPD Business / iloxx**_ unter _**Module \> Modul-Center**_ aus und klicke auf die Schaltfläche _**Bearbeiten**_, in der unteren, rechten Bildschirmecke.
 
-![](../Bilder/mydpd_iloxx/20190410_007.png "Konfiguration des MyDPD / Iloxx-Moduls")
+![](../Bilder/Module_ModulCenter_MyDPDIloxx_Konfiguration_KonfigurationDesMyDPDIloxxModuls.png "Konfiguration des MyDPD / Iloxx-Moduls")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -781,7 +784,7 @@ Nach der Installation kann das Modul konfiguriert werden. Wähle hierzu den Eint
 
 Hierüber kann eine Liste der am gewählten Tag erstellten Label erzeugt werden.
 
-![](../Bilder/mydpd_iloxx/20190410_008.png "Tagesabschlussliste")
+![](../Bilder/Module_ModulCenter_MyDPDIloxx_Tagesabschlussliste_Tagesabschlussliste.png "Tagesabschlussliste")
 
 ### Labelerstellung
 
@@ -789,7 +792,7 @@ Hierüber kann eine Liste der am gewählten Tag erstellten Label erzeugt werden.
 
 Die Label werden aus der Bestellübersicht heraus erstellt. Verwende hierzu wahlweise die Dropdown-Schaltfläche der einzelnen Bestellung \(siehe Abbildung\) und klicke auf _**MyDPD/Iloxx-Versandlabel anfordern**_ oder hake die Bestellung\(en\) an und wähle den Eintrag über das Dropdown der Mehrfachauswahl links unterhalb der Bestellübersicht aus.
 
-![](../Bilder/mydpd_iloxx/20190410_010.png "Aufruf der Labelerstellung aus der Bestellübersicht")
+![](../Bilder/Module_ModulCenter_MyDPDIloxx_Labelerstellung_AufrufDerLabelerstellungAusDerBestelluebersicht.png "Aufruf der Labelerstellung aus der Bestellübersicht")
 
 #### Iloxx Auftragsvorbereitung
 
@@ -797,7 +800,7 @@ Die Label werden aus der Bestellübersicht heraus erstellt. Verwende hierzu wahl
 
 Das Betätigen der Schaltflächen _**Adressen prüfen**_, _**Versandlabels abrufen**_ und _**Gewählte entfernen**_ unter der Liste der Bestellungen wirkt sich jeweils nur auf die Bestellungen aus, die in der Auflistung ausgewählt worden sind. Um eine Bestellung auszuwählen, setze den Haken in das Kästchen vor der zugehörigen Bestellnummer.
 
-![](../Bilder/mydpd_iloxx/20190410_014.png "Auflistung der Bestellungen in der Auftragsvorbereitung")
+![](../Bilder/ABB_351.png "Auflistung der Bestellungen in der Auftragsvorbereitung")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -851,7 +854,7 @@ Anschließend kann die MailBeez-Seite im Shop aufgerufen werden.
 
 Im ersten Tab stehen verschiedene Touren durch das Modul zur Verfügung, die als Hilfestellung bei der Konfiguration dienen sollen.
 
-![](../Bilder/mailbeez/mailbeez_005.png "Tour durch das Mailbeez-Modul mit Hilfe von
+![](../Bilder/ABB_357.png "Tour durch das Mailbeez-Modul mit Hilfe von
         Hinweisfeldern")
 
 #### 2. Dashboard
@@ -953,7 +956,7 @@ Nach dem Buchen von Ampify Premium stehen im Reiter _**Installation**_ weitere E
 
 Das von Ampify kopierte Token wird nun im letzten Schritt im Modul hinterlegt und das Modul aktiviert.
 
-![](../Bilder/ampify/ampify_moduleinstellungen.png "Einstellungsseite beim Bearbeiten des Moduls
+![](../Bilder/Module_ModulCenter_Ampify_EinstellungenImShop_EinstellungsseiteBeimBearbeitenDesModuls.png "Einstellungsseite beim Bearbeiten des Moduls
       _**AMPIFY**_ unter _**Module >
       Modul-Center**_")
 	  
@@ -966,37 +969,37 @@ In diesem Kapitel geben wir einen kurzen Überblick über die shopseitigen Einst
 
 Das Modul kann unter _**Module \> Modul-Center**_ installiert werden. Wähle hierzu den Eintrag _**Mediafinanz**_ aus der Liste aus und klicke auf die Schaltfläche _**Installieren**_ in der rechten, unteren Bildschirmecke. Klicke abschließend auf _**Bearbeiten**_.
 
-![](../Bilder/mediafinanz/mediafinanz_001.png "Mediafinanz-Modul nach der Installation")
+![](../Bilder/Module_ModulCenter_Mediafinanz_Installation_MediafinanzModulNachDerInstallation.png "Mediafinanz-Modul nach der Installation")
 
 ### mediafinanz Konfiguration
 
 #### Allgemeine Optionen
 
-![](../Bilder/mediafinanz/mediafinanz_002.png "Reiter _**Allgemeine Optionen**_")
+![](../Bilder/Module_ModulCenter_Mediafinanz_Konfiguration_ReiterAllgemeineOptionen.png "Reiter _**Allgemeine Optionen**_")
 
 Hier kannst du das Modul konfigurieren, indem du deine Mandantenlizenz und die ID einträgst, die du von Mediafinanz erhalten hast. Über den Link _**Registrierungsschlüssel anfordern**_ wird eine Zahlenkombination eingeblendet, die du wiederum auf einer Seite von Mediafinanz eintragen kannst. Dies wird benötigt, um die Mandantenlizenz und die ID zu generieren, die dann ins Modul eingetragen werden müssen.
 
 #### Forderungs-Optionen
 
-![](../Bilder/mediafinanz/mediafinanz_003.png "Reiter _**Forderungsoptionen**_")
+![](../Bilder/Module_ModulCenter_Mediafinanz_Konfiguration_ReiterForderungsoptionen.png "Reiter _**Forderungsoptionen**_")
 
 Hier können generelle Einstellungen zu den Forderungen vorgenommen werden. Dies geht von den Aktualisierungsintervallen über Grundmahnkosten bis hin zur Anzahl der angezeigten Forderungen.
 
 #### Allg. Bonitäts Optionen
 
-![](../Bilder/mediafinanz/mediafinanz_005.png "Reiter _**Allg. Bonitäts Optionen**_")
+![](../Bilder/Module_ModulCenter_Mediafinanz_Konfiguration_ReiterAllgBonitaetsoptionen.png "Reiter _**Allg. Bonitäts Optionen**_")
 
 Hier werden Einstellungen bezüglich der Bestellung und der Zahlungsweisen vorgenommen. Hierzu zählen z.B. ab welchem Warenwert die Prüfung greifen soll, bei welchen Zahlungsmodulen dies erfolgen soll und welche Nachricht der Kunde ggf. erhalten soll, wenn die Bonität nicht gegeben ist.
 
 #### Personen-Bonitäts-Optionen
 
-![](../Bilder/mediafinanz/mediafinanz_006.png "Reiter _**Personen-Bonitäts-Optionen**_")
+![](../Bilder/Module_ModulCenter_Mediafinanz_Konfiguration_ReiterPersonenBonitaetsOptionen.png "Reiter _**Personen-Bonitäts-Optionen**_")
 
 Hier kann die Bonitätsprüfung für Einzelpersonen aktiviert werden.
 
 #### Firmen-Bonitäts-Optionen
 
-![](../Bilder/mediafinanz/mediafinanz_007.png "Reiter _**Firmen-Bonitäts-Optionen**_")
+![](../Bilder/Module_ModulCenter_Mediafinanz_Konfiguration_ReiterFirmenBonitaetsOptionen.png "Reiter _**Firmen-Bonitäts-Optionen**_")
 
 Hier kann die Bonitätsprüfung für Firmenkunden aktiviert werden.
 
@@ -1025,12 +1028,12 @@ Wurde das Modul installiert, kann es unter _**Module \> Modul-Center**_ bearbeit
 
 Ínnerhalb des Warenkorbs wird nach Installation des Moduls der Link _**Warenkorb teilen**_ unterhalb des _**Kasse**_-Buttons angezeigt.
 
-![](../Bilder/WarenkorbTeilenWarenkorb_.png "Anzeige des Links _**Warenkorb teilen**_ im
+![](../Bilder/Module_ModulCenter_WarenkorbTeilen_AnzeigeDesLinksWarenkorbTeilenImWarenkorb.png "Anzeige des Links _**Warenkorb teilen**_ im
         Warenkorb")
 
 Bei einem Klick auf den Link öffnet sich ein neues Dialogfenster, welche den generierten Warenkorb-Link angezeigt.
 
-![](../Bilder/WarenkorbTeilenModal_.png "Anzeige des Links im Dialogfenster")
+![](../Bilder/Module_ModulCenter_WarenkorbTeilen_AnzeigeDesLinksImDialogfenster.png "Anzeige des Links im Dialogfenster")
 
 Mit einem Klick auf die Schaltfläche _**Kopieren**_ kann der Link in die Zwischenablage übernommen werden.
 
@@ -1047,7 +1050,7 @@ Das Janolaw-Modul kann unter _**Module \> Modul-Center**_ installiert werden. W�
 
 Über den Button _**Bearbeiten**_ kann man die Moduleinstellungen aufrufen. Es wird der Inhalt des ersten Tabs _**AGB Hosting Service**_ angezeigt, der über die Anmeldung bei Janolaw informiert. Im zweiten Reiter findet die Konfiguration des Moduls selbst statt.
 
-![](../Bilder/janolaw/Jano_002.png "Reiter _**Konfiguration**_")
+![](../Bilder/Module_ModulCenter_Janolaw_Konfiguration_ReiterKonfiguration.png "Reiter _**Konfiguration**_")
 
 #### Status
 
@@ -1101,13 +1104,13 @@ Nach der Installation kann das Modul über einen Klick auf _**Bearbeiten**_ eing
 
 Die erste Seite beschreibt allgemein, wozu die Zwei-Faktor-Authentifizierung dient. Klicke auf _**Einrichten**_, um den Vorgang fortzusetzen. Über einen Klick auf _**Weiter**_ gelangst du zur nächsten Seite der Einrichtung.
 
-![](../Bilder/zwei_faktor_authentifizierung/20190704_005.png "Erste Seite der Einrichtung")
+![](../Bilder/Module_ModulCenter_ZweiFaktorAuthentifizierung_InstallationUndEinrichtung_ErsteSeiteDerEinrichtung.png "Erste Seite der Einrichtung")
 
 #### QR-Code
 
 Der angezeigte QR-Code muss über die jeweils installierte Handy-App gescannt werden.
 
-![](../Bilder/zwei_faktor_authentifizierung/20190704_006.png "QR-Code")
+![](../Bilder/Module_ModulCenter_ZweiFaktorAuthentifizierung_InstallationUndEinrichtung_QRCode.png "QR-Code")
 
 #### Darstellung in der App
 
@@ -1119,13 +1122,13 @@ Die App zeigt einen 6-stelligen Code an.
 
 Der Code aus der App muss dann im Shop eingetragen werden.
 
-![](../Bilder/zwei_faktor_authentifizierung/20190704_007.png "Code eintragen")
+![](../Bilder/Module_ModulCenter_ZweiFaktorAuthentifizierung_InstallationUndEinrichtung_CodeEintragen.png "Code eintragen")
 
 #### Bestätigung
 
 War die Authentifizierung erfolgreich, wird eine Bestätigung angezeigt und das Kundenkonto aufgerufen.
 
-![](../Bilder/zwei_faktor_authentifizierung/20190704_008.png "Bestätigung")
+![](../Bilder/2022-01-05_006.png "Bestätigung")
 
 #### Code nicht korrek
 
@@ -1139,7 +1142,7 @@ Erhält man die Rückmeldung, der eingegebene Code sei nicht korrekt, so kann di
 
 Künftig erhält der Kunde bei jeder Anmeldung zusätzlich noch eine Abfrage des 6-stelligen Codes, den er in seiner App ablesen kann.
 
-![](../Bilder/zwei_faktor_authentifizierung/20190704_009.png "Anmeldefenster zur Eingabe des 6-stelligen Codes")
+![](../Bilder/2022-01-05_008.png "Anmeldefenster zur Eingabe des 6-stelligen Codes")
 
 
 ## Sunnycash
@@ -1152,7 +1155,7 @@ Das SunnyCash-Modul \(früher Ovisto\) blendet nach dem Bestellvorgang für den 
 
 Das Modul kann unter _**Module \> Modul-Center**_ installiert werden. Wähle hierzu aus der Liste den Eintrag _**SunnyCash**_ aus und klicke auf _**Installieren**_, in der rechten, unteren Bildschirmecke. Nach der Installation kann über einen Klick auf die Schaltfläche _**Bearbeiten**_ die Anzahl der Gutscheine festgelegt werden. Zudem kann das Modul hier bei Bedarf deaktiviert oder aktiviert werden.
 
-![](../Bilder/sunnycash/20190704_001.png "Bearbeiten des SunnyCash-Moduls")
+![](../Bilder/Module_ModulCenter_Sunnycash_BearbeitenDesSunnycashModuls.png "Bearbeiten des SunnyCash-Moduls")
 
 
 ## Cookie Consent-Panel
@@ -1161,20 +1164,20 @@ Das Modul kann unter _**Module \> Modul-Center**_ installiert werden. Wähle hie
 
 ### Aufbau des Cookie Consent-Panels im Shop
 
-![](../Bilder/cookie_consent/cookieconsent_shopansicht.png "Das Cookie Consent-Panel wird am unteren Rand des Browserfensters
+![](../Bilder/Module_ModulCenter_CookieConsentPanelPatch_AnzeigeImShop.png "Das Cookie Consent-Panel wird am unteren Rand des Browserfensters
       angezeigt")
 
-In der Grundansicht informiert das Cookie Consent-Panel den Besucher allgemein über die Verwendung von Cookies. Er kann sofort allen einwilligen oder über den Link unter dem entsprechenden Button das Cookie-Preference-Center aufrufen.
+In der Grundansicht informiert das Cookie Consent-Panel den Besucher allgemein über die Verwendung von Cookies. Er kann sofort allen einwilligen, nur der Verwendung notwendiger Cookies zustimmen (wenn aktiviert) oder über den Link unter dem entsprechenden Button die Cookie Einstellungen aufrufen. 
 
-![](../Bilder/cookie_consent/cookieconsent_cookie_preference_center.png "Das Cookie-Preference-Center")
+![](../Bilder/Module_ModulCenter_CookieConsentPanel_AufbauDesCookieConsentPanelsImShop_DasCookiePreferenceCenter.png "Die Cookie Einstellungen")
 
-Über das Cookie-Preference-Center kann die Verwendung einzelner Cookies an- und abgewählt werden. Die Cookies sind hierbei unter ihren jeweiligen Kategorien aufgelistet, die sich aus- und einklappen lassen. Über das _**x**_ gelangt der Besucher zurück zum allgemeinen Consent-Panel.
+Über die Cookie Einstellungen kann die Verwendung einzelner Cookies an- und abgewählt werden. Die Cookies sind hierbei unter ihren jeweiligen Kategorien aufgelistet, die sich aus- und einklappen lassen. Über das _**x**_ gelangt der Besucher zurück zum allgemeinen Consent-Panel.
 
 !!! note "Hinweis"
 
 	 Die Cookies unter _**Notwendig**_, hierzu zählen Session Cookies und Cookie-Einstellungen, können standardmäßig nicht abgeschaltet werden, da sie zum Betrieb des Shops bzw. des Cookie Consent-Panels erforderlich sind. Für technisch absolut notwendige Cookies muss keine Zustimmung durch den Besucher erfolgen.
 
-![](../Bilder/cookie_consent/cookieconsent_shopansicht_cookieEinstellungen_link.png "Link _**Cookie Einstellungen**_ im Footer")
+![](../Bilder/Module_ModulCenter_CookieConsentPanel_AufbauDesCookieConsentPanelsImShop_LinkCookieEinstellungenImFooter.png "Link _**Cookie Einstellungen**_ im Footer")
 
 Über den Link _**Cookie Einstellungen**_ in der ersten Spalte \(Mehr über\) des Footers kann jederzeit auf die Cookie Einstellungen zugegriffen und diese angepasst werden.
 
@@ -1182,7 +1185,7 @@ In der Grundansicht informiert das Cookie Consent-Panel den Besucher allgemein �
 
 	 Der Text des Links im Footer kann bei Bedarf über _**Inhalte \> Texte anpassen**_ geändert werden.
 
-![](../Bilder/cookie_consent/cookieconsent_shopansicht_cookieEinstellungen_preference.png "Anzeige des Cookie-Preference-Center nach Klick auf
+![](../Bilder/Module_ModulCenter_CookieConsentPanel_AufbauDesCookieConsentPanelsImShop_AnzeigeDesCookiePreferenceCenterNachKlickAufCookieEinstellungen.png "Anzeige der Cookie Einstellungen nach Klick auf
       _**Cookie Einstellungen**_")
 	  
 ### Installieren / Deinstallieren
@@ -1195,17 +1198,18 @@ Das Modul kann unter _**Module \> Modul-Center**_ installiert werden. Wähle hie
 
 #### Allgemein
 
-![](../Bilder/cookie_consent/cookieconsent_allgemein.png "Ansicht beim Bearbeiten des Cookie Consent-Moduls, Reiter
+![](../Bilder/Module_ModulCenter_CookieConsentPanelPatch_Allgemein.png "Ansicht beim Bearbeiten des Cookie Consent-Moduls, Reiter
       _**Allgemein**_")
 
-Im Bereich _**Allgemein**_ kann das Modul über die Einstellung _**Status**_ an- und abgeschaltet werden. Setze bzw. entferne hierzu den Haken und bestätige dies mit einem Klick auf die Schaltfläche _**Speichern**_, am unteren Ende der Seite.
+Im Bereich _**Allgemein**_ kann das Modul über die Einstellung _**Status**_ an- und abgeschaltet werden. Zusaätzlich kann über _**"Nur Notwendige"-Button anzeigen**_ die Schalftläche _**Nur Notwendige**_ ein- bzw. ausgeblendet werden, über die ausschließlich notwendige Cookies mit einem Klick akzeptiert werden können. Setze bzw. entferne hierzu den jeweiligen Haken und bestätige dies mit einem Klick auf die Schaltfläche _**Speichern**_, am unteren Ende der Seite.
+
 
 Zudem können die im Cookie Consent-Panel verwendeten Texte für die im Backend aktivierten Sprachen \(_**Einstellungen / Sprachen, Länder, Steuern / Sprachen**_, nach Aufruf der Seite\) eingestellt werden. Hierzu zählen die folgenden Einstellungen:
 
-![](../Bilder/cookie_consent/cookieconsent_shopansicht_bereiche_.png "Bereiche des Cookie Consent-Panels mit den zugehörigen
+![](../Bilder/Module_ModulCenter_CookieConsentPanelPatch_Bearbeiten_Allgemein_BereicheDesCookieConsentPanelsMitdenZugehoerigenEinstellungen_.png "Bereiche des Cookie Consent-Panels mit den zugehörigen
       Einstellungen")
 
-![](../Bilder/cookie_consent/cookieconsent_cookie_preference_center_bereiche.png "Bereiche des Cookie-Preference-Centers mit den zugehörigen
+![](../Bilder/Module_ModulCenter_CookieConsentPanel_Bearbeiten_Allgemein_BereicheDesCookiePreferenceCentersMitdenZugehoerigenEinstellungen_.png "Bereiche der Cookie Einstellungen mit den zugehörigen
       Einstellungen")
 
 |Feldname|vorbelegt mit \(de\)|vorbelegt mit \(en\)|
@@ -1214,6 +1218,7 @@ Zudem können die im Cookie Consent-Panel verwendeten Texte für die im Backend 
 |Text für den Link zum Cookie-Preference-Center|Weitere Informationen|More information|
 |Label für den Zustimmen-Button|Speichern|Save|
 |Label für den Allen-Zustimmen-Button|Alle Akzeptieren|Accept all|
+|Label für den Nur-Notwendige-Button|Nur Notwendige|Only Essentials|
 |Label für den Button, der alle Zwecke aktiviert|Alle aktivieren|Activate all|
 |Label für den Button, der alle Zwecke deaktiviert|Alle deaktivieren|Deactivate all|
 |Überschrift des Cookie-Preference-Centers|Cookie Einstellungen|Cookie settings|
@@ -1245,15 +1250,15 @@ Im Reiter _**Kategorien**_ können die Namen und Beschreibungstexte dieser Kateg
 ![](../Bilder/cookie_consent/cookieconsent_zwecke.png "Reiter _**Zwecke**_ des Cookie
       Consent-Moduls")
 
-Die Haken in der Spalte _**Status**_ legen jeweils fest, ob ein definierter Cookie-Hinweis im Cookie Consent-Panel eingebunden wird. Eingebundene Cookies werden im Cookie-Preference-Center angezeigt und können nach Akzeptieren durch den Kunden bzw. Besucher gesetzt werden.
+Die Haken in der Spalte _**Status**_ legen jeweils fest, ob ein definierter Cookie-Hinweis im Cookie Consent-Panel eingebunden wird. Eingebundene Cookies werden in den Cookie Einstellungen angezeigt und können nach Akzeptieren durch den Kunden bzw. Besucher gesetzt werden.
 
 ##### Neuen Zweck hinzufügen
 
 ![](../Bilder/cookie_consent/cookieconsent_neuenZweckErstellen.png "Eingabemaske zum Erstellen eines neuen Zwecks")
 
-Über den grünen Button _**Neuen Zweck hinzufügen**_ kann ein neuer Eintrag für einen Cookie angelegt werden. Der Reihe nach können die _**Kategorie**_ \(siehe Kategorien\), der _**Status**_ und für die einzelnen Sprachen _**Titel**_ \(der Namen, unter dem der Cookie im Cookie-Preference-Center angezeigt wird\) sowie _**Beschreibung**_ festgelegt werden.
+Über den grünen Button _**Neuen Zweck hinzufügen**_ kann ein neuer Eintrag für einen Cookie angelegt werden. Der Reihe nach können die _**Kategorie**_ \(siehe Kategorien\), der _**Status**_ und für die einzelnen Sprachen _**Titel**_ \(der Name, unter dem der Cookie in den Cookie Einstellungen angezeigt wird\) sowie _**Beschreibung**_ festgelegt werden.
 
-![](../Bilder/cookie_consent/cookieconsent_cookie_preference_center_titel_beschreibung.png "Eintrag im Cookie-Preference-Center mit
+![](../Bilder/cookie_consent/cookieconsent_cookie_preference_center_titel_beschreibung.png "Eintrag in den Cookie Einstellungen mit
         _**Titel**_ und _**Beschreibung**_")
 
 ##### Zweck bearbeiten
@@ -1283,6 +1288,9 @@ Bestätige die Sicherheitsabfrage mit einem Klick auf den roten _**Löschen**_-B
 !!! note "Hinweis"
 
 	 Das Eingabefeld _**Integration von direkt geladenem Code**_ ist für Inline JavaScript vorgesehen.
+
+!!! danger "Achtung"
+	 Die angezeigten Felder dienen nur dazu den Code herauszukopieren. Tracking-Codes o.ä., die an dieser Stelle eingefügt werden, haben keine Funktion.
 
 ![](../Bilder/cookie_consent/cookieconsent_integration.png "Codebausteine für die Integration von JavaScript-Code")
 
@@ -1546,10 +1554,9 @@ Hier kann das tägliche Budget festgelegt werden. Man hat also - obwohl das Modu
 1.  Zuerst müssen die Moduldateien auf den FTP-Server in das Shopverzeichnis geladen werden.
 2.  Nun werden im Gambio Admin unter _**Toolbox \> Cache**_ leeren der Texte-, Modul- und der Seitenausgabecache geleert. Hierbei muss die Reihenfolge beachtet werden. Auch kann es nötig sein, die Caches mehrere Male zu leeren.
 
-Das Modul kann nun im Gambio Admin unter unter _**Module \> Modul-Center**_ \(siehe Screenshot\) installiert werden. Wähle hierzu den Moduleintrag aus und klicke auf _**Installieren**_.
+Das Modul kann nun im Gambio Admin unter unter _**Module \> Modul-Center**_ installiert werden. Wähle hierzu den Moduleintrag aus und klicke auf _**Installieren**_.
 
-![](../Bilder/cleverreach/CR_001.png "Moduleintrag _**CleverReach**_ unter
-        _**Module > Modul-Center**_.")
+
 		
 ### Registrierung bei CleverReach
 
@@ -1564,10 +1571,11 @@ Wer CleverReach benutzen möchte, kann sich unter https://www.cleverreach.com/de
 
 #### Zugang gewähren
 
+Wenn das Modul unter _**Module \> Modul-Center**_ installiert wurde, kann man mit Klick auf _**Bearbeiten**_ die Modulkonfiguration aufrufen.
+
 |Abbildung|Erläuterung|
 |---------|-----------|
-|![](../Bilder/cleverreach/CR_002.png "Ansicht des CleverReach-Moduls nach Anklicken des Moduleintrags")|Wenn das Modul unter _**Module \> Modul-Center**_ installiert wurde, kann man mit Klick auf _**Bearbeiten**_ die Modulkonfiguration aufrufen|
-|![](../Bilder/cleverreach/CR_003.png "Zugangsdaten auf der Konfigurationsseite des CleverReach-Moduls")|Mit Klick auf _**Zugang gewähren**_ wird man zu CleverReach weitergeleitet.|
+|![](../Bilder/ABB_427.png "Zugangsdaten auf der Konfigurationsseite des CleverReach-Moduls")|Mit Klick auf _**Zugang gewähren**_ wird man zu CleverReach weitergeleitet.|
 |![](../Bilder/cleverreach/20190702_010.png "Account erstellen oder anmelden bei CleverReach")|Hier kann jetzt ein neues Konto angelegt oder sich in ein bestehendes Konto angemeldet werden.|
 |![](../Bilder/cleverreach/20190702_009.png "Eingabe der Daten zur Anmeldung bei Cleverreach")|Hier müssen jetzt die Login-Daten eingegeben werden, damit das Modul Zugriff auf das CleverReach-Konto erhält. Die Daten hast du bei der Registrierung per E-Mail erhalten.|
 
@@ -1575,8 +1583,8 @@ Wer CleverReach benutzen möchte, kann sich unter https://www.cleverreach.com/de
 
 |Abbildung|Erläuterung|
 |---------|-----------|
-|![](../Bilder/cleverreach/CR_007.png "Bereich _**Zugangsdaten**_ der Konfigurationsseite")|Der Zugang ist nicht unendlich gültig, sondern vorerst auf einige Jahre beschränkt. Mit Klick auf _**Zugang gewähren**_ können die Login-Daten aktualisiert werden, mit Klick auf _**Zugang entfernen**_ wird die Anbindung zum CleverReach-Konto entfernt.|
-|![](../Bilder/cleverreach/20190702_011.png "Bereich _**Einstellungen**_ der Konfigurationsseite")|Hier können verschiedene Einstellungen zu Empfängern, Automatisierung und zu übertragende Daten gemacht werden.|
+|![](../Bilder/ABB_430.png "Bereich _**Zugangsdaten**_ der Konfigurationsseite")|Der Zugang ist nicht unendlich gültig, sondern vorerst auf einige Jahre beschränkt. Mit Klick auf _**Zugang gewähren**_ können die Login-Daten aktualisiert werden, mit Klick auf _**Zugang entfernen**_ wird die Anbindung zum CleverReach-Konto entfernt.|
+|![](../Bilder/ABB_431.png "Bereich _**Einstellungen**_ der Konfigurationsseite")|Hier können verschiedene Einstellungen zu Empfängern, Automatisierung und zu übertragende Daten gemacht werden.|
 
 ##### Sync-Priorität
 
@@ -1627,7 +1635,7 @@ Hierüber kann auf der Zusammenfassungsseite eine Checkbox im Bestellvorgang ein
 
 Die Gruppen können automatisch über einen CronJob abgeglichen werden. Wird ein CronJob-Passwort hinterlegt und gespeichert, so erscheint unterhalb der Einstellungen die CronJob-URL, die beim Provider eingetragen werden kann. Der CronJob führt den Abgleich der Kundengruppen dann in dem Intervall durch, der bei der Anlage des CronJobs beim Provider festgelegt wurde. Das CronJob-Passwort kannst du selbst festlegen.
 
-![](../Bilder/cleverreach/20190702_013.png "Cronjob-Passwort auf der Einstellungsseite")
+![](../Bilder/ABB_434.png "Cronjob-Passwort auf der Einstellungsseite")
 
 ### Verwendung
 
@@ -1704,13 +1712,13 @@ Hier werden die Login-Daten zur Portokasse benötigt.
 
 	 Die Dienste _**Portokasse**_ und _**efiliale**_ sind nicht identisch! Mit den Daten der efiliale kann das Modul nicht verwendet werden!
 
-![](../Bilder/internetmarke/20190408_001.png "Eingabe des Logins zu Portokasse")
+![](../Bilder/ABB_439.png "Eingabe des Logins zu Portokasse")
 
 #### Absender
 
 Diese Felder werden automatisch vorausgefüllt, können aber nachträglich angepasst werden. Es handelt sich hier um die Absenderangaben des Shopbetreibers, die vollständig vorliegen sollten und unter _**Einstellungen \> Shop**_ \(ab Shopversion _**4.3**_\) sowie in diesem Formular bearbeitet werden können.
 
-![](../Bilder/internetmarke/20190408_002.png "Maske zur Anpassung der Absenderangaben")
+![](../Bilder/ABB_440.png "Maske zur Anpassung der Absenderangaben")
 
 #### Bevorzugte Einstellungen
 
@@ -1729,7 +1737,7 @@ Diese Felder werden automatisch vorausgefüllt, können aber nachträglich angep
 
 Hier kann ein Motiv ausgewählt werden, welches mit auf die Marke gedruckt werden kann, wenn die Kundenadresse nicht mit ausgegeben wird. Dies kann direkt bei der Labelerstellung ausgewählt werden
 
-![](../Bilder/internetmarke/20190408_004.png "Auswahl des Motivs")
+![](../Bilder/ABB_442.png "Auswahl des Motivs")
 
 #### Produktpreisliste \(PPL\)
 
@@ -1803,7 +1811,7 @@ Nach Installation des Moduls kann dieses mit Klick auf _**Bearbeiten**_ konfigur
 
 #### Google 
 
-![](../Bilder/Abb094_SSO_EinstellungenGoogle.png "Single Sign-on-Einstellungen für Google")
+![](../Bilder/Module_ModulCenter_SingleSignOn_Konfiguration_SingleSignOnEinstellungenFuerGoogle.png "Single Sign-on-Einstellungen für Google")
 
 Client-ID und Client-Schlüssel erhältst du direkt bei Google unter folgender URL:
 
@@ -1827,7 +1835,7 @@ Wähle auf dem folgenden Bildschirm als Anwendungstyp _**Webanwendung**_ aus und
 
 #### Facebook
 
-![](../Bilder/Abb099_SSO_EinloggenMitFacebook.png "Einstellungen für Einloggen mit Facebook")
+![](../Bilder/Module_ModulCenter_SingleSignOn_Konfiguration_EinstellungenFuerEinloggenMitFacebook.png "Einstellungen für Einloggen mit Facebook")
 
 Hier werden Client-ID und Schlüssel benötigt. Öffne folgenden Link in deinem Browser:
 
@@ -1855,7 +1863,7 @@ Bei Facebook werden Client-ID und Secret als App-ID und App-Geheimcode bezeichne
 
 #### Paypal
 
-![](../Bilder/Abb108_SSO_EinloggenMitPayPal.png "Einloggen mit PayPal")
+![](../Bilder/Module_ModulCenter_SingleSignOn_Konfiguration_EinloggenMitPayPal.png "Einloggen mit PayPal")
 
 Client und Secret sind identisch mit den Daten des PayPal & PayPal PLUS-Moduls und werden automatisch übernommen, sofern das Zahlungs-Modul schon konfiguriert wurde. Wir gehen hier davon aus, dass die Konfiguration des Zahlungsmoduls bereits vorgenommen wurde und somit schon eine passende "REST-App" auf der Seite https://developer.paypal.com/ vorhanden ist, aber noch geeignet weiter konfiguriert werden muss.
 
@@ -1877,7 +1885,7 @@ Achte darauf dass der Punkt _**Enable customers who have not yet confirmed their
 
 #### Amazon
 
-![](../Bilder/Abb112_SSO_EinloggenMitAmazon.png "Einloggen mit Amazon")
+![](../Bilder/Module_ModulCenter_SingleSignOn_Konfiguration_EinloggenMitAmazon.png "Einloggen mit Amazon")
 
 Mit Einführung des Single Sign-on-Moduls erhält das bislang schon verfügbare AmazonPayModul einen zusätzlichen Betriebsmodus. Sofern Single Sign-on über Amazon konfiguriert ist, wird dieses automatisch im Single Sign-on-Modus betrieben. In diesem Modus fallen vor allem auch die bislang nötigen Amazon-Gast-Accounts weg, da Single Sign-on immer reguläre Kundenkonten erzeugt.
 
@@ -1906,7 +1914,7 @@ Um das Modul zu konfigurieren, wähle es unter _**Module \> Modul-Center**_ aus 
 
 #### Zugangsdaten
 
-![](../Bilder/GKV2_20170628_001.png "Zugangsdaten für DHL Geschäftskundenversand")
+![](../Bilder/Module_ModulCenter_DHLGeschaeftskundenversand_Konfiguration_Zugangsdaten_ZugangsdatenFuerdenDHLGeschaeftskundenversand.png "Zugangsdaten für DHL Geschäftskundenversand")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1915,7 +1923,7 @@ Um das Modul zu konfigurieren, wähle es unter _**Module \> Modul-Center**_ aus 
 
 #### Absender und Retourempfänger {#dhl_geschaeftskundenversand_konfiguration_absender_und_retourempfaenger}
 
-![](../Bilder/GKV2_20170628_003.png "Absender und Retourempfänger")
+![](../Bilder/Module_ModulCenter_DHLGeschaeftskundenversand_Konfiguration_AbsenderUndRetourenempfaenger_AbsenderUndRetourenempfaenger.png "Absender und Retourempfänger")
 
 In diesem Bereich müssen die Adressdaten deiner Firma hinterlegt werden. Es kann eine abweichende Retouradresse angegeben werden.
 
@@ -1927,7 +1935,7 @@ In diesem Bereich müssen die Adressdaten deiner Firma hinterlegt werden. Es kan
 
 Wenn im Shop Bestellungen per Nachnahme möglich sind, müssen diese Bankdaten unbedingt hinterlegt werden
 
-![](../Bilder/GKV2_20170628_004.png "Bankverbindung für Nachnamesendungen")
+![](../Bilder/Module_ModulCenter_DHLGeschaeftskundenversand_Konfiguration_BankverbindungFuerNachnahmesendungen_BankverbindungFuerNachnahmesendungen.png "Bankverbindung für Nachnamesendungen")
 
 ##### Referenz
 
@@ -1935,7 +1943,7 @@ Als Referenz ist die Variable _**%orders\_id%**_ für die Bestellnummer hinterle
 
 #### Einstellungen
 
-![](../Bilder/GKV2_20180417_009.png "Einstellungen")
+![](../Bilder/Module_ModulCenter_DHLGeschaeftskundenversand_Konfiguration_Einstellungen_Einstellungen.png "Einstellungen")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1957,7 +1965,7 @@ Als Referenz ist die Variable _**%orders\_id%**_ für die Bestellnummer hinterle
 
 ##### Produkte
 
-![](../Bilder/GKV2_20170628_007.png "Abschnitt Produkte unter Einstellungen")
+![](../Bilder/Module_ModulCenter_DHLGeschaeftskundenversand_Konfiguration_Produkte_AbschnittProdukteUnterEinstellungen.png "Abschnitt Produkte unter Einstellungen")
 
 Du kannst über das Dropdown-Menü aus den verschiedenen Produkten auswählen und diese hinzufügen. Es sollten nur Produkte ausgewählt werden, die du auch gebucht hast. Welche Produkte gebucht wurden und welche Teilnahmenummer zum jeweiligen Produkt gehört, kannst du in deinem Konto bei _**DHL Versenden**_, bzw. beim DHL Support erfahren.
 
@@ -1967,13 +1975,13 @@ Du kannst über das Dropdown-Menü aus den verschiedenen Produkten auswählen un
 
 Unter _**Bestellungen \> Bestellungen**_ kann im Dropdown rechts neben der Bestellung über _**DHL-Label \(GKV\)**_ der Dialog für die Labelerstellung aufgerufen werden.
 
-![](../Bilder/BestellungenDropdownGKV2_.png "Aufruf von _**DHL-Label (GKV)**_")
+![](../Bilder/Module_ModulCenter_DHLGeschaeftskundenversand_Verwendung_Verwendung_AufrufVonDHLLabelGKV.png "Aufruf von _**DHL-Label (GKV)**_")
 
 #### Labelerzeugung
 
 ##### Einfache Ansicht
 
-![](../Bilder/GKV2_20180417_012.png "Einfache Ansicht")
+![](../Bilder/ABB_473.png "Einfache Ansicht")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1984,17 +1992,17 @@ Unter _**Bestellungen \> Bestellungen**_ kann im Dropdown rechts neben der Beste
 |Nachnahme|Hier wird die Rechnungssumme eingetragen, die bei Bestellungen auf Nachnahme automatisch befüllt wird.|
 |Nur erzeugen wenn leitcodierbar|Wenn die Adresse nicht leitcodierbar, also nicht korrekt ist, wird das Label nicht erstellt, wenn dieser Option ausgewählt ist. Es erscheint dann eine Meldung mit einem entsprechenden Hinweis.|
 
-![](../Bilder/GKV2_20170628_015.png "Hinweis bei nicht leitcodierbarer Adresse")
+![](../Bilder/ABB_474.png "Hinweis bei nicht leitcodierbarer Adresse")
 
-![](../Bilder/GKV2_20170628_014.png "Korrekt erstelltes Label")
+![](../Bilder/ABB_475.png "Korrekt erstelltes Label")
 
 ##### Erweiterte Ansicht
 
 In der erweiterten Ansicht gibt es noch zahlreiche weitere Optionen.
 
-![](../Bilder/GKV2_20180417_013.png "Kernleistungen")
+![](../Bilder/ABB_476.png "Kernleistungen")
 
-![](../Bilder/GKV2_20180417_014.png "Personenbezogene Zustellvorgaben")
+![](../Bilder/ABB_477.png "Personenbezogene Zustellvorgaben")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -2006,9 +2014,9 @@ In der erweiterten Ansicht gibt es noch zahlreiche weitere Optionen.
 |Ident-Check|Wird diese Option gewählt, öffnet sich ein Bereich mit weiteren Eingabefeldern. Hier kann der Name des Empfängers sowie sein Geburtsdatum oder das Mindestalter hinterlegt werden. Auf dem Label erscheint dann dieser Hinweis für den Zusteller:![](../Bilder/GKV2_20170628_017.png)|
 |Persönliche Übergabe|Wird aktiviert, wenn die Ware persönlich übergeben werden soll.|
 
-![](../Bilder/GKV2_20180417_015.png "Zeitliche und örtliche Zustellvorgaben")
+![](../Bilder/ABB_478.png "Zeitliche und örtliche Zustellvorgaben")
 
-![](../Bilder/GKV2_20180417_016.png "Weitere Services und Leistungen")
+![](../Bilder/ABB_479.png "Weitere Services und Leistungen")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -2024,7 +2032,7 @@ In der erweiterten Ansicht gibt es noch zahlreiche weitere Optionen.
 
 Bei Sendungen in Länder außerhalb der EU gilt es, die Ausfuhrangaben bei der Labelerstellung korrekt zu tätigen.
 
-![](../Bilder/GKV2_20180417_001.png "Angaben für Länder außerhalb der EU")
+![](../Bilder/ABB_480.png "Angaben für Länder außerhalb der EU")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -2033,25 +2041,25 @@ Bei Sendungen in Länder außerhalb der EU gilt es, die Ausfuhrangaben bei der L
 |Ausfuhrangabe _**Exporttyp**_|Voreingestellt ist hier _**EU \(keine Angabe\)**_. Bei Sendungen in Länder außerhalb der EU muss jedoch ein anderer Exporttyp gewählt werden. Neben den Exporttypen _**Geschenk**_, _**Warenmuster**_, _**Dokument**_ und _**Warenretoure**_ gibt es noch den Typen _**anderer**_.|
 |Ausfuhrangabe _**anderer Exporttyp**_|Wird der Exporttyp _**anderer**_ gewählt, muss im Feld _**anderer Exporttyp**_ ein Vermerk dazu hinterlassen werden, wie z.B. ein Hinweis auf den Inhalt.|
 
-![](../Bilder/GKV2_20180417_002.png "Angaben für Länder außerhalb der EU")
+![](../Bilder/ABB_481.png "Angaben für Länder außerhalb der EU")
 
 Weiter unten in den Ausfuhrangaben werden die Artikel der Bestellung aufgeführt. Wurde das Versandgewicht in den Artikeln hinterlegt, so ist dies hier bereits vorausgefüllt. Ansonsten muss das Gewicht für einen Artikel in die jeweilige Zeile im Feld _**Masse**_ hinterlegt werden. Aus der Menge der Artikel und den jeweiligen Gewichten muss dann das Gesamtgewicht errechnet und weiter oben in das Feld _**Versandgewicht**_ eingetragen werden.
 
 #### Mögliche Meldungen
 
-![](../Bilder/GKV2_20180417_003.png "Die angegebene Art der Sendung ist nicht gültig")
+![](../Bilder/ABB_482.png "Die angegebene Art der Sendung ist nicht gültig")
 
 Die Meldung _**Die angegebene Art der Sendung ist nicht gültig**_ bedeutet bei Sendungen ins Ausland meist, dass kein oder ein ungültier Exporttyp angegeben wurde oder das kein Produkt für den internationalen Versand hinterlegt ist.
 
 Bitte prüfe die hinterlegten Produkte und erstelle das Label mit allen Angaben erneut.
 
-![](../Bilder/GKV2_20180417_004.png "Die Gewichtsangabe ist kleiner als im CN23-Formular")
+![](../Bilder/ABB_483.png "Die Gewichtsangabe ist kleiner als im CN23-Formular")
 
 Die Meldung _**Die Gewichtsangabe ist kleiner als im CN23-Formular**_ sagt aus, dass das Versandgewicht geringer ist als das Gesamtgewicht der in den Ausfuhrangaben eingetragenen Artikel.
 
 Bitte prüfe und korrigiere die angegebenen Gewichte.
 
-![](../Bilder/GKV2_20180417_005.png "Versandetikett wurde erzeugt")
+![](../Bilder/ABB_475.png "Versandetikett wurde erzeugt")
 
 Die Meldung _**Versandetikett wurde erzeugt**_ ist eine Erfolgsmeldung. Darunter finden sich die Sendungsnummer sowie in der Spalte _**Label**_ ein Link zum Versandlabel und ein Link zum Exportlabel.
 
@@ -2059,7 +2067,7 @@ Die Meldung _**Versandetikett wurde erzeugt**_ ist eine Erfolgsmeldung. Darunter
 
 Bestehende Label können aufgerufen werden, wenn im Dropdown der Bestellübersicht wieder _**DHL-Label \(GKV2\)**_ gewählt wird. Oberhalb des Dialogs für die Labelerstellung werden die bereits erstellten Label mit Angabe von Datum und Uhrzeit aufgeführt und können hierüber aufgerufen oder auch gelöscht werden.
 
-![](../Bilder/GKV2_20170628_019.png "Bestehende Label")
+![](../Bilder/ABB_485.png "Bestehende Label")
 
 #### Muster von Versandlabeln sowie Exportlabeln
 
@@ -2100,7 +2108,7 @@ Das Magnalister-Modul ist im Standardumfang der Shopsoftware enthalten und kann 
 
 Beim ersten Aufruf wird die globale Konfiguration angezeigt. Hier muss zunächst die Passphrase eingetragen werden, bevor man die anderen Punkte im Modul öffnen kann. Die Passphrase erhält man, wenn der Shop im Konto bei Magnalister eingetragen wurde. 
 
-![](../Bilder/magnalister/20190408_001.png "Globale Konfiguration vor dem Eintragen der Passphrase")
+![](../Bilder/Module_ModulCenter_Magnalister_GlobaleKonfigurationVorDemEintragenDerPassphrase.png "Globale Konfiguration vor dem Eintragen der Passphrase")
 
 Nach dem Eintragen der Passphrase stellt sich die Konfigurationsseite so dar (Experteneinstellungen wurden aktiviert): 
 

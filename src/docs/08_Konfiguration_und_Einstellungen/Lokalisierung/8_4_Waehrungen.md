@@ -2,7 +2,7 @@
 
 Bei der Installation des Shopsystems werden die Währungen Euro, Schweizer Franken und US Dollar mit geschätzten Wechselkursen angelegt. Die Wechselkurse werden nicht automatisch aktualisiert.
 
-![](../../Bilder/Abb059_UebersichtUeberDieWaehrungen.png "Übersicht über die Währungen")
+![](../../Bilder/Lokalisierung_Waehrungen_UebersichtUeberDieWaehrungen.png "Übersicht über die Währungen")
 
 ## Wechselkurse aktualisieren
 

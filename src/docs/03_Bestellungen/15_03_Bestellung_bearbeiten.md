@@ -2,7 +2,7 @@
 
 Änderungen an eine Bestellung kannst du im Gambio Admin deines Shops unter _**Bestellungen \> Bestellungen**_ vornehmen. Wähle aus der Bestellübersicht die zu ändernde Bestellung aus. Die aktuell gewählte Bestellung ist grau hinterlegt. Klicke in der Dropdown-Schaltfläche auf _**Anzeigen**_ und klicke auf der Detailseite der Bestellung auf _**Bearbeiten**_, um die Daten für den jeweiligen Bereich zu ändern
 
-![](../Bilder/BestellungenDropdown_Anzeigen.png "Dropdown-Schaltfläche")
+![](../Bilder/Bestellungen_BestellungBearbeiten_DropdownSchaltflaeche__Anzeigen.png "Dropdown-Schaltfläche")
 
 ## Kundendaten ändern
 

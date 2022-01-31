@@ -7,7 +7,7 @@
 
 Länder, die Kunden beim Anlegen einer Adresse auswählen können, müssen einzeln aktiviert werden. Für die Ländergruppe Deutschland, Österreich und Schweiz sowie für alle Länder findest du unterhalb der Länderliste Schaltflächen zum gleichzeitigen Aktivieren.
 
-![](../../Bilder/Abb050_UebersichtUeberDieVerfuegbarenLaender.png "Übersicht über die verfügbaren Länder")
+![](../../Bilder/Lokalisierung_Laender_LaenderAktivieren_Uebersicht.png "Übersicht über die verfügbaren Länder")
 
 Klicke auf _**D, A, CH aktivieren**_, um die Ländergruppe Deutschland, Österreich und Schweiz zur Auswahl in Adressformularen zu aktivieren.
 
@@ -150,7 +150,7 @@ Wenn du ein neu angelegtes Land nicht mehr benötigst, kannst du es wieder aus d
 
 Die Bundesländer für selbst angelegte Länder und voreingestellte Länder kannst du unter _**Einstellungen / Sprachen, Länder, Steuern / Bundesländer**_, nach Aufruf der Seite, festlegen.
 
-![](../../Bilder/Abb051_ListeDerBundeslaender.png "Liste der Bundesländer")
+![](../../Bilder/Lokalisierung_Laender_Bundeslaender_ListeDerBundeslaender.png "Liste der Bundesländer")
 
 !!! note "Hinweis" 
 	 Im Installationsumfang werden nur Bundesländer für europäische Länder und große Länder außerhalb Europas angelegt. Die politische Entwicklung kann nicht in jeder Shopversion berücksichtigt werden, vereinzelt können Bundesländer daher nicht mehr aktuell sein.

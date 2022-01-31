@@ -1,7 +1,9 @@
 # Shopbereich
-![](../../Bilder/Abb008a_UbersichtOben___.png "Shopbereich")
+![](../../Bilder/Shopbereich01.png"Shopbereich")
+![](../../Bilder/Shopbereich02_.png)
+![](../../Bilder/Shopbereich03_.png)
+![](../../Bilder/Shopbereich04.png)
 
-![](../../Bilder/Abb008b_UbersichtUnten.png)
 
 1.  Header
 2.  Teaser-Slider

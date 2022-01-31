@@ -2,7 +2,7 @@
 
 Über _**Toolbox \> Timer**_ können zeitgesteuerte Änderungen bei deinen Artikeln vorgenommen werden. Es besteht hierbei die Möglichkeit, sowohl den Lieferstatus als auch den Artikelpreisstatus anzupassen.
 
-![](../../Bilder/Abb123_Timer.png "Timer")
+![](../../Bilder/Toolbox_Timer_Timer.png "Timer")
 
 Um einen solchen Vorgang anzulegen, trage bitte in das Eingabefeld der Spalte _**Name**_ eine entsprechende Bezeichnung ein. In der Spalte _**Zeit**_ wird über Datum und Uhrzeit festgelegt, wann der Vorgang ausgeführt werden soll.
 

@@ -69,6 +69,6 @@ Beim Anlegen eines Kundenkontos ist es möglich anzugeben, ob der Kunde als Gewe
 
 Im Gambio Admin deines Shops unter _**Einstellungen / Kunden / Mindestlänge für Kundenfelder**_ kannst du festlegen, welche der abgefragten Werte bei der Registrierung Pflichtangaben sind.
 
-![](../Bilder/Abb161_PflichtfelderFestlegenMinimumWerte.png "Pflichtfelder festlegen (Minimum Werte)")
+![](../Bilder/Kunden_Kundenregistrierung_PflichtfelderFestlegen_PflichtfelderFestlegenMinimumWerte.png "Pflichtfelder festlegen (Minimum Werte)")
 
 Trage in die Felder, die bei der Kundenregistrierung als Pflichtangabe abgefragt werden sollen, einen ganzzahligen Wert über 0 ein. Trage bei Feldern, die bei der Registrierung optional sind, den Wert 0 ein. Klicke anschließend auf _**Speichern**_, um die Änderungen zu speichern.

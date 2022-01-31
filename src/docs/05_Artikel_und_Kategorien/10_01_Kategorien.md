@@ -17,12 +17,12 @@ In der Artikel- und Kategorieübersicht unter _**Artikel \> Artikel/Kategorien**
 
 	 Der Button hat eine Standard-Funktion. Befinden sich keine Kategorien im Shop, wird beim Klick ohne Verwendung des Dropdowns die Maske zum Erstellen einer Kategorie geöffnet; ansonsten die Maske zum Anlegen eines Artikels.
 
-![](../Bilder/Abb080_KategorieOeffnen.png "Kategorie öffnen")
+![](../Bilder/ArtikelUNDKategorien_Kategorien_KategorieAnlegen_KategorieOeffnen.png "Kategorie öffnen")
 
 !!! note "Hinweis" 
 	 Um in eine Kategorie zu wechseln, klicke auf das schwarze Ordnersymbol vor dem Kategorienamen, oder wähle die gewünschte Kategorie aus der Liste _**Gehe zu**_ rechts in der Leiste am unteren Bildschirmrand aus.
 
-![](../Bilder/Abb081_NeueKategorieHinzufuegen.png "Neue Kategorie hinzufügen")
+![](../Bilder/ArtikelUNDKategorien_Kategorien_KategorieAnlegen_NeueKategorieHinzufuegen.png "Neue Kategorie hinzufügen")
 
 In der Kategorie-Eingabemaske konfigurierst du die neue Kategorie.
 
@@ -37,7 +37,7 @@ In der Kategorie-Eingabemaske konfigurierst du die neue Kategorie.
 !!! note "Hinweis" 
 	 Alle Felder in der Eingabemaske sind optional und sollten nur verwendet werden, wenn die entsprechende Information zur Verfügung steht.
 
-![](../Bilder/Abb082_KategorieEingabemaske.png "Kategorie-Eingabemaske")
+![](../Bilder/ArtikelUNDKategorien_Kategorien_KategorieAnlegen_KategorieEingabemaske.png "Kategorie-Eingabemaske")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -106,6 +106,6 @@ Für das Kategoriebild kann zudem ein _**Alternativtext**_ angegeben werden.
 
 Zum Bearbeiten von Kategorien, klicke in der Artikel- und Kategorieübersicht auf den Namen der Kategorie und klicke in der zugehörigen Zeile auf die Schaltfläche _**Bearbeiten**_.
 
-![](../Bilder/Abb083_KategorieBearbeiten.png "Kategorie bearbeiten")
+![](../Bilder/ArtikelUNDKategorien_Kategorien_KategorieBearbeiten_KategorieBearbeiten.png "Kategorie bearbeiten")
 
 Nimm die gewünschten Änderungen an den Konfigurationsfeldern der Kategorie vor. Eine Übersicht über die Bedeutung der Felder in der Kategorie-Eingabemaske findest du in der Tabelle _**Übersicht über die Kategorie-Eingabemaske**_.

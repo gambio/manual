@@ -1,0 +1,42 @@
+Verfügbarkeit
+Zum Jahresende 2021 wird das Modul "Artikelzustandsbelehrung im Bestellvorgang" über den Store veröffentlicht und steht für alle Shops ab Version GX 4.0.x zur Verfügung. Nach der Installation ist das Modul im Modul-Center zu finden und kann dort installiert und bearbeitet werden.
+Cloud-Shops werden entsprechend gepatcht, damit das Modul dort ebenfalls im Modul-Center aller Shops verfügbar ist.
+
+
+Einsatzzweck
+Mit dem Modul kann eine (optional bestätigungspflichtige) Belehrung zum Artikelzustand für gebrauchte/nicht neue Artikel im Bestellvorgang hinzugefügt werden. Zu diesem Thema hat Lennard einen ausführlichen Blogartikel geschrieben, der unter https://www.gambio.de/blog/?p=11091&preview=1&_ppp=aa6ae52fe5 abgerufen werden kann.
+
+
+Konfiguration
+In der Modulkonfiguration kann man einstellen, ob ein Textfeld mit einer Belehrung über den Artikelzustand angezeigt werden soll und ob dieser bestätigt werden muss. Die gleichen Optionen stehen für einen Text für die Verkürzung der Gewährleistung zur Verfügung. Es gibt für beide Felder Beispieltexte, die vom Shopbetreiber aber beliebig angepasst werden können. Nachdem die gewünschten Einstellungen vorgenommen wurde, müssen diese noch über den Speichern-Button unten rechts gespeichert werden.
+
+Artikelzustandsbelehrung
+
+
+Gewährleistungsverkürzungsvereinbarung
+
+
+
+Anzeige
+Die Anzeige der Texte erfolgt dann im Bestellvorgang, wenn ein Artikel, dessen Artikelzustand auf "Gebraucht" gesetzt wurde, in den Warenkorb gelegt wurde. Dafür gibt es in den Artikeldetails im Bereich "Erweiterte Konfiguration" das Feld "Zustand (GoogleExportPflicht)".
+
+Hinweise auf den Gebraucht-Zustand des Artikels sollten ebenfalls in den Artikeldetails erfasst werden. Hierfür gibt es das Feld "Wesentliche Merkmale". Gebrauchte Artikel sollten daher idealerweise als Einzelartikel angelegt werden, damit in den wesentlichen Merkmalen Anmerkungen über den Zustand des betreffenden Exemplars hinterlegt werden können.
+Unsere Rechtspartner weisen darauf hin, dass man Hinweise auf Mängel am Artikelzustand hervorheben sollte. In unserem Beispiel (siehe Screenshot weiter unten) erfolgt dies, in dem der Mängelangabe der Begriff "Negativ" vorangestellt und durch einen Zeilenumbruch etwas hervorgehoben wurde.
+
+
+Darstellung im Bestellvorgang
+Wenn eingerichtet, werden die Textfelder immer dann angezeigt, wenn ein als gebraucht gekennzeichneter Artikel bestellt wird.
+
+Zahlungsweisenseite
+Auf der checkout_payment.php wird unterhalb der Textfelder für AGB und Widerrufsrecht der Hinweis auf die Verkürzung der Gewährleistung ausgegeben, sofern dieser eingerichtet wurde.
+
+
+Bestellbestätigungsseite
+Auf der checkout_confirmation.php wird der Hinweis auf den "Zustand der Kaufsache", also die Artikelzustandsbelehrung, ausgegeben. Im Screenshot haben wir die Anzeige des Inhaltes des Feldes "Wesentliche Merkmale" aus den Artikeldetails kenntlich gemacht.
+
+
+
+Nachvollziehbarkeit
+Die Bestätigungen der oben erläuterten Belehrungen können in den Details der betreffenden Bestellung eingesehen werden.
+
+tags: Gewährleistungsverkürzungsvereinbarung, Artikelzustandsbelehrung

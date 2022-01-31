@@ -18,7 +18,7 @@ Der Cache (gesprochen Käsch) funktioniert als Zwischenspeicher. Dieser hält di
 
 Unter _**Toolbox > Cache**_ können die verschiedenen Caches des Shops geleert bzw. neu erzeugt werden.
 
-![](../../Bilder/Abb125_CacheLeeren_.png "Caches im Shop")
+![](../../Bilder/Toolbox_Cache_CachesImShop.png "Caches im Shop")
 
 
 

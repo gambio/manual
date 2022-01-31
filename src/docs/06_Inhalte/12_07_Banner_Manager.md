@@ -2,7 +2,7 @@
 
 Über den Bannermanager kannst du eigene Banner oder Banner von Firmen, mit denen du zusammenarbeitest, in deinem Shop anzeigen lassen.
 
-![](../Bilder/Abb148_BannerEingabemaske_.png "Banner-Eingabemaske")
+![](../Bilder/Inhalte_BannerManager_BannerEingabemaske.png "Banner-Eingabemaske")
 
 Der Shop unterscheidet bei den Bannern zwischen Bild-Bannern und HTML-Bannern.
 

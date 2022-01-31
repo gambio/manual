@@ -1,33 +1,5 @@
 # Lager- und Bestandseinstellungen
 
-## Lagerverwaltungs-Optionen 
-
-Unter _**Einstellungen / Artikel & Kategorien / Lagerverwaltung**_ lässt sich die shopeigene Lagerverwaltung einrichten. Folgende Einstellungsmöglichkeiten sind gegeben:
-
-|Feldname|Beschreibung|
-|--------|------------|
-|Artikel inaktiv setzen|Artikel auf inaktiv setzen, wenn diese nach einer Bestellung nicht mehr auf Lager sind|
-|Attribut inaktiv setzen|Attributwerte/Attribut-Optionswerte ausblenden, wenn diese nicht mehr auf Lager sind|
-|Attributlagerbestand anzeigen|Attributlagerbestand hinter jedem Attribut-Optionswert anzeigen|
-|Überprüfen des Artikelbestandes|Prüfen, ob die Artikel in angeforderter Menge auf Lager sind, um Bestellung ausführen zu können|
-|Überprüfen des Artikelattribut-Bestandes|Überprüfen, ob der Bestand von Artikelattributen in ausreichender Menge auf Lager ist, um Bestellung ausführen zu können|
-|Artikelmenge abziehen|Artikelmenge vom Artikelbestand abziehen, wenn der Artikel bestellt wurde|
-|Einkaufen nicht vorrätiger Artikel erlauben|Erlauben zu bestellen, auch dann, wenn bestimmte Artikel laut Lagerbestand nicht verfügbar sind|
-|Kennzeichnung vergriffener Artikel|Kennzeichnung vergriffener Artikel, um dem Kunden kenntlich zu machen, welche Artikel nicht mehr verfügbar sind|
-|Meldung an den Shopbetreiber, dass ein Artikel nachbestellt werden muss|Stückzahl ab welcher diese E-Mail versendet werden soll|
-|Lagerbestand vor dem Warenkorb prüfen?|Überprüft den Lagerbestand bereits auf der Artikeldetailseite.|
-
-!!! note "Hinweis" 
-	 Lagerstands-Einstellungen greifen nur bedingt bei Artikel-Eigenschaften. Wenn Artikel- Eigenschaften verwendet werden, wird die Lagerverwaltung in den Kombinationen des Artikels eingestellt. Bearbeite hierzu den Artikel und klicke auf _**Eigenschaften**_.
-
-### Artikel inaktiv setzen
-
-Wenn Artikel inaktiv gesetzt werden sollen, müssen _**Überprüfen des Artikelbestandes**_ und _**Artikelmenge abziehen**_ auf _**Ja**_ gesetzt sein, _**Einkaufen nicht vorrätiger Artikel**_ hingegen auf _**Nein**_.
-
-### Attribute inaktiv setzen
-
-Diese Funktion sollte nur in Verbindung mit _**Artikel inaktiv setzen**_ verwendet werden, damit Artikel, die nicht mehr auf Lager sind, nicht angezeigt werden. Anderenfalls können Artikel, dessen Attribute nicht mehr auf Lager sind, ohne Attribute in den Warenkorb gelegt werden.
-
 ## Lieferstatus
 
 Lieferstatus geben an, wie lange es voraussichtlich dauert, bis ein gegebener Artikel geliefert wird. Im Shop kann für jede dieser Zeitperioden ein eigener Lieferstatus festgelegt werden, z.B. _**3-4 Tage**_, _**1 Woche**_ usw. Unter _**Einstellungen / Lieferung / Lieferstatus**_, nach Aufrufen der Seite, können diese Status eingesehen und geändert werden. Wenn ein Lieferstatus markiert wird, sodass er blau hinterlegt ist, wird in der Box auf der rechten Seite sowohl die deutsche als auch die englische Bezeichnung angezeigt. Dazu kommen die Anzahl der Wochentage und der obere Schwellenwert.

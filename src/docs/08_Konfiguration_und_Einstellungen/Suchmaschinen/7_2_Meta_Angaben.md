@@ -7,7 +7,7 @@ Unter _**Einstellungen / Suchmaschinenoptimierung / Meta-Angaben**_ können die 
 
 ## Vorgaben
 
-![](../../Bilder/Abb049_voreingestellteMetaAngaben.png "Voreingestellte Meta-Angaben")
+![](../../Bilder/Suchmaschinen_MetaAngaben_Vorgaben_VoreingestellteMetaAngaben.png "Voreingestellte Meta-Angaben")
 
 ### Robots
 
@@ -21,7 +21,7 @@ In der Meta-Angabe _**keywords**_ \(Schlagwörter\) kannst du eine kommagetrennt
 
 Unter _**Einstellungen / Suchmaschinenoptimierung / Meta-Angaben**_, nach Aufruf der Seite _**Meta-Angaben**_, kannst du zusätzliche Meta-Angaben anlegen.
 
-![](../../Bilder/Abb050_eigeneMetaAngaben.png "Eigene Meta-Angaben")
+![](../../Bilder/Suchmaschinen_MetaAngaben_EigeneMetaAngaben_EigeneMetaAngaben.png "Eigene Meta-Angaben")
 
 1.  Wähle in der Liste _**Auswahl einer vordefinierten Meta-Angabe**_ eine Meta-Angabe aus oder trage im Feld _**Eingabe einer Meta-Angabe**_ eine Meta-Angabe ein, die in der Liste nicht enthalten ist.
 2.  Gebe im Feld _**Wert**_ den Wert für die entsprechende Meta-Angabe ein.
@@ -43,7 +43,7 @@ Unter _**Einstellungen / Suchmaschinenoptimierung / Meta-Angaben**_, nach Aufruf
 
 Unter _**Einstellungen / Suchmaschinenoptimierung / Meta-Angaben**_, nach Aufruf der Seite _**Meta-Angaben**_, kannst du den Titel deines Onlineshops festlegen, der je nach Browser in der Tableiste oder im Browsertitel ausgegeben wird. Zusätzlich zum Seitentitel wird der Titel der aktuell angezeigten Seite ausgegeben.
 
-![](../../Bilder/Abb051_konfigurationDesMetaTitels.png "Konfiguration des Meta-Titels")
+![](../../Bilder/Suchmaschinen_MetaAngaben_MetaTitel_KonfigurationDesMetaTitels.png "Konfiguration des Meta-Titels")
 
 !!! note "Hinweis" 
 	 Wenn kein Meta-Titel festgelegt wird, verwendet das Shopsystem den unter _**Einstellungen / Shop / Allgemein**_ im Feld _**Name**_ des Shops eingetragenen Wert als Seitentitel.

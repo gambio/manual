@@ -6,7 +6,7 @@
 
 Zur Nutzung der Google Services ist die Verknüpfung mit einem _**Google AdWords**_-Account notwendig. Wähle hierzu einen beliebigen Menüpunkt im Bereich _**Google**_ aus oder klicke auf die rote Anzeige am unteren Rand des Gambio Admins: _**Google nicht verbunden**_.
 
-![](../../Bilder/nichtVerknuepft.png "Auswahl eines Menüpunkts ohne Verknüpfung")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_Anmeldung_AuswahlEinesMenuepunktsOhneVerknuepfung.png "Auswahl eines Menüpunkts ohne Verknüpfung")
 
 Klicke auf den Button _**Verknüpfen**_ und du wirst direkt zur Anmeldeseite weitergeleitet.
 
@@ -26,7 +26,7 @@ Nach der Anmeldung wirst du in einem Dialog dazu aufgefordert den Zugriff auf di
 
 	 Wenn du für deine Exporte zu Google Shopping bisher Export-Profile unter _**Artikel \> Import/Export**_ verwendet hast, so werden diese nicht für das Google Services Modul übernommen.
 
-![](../../Bilder/GooS-20180920_004.png "Übersicht über Export-Profile zu Google Shopping unter Google > Google Shopping")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_GoogleShopping_UebersichtUeberExportProfileZuGoogleShoppingUnterGoogleGoogleShopping.png "Übersicht über Export-Profile zu Google Shopping unter Google > Google Shopping")
 
 Über die Schaltfläche _**Erstellen**_ kann ein neues Export-Profil angelegt werden.
 
@@ -48,7 +48,7 @@ Wenn du ein Export-Profil anlegst oder bearbeitest, gelangst du in den Reiter _*
 
 #### Allgemeine Einstellungen
 
-![](../../Bilder/GoogleShopping01.png "Allgemeine Einstellungen eines Export-Profils")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_GoogleShopping_Einstellungen_AllgemeineEinstellungenEinesExportProfils.png "Allgemeine Einstellungen eines Export-Profils")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -97,11 +97,11 @@ Beachte auch, dass der Cronjob für einen regelmäßigen Aufruf von 1x pro Minut
 
 Über den Reiter _**Artikeldaten**_ werden die Spalten des Export-Profils aufgeführt. Durch Setzen oder Entfernen des Hakens neben dem Spaltennamen kann festgelegt werden ob eine Spalte exportiert werden soll.
 
-![](../../Bilder/GoogleShopping03.png "Anzeige der Spalten unter Artikeldaten")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_GoogleShopping_Artikeldaten_AnzeigeDerSpaltenUnterArtikeldaten.png "Anzeige der Spalten unter Artikeldaten")
 
 Wird der Mauszeiger über einen Spalten-Eintrag bewegt, werden die möglichen Aktionen hierfür angezeigt:
 
-![](../../Bilder/GoogleShoppingIcons2.png "Aktionen zu einer Spalte des Export-Profils")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_GoogleShopping_Artikeldaten_AktionenZuEinerSpalteDesExportProfils.png"Aktionen zu einer Spalte des Export-Profils")
 
 Diese sind von links nach rechts:
 
@@ -115,15 +115,15 @@ Die Aktionen _**bearbeiten**_ und _**löschen**_ können über einen Mausklick a
 
 Klicke auf _**Erstellen**_ um eine neue Spalte hinzuzufügen. Klicke auf das Bleistift-Icon einer Spalte, um diese zu _**bearbeiten**_.
 
-![](../../Bilder/GoogleShopping04.png "Hinzufügen einer Spalte zum Export-Profil")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_GoogleShopping_Artikeldaten_HinzufuegenEinerSpalteZumExportProfil.png "Hinzufügen einer Spalte zum Export-Profil")
 
 In dem sich nun öffnenden Fenster kann der _**Spaltenname**_, _**Spaltenwert**_ sowie ein _**Standardwert**_ festgelegt werden. Der Spaltenwert wird anhand einer Variable defniert, die über einen Variablennamen in geschweiften Klammern in das Feld Spaltenwert eingetragen wird.
 
-![](../../Bilder/VerfuegbareVariablen.png "Anzeige der verfügbaren Variablen für den Spaltenwert")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_GoogleShopping_Artikeldaten_AnzeigeDerVerfuegbarenVariablenFuerDenSpaltenwert.png "Anzeige der verfügbaren Variablen für den Spaltenwert")
 
 Die Eintragung muss jedoch nicht von Hand vorgenommen werden. Klicke auf das nach unten weisende Dreieck, um eine Liste der möglichen Werte für den Export anzuzeigen. Klicke einen Eintrag an, um eine genaue Beschreibung seines Verwendungszwecks zu erhalten. Wenn du dir sicher bist dass du die gewählte Variable verwenden möchtest, klicke auf _**Hinzufügen**_.
 
-![](../../Bilder/VariableAusgewaehlt.png "Variable ausgewählt")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_GoogleShopping_Artikeldaten_VariableAusgewaehlt.png "Variable ausgewählt")
 
 ![](../../Bilder/variableHinzugefuegt.png "Variable als Spaltenwert hinzugefügt")
 
@@ -133,7 +133,7 @@ Die Eintragung muss jedoch nicht von Hand vorgenommen werden. Klicke auf das nac
 
 Über den Reiter _**Kategorien**_ können die Kategorien ausgewählt werden, aus denen Artikel exportiert werden.
 
-![](../../Bilder/GoogleShopping05.png "Auswahl der Kategorien für das Export-Profil")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_GoogleShopping_Kategorien_AuswahlDerKategorienFuerDasExportProfil.png "Auswahl der Kategorien für das Export-Profil")
 
 Setze den Haken für _**Alle angezeigten Kategorien auswählen / Auswahl aufheben**_ um alle Kategorien gleichzeitig aus- bzw. abzuwählen.
 
@@ -229,7 +229,7 @@ Bevor Daten erfasst werden können, muss das Modul im Reiter _**Konfiguration**_
 
 #### Haupteinstellungen
 
-![](../../Bilder/GooS-20180920_018.png "Haupteinstellungen")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_GoogleAnalytics_Konfiguration_Haupteinstellungen.png "Haupteinstellungen")
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -241,7 +241,7 @@ Bevor Daten erfasst werden können, muss das Modul im Reiter _**Konfiguration**_
 
 #### Tracking Optionen
 
-![](../../Bilder/GooS-20180920_019_.png "Tracking Optionen")
+![](../../Bilder/ArtikelUNDKategorien_GoogleServices_GoogleAnalytics_Konfiguration_TrackingOptionen.png "Tracking Optionen")
 
 |Feldname|Beschreibung|
 |--------|------------|

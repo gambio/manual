@@ -8,11 +8,11 @@
 -   Export der Sitemap XML
 -   Image Processing
 
-![](../../Bilder/zeitgesteuerte_aufgaben/20190703_HB_022.png "_**Toolbox > Zeitgesteuerte Aufgaben**_")
+![](../../Bilder/Toolbox_ZeitgesteuerteAufgaben_ToolboxZeitgesteuerteAufgaben.png "_**Toolbox > Zeitgesteuerte Aufgaben**_")
 
 Um eine dieser Aktionen automatisch ausführen zu können, muss die gewünschte Aufgabe zuerst über das Stift-Symbol aufgerufen und bearbeitet werden. Es öffnet sich ein weiteres Fenster, in dem die Aufgabe aktiviert und gespeichert werden kann. Setze hierzu den Haken hinter _**aktiv**_ und bestätige dies mit einem Klick auf _**Speichern**_.
 
-![](../../Bilder/zeitgesteuerte_aufgaben/20190703_HB_023.png "Aktivieren einer zeitgesteuerten Aufgabe")
+![](../../Bilder/Toolbox_ZeitgesteuerteAufgaben_AktivierenEinerZeitgesteuertenAufgabe.png "Aktivieren einer zeitgesteuerten Aufgabe")
 
 Damit die eingestellten Aufgaben ausgeführt werden, muss bei deinem Hoster \(oder wahlweise einem anderen, hierauf spezialisierten Anbieter\) ein sogenannter _**Cronjob**_ eingerichtet werden. Dieser ruft in einem bestimmten Intervall eine voreingestellte Internetadresse \(URL\) auf.
 

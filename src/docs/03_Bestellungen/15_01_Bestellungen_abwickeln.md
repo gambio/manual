@@ -2,11 +2,11 @@
 
 Im Gambio Admin deines Shops unter _**Bestellungen \> Bestellungen**_ findest du eine Übersicht über alle Bestellungen, die im Shopbereich getätigt oder im Gambio Admin manuell angelegt wurden. Der aktuelle Stand einer Bestellung wird über Bestellstatus festgelegt, die in der Spalte _**Status**_ angezeigt werden.
 
-![](../Bilder/Abb270_Bestelluebersicht.png "Bestellübersicht")
+![](../Bilder/Bestellungen_BestellungenAbwickeln_Bestelluebersicht.png "Bestellübersicht")
 
 Über das Zahnrad-Symbol \(siehe rote Markierung in der Abbildung _**Bestellübersicht**_\) können die Einstellungen der Bestellübersicht aufgerufen werden. Im oberen Teil werden die einzelnen Spalten der Übersicht aufgelistet. Durch Setzen beziehungsweise Entfernen des Häkchens hinter dem Spaltennamen kann die jeweilige Spalte zur Anzeige an- respektive abgeschaltet werden.
 
-![](../Bilder/Abb271_BestelluebersichtEinstellungen.png "Einstellungen der Bestellübersicht")
+![](../Bilder/Bestellungen_BestellungenAbwickeln_EinstellungenDerBestelluebersicht.png "Einstellungen der Bestellübersicht")
 
 Die Reihenfolge der Spalten kann geändert werden, indem du den Mauszeiger über das Pfeilsymbol bewegst und die linke Maustaste klickst und hältst. Ziehe anschließend die betreffende Spalte nach oben oder unten an ihre neue Position und lasse die Maustaste wieder los.
 
@@ -17,10 +17,10 @@ Die Detailseite zu einer Bestellung enthält zusätzliche Informationen, wie die
 1.  Wähle in der Liste _**Bestellungen**_ die gewünschte Bestellung aus
 2.  Klicke am Ende der Zeile auf _**Anzeigen**_ oder das Augen-Symbol
 
-![](../Bilder/BestellDetailsAuge.png "Aufruf der Detailansicht über das Augen-Symbol (blau
+![](../Bilder/Bestellungen_BestellungenAbwickeln_AufrufDerDetailansichtUeberDasAugenSymbolBlauHervorgehoben.png "Aufruf der Detailansicht über das Augen-Symbol (blau
       hervorgehoben)")
 
-![](../Bilder/Abb176_DetailseiteEinerBestellung.png "Detailseite einer Bestellung")
+![](../Bilder/Bestellungen_BestellungenAbwickeln_DetailseiteEinerBestellung.png "Detailseite einer Bestellung")
 
 !!! note "Hinweis" 
 	 Die Detailseite einer Bestellung enthält alle für die Bestellabwicklung nötigen Funktionen. Wesentliche Funktionen sind zum schnellen Zugriff auch in der Bestellübersicht vorhanden.
@@ -33,7 +33,7 @@ Die Detailseite zu einer Bestellung enthält zusätzliche Informationen, wie die
 
 Den Bestellstatus einer einzelnen Bestellung kannst du auf der Detailseite der Bestellung im Gambio Admin unter _**Bestellungen \> Bestellungen**_ ändern.
 
-![](../Bilder/Abb177_BestellstatusAendernDetailseite.png "Bestellstatus ändern (Detailseite)")
+![](../Bilder/Bestellungen_BestellungenAbwickeln_Bestellstatus_BestellstatusAendernDetailseite.png "Bestellstatus ändern (Detailseite)")
 
 1.  Klicke auf die farbige Status-Anzeige oder die Schaltfläche _**Bestellstatus ändern**_ und wähle aus der Liste _**Neuer Bestellstatus**_ den neuen Bestellstatus aus
 2.  Aktiviere das Kontrollkästchen _**Kunde benachrichtigen**_, wenn der Kunde per E-Mail über die Änderung des Bestellstatus informiert werden soll
@@ -48,9 +48,9 @@ Der neue Bestellstatus ist im Shopbereich unter _**Ihr Konto \> Bestellungen**_ 
 
 Den Bestellstatus mehrerer Bestellungen kannst du gleichzeitig in der Bestellübersicht unter _**Bestellungen \> Bestellungen**_ ändern.
 
-![](../Bilder/Abb178_BestellungenMarkieren.png "Bestellungen markieren")
+![](../Bilder/Bestellungen_BestellungenAbwickeln_Bestellstatus_BestellungenMarkieren.png "Bestellungen markieren")
 
-![](../Bilder/Abb503_MehrereBestellstatusAendernUebersichtsseite_.png "Mehrere Bestellstatus ändern (Übersichtseite)")
+![](../Bilder/Bestellungen_BestellungenAbwickeln_Bestellstatus_MehrereBestellstatusAendernUebersichtsseite.png "Mehrere Bestellstatus ändern (Übersichtseite)")
 
 1.  Aktiviere die Kontrollkästchen in der ersten Spalte der Bestellübersicht-Liste bei den Bestellungen, deren Bestellstatus verändert werden soll
 2.  Wähle über die Dropdown-Schaltfläche _**Status ändern**_ aus und wähle den neuen Bestellstatus für alle aktivierten Bestellungen aus
@@ -66,7 +66,7 @@ Der neue Bestellstatus ist im Shopbereich unter _**Ihr Konto \> Bestellungen**_ 
 
 Neue Bestellstatus kannst du im Gambio Admin deines Shops unter _**Bestellungen \> Bestellungen \> Bestellstatus**_ anlegen. Klicke hierzu auf _**Erstellen**_.
 
-![](../Bilder/Abb180_BestellstatusAnlegen.png "Neue Bestellstatus legst du im Gambio Admin deines Shops unter Bestellungen > Bestellstatus anlegen. Klicke hierzu auf Erstellen.")
+![](../Bilder/Bestellungen_BestellungenAbwickeln_Bestellstatus_NeuerBestellstatus.png "Neue Bestellstatus legst du im Gambio Admin deines Shops unter Bestellungen > Bestellstatus anlegen. Klicke hierzu auf Erstellen.")
 
 1.  Trage im Feld _**Bestellstatus**_ einen Namen für den neuen Bestellstatus ein
 2.  Aktiviere die Einstellung _**als Standard definieren**_, wenn der neue Bestellstatus automatisch jeder eingehenden Bestellung zugewiesen werden soll
@@ -91,7 +91,7 @@ Vorhandene Bestellstatus kannst du im Gambio Admin deines Shops unter _**Bestell
 
 Die Bestellbestätigung wird in der Grundkonfiguration automatisch nach dem Eingang einer Bestellung an den Kunden und an die unter _**Kunden \> E-Mails \> E-Mail-Optionen**_ im Feld _**Verrechnung - Weiterleitungsadressen**_ hinterlegten E-Mail Adressen geschickt. Wenn zu einer Bestellung vom Shopsystem keine Bestellbestätigung versendet wurde, wird die betroffene Bestellung in der Bestellübersicht unter _**Bestellungen \> Bestellungen**_ mit einem Briefumschlag-Symbol markiert.
 
-![](../Bilder/bestaetigungNichtVersendet_.png "Bestellungen ohne versendete Bestellbestätigung in der
+![](../Bilder/Bestellungen_BestellungenAbwickeln_Bestellbestaetigung_BestellungOhneVersendeteBestellbestaetigungInDerBestelluebersicht.png "Bestellung ohne versendete Bestellbestätigung in der
       Bestellübersicht")
 
 !!! note "Hinweis" 
@@ -101,7 +101,7 @@ Die Bestellbestätigung wird in der Grundkonfiguration automatisch nach dem Eing
 
 Die Bestellbestätigung kann zur schnellen Einsicht aus dem Gambio Admin deines Shops angezeigt werden. Klicke in der Bestellübersicht unter _**Bestellungen \> Bestellungen**_ auf den Eintrag _**Bestellbestätigung anzeigen**_ der Dropdown-Schaltfläche. Die Bestellbestätigung zur ausgewählten Bestellung wird in einem neuen Fenster geöffnet.
 
-![](../Bilder/BestellungenDropdown_BestellbestaetigungAnzeigen.png "Dropdown-Schaltfläche")
+![](../Bilder/Bestellungen_BestellungenAbwickeln_Bestellbestaetigung_DropdownSchaltflaeche__BestellbestaetigungAnzeigen.png "Dropdown-Schaltfläche")
 
 ### Bestellbestätigung versenden
 
@@ -131,7 +131,7 @@ Die Rechnung und den Lieferschein zu einer Bestellung kannst du auf der Detailse
 
 Wenn du die Rechnung zu einer Bestellung per Post, beispielsweise mit der Lieferung, verschicken möchtest, erstelle die Rechnung im Gambio Admin deines Shops unter _**Bestellungen \> Bestellungen**_.
 
-![](../Bilder/BestellungenDropdown_RechnungErstellen.png "Dropdown-Schaltfläche")
+![](../Bilder/Bestellungen_BestellungenAbwickeln_RechnungUNDLieferschein_DropdownSchaltflaeche__RechnungErstellen.png "Dropdown-Schaltfläche")
 
 1.  Wähle aus der Bestellübersicht die Bestellung aus, zu der du eine Rechnung erzeugen möchtest
 2.  Klicke in der Dropdown-Schaltfläche auf _**Rechnung erstellen**_

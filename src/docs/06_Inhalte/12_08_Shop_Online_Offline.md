@@ -56,7 +56,7 @@ Sowohl der Shopstatus \(online/offline\) als auch die einzelnen Varianten der Ur
 
 Um einen zeitgesteuerten Vorgang festzulegen trage bitte in das Eingabefeld _**Name**_ eine entsprechende Bezeichung ein. In der Spalte _**Zeit**_ kannst du den genauen Zeitpunkt einstellen, zu dem der Vorgang ausgelöst werden soll.
 
-![](../Bilder/Abb150_EinrichtenVonZeitgesteuertenVorgaengen.png "Einrichten von zeitgesteuerten Vorgängen")
+![](../Bilder/Inhalte_ShopOnlineOffline_ZeitgesteuerterStatuswechsel_EinrichtenVonZeitgesteuertenVorgaengen.png "Einrichten von zeitgesteuerten Vorgängen")
 
 Welche Aktion durchgeführt werden soll, kann über die Checkboxen in den Spalten _**Offline schalten**_, _**Top-Bar**_ und _**Pop-Up**_ festgelegt werden. Setze hier jeweils die Einstellung, um die Funktion zu aktivieren bzw. entferne sie, um die Funktion wieder zu deaktivieren. Über das Bleistift-Symbol wird für den automatisierten Vorgang jeweils ein eigener Text festgelegt. Mit Klick auf _**Hinzufügen**_ wird der Vorgang angelegt.
 

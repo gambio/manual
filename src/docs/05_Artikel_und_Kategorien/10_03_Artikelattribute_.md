@@ -134,7 +134,7 @@ Zudem kann über das Bild-Symbol am Ende der Zeile dem jeweiligen Optionswert ei
 
 Über die Attributverwaltung können die Optionswerte eines Artikels geändert bzw. einem beliebigen Artikel neue Attribute und Optionswerte zugewiesen werden.
 
-![](../Bilder/Attributverwaltung.png "Aufruf der Attributverwaltung unter _**Artikel >
+![](../Bilder/ArtikelUNDKategorien_Artikelattribute_Attributverwaltung_AufrufDerAttributverwaltungUnterArtikelArtikelattributeAttributverwaltung.png "Aufruf der Attributverwaltung unter _**Artikel >
       Artikelattribute > Attributverwaltung**_")
 
 Über das Dropdown _**Bitte wählen Sie einen Artikel aus der Liste zum Editieren**_ kann ein Artikel ausgewählt werden. Bestätige die Auswahl mit einem Klick auf _**Bearbeiten**_. Es stehen die gleichen Einstellungen wie beim erstmaligen Zuweisen von Optionswerten zur Verfügung \(siehe Kapitel _**Optionswerte zuweisen**_\).
@@ -143,7 +143,7 @@ Zudem kann über das Bild-Symbol am Ende der Zeile dem jeweiligen Optionswert ei
 
 Zugewiesene Optionswerte können bei Bedarf auch von einem Artikel kopiert und direkt einem anderen Artikel zugeordnet werden. Auf diese Weise lassen sich schnell mehrere Artikel mit den gleichen Auswahlmöglichkeiten versehen.
 
-![](../Bilder/Attribute_Kopieren.png "Kopieren der Optionswerte")
+![](../Bilder/ArtikelUNDKategorien_Artikelattribute_Attributverwaltung_KopierenDerOptionswerte.png "Kopieren der Optionswerte")
 
 Hierbei werden die eingestellten Optionswert des Artikels aus dem unteren Dropdown-Menü auf den Artikel im oberen Dropdown-Menü kopiert. Wähle daher die gewünschten Artikel in beiden Menüs aus und klicke dann auf _**Kopieren**_.
 

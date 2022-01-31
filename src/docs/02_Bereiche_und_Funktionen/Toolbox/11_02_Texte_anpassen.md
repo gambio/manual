@@ -6,7 +6,7 @@ Die im Shopbereich ausgegebenen Texte, wie die Beschriftungen von Schaltflächen
 
 	 Die meisten Sonderzeichen liegen in der Datenbank als HTML-Umlaut vor. Eine Übersicht über die im deutschen Sprachgebrauch am häufigsten verwendeten HTML-Umlaute kannst du der Tabelle HTML-Umlaute entnehmen.
 
-![](../../Bilder/Abb124_TexteAnpassen.png "Texte anpassen")
+![](../../Bilder/Toolbox_TexteAnpassen_TexteAnpassen.png "Texte anpassen")
 
 1.  Gib in das Textfeld unter _**Suchtext**_ den zu ändernden Text ein und klicke auf _**Suchen**_
 

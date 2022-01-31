@@ -1211,7 +1211,7 @@ Um die Reihenfolge der Menüboxen zu verändern, bewege den Mauszeiger über das
 
 |Feldname|Beschreibung|
 |--------|------------|
-|Background Color|Hintergrundfarbe von Cookie Consent-Panel und Cookie-Preference-Center![](../Bilder/styleedit4/se4_0158_CookieConsentPanelGeneralBackgroundColor.png "Background Color rot (#FF0000), Cookie Consent-Panel")|
+|Background Color|Hintergrundfarbe von Cookie Consent-Panel und Cookie Einstellungen![](../Bilder/styleedit4/se4_0158_CookieConsentPanelGeneralBackgroundColor.png "Background Color rot (#FF0000), Cookie Consent-Panel")|
 |Opacity|Undurchsichtigkeit, wie stark soll der Bereich hinter dem Panel durchscheinen?![](../Bilder/styleedit4/se4_0159_CookieConsentPanelGeneralOpacity.png "Opacity 0.7, statt der voreingestellten 0.97, das Panel scheint mehr durch")|
 |Switchers Color|Aktuell keine Funktion, wird in der kommenden Version entfernt|
 |Buttons Color|Hintergrundfarbe der Schalter und Schaltflächen, vorbelegt mit _**$brand-primary**_![](../Bilder/styleedit4/se4_0160_CookieConsentPanelGeneralButtonsColor.png "Buttons Color rot (#FF0000)")|
