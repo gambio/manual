@@ -55,6 +55,7 @@ markdown_extensions:
       permalink: true
 plugins:
   - section-index
+  - awesome-pages
   - search:
       lang: de
       separator: '[\s\-\.]+'
