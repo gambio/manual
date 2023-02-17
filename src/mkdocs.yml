@@ -6,6 +6,8 @@ copyright: Copyright &copy; 2023 Gambio GmbH
 nav:
   - Vorwort: index.md
   - Einleitung: 01_Einleitung/index.md
+  - Bereiche und Funktionen: 02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/index.md
+      - ...
   - ...
 theme:
   name: material
