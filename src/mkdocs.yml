@@ -3,6 +3,10 @@ site_url: https://developers.gambio.de/docs/manual
 docs_dir: ./docs
 site_dir: ./../dist/a-version
 copyright: Copyright &copy; 2023 Gambio GmbH
+nav:
+  - ...
+  - Einleitung: 01_Einleitung/index.md
+  - ...
 theme:
   name: material
   custom_dir: html
