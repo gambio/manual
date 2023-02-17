@@ -55,9 +55,7 @@ markdown_extensions:
       permalink: true
 plugins:
   - section-index
-  - awesome-pages:
-      strict: false
-      collapse_single_pages: true
+  - mkdocs-nav-enhancements
   - search:
       lang: de
       separator: '[\s\-\.]+'

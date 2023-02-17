@@ -17,7 +17,8 @@ before_script:
     - /usr/bin/python3 -m pip install --upgrade pymdown-extensions
     - /usr/bin/python3 -m pip install --upgrade markdown-image-caption
     - /usr/bin/python3 -m pip install --upgrade mkdocs-section-index
-    - /usr/bin/python3 -m pip install --upgrade mkdocs-awesome-pages-plugin
+    - '## /usr/bin/python3 -m pip install --upgrade mkdocs-awesome-pages-plugin'
+    - /usr/bin/python3 -m pip install mkdocs-nav-enhancements
 
 build:
     stage: deploy
