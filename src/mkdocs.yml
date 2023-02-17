@@ -2,7 +2,7 @@ site_name: Handbuch
 site_url: https://developers.gambio.de/docs/manual
 docs_dir: ./docs
 site_dir: ./../dist/a-version
-copyright: Copyright &copy; 2021 Gambio GmbH
+copyright: Copyright &copy; 2023 Gambio GmbH
 theme:
   name: material
   custom_dir: html
@@ -32,8 +32,6 @@ extra:
       link: https://www.linkedin.com/company/gambio-gmbh
 extra_css:
   - assets/css/extra.css
-extra_javascript:
-  - assets/js/extra.js
 markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
