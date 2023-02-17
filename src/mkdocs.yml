@@ -63,6 +63,7 @@ plugins:
   - section-index
   - awesome-pages:
       strict: false
+      collapse_single_pages: true
   - search:
       lang: de
       separator: '[\s\-\.]+'
