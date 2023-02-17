@@ -4,7 +4,7 @@ docs_dir: ./docs
 site_dir: ./../dist/a-version
 copyright: Copyright &copy; 2023 Gambio GmbH
 nav:
-  - ...
+  - Vorwort: index.md
   - Einleitung: 01_Einleitung/index.md
   - ...
 theme:
