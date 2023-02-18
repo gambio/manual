@@ -1,8 +1,3 @@
----
-hide:
-- navigation # Hide navigation
----
-
 # Erste Schritte 
 
 !!! note "Hinweis" 
