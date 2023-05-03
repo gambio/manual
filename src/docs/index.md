@@ -17,7 +17,7 @@ Michael Krönke, Teamleiter des Technischen Supports
 
 
 
-## Das Gambio-Kundenportal 
+## Das Gambio-Kundenportal {#vorwort_das_gambio_kundenportal}
 
 www.gambio-support.de
 

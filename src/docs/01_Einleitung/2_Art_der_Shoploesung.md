@@ -1,10 +1,16 @@
+---
+hide:
+- navigation # Hide navigation
+- toc        # Hide table of contents
+---
+
 # Art der Shoplösung
 
 Das Gambio Shopsystem steht sowohl als Installationspaket für einen selbstgehosteten Shop als auch als Cloud-basierte Shoplösung \(gambiocloud.com\) zur Verfügung. Im Umfang des Installationspakets findest du eine separate Installationsanleitung zum Shopsystem.
 
 Beide Systeme sind bis auf wenige Besonderheiten auf der Cloud-Seite identisch, daher kann dieses Handbuch für beide Varianten verwendet werden.
 
-## Wesentliche Unterschiede zwischen selbstgehosteten und Cloud-basierten Shops auf einen Blick
+## Wesentliche Unterschiede zwischen selbstgehosteten und Cloud-basierten Shops auf einen Blick {#art_der_shoploesung_wesentliche_unterschiede}
 
 -   Cloud-Shops verfügen über einen Einrichtungsassistenten
 -   Cloud-Shops bieten nur einen eingeschränkten FTP-Zugriff, die Installation von Drittanbieter-Modulen ist bis auf Weiteres nicht möglich
