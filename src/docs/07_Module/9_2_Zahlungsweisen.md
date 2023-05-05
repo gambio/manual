@@ -1389,7 +1389,7 @@ Wurde das Modul installiert, kann über die Schaltfläche _**konfigurieren**_ di
 
 |Feldname|Beschreibung|
 |--------|------------|
-|Einzug|kann _**manuell**_ oder _**sofort bei Autorisierung**_ erfolgen, letzteres erfordert eine separate Freischaltung durch Amazon Payments, sollte nur nach Rücksprache mit Amazon ausgewählt werden.|
+|Einzug|kann _**manuell**_ oder _**sofort bei Autorisierung**_ erfolgen. Amazon Payments empfiehlt für den Regelfall den sofortigen Einzug.|
 |Transaktionsverwaltung|kann zwischen _**Shop**_ \(Standard\) und _**externes ERP-System**_ umgeschaltet werden. Bei der Einstellung _**externes ERP-System**_ werden der Bestellung nachgelagerte Aufgaben nicht vom Shop, sondern einem ERP-System übernommen. Hierfür muss ein APA-kompatibles ERP-System zur Verfügung stehen.|
 |Verarbeitung von Sofortbenachrichtigungen|Erlaubt die Verwendung von IPN \(Instant Payment Notification\)-Nachrichten über die gleichnamige Schnittstelle von Amazon. Diese Einstellung sollte i.d.R. aktiviert sein, um Statusaktualisierungen ohne den Button _**Daten aktualisieren**_ zu ermöglichen. Dies erfordert ein aktuelles SSL-Zertifikat und das Hinterlegen der Händler-URL im Seller Central.|
 |Bestellstatus bei erfolgter Autorisierung|Standard: Zahlung autorisiert \(Amazon\)|

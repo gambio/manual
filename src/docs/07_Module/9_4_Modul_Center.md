@@ -1547,25 +1547,25 @@ _**Hermes \(HSI\)**_ ist das Modul für die neue Hermes-Schnittstelle und löst 
 
 Hermes \(HSI\) ist ab Shopversion 4.0 im Umfang der Shopsoftware enthalten und steht nicht als separates Modul zur Verfügung.
 
-### Installation
+### Installation  {#modul_center_hermes_hsi_installation}
 
 Das Modul kann im Gambio Admin unter _**Module \> Modul-Center**_ installiert werden. Wähle hierzu den Eintrag _**Hermes \(HSI\)**_ aus und klicke auf die Schaltfläche _**Installieren**_, in der rechten, unteren Bildschirmecke. Über die Schaltfläche _**Deinstallieren**_ kann dieser Schritt wieder rückgängig gemacht werden.
 
-### Konfiguration
+### Konfiguration {#modul_center_hermes_hsi_konfiguration}
 
-#### API-Zugangsdaten
+#### API-Zugangsdaten {#modul_center_hermes_hsi_konfiguration_api_zugangsdaten}
 
 Im ersten Schritt erlaubt die Konfiguration nur die Eingabe der API-Daten. Diese Daten erhältst du bei deinem Vertragspartner Hermes. Zudem kann zwischen Live- und Testbetrieb gewählt werden.
 
 ![](../Bilder/hermes_hsi/HSI_001.png "Eingabefelder für die API-Zugangsdaten")
 
-#### Absender
+#### Absender {#modul_center_hermes_hsi_konfiguration_absender}
 
 Damit die Label mit den nötigen Angaben erstellt werden können, musst du hier deine Adressdaten hinterlegen.
 
 ![](../Bilder/hermes_hsi/HSI_002.png "Eingabefelder für die Absender-Daten")
 
-#### Konfiguration
+#### Konfiguration {#modul_center_hermes_hsi_konfiguration_konfiguration}
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -1578,7 +1578,7 @@ Damit die Label mit den nötigen Angaben erstellt werden können, musst du hier 
 
 ![](../Bilder/hermes_hsi/hsi_2021-04-16_001.png "Abschnitt _**Konfiguration**_")
 
-#### Vorgabe-Abmessungen
+#### Vorgabe-Abmessungen {#modul_center_hermes_hsi_konfiguration_vorgabe_abmessungen}
 
 Wenn du häufig bestimmte Kartongrößen verwendest, so kannst du die Abmessungen dafür hier eintragen. So muss diese bei der Labelerstellung dann nur noch ausgewählt werden, statt die Maße manuell eintragen zu müssen.
 
@@ -1589,7 +1589,7 @@ Wenn du häufig bestimmte Kartongrößen verwendest, so kannst du die Abmessunge
 ![](../Bilder/hermes_hsi/HSI_004.png "Beispiel-Eingaben unter
         _**Vorgabe-Abmessungen**_")
 		
-### Verwendung
+### Verwendung {#modul_center_hermes_hsi_verwendung}
 
 In der Bestellübersicht kann über die Dropdown-Schaltfläche rechts neben der Bestellung _**Hermes \(HSI\)**_ gewählt werden. Auch aus der Bestelldetailseite heraus steht diese Option zur Verfügung.
 
@@ -1597,7 +1597,7 @@ In der Bestellübersicht kann über die Dropdown-Schaltfläche rechts neben der 
 
 Es erscheint nun ein Modal-Dialogfenster, in dem verschiedene Angaben zur Sendung gemacht werden können.
 
-#### Empfänger
+#### Empfänger {#modul_center_hermes_hsi_verwendung_empfaenger}
 
 Die Adressdaten des Empfängers werden aus der Lieferadresse der Bestellung übernommen, Änderungen sind hier nur notwendig, wenn noch ein Adresszusatz hinzugefügt oder eine Korrektur vorgenommen werden soll.
 
@@ -1608,26 +1608,26 @@ Die Adressdaten des Empfängers werden aus der Lieferadresse der Bestellung übe
 	 ![](../Bilder/hermes_hsi/HSI_016.png "Eingabefelder zur Angabe von zusätzlichen
         Kontaktmöglichkeiten")
 
-#### Paket
+#### Paket {#modul_center_hermes_hsi_verwendung_paket}
 
 Hier wird die Größe des Paketes angegeben. Dabei kann entweder aus den Hermes-Größen S bis XXL gewählt oder alternativ eine Berechnung aus den zuvor im Modul angegeben Paketgrößen gewählt werden.
 
 ![](../Bilder/hermes_hsi/HSI_017.png "Paket-Größeneinstellungen")
 
-#### Optionen
+#### Optionen {#modul_center_hermes_hsi_verwendung_optionen}
 
 Hier kann der Nachnahme-Betrag manuell festgelegt werden. Bei Bestellungen über Nachnahme ist dies nicht nötig, hier wird der Gesamtbestellwert inklusive Nachnahmegebühr hinterlegt, wie er auch in der Bestellung erfasst ist.
 
 ![](../Bilder/hermes_hsi/HSI_010.png "Einstellen des Nachnahmebetrags im Bereich
         _**Optionen**_")
 
-#### Absender
+#### Absender {#modul_center_hermes_hsi_verwendung_absender}
 
 Die Absenderangaben werden automatisch mit den Werten befüllt, die zuvor im Modul selbst vorgenommen wurden. Änderungen sind jedoch möglich.
 
-### Label abrufen
+### Label abrufen {#modul_center_hermes_hsi_label_abrufen}
 
-#### Manueller Abruf
+#### Manueller Abruf {#modul_center_hermes_hsi_label_abrufen_manueller_abruf}
 
 Der Erfolg der Labelerstellung wird durch die Meldung _**Hermes-Versandauftrag angelegt**_ sichtbar gemacht. Darunter finden sich dann Details zum Label und ein Button für den Abruf. Der Status ist hier _**Auftrag erzeugt**_ - das Label wurde also erstellt, aber noch nicht abgerufen, es wird auch noch keine Sendungsnummer angezeigt.
 
@@ -1637,38 +1637,38 @@ Nach dem Abruf ändert sich die Darstellung, der Status ändert sich in _**Label
 
 ![](../Bilder/hermes_hsi/hsi_2021-04-16_003.png "Anzeige nach dem Abrufen des erzeugten Labels")
 
-#### Sofortiger Abruf
+#### Sofortiger Abruf {#modul_center_hermes_hsi_label_abrufen_sofortiger_abruf}
 
 Das Label öffnet sich direkt im gleichen Tab, ruft man die Seite mit der Labelerzeugung auf, sieht die Erfolgsmeldung so aus:
 
 ![](../Bilder/hermes_hsi/hsi_2021-04-16_003.png "Anzeige nach dem Abrufen des erzeugten Labels")
 
-#### Label
+#### Label {#modul_center_hermes_hsi_label_abrufen_label}
 
 Das abgerufene Label weist Empfänger, Absender und die Retourenadresse aus. Auch das Versandgewicht und das Datum der Labelerstellung wird angezeigt.
 
 ![](../Bilder/hermes_hsi/HSI_013_.png "Das abgerufene Hermes-Label")
 
-#### Darstellung in Bestellung
+#### Darstellung in Bestellung {#modul_center_hermes_hsi_label_abrufen_darstellung_in_bestellung}
 
 Die Sendungsnummer wird mit dem Abruf des Labels automatisch in den Bestelldetails hinterlegt und kann jetzt im Rahmen einer manuellen Statusbenachrichtigung an den Kunden mit versendet werden.
 
 ![](../Bilder/hermes_hsi/HSI_015_.png "Sendungsnummer in der Bestellung (Detailansicht)")
 
 
-## releva.nz
+## releva.nz {#modul_center_releva_nz}
 
-### Allgemeines
+### Allgemeines {#modul_center_releva_nz_allgemeines}
 
 Releva.nz ist ein Dienst, über den automatisches Retargeting vorgenommen werden kann. Auf der Webseite von releva.nz \(https://releva.nz/gambio-plugin/\) finden sich hierzu zahlreiche Informationen, es werden hier zudem Grundlagen wie dynamisches Retargeting \(https://releva.nz/dynamisches-retargeting/\) und die Funktion von AD-Netzwerken \(_**https://releva.nz/ad-netzwerke/**_\) erklärt.
 
-### Verfügbarkeit
+### Verfügbarkeit {#modul_center_releva_nz_verfuegbarkeit}
 
 Das releva.nz-Modul ist standardmäßig in allen Cloud-Shops enthalten. Für Nutzer selbstgehosteter Shops steht das Modul unter _**https://releva.nz/gambio-plugin/**_ zum Download bereit.
 
-### Installation
+### Installation {#modul_center_releva_nz_installation}
 
-#### Dateiupload in selbst gehosteten Shops
+#### Dateiupload in selbst gehosteten Shops {#modul_center_releva_nz_installation_dateiupload}
 
 Vor dem Hochladen des Moduls muss das heruntergeladene Paket entpackt werden.
 
@@ -1682,11 +1682,11 @@ Wechsele in den entpackten Ordner. Hier sollte ein weiterer Ordner _**Releva**_ 
 
 	 Wenn du dir nicht sicher bist, in welchem Ordner auf deinem Server sich dein Shopverzeichnis befindet, kannst du den Gambio Admin aufrufen. Wechsele hier zum Menüpunkt _**Toolbox \> Datenbanksicherung**_. Auf der rechten Seite findest du die Angabe _**Sicherungsverzeichnis**_. Entferne hier gedanklich die beiden Unterordner _**/admin/backups/**_ und du hast den Pfad zum Shopverzeichnis auf dem Server.
 
-#### Installation im Modul-Center in Cloud- und selbst gehosteten Shops
+#### Installation im Modul-Center in Cloud- und selbst gehosteten Shops {#modul_center_releva_nz_installation_modul_center}
 
 Das Modul releva.nz ist nun unter _**Module \> Modul-Center**_ zu finden und kann hier mit wenigen Mausklicks installiert werden. Wähle hierzu den Eintrag aus der Liste aus und klicke auf die Schaltfläche _**Installieren**_ in der rechten, unteren Bildschirmecke. Über eine Klick auf _**Deinstallieren**_ kann dieser Schritt wieder rückgängig gemacht werden.
 
-### Einrichtung
+### Einrichtung {#modul_center_releva_nz_einrichtung}
 
 Direkt nach der Installation besteht die Konfigurationsseite des Moduls nur aus dem Eingabefeld für den _**API-Key**_, den du von releva.nz erhältst, nachdem du dort ein Konto eröffnet hast.
 
@@ -1700,11 +1700,11 @@ Es werden zudem neue Einträge im linken Menü des Gambio Admin angezeigt.
 
 ![](../Bilder/releva.nz/relevanz_009.png "Einträge für _**releva.nz**_ im Gambio Admin")
 
-### Statistiken
+### Statistiken {#modul_center_releva_nz_statistiken}
 
 In den Statistiken finden sich drei neue Bereiche:
 
-#### Statistiken
+#### Statistiken {#modul_center_releva_nz_statistiken_statistiken}
 
 Zuoberst gibt es eine übersichtliche Zusammenfassung der Einblendungen, Verkäufe, Kosten und Umsätze. Darunter können noch Tagesstatistiken ausgewählt und eine grobe Monatsstatistik eingesehen werden.
 
@@ -1712,30 +1712,30 @@ Zuoberst gibt es eine übersichtliche Zusammenfassung der Einblendungen, Verkäu
 
 ![](../Bilder/releva.nz/relevanz_006.png "Auswahl des Zeitraums für Statistiken")
 
-#### Tarif Informationen
+#### Tarif Informationen {#modul_center_releva_nz_statistiken_tarif_informationen}
 
 Hier werden Details über den gewählten Tarif eingeblendet, zudem kannst du auch direkt über diesen Punkt kündigen, wenn du diesen Dienst nicht mehr in Anspruch nehmen möchtest.
 
 ![](../Bilder/releva.nz/relevanz_007.png "Anzeige der Tarif Informationen")
 
-#### Werbeeinstellungen
+#### Werbeeinstellungen {#modul_center_releva_nz_statistiken_werbeeinstellungen}
 
 Hier kann das tägliche Budget festgelegt werden. Man hat also - obwohl das Modul das Retargeting komplett automatisch durchführt - die Möglichkeit, die Kosten weitestgehend selbst festzulegen.
 
 ![](../Bilder/releva.nz/relevanz_008.png "Werbeeinstellungen")
 
 
-## CleverReach
+## CleverReach {#modul_center_cleverreach}
 
-### Verfügbarkeit
+### Verfügbarkeit {#modul_center_cleverreach_verfuegbarkeit}
 
 -   Derzeit \(24.09.2020\) ist das Modul für Cleverreach nicht in selbstgehosteten Shops enthalten und nur als separates Modul für Shopversionen bis _**4.3.x**_ verfügbar.
 -   In Cloud Shops ist das CleverReach-Modul standardmäßig enthalten.
 -   Voraussetzung für den Einsatz ist die Verwendung des _**Honeygrid**_-Templates oder _**Honeygrid**_-basierter Themes; dies umfasst auch das aktuelle _**Malibu**_ Theme, das auf _**Honeygrid**_ basiert.
 
-### Installation
+### Installation {#modul_center_cleverreach_installation}
 
-#### Installation in selbstgehosteten Shops
+#### Installation in selbstgehosteten Shops {#modul_center_cleverreach_installation_installation_in_selbstgehosteten_shops}
 
 !!! note "Hinweis"
 
@@ -1748,7 +1748,7 @@ Das Modul kann nun im Gambio Admin unter unter _**Module \> Modul-Center**_ inst
 
 
 		
-### Registrierung bei CleverReach
+### Registrierung bei CleverReach {#modul_center_cleverreach_registrierung_bei_cleverreach}
 
 Wer CleverReach benutzen möchte, kann sich unter https://www.cleverreach.com/de/ über den Button _**Jetzt kostenlos testen**_ ein Konto anlegen.
 
@@ -1757,9 +1757,9 @@ Wer CleverReach benutzen möchte, kann sich unter https://www.cleverreach.com/de
 |![](../Bilder/cleverreach/CR_005.png "Dialog zur Anmeldung")|Für die Anmeldung ist es ausreichend, die E-Mail-Adresse einzutragen und die Kontoerstellung zu bestätigen.|
 |![](../Bilder/cleverreach/CR_006.png "Bestätigung der Anmeldung")|Anschließend erhält man eine E-Mail, über die die Kontoerstellung noch einmal bestätigt werden muss. Es öffnet sich ein neuer Browertab mit dem CleverReach-Benutzerkonto. Parallel wird eine E-Mail mit den Nutzerdaten versendet.|
 
-### Konfiguration
+### Konfiguration {#modul_center_cleverreach_konfiguration}
 
-#### Zugang gewähren
+#### Zugang gewähren {#modul_center_cleverreach_konfiguration_zugang_gewaehren}
 
 Wenn das Modul unter _**Module \> Modul-Center**_ installiert wurde, kann man mit Klick auf _**Bearbeiten**_ die Modulkonfiguration aufrufen.
 
@@ -1769,18 +1769,18 @@ Wenn das Modul unter _**Module \> Modul-Center**_ installiert wurde, kann man mi
 |![](../Bilder/cleverreach/20190702_010.png "Account erstellen oder anmelden bei CleverReach")|Hier kann jetzt ein neues Konto angelegt oder sich in ein bestehendes Konto angemeldet werden.|
 |![](../Bilder/cleverreach/20190702_009.png "Eingabe der Daten zur Anmeldung bei Cleverreach")|Hier müssen jetzt die Login-Daten eingegeben werden, damit das Modul Zugriff auf das CleverReach-Konto erhält. Die Daten hast du bei der Registrierung per E-Mail erhalten.|
 
-#### Konfigurationsseite
+#### Konfigurationsseite {#modul_center_cleverreach_konfiguration_konfigurationsseite}
 
 |Abbildung|Erläuterung|
 |---------|-----------|
 |![](../Bilder/ABB_430.png "Bereich _**Zugangsdaten**_ der Konfigurationsseite")|Der Zugang ist nicht unendlich gültig, sondern vorerst auf einige Jahre beschränkt. Mit Klick auf _**Zugang gewähren**_ können die Login-Daten aktualisiert werden, mit Klick auf _**Zugang entfernen**_ wird die Anbindung zum CleverReach-Konto entfernt.|
 |![](../Bilder/ABB_431.png "Bereich _**Einstellungen**_ der Konfigurationsseite")|Hier können verschiedene Einstellungen zu Empfängern, Automatisierung und zu übertragende Daten gemacht werden.|
 
-##### Sync-Priorität
+##### Sync-Priorität {#modul_center_cleverreach_konfiguration_konfigurationsseite_sync_prioritaet}
 
 Legt fest, welche Daten Priorität haben sollen. Wurde ein Kunde bei CleverReach als Empfänger aktiviert, im Shop jedoch nicht, so kann man hier festlegen, welche Einstellung die höhere Priorität haben soll. Es kann daher zwischen _**Webshop**_ und _**Cleverreach**_ gewählt werden.
 
-##### Gruppen
+##### Gruppen {#modul_center_cleverreach_konfiguration_konfigurationsseite_gruppen}
 
 Hier kann zugeordnet werden, welche Art Kunden welcher Gruppe bei CleverReach zugeordnet werden soll. Hierzu müssen bei Cleverreach zuerst Gruppen angelegt werden. Wir haben zum Zweck der Erläuterung bei CleverReach drei Gruppen angelegt, die der Einfachheit halber den Menüpunkten auf der Konfigurationsseite entsprechen.
 
@@ -1798,7 +1798,7 @@ Sollten die Gruppen hier nicht ausgewählt werden können, müssen bei CleverRea
 |Gruppe für alle registrierten Kunden|Hiermit sind alle Kunden mit einem Kundenkonto gemeint.|
 |Gruppe für alle Käufer|Diese Gruppe wird alle Kunden enthalten, die einmal eine Bestellung getätigt haben, unabhängig davon, ob für den Kunden noch ein Kundenkonto existiert oder nicht.|
 
-##### URL-Parameter für Mailing-ID
+##### URL-Parameter für Mailing-ID {#modul_center_cleverreach_konfiguration_konfigurationsseite_url_parameter_fuer_mailing_id}
 
 Hier kann ein Name für einen URL-Parameter festgelegt werden. Dies ist interessant, wenn ein Mailing Links zu Angebotsartikeln enthält. Gibt man als Name z.B. _**crmailing**_ an, sähe die URL so aus:
 
@@ -1806,37 +1806,37 @@ http://www.dein-shop.de/tolles-produkt.html?crmailing=dez2016
 
 Die URL beginnt also mit dem Link zum Artikel, gefolgt vom URL-Parameter _**crmailing**_. Der Wert _**dez2016**_ stellt in unserem Beispiel einen Wert dar, der bei jedem Mailing automatisch von CleverReach erstellt und vergeben wird. Hierüber ist dann die genaue Auswertung von Rückmeldungen auf die einzelnen Mailings möglich.
 
-##### Kaufdaten übertragen
+##### Kaufdaten übertragen {#modul_center_cleverreach_konfiguration_konfigurationsseite_kaufdaten_uebertragen}
 
 Wird diese Einstellung aktiviert, so werden Warenkorb-Inhalte nach Kaufabschluss an CleverReach übertragen. Dies ist interessant für das Erfolgstracking bei Werbemailings, die dann auch den oben erwähnten Tracking-Parameter für Links in den Shop verwenden.
 
-##### Erweitertes Logging
+##### Erweitertes Logging {#modul_center_cleverreach_konfiguration_konfigurationsseite_erweitertes_logging}
 
 Das erweiterte Logging ermöglicht eine detaillierte Analyse, wenn es bei der Verwendung des Moduls zu Problemen kommt. Standardmäßig ist dieser Punkt aus.
 
-##### Zeige Newsletter-Anmeldung im Checkout
+##### Zeige Newsletter-Anmeldung im Checkout {#modul_center_cleverreach_konfiguration_konfigurationsseite_zeige_newsletter_anmeldung_im_checkout}
 
 Hierüber kann auf der Zusammenfassungsseite eine Checkbox im Bestellvorgang eingeblendet werden, über die der Kunde sich für den Newsletter im Shop anmelden kann.
 
 ![](../Bilder/cleverreach/20190702_012.png "Anzeige der Newsletter-Anmeldung auf der Zusammenfassungsseite
         des Bestellvorgangs")
 
-##### CronJob-Passwort
+##### CronJob-Passwort {#modul_center_cleverreach_konfiguration_konfigurationsseite_cronjob_passwort}
 
 Die Gruppen können automatisch über einen CronJob abgeglichen werden. Wird ein CronJob-Passwort hinterlegt und gespeichert, so erscheint unterhalb der Einstellungen die CronJob-URL, die beim Provider eingetragen werden kann. Der CronJob führt den Abgleich der Kundengruppen dann in dem Intervall durch, der bei der Anlage des CronJobs beim Provider festgelegt wurde. Das CronJob-Passwort kannst du selbst festlegen.
 
 ![](../Bilder/ABB_434.png "Cronjob-Passwort auf der Einstellungsseite")
 
-### Verwendung
+### Verwendung {#modul_center_cleverreach_verwendung}
 
 Die Funktionen des Moduls beschränken sich auf die Zuweisung der Gruppen und auf die anderen oben erwähnten Einstellungen. Die Anlage von Mailings sowie deren Versand erfolgt über das Kundenkonto bei CleverReach.
 
 Unter http://support.cleverreach.de/hc/de kann das CleverReach-Helpcenter aufgerufen werden, dort finden sich detaillierte Erklärungen zu allen Funktionen.
 
 
-## ShopVote
+## ShopVote {#modul_center_shopvote}
 
-### Grundlegende Informationen
+### Grundlegende Informationen {#modul_center_shopvote_grundlegende_informationen}
 
 Das ShopVote-Modul ist im Umfang der Cloud-Shops enthalten. Für selbst gehostete Shops mit Version _**3.14.x**_ bis _**3.15.x**_ steht das Modul bei Shopvote unter _**https://plugins.shopvote.de/shopvote-integrationsanleitung-fuer-gambio-gx3/**_ zum Download bereit.
 
@@ -1848,7 +1848,7 @@ Das ShopVote-Modul ist im Umfang der Cloud-Shops enthalten. Für selbst gehostet
 
 	 Die folgenden Informationen beziehen sich ausschließlich auf das Modul von Gambio!
 
-#### Installation
+#### Installation {#modul_center_shopvote_grundlegende_informationen_installation}
 
 !!! note "Hinweis"
 
@@ -1863,26 +1863,26 @@ Das ShopVote-Modul ist im Umfang der Cloud-Shops enthalten. Für selbst gehostet
 2.  Texte-, Modul- und Seitenausgabecache des Shops in dieser Reihenfolge leeren, gehe hierzu im Gambio Admin unter _**Toolbox \> Cache**_ und betätige die entsprechenden Schaltflächen.
 3.  Jetzt kann das Modul unter _**Module \> Modul-Center**_ installiert und über den Button _**Bearbeiten**_ konfiguriert werden.
 
-### Konfiguration
+### Konfiguration {#modul_center_shopvote_konfiguration}
 
 ![](../Bilder/shopvote/shopvote-20200206_006.png "Konfigurationsseite des ShopVote-Moduls")
 
-#### Shopdaten
+#### Shopdaten {#modul_center_shopvote_konfiguration_shopdaten}
 
 Die Shop-ID und der API-Key, die im Modul eingetragen werden müssen, findet man im ShopVote-Konto unter dem Punkt _**VotesAPI**_
 
 ![](../Bilder/shopvote/20200212_003.png "API-Daten bei ShopVote")
 
-#### JavaScript Code für dein RatingStars-Widget
+#### JavaScript Code für dein RatingStars-Widget {#modul_center_shopvote_konfiguration_javascript_fuer_ratingstars_widget}
 
 Den JavaScript Code für das RatingStars-Widget findet man im ShopVote-Konto, wenn man im linken Menü ganz unten auf _**Grafiken & Siegel**_ geht. Hier kann die gewünschte Darstellung ausgewählt und der Code dafür angezeigt werden. Dieser muss dann kopiert und im Modul hinterlegt werden.
 
 ![](../Bilder/shopvote/20200212_004.png "_**Grafiken & Siegel**_ bei ShopVote")
 
 
-## Internetmarke
+## Internetmarke {#modul_center_internetmarke}
 
-### Installation
+### Installation {#modul_center_internetmarke_installation}
 
 Das aktuelle Internetmarke-Modul wird installiert, indem die Dateien auf den FTP-Server und in das Shopverzeichnis geladen werden. Ein Ausführen des Gambio Updaters ist nicht notwendig. Anschließend müssen unter _**Toolbox \> Cache**_ der Cache für die Texte, der Modul- und der Seitenausgabecache in dieser Reihenfolge geleert werden.
 
@@ -1890,11 +1890,11 @@ Anschließend kann es unter _**Module \> Modul-Center**_ ausgewählt und der Vor
 
 In Cloud-Shops ist das Modul bereits enthalten und kann direkt unter _**Module \> Modul-Center**_ installiert werden.
 
-### Konfiguration
+### Konfiguration {#modul_center_internetmarke_konfiguration}
 
 Um das Modul zu konfigurieren, wird dieses unter _**Module \> Modul-Center**_ ausgewählt. Klicke anschließend auf _**Bearbeiten**_.
 
-#### Login zur Portokasse
+#### Login zur Portokasse {#modul_center_internetmarke_konfiguration_login_zur_portokasse}
 
 Hier werden die Login-Daten zur Portokasse benötigt.
 
@@ -1904,13 +1904,13 @@ Hier werden die Login-Daten zur Portokasse benötigt.
 
 ![](../Bilder/ABB_439.png "Eingabe des Logins zu Portokasse")
 
-#### Absender
+#### Absender {#modul_center_internetmarke_konfiguration_absender}
 
 Diese Felder werden automatisch vorausgefüllt, können aber nachträglich angepasst werden. Es handelt sich hier um die Absenderangaben des Shopbetreibers, die vollständig vorliegen sollten und unter _**Einstellungen \> Shop**_ \(ab Shopversion _**4.3**_\) sowie in diesem Formular bearbeitet werden können.
 
 ![](../Bilder/ABB_440.png "Maske zur Anpassung der Absenderangaben")
 
-#### Bevorzugte Einstellungen
+#### Bevorzugte Einstellungen {#modul_center_internetmarke_konfiguration_bevorzugte_einstellungen}
 
 -   _**Produkt**_: Hier kann die gewünschte Art des Versands \(Umschlaggröße, Warensendung, Büchersendung, etc\) ausgewählt werden.
 -   _**Druckformat**_: Mit/ohne Adresse; Gibt an, ob Kunden- und Absenderadresse mit auf die Marke gedruckt werden
@@ -1923,17 +1923,17 @@ Diese Felder werden automatisch vorausgefüllt, können aber nachträglich angep
 
 ![](../Bilder/internetmarke/2020-09-11_002.png "Bevorzugte Einstellungen")
 
-#### Motiv
+#### Motiv {#modul_center_internetmarke_konfiguration_motiv}
 
 Hier kann ein Motiv ausgewählt werden, welches mit auf die Marke gedruckt werden kann, wenn die Kundenadresse nicht mit ausgegeben wird. Dies kann direkt bei der Labelerstellung ausgewählt werden
 
 ![](../Bilder/ABB_442.png "Auswahl des Motivs")
 
-#### Produktpreisliste \(PPL\)
+#### Produktpreisliste \(PPL\) {#modul_center_internetmarke_konfiguration_produktpreisliste_ppl}
 
 Du kannst dir hier die aktuellen Preise anzeigen lassen. Es gibt die Möglichkeit, die Preise über den Button _**Produkte und Preise aktualisieren**_ zu aktualisieren, da diese sich von Zeit zu Zeit ändern.
 
-### Marke erstellen
+### Marke erstellen {#modul_center_internetmarke_marke_erstellen}
 
 Eine Internetmarke kann erstellt werden, indem im Gambio Admin unter _**Bestellungen \> Bestellungen**_ im Dropdown rechts von der Bestellung der Punkt _**Internetmarke erstellen**_ gewählt wird. Auch aus den Bestelldetails heraus ist dies möglich.
 
@@ -1946,9 +1946,9 @@ Mit _**Spalte**_ und _**Zeile**_ kann man angeben, wo auf dem zu bedruckenden Pa
 Über den Button _**gedruckte Marken anzeigen**_ kann man die bisher für diese Bestellung erstellen Marken anzeigen lassen.
 
 
-## Gutscheinsystem
+## Gutscheinsystem {#modul_center_gutscheinsystem}
 
-### Installieren / Deinstallieren
+### Installieren / Deinstallieren {#modul_center_gutscheinsystem_installieren_deinstallieren}
 
 Durch das Modul _**Gutscheinsystem**_ ist es im Shop möglich Gutscheine und Rabatt Coupons einzulösen und die zugehörigen Codes als Willkommensgeschenk bei der Registrierung eines Kundenkontos zu versenden. Es wird außerdem der automatische Versand der Codes von Gutscheinartikeln gesteuert.
 
@@ -1961,7 +1961,7 @@ Das Gutscheinsystem ist nach der Installation aktiviert und im Gambio Admin steh
 
 Über einen Klick auf _**Deinstallieren**_ kann das Modul wieder deinstalliert und das Gutscheinsystem deaktiviert werden.
 
-### Bearbeiten
+### Bearbeiten {#modul_center_gutscheinsystem_bearbeiten}
 
 Ist das Modul installiert, kann es über die Schaltfläche _**Bearbeiten**_ konfiguriert werden. Es stehen die folgenden Einstellungen zur Verfügung:
 
@@ -2299,16 +2299,16 @@ Der Sandbox-Modus kann für dieses Modul nicht einfach gesetzt werden. Wenn du d
 
 
 
-## Magnalister
+## Magnalister {#modul_center_magnalister}
 
 !!! note "Hinweis"
 	 Das Magnalister-Modul wird zwar im Grundumfang des Shopsystems ausgeliefert, Entwicklung und Support finden jedoch durch Magnalister statt. 
 	 
-### Verfügbarkeit und Installation
+### Verfügbarkeit und Installation {#modul_center_magnalister_verfuegbarkeit_und_installation}
 
 Das Magnalister-Modul ist im Standardumfang der Shopsoftware enthalten und kann unter _**Module > Modul-Center**_ installiert werden. Wähle hierzu den Eintrag _**magnalister**_ aus und klicke unten rechts auf die Schaltfläche _**Installieren**_. Nach der Installation wird im Menü des Gambio Admins ein weiterer Menüpunkt _**Marketing**_ mit mehreren Unterpunkten angezeigt.
 
-### Konfiguration
+### Konfiguration {#modul_center_magnalister_konfiguration}
 
 Beim ersten Aufruf wird die globale Konfiguration angezeigt. Hier muss zunächst die Passphrase eingetragen werden, bevor man die anderen Punkte im Modul öffnen kann. Die Passphrase erhält man, wenn der Shop im Konto bei Magnalister eingetragen wurde. 
 
@@ -2318,7 +2318,7 @@ Nach dem Eintragen der Passphrase stellt sich die Konfigurationsseite so dar (Ex
 
 ![](../Bilder/magnalister/2020-10-01_006.png "Globale Konfiguration nach dem Eintragen der Passphrase")
 
-### Anleitung
+### Anleitung {#modul_center_magnalister_anleitung}
 
 Bei näheren Fragen zur Konfiguration, wende dich bitte an die Kollegen von Magnalister. Du findest die Magnalister-FAQ unter folgendem Link:
 
@@ -2326,10 +2326,10 @@ https://otrs.magnalister.com/otrs/public.pl?Action=PublicFAQExplorer;CategoryID=
 
 
 
-## Händlerbundmodul von Gambio
+## Händlerbundmodul von Gambio {#modul_center_haendlerbundmodul}
 
 
-### Verfügbarkeit
+### Verfügbarkeit {#modul_center_haendlerbundmodul_verfuegbarkeit}
 
 Das Händlerbund-Modul gehört ab der Shopversion _**4.5.x**_ sowie in der Cloud zum Umfang der Shopsoftware.
 
@@ -2337,11 +2337,11 @@ Das Händlerbund-Modul gehört ab der Shopversion _**4.5.x**_ sowie in der Cloud
      Derzeit steht das Modul nicht separat zur Installation in älteren Shopversionen zur Verfügung.
 
 
-### Installation
+### Installation {#modul_center_haendlerbundmodul_installation}
 
 Das Modul findet sich im Modul-Center (_**Module > Modul-Center**_) unter dem Namen _**Händlerbund Rechtstexte**_ und kann dort ausgewählt und mit Klick auf _**Installieren**_ installiert werden.
 
-### Konfiguration
+### Konfiguration {#modul_center_haendlerbundmodul_konfiguration}
 
 Nach der Installation kann über den Button _**Bearbeiten**_ die Konfigurationsseite des Moduls aufgerufen werden.
 
@@ -2357,13 +2357,13 @@ Nach Eingabe des Access-Tokens vom Händlerbund und dem Abspeichern der Daten ä
 |Betriebsmodus|Erlaubt die Wahl zwischen dem Produktiv- und dem Testbetrieb. Beachte, dass der Testbetrieb nur möglich ist, wenn eine _**.dev-environment**_-Datei im Shopverzeichnis auf dem Server abgelegt wurde|
 |Dokument AGB/Datenschutzerklärung/Impressum etc. verwenden|Erlaubt die Auswahl zwischen den einzelnen verfügbaren Rechtstexten|
 
-### Abruf der Rechtstexte
+### Abruf der Rechtstexte {#modul_center_haendlerbundmodul_abruf_der_rechtstexte}
 
-#### Manueller Abruf
+#### Manueller Abruf {#modul_center_haendlerbundmodul_abruf_der_rechtstexte_manuell}
 
 Die Rechtstexte können auf der Konfigurationsseite des Moduls über den Button _**Jetzt Rechtstexte abrufen**_ manuell abgerufen werden.
 
-#### Automatischer Abruf
+#### Automatischer Abruf {#modul_center_haendlerbundmodul_abruf_der_rechtstexte_automatisch}
 
 Über die zeitgesteuerten Aufgaben kann ein automatischer Abruf eingerichtet werden. Hierfür wurde bei der Installation des Händlerbund-Moduls eine weitere Aufgabe hinzugefügt:
 
@@ -2373,7 +2373,7 @@ Weitere Informationen hierzu findest du im Kapitel _**Zeitgesteuerte Aufgaben**_
 
 Wir empfehlen hier ein Abrufintervall von 24 Stunden.
 
-### Konfiguration im Händlerbund-Konto
+### Konfiguration im Händlerbund-Konto {#modul_center_haendlerbundmodul_konfiguration_im_haendlerbund_konto}
 
 Nach dem Login in deinem Konto beim Händlerbund siehst du zuerst das Dashboard. Hier wählst du links im Menü _**Rechtssicherheit > Rechtstexte**_ und legst anschließend einen neuen Shop an. In der ersten Zeile der Tabelle siehst du einen Beispieleintrag und die Symbole für die Shopübersicht, das Bearbeiten der Shopeigenschaften sowie die Konfiguration des Downloads der Rechtstexte. Diese Icons werden später noch wichtig für dich.
 
@@ -2400,9 +2400,9 @@ Auf der letzten Seite hast du dann noch die Möglichkeit, eine Tiefenprüfung zu
 ![](../Bilder/haendlerbund_konfiguration_im_haendlerbund_konto_tiefenpruefung.png "Shop-Tiefenprüfung beauftragen")
 
 
-## Klarna On Site Messaging 
+## Klarna On Site Messaging {#modul_center_klarna_on_site_messaging}
 
-### Verfügbarkeit
+### Verfügbarkeit {#modul_center_klarna_on_site_messaging_verfuegbarkeit}
 
 Das Modul Klara On-Site Messaging steht für Shopversion _**3.13.x**_ und neuer zur Verfügung und wird als Bestandteil des Gambio Hub Connectors ausgeliefert. Enthalten ist das Modul ab Hub-Connector _**1.22.x**_ und neuer.
 
@@ -2410,11 +2410,11 @@ Das Modul Klara On-Site Messaging steht für Shopversion _**3.13.x**_ und neuer 
 
      Das Modul Klarna On-Site-Messaging ist nur mit _**Themes**_ kompatibel. Die älteren _**Templates**_ werden **nicht** unterstützt.
      
-### Installation
+### Installation {#modul_center_klarna_on_site_messaging_installation}
 
 Das Modul findet sich unter _**Module > Modul-Center**_ unter _**Klarna On-Site-Messaging**_. Wähle den Eintrag mit der linken Maustaste aus und klicke auf _**Installieren**_, um das Modul zu installieren.
 
-### Konfiguration
+### Konfiguration {#modul_center_klarna_on_site_messaging_konfiguration}
 
 Nach der Installation des Klarna On-Site-Messaging Moduls kann über den Button _**Bearbeiten**_ die Konfigurationsseite aufgerufen werden.
 
