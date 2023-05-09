@@ -1987,15 +1987,15 @@ Ist das Modul installiert, kann es über die Schaltfläche _**Bearbeiten**_ konf
 |Bestellstatus für automatischen Versand von Gutscheincodes|Versand der Codes von Gutschein-Artikeln bei diesen Bestellstatus.|
 
 
-## Single Sign-on
+## Single Sign-on {#modul_center_single_sign_on}
 
 Single Sign-on erlaubt das Einloggen in den Shop über Konten bei den unterstüzten Anbietern. So können deine Kunden sich beispielsweise mit ihrem Facebook-Konto in deinen Shop einloggen.
 
-### Installation
+### Installation {#modul_center_single_sign_on_installation}
 
 Der Single Sign-on ist ab Shopversion 3.7.1.0 standardmäßig im Umfang der Shopsoftware enthalten. Die Installation erfolgt im Gambio Admin unter _**Module \> Modul-Center \> Single Sign-on**_.
 
-### Konfiguration
+### Konfiguration {#modul_center_single_sign_on_konfiguration}
 
 Nach Installation des Moduls kann dieses mit Klick auf _**Bearbeiten**_ konfiguriert werden. Für die verschiedenen Anbieter müssen jeweils die benötigten Zugangsdaten hinterlegt werden.
 
@@ -2420,16 +2420,16 @@ Nach der Installation des Klarna On-Site-Messaging Moduls kann über den Button 
 
 ![](../../Bilder/klarnaOnSite_001.png "Konfigurationsseite von Klarna On-Site-Messaging")
 
-#### Modul aktivieren
+#### Modul aktivieren {#modul_center_klarna_on_site_messaging_konfiguration_modul_aktivieren}
 
 Du aktivierst das Modul, indem du den Haken bei _**Aktiv**_ setzt und diese Einstellung speicherst.
 
-#### Cookie-Consent-Zweck
+#### Cookie-Consent-Zweck {#modul_center_klarna_on_site_messaging_konfiguration_cookie_consent_zweck}
 
 Um eine Einwilligung des Seitenbesuchers im shopeigenen Cookie Consent Tool abzufragen, ist hier ein im Cookie Consent Modul angelegter Zweck auszuwählen. Du kannst hier also aus _**ohne Einwilligung verwenden**_ und den bereits im Cookie Consent Modul angelegten Zwecken wählen.
 
 
-#### Code für JavaScript-Library
+#### Code für JavaScript-Library {#modul_center_klarna_on_site_messaging_konfiguration_code_fuer_javascript_library}
 
 Hiermit wird die JavaScript-Library eingebunden, die Placements in der Seite befüllt. Das Modul passt den diesen Code automatisch an, wenn eine Kontrolle durch das Cookie Consent Modul konfiguriert ist. Du findest den nötigen Code dafür in deinem Klarna-Konto unter _**On-site Messaging -> Installation**_.
 
@@ -2441,7 +2441,7 @@ Nun wird der nötige Code für das erste Feld im Modul angezeigt:
 
 ![](../../Bilder/klarnaOnSite_003.png "Anzeige des Codes")
 
-#### Code für verschiedene Placements
+#### Code für verschiedene Placements {#modul_center_klarna_on_site_messaging_konfiguration_code_fuer_verschiedene_placements}
 
 In deinem Klarna-Konto findest du unter _**On-site Messaging -> Placements**_ verschiedene Beispiele für Placments. Wähle dein Herkunftsland und deine Sprache, danach kannst du aus den Placements auswählen.
 
