@@ -6,9 +6,9 @@ Der Shop verfügt über sogenannte Zusatzmodule, dies sind kleine Hilfsprogramme
 
 	 Ab Version 4.3 wurden die meisten Zusatzmodule in den Bereich _**Einstellungen**_ verschoben und neu zugeordnet \(siehe Kapitel _**Einstellungen**_\).
 
-## WYSIWYG-Editor
+## WYSIWYG-Editor {#zusatzmodule_wysiwyg_editor}
 
-### WYSIWYG-Editor aktivieren
+### WYSIWYG-Editor aktivieren {#zusatzmodule_wysiwyg_editor_aktivieren}
 
 Der WYSIWYG \(What You See Is What You Get\)-Editor ist ein Texteingabefeld mit eingebauter Vorschaufunktion. Seit der Shopversion 2.1 wird hierfür der sogeannte _**CK-Editor**_ verwendet. Er wird hauptsächlich für Artikel- und Kategoriebeschreibungen, sowie Contents \(Informationsseiten, diese werden unter _**Inhalte \> Content Manager**_ verwaltet\) verwendet, kommt aber auch an anderer Stelle zum Einsatz.
 
@@ -18,7 +18,7 @@ Diese Funktion ist standardmäßig aktiviert und der eingegebene Text wird weite
 	 Um den HTML-Code einzusehen, kann wahlweise auch die Schaltfläche _**Quellcode**_ des _**CK-Editors**_ verwendet werden. Es ist daher hierzu nicht notwendig, den Editor zur Gänze abzuschalten.
 	 
 	 
-## Gutschein-System
+## Gutschein-System {#zusatzmodule_gutscheinsystem}
 
 Über das Gutschein-System können Gutschein- und Rabatt Coupon-Codes im Warenkorb eingegeben werden. Ist die Einstellung _**Gutscheinsystem aktivieren?**_ auf ✔ gesetzt, wird die zugehörige Box im Warenkorb angezeigt.
 
@@ -42,27 +42,27 @@ Der Coupon muss vorher unter _**Gutscheine \> Rabatt Coupons**_ angelegt werden.
 	 Bitte beachte ebenfalls den Höchstwert von 16.	 
 
 
-## Artikel-Module
+## Artikel-Module {#zusatzmodule_artikelmodule}
 
-### Kundengruppencheck
+### Kundengruppencheck {#zusatzmodule_artikelmodule_kundengruppencheck}
 
 Über den Kundengruppencheck kann eingestellt werden, welche Kundengruppe \(z.B. Neuer Kunde, Gast, usw.\) auf welche Inhalte zugreifen darf. Dies schließt sowohl Artikel, Kategorien als auch Contents \(Informationsseiten\) ein. Ist der Kundengruppencheck aktiviert, wird beim Anlegen oder Bearbeiten eines Artikels, Contents oder einer Kategorie die Einstellung _**Kundengruppe**_ hinzugefügt. Jede Kundengruppe, bei der ein Haken gesetzt ist, kann auf den jeweiligen Inhalt zugreifen.
 
 ![](../Bilder/Module_Zusatzmodule_ArtikelModule_EinstellungenKundengruppencheckBeimAnlegenEinesArtikels.png "Einstellung _**Kundengruppe**_ beim Anlegen eines
         Artikels")
 
-### Artikelnavigator
+### Artikelnavigator {#zusatzmodule_artikelmodule_artikelnavigator}
 
 Der Artikelnavigator ist eine zusätzliche Auswahl in der Artikel-Detailansicht, über die der Kunde innerhalb einer Kategorie von Artikel zu Artikel wechseln kann. So ist es nicht notwendig, die Kategorie erneut aufzurufen.
 
 ![](../Bilder/Module_Zusatzmodule_ArtikelModule_AnzeigeDesArtikelnavigatorsInDerArtikelDetailansicht.png "Anzeige des _**Artikelnavigators**_ in der
         Artikel- Detailansicht")
 
-### Verlinken/Kopieren aktivieren
+### Verlinken/Kopieren aktivieren {#zusatzmodule_artikelmodule_verlinken_kopieren_aktivieren}
 
 Über diese Funktion ist es möglich, unter _**Artikel \> Artikel/Kategorien**_ im Gambio Admin, einen Artikel in mehrere Kategorien zu kopieren bzw. zu verlinken. Hierzu müssen die Kategorien nach Klick auf die Schaltlfläche _**Kopieren**_ lediglich angehakt werden. Diese Funktion ist standardmäßig aktiviert.
 
-### Reverse Cross-Marketing
+### Reverse Cross-Marketing {#zusatzmodule_artikelmodule_reverse_cross_marketing}
 
 Das Reverse Cross-Marketing ist eine Zusatzfunktion zum _**Cross Selling**_ \(siehe Kapitel _**Cross Selling**_\), über das zu einem ausgewählten Artikel weitere Artikel empfohlen werden können. Ist das _**Reverse Cross-Marketing**_ aktiviert, findet eine Rückverknüpfung von dem empfohlenen Artikel zum ursprünglichen Artikel statt.
 
@@ -70,7 +70,7 @@ Das Reverse Cross-Marketing ist eine Zusatzfunktion zum _**Cross Selling**_ \(si
 	 Das _**Reverse Cross-Marketing**_ kann bei einer größeren Anzahl von Artikeln die Auslastung deines Server erhöhen. Bitte prüfe nach der Aktivierung, ob sich der Shop beim Aufruf der Artikel spürbar verlangsamt hat. Ist dies der Fall, sollte das _**Reverse Cross-Marketing**_ nach Möglichkeit nicht verwendet werden.
 	 
 	 
-## Page-Token System
+## Page-Token System {#zusatzmodule_page_token_system}
 
 Das _**Page-Token System**_ ist ein zusätzliches Sicherheitssystem, das mit Hilfe von Zeitstempeln und zufallsgenerierten Hash-Werten arbeitet. Hieraus wird für jede Sitzung ein eindeutiger Kontrollwert, der sogenannte Token, errechnet. Dieser wird beim Aufruf von Seiten des Gambio Admins abgeglichen.
 

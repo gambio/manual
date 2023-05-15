@@ -1999,7 +1999,7 @@ Der Single Sign-on ist ab Shopversion 3.7.1.0 standardmäßig im Umfang der Shop
 
 Nach Installation des Moduls kann dieses mit Klick auf _**Bearbeiten**_ konfiguriert werden. Für die verschiedenen Anbieter müssen jeweils die benötigten Zugangsdaten hinterlegt werden.
 
-#### Google 
+#### Google {#modul_center_single_sign_on_konfiguration_google}
 
 ![](../Bilder/Module_ModulCenter_SingleSignOn_Konfiguration_SingleSignOnEinstellungenFuerGoogle.png "Single Sign-on-Einstellungen für Google")
 
@@ -2023,7 +2023,7 @@ Wähle dort deine E-Mail-Adresse aus und vergib einen Produktnamen, beispielswei
 
 Wähle auf dem folgenden Bildschirm als Anwendungstyp _**Webanwendung**_ aus und trage unten die Weiterleitungs-URL ein, die du in der Modulkonfiguration findest. Wenn du deine Daten gespeichert hast, erhältst du ein Popup mit Client-ID und Clientschlüssel. Kopiere und hinterlege diese im Modul. Dein Single Sign-on für Google ist damit fertig eingerichtet.
 
-#### Facebook
+#### Facebook {#modul_center_single_sign_on_konfiguration_facebook}
 
 ![](../Bilder/Module_ModulCenter_SingleSignOn_Konfiguration_EinstellungenFuerEinloggenMitFacebook.png "Einstellungen für Einloggen mit Facebook")
 
@@ -2051,7 +2051,7 @@ Bei Facebook werden Client-ID und Secret als App-ID und App-Geheimcode bezeichne
 
 ![](../Bilder/Abb107_SSO_EisntellungenFacebookLogin.png "Einstellungen unter Facebook Login")
 
-#### PayPal
+#### PayPal {#modul_center_single_sign_on_konfiguration_paypal}
 
 ![](../Bilder/Module_ModulCenter_SingleSignOn_Konfiguration_EinloggenMitPayPal.png "Einloggen mit PayPal")
 
@@ -2073,7 +2073,7 @@ Achte darauf dass der Punkt _**Enable customers who have not yet confirmed their
 
 ![](../Bilder/Abb111_SSO_AdvancedOptions.png "Advanced Options")
 
-#### Amazon
+#### Amazon {#modul_center_single_sign_on_konfiguration_amazon}
 
 ![](../Bilder/Module_ModulCenter_SingleSignOn_Konfiguration_EinloggenMitAmazon.png "Einloggen mit Amazon")
 
@@ -2090,19 +2090,19 @@ Nach dem Login auf der Amazon Seite kannst du über _**Integration \> Integratio
 Im Single Sign-on-Modul im Gambio Admin müssen dann noch weitere Zugangsdaten konfiguriert werden. Dazu wechselst du im Seller Central über den Dropdown ganz oben auf _**Login mit Amazon**_. Dort kann man dann ClientID und Secret herauskopieren um sie in den Shop in die Konfiguration des Single Sign-On Moduls zu übertragen. Die Rückleitungs-URL, wie im Shop angezeigt, muss bei Amazon hinterlegt werden; dies kannst du über _**Return URLs und Javascript Origins**_ konfigurieren.
 
 
-## DHL Geschäftskundenversand
+## DHL Geschäftskundenversand {#modul_center_dhl_geschaeftskundenversand}
 
 Das Modul _**DHL Geschäftskundenversand \(GKV2\)**_ ist ab Shopversion _**v3.5.x.x**_ im Shopumfang enthalten. Es dient zum Erstellen von Versandetiketten.
 
-### Installation
+### Installation {#modul_center_dhl_geschaeftskundenversand_installation}
 
 Das Modul kann unter _**Module \> Modul-Center**_ installiert werden. Wähle hierzu den Eintrag _**DHL Geschäftskundenversand**_ aus und klicke rechts unten auf _**Installieren**_.
 
-### Konfiguration
+### Konfiguration {#modul_center_dhl_geschaeftskundenversand_konfiguration}
 
 Um das Modul zu konfigurieren, wähle es unter _**Module \> Modul-Center**_ aus und klicke auf _**Bearbeiten**_. Es stehen Einstellungen zu den folgenden Bereichen zur Verfügung:
 
-#### Zugangsdaten
+#### Zugangsdaten {#modul_center_dhl_geschaeftskundenversand_konfiguration_zugangsdaten}
 
 ![](../Bilder/Module_ModulCenter_DHLGeschaeftskundenversand_Konfiguration_Zugangsdaten_ZugangsdatenFuerdenDHLGeschaeftskundenversand.png "Zugangsdaten für DHL Geschäftskundenversand")
 
@@ -2111,7 +2111,7 @@ Um das Modul zu konfigurieren, wähle es unter _**Module \> Modul-Center**_ aus 
 |Benutzername & Passwort|Benutzername und Passwort erhältst du bei deinem Vertragspartner DHL. Als Login-Daten werden die Zugangsdaten für das Geschäftskundenportal eingetragen, wobei der Benutzername hier jedoch komplett klein geschrieben werden muss. Das Passwort hingegen ist genauso anzugeben wie beim Geschäftskundenportal.|
 |EKP|Hier muss die DHL-Kundennummer eingetragen werden. Die EKP besteht aus den ersten 10 Ziffern der 14-stelligen DHL Account Nummer. Es dürfen nicht mehr als 10 Ziffern eingegeben werden.|
 
-#### Absender und Retourempfänger {#dhl_geschaeftskundenversand_konfiguration_absender_und_retourempfaenger}
+#### Absender und Retourempfänger {#modul_center_dhl_geschaeftskundenversand_konfiguration_absender_und_retourempfaenger}
 
 ![](../Bilder/2022-02-01_003.png "Absender und Retourempfänger")
 
@@ -2121,17 +2121,17 @@ In diesem Bereich müssen die Adressdaten deiner Firma hinterlegt werden. Es kan
 
 	 Das Feld _**Name**_ muss zwingend ausgefüllt werden, es kommt sonst zu Problemen bei der Labelerstellung.
 	 
-#### Bankverbindung für Nachnahmesendungen
+#### Bankverbindung für Nachnahmesendungen {#modul_center_dhl_geschaeftskundenversand_konfiguration_bankverbindung_fuer_nachnahmesendungen}
 
 Wenn im Shop Bestellungen per Nachnahme möglich sind, müssen diese Bankdaten unbedingt hinterlegt werden
 
 ![](../Bilder/Module_ModulCenter_DHLGeschaeftskundenversand_Konfiguration_BankverbindungFuerNachnahmesendungen_BankverbindungFuerNachnahmesendungen.png "Bankverbindung für Nachnamesendungen")
 
-##### Referenz
+##### Referenz {#modul_center_dhl_geschaeftskundenversand_konfiguration_bankverbindung_fuer_nachnahmesendungen_referenz}
 
 Als Referenz ist die Variable _**%orders\_id%**_ für die Bestellnummer hinterlegt. Damit wird als Referenz auf dem Paketschein die Bestellnummer angegeben und eine Zuordnung einer Zahlung zu einer Bestellung ist möglich. Aktuell können noch keine anderen Variablen verwendet werden. Es ist jedoch möglich die Variable über das Eingabefeld um einen Vermerk o.ä. zu ergänzen oder bei Bedarf ganz zu ändern.
 
-#### Einstellungen
+#### Einstellungen {#modul_center_dhl_geschaeftskundenversand_konfiguration_einstellungen}
 
 ![](../Bilder/2022-02-01_004.png "Einstellungen")
 
@@ -2160,30 +2160,30 @@ Als Referenz ist die Variable _**%orders\_id%**_ für die Bestellnummer hinterle
 ![](../Bilder/2022-02-01_005.png "Darstellung der Wunschservices im Checkout")
 
 
-##### Produkte
+##### Produkte {#modul_center_dhl_geschaeftskundenversand_konfiguration_einstellungen_produkte}
 
 ![](../Bilder/Module_ModulCenter_DHLGeschaeftskundenversand_Konfiguration_Produkte_AbschnittProdukteUnterEinstellungen.png "Abschnitt Produkte unter Einstellungen")
 
 Du kannst über das Dropdown-Menü aus den verschiedenen Produkten auswählen und diese hinzufügen. Es sollten nur Produkte ausgewählt werden, die du auch gebucht hast. Welche Produkte gebucht wurden und welche Teilnahmenummer zum jeweiligen Produkt gehört, kannst du in deinem Konto bei _**DHL Versenden**_, bzw. beim DHL Support erfahren.
 
 
-##### Retourenschnittstelle
+##### Retourenschnittstelle {#modul_center_dhl_geschaeftskundenversand_konfiguration_einstellungen_retourenschnittstelle}
 
 ![](../Bilder/GKV2_retoure.png "Retourenschnittstelle")
 
 Die _**Receiver-ID**_ ist eine Pflichtangabe. Du kannst die ID im DHL Geschäftskundenportal finden. 
 
-### Verwendung 
+### Verwendung {#modul_center_dhl_geschaeftskundenversand_verwendung}
 
-#### Verwendung
+#### Verwendung {#modul_center_dhl_geschaeftskundenversand_verwendung_verwendung}
 
 Unter _**Bestellungen \> Bestellungen**_ kann im Dropdown rechts neben der Bestellung über _**DHL-Label \(GKV\)**_ der Dialog für die Labelerstellung aufgerufen werden.
 
 ![](../Bilder/Module_ModulCenter_DHLGeschaeftskundenversand_Verwendung_Verwendung_AufrufVonDHLLabelGKV.png "Aufruf von _**DHL-Label (GKV)**_")
 
-#### Labelerzeugung
+#### Labelerzeugung {#modul_center_dhl_geschaeftskundenversand_verwendung_labelerzeugung}
 
-##### Einfache Ansicht
+##### Einfache Ansicht {#modul_center_dhl_geschaeftskundenversand_verwendung_labelerzeugung_einfache_ansicht}
 
 ![](../Bilder/ABB_473.png "Einfache Ansicht")
 
@@ -2200,7 +2200,7 @@ Unter _**Bestellungen \> Bestellungen**_ kann im Dropdown rechts neben der Beste
 
 ![](../Bilder/ABB_475.png "Korrekt erstelltes Label")
 
-##### Erweiterte Ansicht
+##### Erweiterte Ansicht {#modul_center_dhl_geschaeftskundenversand_verwendung_labelerzeugung_erweiterte_ansicht}
 
 In der erweiterten Ansicht gibt es noch zahlreiche weitere Optionen.
 
@@ -2232,7 +2232,7 @@ In der erweiterten Ansicht gibt es noch zahlreiche weitere Optionen.
 |Sperrgut|Sendungen, die schwerer als 31,5kg sind oder bestimmte Maße überschreiten, können als Sperrgut versendet werden.|
 |\(zusätzliche\) Transportversicherung|Bei besonders wertvollen Sendungen kann die Sendung zusätzlich bis zu einem bestimmten Wert versichert werden. Nähere Angaben bekommst du hierzu bei DHL.|
 
-#### Label in Länder außerhalb der EU erstellen
+#### Label in Länder außerhalb der EU erstellen {#modul_center_dhl_geschaeftskundenversand_verwendung_label_ausserhalb_eu}
 
 Bei Sendungen in Länder außerhalb der EU gilt es, die Ausfuhrangaben bei der Labelerstellung korrekt zu tätigen.
 
@@ -2249,7 +2249,7 @@ Bei Sendungen in Länder außerhalb der EU gilt es, die Ausfuhrangaben bei der L
 
 Weiter unten in den Ausfuhrangaben werden die Artikel der Bestellung aufgeführt. Wurde das Versandgewicht in den Artikeln hinterlegt, so ist dies hier bereits vorausgefüllt. Ansonsten muss das Gewicht für einen Artikel in die jeweilige Zeile im Feld _**Masse**_ hinterlegt werden. Aus der Menge der Artikel und den jeweiligen Gewichten muss dann das Gesamtgewicht errechnet und weiter oben in das Feld _**Versandgewicht**_ eingetragen werden.
 
-#### Mögliche Meldungen
+#### Mögliche Meldungen {#modul_center_dhl_geschaeftskundenversand_verwendung_moegliche_meldungen}
 
 ![](../Bilder/ABB_482.png "Die angegebene Art der Sendung ist nicht gültig")
 
@@ -2267,13 +2267,13 @@ Bitte prüfe und korrigiere die angegebenen Gewichte.
 
 Die Meldung _**Versandetikett wurde erzeugt**_ ist eine Erfolgsmeldung. Darunter finden sich die Sendungsnummer sowie in der Spalte _**Label**_ ein Link zum Versandlabel und ein Link zum Exportlabel.
 
-#### Label ansehen / stornieren
+#### Label ansehen / stornieren {#modul_center_dhl_geschaeftskundenversand_verwendung_label_ansehen_stornieren}
 
 Bestehende Label können aufgerufen werden, wenn im Dropdown der Bestellübersicht wieder _**DHL-Label \(GKV2\)**_ gewählt wird. Oberhalb des Dialogs für die Labelerstellung werden die bereits erstellten Label mit Angabe von Datum und Uhrzeit aufgeführt und können hierüber aufgerufen oder auch gelöscht werden.
 
 ![](../Bilder/ABB_485.png "Bestehende Label")
 
-#### Muster von Versandlabeln sowie Exportlabeln
+#### Muster von Versandlabeln sowie Exportlabeln {#modul_center_dhl_geschaeftskundenversand_verwendung_muster}
 
 ![](../Bilder/GKV2_20180417_008.png "Versandlabel")
 
@@ -2281,13 +2281,13 @@ Bestehende Label können aufgerufen werden, wenn im Dropdown der Bestellübersic
 
 ![](../Bilder/GKV2_20180417_007.png "Exportlabel Seite 2")
 
-### Tracking-Link
+### Tracking-Link {#modul_center_dhl_geschaeftskundenversand_tracking_link}
 
 Mit Erstellung des Labels wird der Bestellung automatisch die Sendungsnummer hinzugefügt. Diese ist dann in den Bestelldetails unter _**Bestellungen \> Bestellungen**_ zu sehen und kann über eine Statusänderungs-E-Mail an den Kunden versendet werden. Je nach Einstellung in der Modulkonfiguration kann diese Mail auch bereits automatisch versendet worden sein.
 
 ![](../Bilder/GKV2_20170628_018.png "Sendungsnummern in der Bestellung")
 
-### DHL Services 
+### DHL Services {#modul_center_dhl_geschaeftskundenversand_dhl_services}
 
 Unter dem folgenden Link kann man sich bei DHL über die verschiedenen Services informieren:
 
