@@ -1,6 +1,6 @@
 # Kategorien 
 
-## Kategorie anlegen
+## Kategorie anlegen {#kategorien_kategorie_anlegen}
 
 In der Artikel- und Kategorieübersicht unter _**Artikel \> Artikel/Kategorien**_ kannst du neue Kategorien über die Schaltfläche _**Erstellen \> Kategorie**_ hinzufügen. Neue Kategorien werden immer in der Kategorie angelegt, die in der Übersicht aufgelistet wird. Im Listenfeld _**Gehe zu**_ oberhalb der Artikel- und Kategorieliste wird dir die aktive Kategorie angezeigt.
 
@@ -68,7 +68,7 @@ Im Abschnitt _**Kategorie-Filter**_ kannst du Artikel-Filter zur Auswahl in den 
 
 Unter _**Kategorie Teaser-Slider**_ kannst du einen Teaser-Slider auswählen, der auf der Kategorieseite angezeigt wird. Hierzu muss der Slider vorher unter _**Darstellung \> Teaser-Slider**_ bzw. _**Inhalte \> Teaser-Slider**_ angelegt worden sein. Weitere Informationen hierzu findest du im Kapitel _**Teaser-Slider**_.
 
-### Kategoriedetails
+### Kategoriedetails {#kategorien_kategorie_anlegen_kategoriedetails}
 
 Für jede im Backend aktivierte Sprache wird ein Bereich _**Kategoriedetails**_ angezeigt. Hier stehen die folgenden Einstellungen zur Verfügung:
 
@@ -88,7 +88,7 @@ Für jede im Backend aktivierte Sprache wird ein Bereich _**Kategoriedetails**_ 
 
 	 URL Keywords dürfen weder Leerzeichen, noch Umlaute oder Sonderzeichen enthalten. Wir empfehlen das Feld leer zu lassen, es wird von Shop automatisch befüllt.
 
-### Bilder
+### Bilder {#kategorien_kategorie_anlegen_bilder}
 
 Es können folgende Bilder eingerichtet werden:
 
@@ -102,7 +102,7 @@ Für das Kategoriebild kann zudem ein _**Alternativtext**_ angegeben werden.
 
 	 Die Bilder werden über den Dateimanager \(Responsive Filemanager\) hochgeladen. Siehe Kapitel _**Auswahl des Bildes mit dem Responsive Filemanager**_.
 
-## Kategorie bearbeiten
+## Kategorie bearbeiten {#kategorien_kategorie_bearbeiten}
 
 Zum Bearbeiten von Kategorien, klicke in der Artikel- und Kategorieübersicht auf den Namen der Kategorie und klicke in der zugehörigen Zeile auf die Schaltfläche _**Bearbeiten**_.
 

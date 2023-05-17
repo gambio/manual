@@ -1,6 +1,6 @@
 # Artikel
 
-## Artikel anlegen
+## Artikel anlegen {#artikel_artikel_anlegen}
 
 Neue Artikel kannst du in der Artikel- und Kategorieübersicht unter _**Artikel \> Artikel/Kategorien**_ hinzufügen. Neue Artikel werden immer in der Kategorie angelegt, die in der Übersicht aufgelistet wird. Im Listenfeld _**Gehe zu**_ oberhalb der Artikel- und Kategorieliste wird dir die aktive Kategorie angezeigt.
 
@@ -36,7 +36,7 @@ Neue Artikel kannst du in der Artikel- und Kategorieübersicht unter _**Artikel 
 
 ![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_IconZumEinUndAusklappenDerBereiche.png "Icon zum Ein- und Ausklappen der Bereiche")
 
-### Kategorien
+### Kategorien {#artikel_artikel_anlegen_kategorien}
 
 Im Bereich _**Kategorien**_ wird aufgeführt in welchen Kategorien der Artikel verlinkt ist, der gerade bearbeitet wird. Hierüber können auch Verweise auf weitere Kategorien hinzugefügt werden.
 
@@ -52,7 +52,7 @@ Wird das _**Multiselect**_ angezeigt, kann durch einen Mausklick eine einzelene 
 
 In aller Regel sollen jedoch zusätzliche Kategorien verlinkt werden. Hierzu können die gewünschten Einträge mit gedrückter _**STRG**_-Taste angeklickt werden. Die Auswahl mehrerer, direkt untereinanderstehender Einträge ist mit gedrückter _**SHIFT**_-Taste möglich.
 
-### Artikelstammdaten
+### Artikelstammdaten {#artikel_artikel_anlegen_artikelstammdaten}
 
 ![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_ArtikelstammdatenInDerArtikelmaske.png "Artikelstammdaten in der Artikelmaske")
 
@@ -88,7 +88,7 @@ In aller Regel sollen jedoch zusätzliche Kategorien verlinkt werden. Hierzu kö
 !!! note "Hinweis" 
 	 Bitte beachte: Diese Darstellung entspricht der Grundkonfiguration des Shopsystems. Zusatzfunktionen und Drittanbietermodule können die Darstellung der Artikel-Eingabemaske beeinflussen. Nähere Informationen zu hier nicht dokumentierten Eingabefeldern findest du in der Anleitung des jeweiligen Moduls.
 
-### Erweiterte Konfiguration
+### Erweiterte Konfiguration {#artikel_artikel_anlegen_erweiterte_konfiguration}
 
 |Feldname|Beschreibung|
 |--------|------------|
@@ -123,7 +123,7 @@ In aller Regel sollen jedoch zusätzliche Kategorien verlinkt werden. Hierzu kö
 !!! note "Hinweis" 
 	 Bitte beachte: Diese Darstellung entspricht der Grundkonfiguration des Shopsystems. Zusatzfunktionen und Drittanbietermodule können die Darstellung der Artikel-Eingabemaske beeinflussen. Nähere Informationen zu hier nicht dokumentierten Eingabefeldern findest du in der Anleitung des jeweiligen Moduls.
 
-### Zusatzfelder
+### Zusatzfelder {#artikel_artikel_anlegen_zusatzfelder}
 
 Über Zusatzfelder können weitere Informationen zu einem Artikel gespeichert werden. Die Angaben werden hauptsächlich für den Export zu Preisportalen verwendet, können jedoch auch auf der Artikel-Detailseite ausgegeben werden. Jedes Zusatzfeld hat eine Bezeichnung und einen Wert.
 
@@ -146,11 +146,11 @@ Mit einem Klick auf das Mülltonnen-Symbol kann ein Zusatzfeld gelöscht werden.
 
 	 Das Löschen eines Zusatzfelds findet in **allen** Artikeln statt, auch wenn diese mit einem Wert belegt sind. Wenn du die Verwendung des Zusatzfelds in einem einzelnen Artikel verhindern möchtest, sollten stattdessen die Einträge unter _**Wert**_ entfernt werden.
 
-### Artikel-Filter
+### Artikel-Filter {#artikel_artikel_anlegen_artikel_filter}
 
 Im Abschnitt Filterauswahl kannst du Artikel-Filter für deinen neuen Artikel festlegen. Nähere Informationen zu Artikel-Filtern findest du im Kapitel _**Artikel-Filter**_.
 
-### Google Kategorie
+### Google Kategorie {#artikel_artikel_anlegen_google_kategorie}
 
 Über _**Google Kategorie**_ kann der Artikel der internen Taxonomie von Google Shopping zugeordnet werden, wenn dieser zu Google Shopping exportiert wird. Die Auswahl hat auf die Kategorien des Shops keinen Einfluss.
 
