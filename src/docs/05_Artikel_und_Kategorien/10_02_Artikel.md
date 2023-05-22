@@ -162,7 +162,7 @@ Im Abschnitt Filterauswahl kannst du Artikel-Filter für deinen neuen Artikel fe
 
 Eine bestehende Google Kategorie kann mit Klick auf das Bleistift-Symbol bearbeitet werden. Wird der Haken in der Box _**Löschen**_ gesetzt, wird die Google Kategorie beim nächsten Klick auf _**Speichern**_ oder _**Aktualisieren**_ wieder entfernt.
 
-### Artikeldetails
+### Artikeldetails {#artikel_artikel_anlegen_artikeldetails}
 
 !!! note "Hinweis" 
 	 Für jede im Shop angelegte Sprache \(standardmäßig Deutsch und Englisch\) gibt es einen eigenen Bereich für die Artikeldetails.
@@ -192,11 +192,11 @@ Der Bereich _**Artikeldetails**_ dient hauptsächlich zum Festlegen des Inhalts 
 
 	 Über die Schaltfläche _**Editor wechseln**_ kann auf einen alternativen HTML-Editor mit Zeilennummerangabe umgeschaltet werden.
 
-### Artikelbilder
+### Artikelbilder {#artikel_artikel_anlegen_artikelbilder}
 
 siehe Kapitel _**Artikelbilder**_
 
-### Kundengruppe
+### Kundengruppe {#artikel_artikel_anlegen_kundengruppe}
 
 ![](../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_EinstellungKundengruppe.png "Einstellung _**Kundengruppe**_")
 
@@ -207,7 +207,7 @@ siehe Kapitel _**Artikelbilder**_
 
 Wird der Haken für _**Alle**_ gesetzt, werden nach dem nächsten Klick auf _**Speichern**_ oder _**Aktualisieren**_ die Rechte für alle Kundengruppen vergeben.
 
-### Preisoptionen
+### Preisoptionen {#artikel_artikel_anlegen_preisoptionen}
 
 Im Bereich _**Preisoptionen**_ stehen folgende Einstellungen zur Verfügung
 
@@ -221,13 +221,13 @@ Zudem steht für jede Kundengruppe außer _**Admin**_ \(typischerweise _**Gast**
 
 Wird der Kundengruppenpreis nicht verwendet, wird der reguläre Artikelpreis angezeigt und berechnet.
 
-## Artikel bearbeiten
+## Artikel bearbeiten {#artikel_artikel_bearbeiten}
 
 Zum Bearbeiten von Artikeln, klicke zunächst in der Artikel- und Kategorieübersicht auf den Namen des Artikels und anschließend auf die Schaltfläche _**Bearbeiten**_.
 
 Nimm die gewünschten Änderungen an den Konfigurationsfeldern des Artikels vor. Eine Übersicht über die Bedeutung der Felder in der Artikel-Eingabemaske findest du in der Tabelle _**Übersicht über die Artikel-Eingabemaske**_.
 
-## Artikelbilder
+## Artikelbilder {#artikel_artikelbilder}
 
 Die Anzahl der verwendeten Artikelbilder ist für jeden Artikel frei festlegebar. Standardmäßig ist nur ein Eintrag für das Haupt-Artikelbild vorhanden. Klicke auf _**Bilder hinzufügen**_ um ein weiteres Bild einrichten zu können.
 
