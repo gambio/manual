@@ -34,7 +34,7 @@ Es muss immer zwischen den angelegten Eigenschaften und den zugewiesenen Kombina
 	 -   rot, M
 	 -   rot, L
 	 
-## Eigenschaften erstellen und bearbeiten
+## Eigenschaften erstellen und bearbeiten {#artikeleigenschaften_eigenschaften}
 
 ![](../Bilder/ArtikelEigenschaftenUebersicht.png "Übersicht der Eigenschaften unter _**Artikel >
       Artikeleigenschaften**_ im Gambio Admin")

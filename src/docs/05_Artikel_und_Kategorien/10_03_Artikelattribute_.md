@@ -21,7 +21,7 @@ Die Attribute sind unabhängig voneinander.
 
 	 Wenn eine Abhängikeit zwischen den Auswahlen dargestellt werden soll, wie z.B. Farbe und Größe eines Kleidungsstücks, dann sollten Artikeleigenschaften verwendet werden.
 	 
-## Attribute anlegen
+## Attribute anlegen {#artikelattribute_attribute}
 
 ![](../Bilder/Artikelattribute_AttributeTabelle.png "Angelegte Attribute unter _**Artikel >
       Artikelattribute**_ im Gambio Admin")
@@ -50,13 +50,13 @@ Hier werden die folgenden Angaben aufgelistet:
 |Bild|Bild, das zur Auswahl des Optionswert angezeigt werden kann|
 |Aktion|Aktionen zu einem Optionswert, siehe _**Optionswerte bearbeiten und löschen**_|
 
-### Attribute anlegen
+### Attribute anlegen {#artikelattribute_attribute_anlegen}
 
 ![](../Bilder/Artikelattribute_AttributeEingabe.png "Anlegen eines Attributs")
 
 Am unteren Ende der Attribut-Tabelle befindet sich ein Bereich, über den neue Attribute angelegt werden können. Trage hier die _**Artikelmerkmal-Bezeichnung**_ \(Name des Attributs\) ein und wähle die _**Anzeigeart**_ \(_**Dropdown**_, _**Bild**_, _**Radio**_, _**Text**_ oder _**Eingerahmter Text**_\) aus. Klicke abschließend auf _**Einfügen**_.
 
-### Attribute bearbeiten und löschen
+### Attribute bearbeiten und löschen {#artikelattribute_attribute_bearbeiten_und_loeschen}
 
 ![](../Bilder/Artikelattribute_AttributeAnlegenAktionenAttribut.png "Symbole für _**Bearbeiten**_ und
         _**Löschen**_ eines Attributs")
@@ -67,14 +67,14 @@ Bewegst du den Mauszeiger über ein Attribut, werden die möglichen Aktionen hie
 
 	 Attribute können nur dann gelöscht werden, wenn sie keinem Artikel mehr zugeordnet worden sind. Vor dem Löschen findet eine Sicherheitsabfrage statt, die ggf. eine entsprechende Warnung anzeigt.
 
-### Optionswerte anlegen
+### Optionswerte anlegen {#artikelattribute_attribute_optionswerte_anlegen}
 
 ![](../Bilder/Artikelattribute_OptionswerteAnlegen.png "Eingabefelder für Optionswerte am unteren Ende der
         Tabelle")
 
 Ist ein Attribut angelegt, können die Optionswerte hierfür erstellt werden. Wähle das gewünschte Attribut über das Dropdown aus und trage den Namen des Optionswerts ein. Zudem kannst du ein Bild hochladen, über das der Optionswert im Artikel ausgewählt werden kann, wenn für das Attribut die _**Anzeigeart**_ _**Bild**_ verwendet wird. Klicke auf _**Einfügen**_, um den Optionswert anzulegen.
 
-### Optionswerte bearbeiten und löschen
+### Optionswerte bearbeiten und löschen {#artikelattribute_attribute_optionswerte_bearbeiten_und_loeschen}
 
 ![](../Bilder/Artikelattribute_AttributeAnlegenAktionenOptionswert.png "Symbole für _**Bearbeiten**_ und
         _**Löschen**_ eines Optionswerts")
@@ -85,7 +85,7 @@ Bewegst du den Mauszeiger über einen Optionswert, werden die möglichen Aktione
 
 	 Optionswerte können nur dann gelöscht werden, wenn sie keinem Artikel mehr zugeordnet worden sind. Vor dem Löschen findet eine Sicherheitsabfrage statt, die ggf. eine entsprechende Warnung anzeigt.
 
-## Optionswerte zuweisen
+## Optionswerte zuweisen {#artikelattribute_optionswerte_zuweisen}
 
 ![](../Bilder/ArtikelubersichtAttributeEditieren.png "Auswahl _**Attribute editieren**_ im Dropdown-Menü
       der Kategorieansicht")
@@ -130,7 +130,7 @@ Zudem kann über das Bild-Symbol am Ende der Zeile dem jeweiligen Optionswert ei
 
 	 Kollektionen können einem Optionswert erst hinzugefügt werden, nachdem dessen Zuweisung gespeichert worden ist.
 	 
-## Attributverwaltung
+## Attributverwaltung {#artikelattribute_attributverwaltung}
 
 Über die Attributverwaltung können die Optionswerte eines Artikels geändert bzw. einem beliebigen Artikel neue Attribute und Optionswerte zugewiesen werden.
 
@@ -139,7 +139,7 @@ Zudem kann über das Bild-Symbol am Ende der Zeile dem jeweiligen Optionswert ei
 
 Über das Dropdown _**Bitte wählen Sie einen Artikel aus der Liste zum Editieren**_ kann ein Artikel ausgewählt werden. Bestätige die Auswahl mit einem Klick auf _**Bearbeiten**_. Es stehen die gleichen Einstellungen wie beim erstmaligen Zuweisen von Optionswerten zur Verfügung \(siehe Kapitel _**Optionswerte zuweisen**_\).
 
-### Attribute kopieren
+### Attribute kopieren {#artikelattribute_attributverwaltung_attribute_kopieren}
 
 Zugewiesene Optionswerte können bei Bedarf auch von einem Artikel kopiert und direkt einem anderen Artikel zugeordnet werden. Auf diese Weise lassen sich schnell mehrere Artikel mit den gleichen Auswahlmöglichkeiten versehen.
 

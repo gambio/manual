@@ -254,11 +254,11 @@ Ist die Bild-Datei hochgeladen, wird neben der Vorschau ein Häkchen angezeigt.
 
 Die Datei kann nun über einen Mausklick ausgewählt werden.
 
-### Artikelbild löschen
+### Artikelbild löschen {#artikel_artikelbilder_artikelbild_loeschen}
 
 Wenn du ein Artikelbild nicht mehr verwenden möchtest, lösche es in der Artikel-Eingabemaske unter _**Artikel \> Artikel/Kategorien**_. Aktiviere im Abschnitt _**Artikelbilder**_ das Kontrollkästchen _**Löschen**_ bei jedem Artikelbild, das nicht mehr verwendet werden soll. Klicke auf _**Speichern**_ oder _**Aktualisieren**_, um die ausgewählten Artikelbilder unwiderruflich zu löschen.
 
-### G-Motion verwenden
+### G-Motion verwenden {#artikel_artikelbilder_g_motion_verwenden}
 
 Mit G-Motion werden starre Artikelbilder animiert. Bei der Animation kannst du zwischen Schwenk, Zoom und einer Kombination aus Schwenk und Zoom auswählen. G-Motion-Bilder werden ausschließlich auf der Artikel-Detailseite angezeigt.
 
@@ -283,11 +283,11 @@ Mit G-Motion werden starre Artikelbilder animiert. Bei der Animation kannst du z
 
 	 Wenn das Kontrollkästchen _**Als Artikelbild verwenden**_ bei allen Artikelbildern deaktiviert wird, werden in Artikellisten, wie beispielsweise Kategorieseiten, für diesen Artikel keine Artikelbilder angezeigt.
 
-## Artikeltabs
+## Artikeltabs {#artikel_artikeltabs}
 
 Über Tabs können zusätzliche Informationen zum Artikel im Bereich der Artikelbeschreibung angezeigt werden. Die einzelnen Bereiche lassen sich über die Überschriften in der Leiste auswählen und anzeigen.
 
-### Tabs anlegen
+### Tabs anlegen {#artikel_artikeltabs_tabs_anlegen}
 
 Um einen zusätzlichen Tab anzulegen, bearbeite den entsprechenden Artikel unter _**Artikel \> Artikel / Kategorien**_. Unterhalb des CK-Editors \(Texteingabefeld\) für die Artikelbeschreibung findest du den Bereich _**Tabs**_. Klicke auf _**Tab hinzufügen**_, um einen neuen Tab anzulegen, es öffnet sich ein neues Fenster. Die obere Zeile dient zum Festlegen der Überschrift, das Texteingabefeld darunter zum Hinterlegen des Inhaltes. Genauere Informationen zu den Funktionen des Eingabefeldes erhältst du im Kapitel _**CK-Editor**_.
 
@@ -295,7 +295,7 @@ Mit Klick auf _**Abbrechen**_ wird das Anlegen des Tabs unterbrochen und alle Ä
 
 Abschließend muss die Änderung im Artikel gespeichert werden, klicke hier auf _**Aktualisieren**_ oder _**Speichern**_. Anderenfalls werden die erzeugten Tabs nach dem Verlassen der Artikelkonfiguration wieder verworfen.
 
-### Tabs bearbeiten und löschen
+### Tabs bearbeiten und löschen {#artikel_artikeltabs_tabs_bearbeiten_und_loeschen}
 
 Angelegte Tabs können nachträglich bearbeitet werden. Bearbeite hierzu den Artikel, wie bereits beschrieben und scrolle zum Bereich _**Tabs**_, unterhalb der Artikelbeschreibung. Die Tabs werden untereinander aufgeführt, auf der rechten Seite dieser Liste findest du zwei Symbole: einen Bleistift und einen Mülleimer. Über das Stift-Symbol lässt sich der Tab bearbeiten, es öffnet sich das bekannte Eingabefenster mit dem Inhalt des Tabs.
 
@@ -303,15 +303,15 @@ Angelegte Tabs können nachträglich bearbeitet werden. Bearbeite hierzu den Art
 
 Wie auch beim Anlegen, müssen die Änderungen sowohl beim Bearbeiten als auch beim Löschen von Tabs im Artikel gespeichert werden. Klicke hierzu auf _**Aktualisieren**_ oder _**Speichern**_.
 
-### Tabs im Artikel
+### Tabs im Artikel {#artikel_artikeltabs_tabs_im_artikel}
 
 Sobald mindestens ein Tab angelegt ist, wird die Artikelbeschreibung über der Leiste angezeigt und die Überschrift _**Artikelbeschreibung**_ verschwindet. Der nun frei gewordene Platz enthält die angelegten Tabs, sie können über die jeweilige Überschrift in der Leiste ausgewählt werden. Der derzeit aktive Tab wird über ein Pfeilsymbol angezeigt, das auf die zugehörige Überschrift weist. Wurde nur ein Tab angelegt, ist dieser standardmäßig aktiv und wird dauerhaft angezeigt.
 
-## Verpackungseinheiten & Mengeneinheiten
+## Verpackungseinheiten & Mengeneinheiten {#artikel_verpackungseinheiten_und_mengeneinheiten}
 
 Für Grundpreispflichtige Artikel berechnet das Shopsystem die Grundpreise automatisch über die Verpackungseinheiten. Über die Mengeneinheiten werden frei konfigurierbare Mengeneinheiten hinter die Stückzahlen der Artikel im Bestellprozess angezeigt. Die Verpackungseinheiten und Mengeneinheiten arbeiten voneinander unabhängig und können kombiniert werden.
 
-### Verpackungseinheiten 
+### Verpackungseinheiten {#artikel_verpackungseinheiten}
 
 Mit Verpackungseinheiten \(VPE\) wird angegeben in welchen Einheiten ein Artikel verkauft wird, wie z.B. Stück, Liter, Kilogramm usw. Diese Angabe wird für die Grundpreisangabe benötigt.
 
@@ -321,7 +321,7 @@ Unter _**Artikel \> Verpackungseinheiten**_ können neue Verpackungseinheiten an
 
 	 Bei der Installation des Shops werden standardmäßig keine Verpackungseinheiten hinzugefügt, sie müssen also händisch angelegt werden.
 
-#### Verpackungseinheiten anlegen
+#### Verpackungseinheiten anlegen {#artikel_verpackungseinheiten_anlegen}
 
 Um eine Verpackungseinheit anzulegen, gehe im Gambio Admin unter _**Artikel \> Verpackungseinheiten**_.
 
@@ -334,7 +334,7 @@ Klicke hier in der rechten, oberen Ecke auf die Schaltfläche _**Erstellen**_
 
 Es öffnet sich das Eingabefenster zum Anlegen einer neuen Verpackungseinheit. Trage hier den Namen der Einheit für die im Shop vorhandenen Sprachen ein und bestätige die Eingabe mit einem Klick auf _**Hinzufügen**_. Über _**Abbrechen**_ kann das Dialogfenster geschlossen werden, ohne die Einheit anzulegen. Wenn du vor dem Anlegen den Haken für _**Standard**_ setzt, wird die neue Einheit als Standard-Verpackungseinheit definiert.
 
-#### Verpackungseinheiten bearbeiten
+#### Verpackungseinheiten bearbeiten {#artikel_verpackungseinheiten_bearbeiten}
 
 Um eine Verpackungseinheit zu bearbeiten, gehe unter _**Artikel \> Verpackungseinheiten**_ und bewege den Mauszeiger in die Zeile der Verpackungseinheit, die du bearbeiten möchtest.
 
@@ -349,7 +349,7 @@ Es kann jeweils der Name der Verpackungseinheit pro Sprache angepasst werden. Zu
 
 Bestätige die Änderungen mit Klick auf _**Aktualisieren**_. Über _**Abbrechen**_ kannst du das Dialogfenster verlassen, ohne die gemachten Einstellungen zu übernehmen.
 
-#### Verpackungseinheien löschen
+#### Verpackungseinheiten löschen {#artikel_verpackungseinheiten_loeschen}
 
 Um eine Verpackungseinheit zu löschen, gehe unter _**Artikel \> Verpackungseinheiten**_ und bewege den Mauszeiger in die Zeile der Verpackungseinheit, die du löschen möchtest.
 
@@ -366,7 +366,7 @@ Es wird eine Sicherheitsabfrage angezeigt. Bestätige mit einem Klick auf _**Lö
 
 	 Die Standard-Verpackungseinheit kann nicht gelöscht werden, daher wird für sie kein Mülltonnen-Symbol angezeigt.
 
-#### Verpackungseinheiten auswählen
+#### Verpackungseinheiten auswählen {#artikel_verpackungseinheiten_auswaehlen}
 
 Die Verpackungseinheit wird im Artikel ausgewählt und eingestellt. Gehe hierzu unter _**Artikel \> Artikel/Kategorien**_ und bearbeite den gewünschten Artikel. Die notwendigen Einstellungen können im Bereich _**Artikelstammdaten**_ vorgenommen werden.
 
@@ -375,7 +375,7 @@ Die Verpackungseinheit wird im Artikel ausgewählt und eingestellt. Gehe hierzu 
 
 Verwende hier das Dropdown _**VPE**_ um die gewünschte Verpackungseinheit auszuwählen.
 
-#### Festlegen des VPE Werts
+#### Festlegen des VPE Werts {#artikel_verpackungseinheiten_festlegen_des_vpe_werts}
 
 Der VPE Wert legt fest, wie viele Einheiten der Grundeinheit \(z.B. Stück, Liter, Kilogramm\) mit dem Artikel verkauft werden.
 
@@ -431,14 +431,14 @@ Zudem muss der Haken für _**Anzeige VPE**_ gesetzt werden.
 	 ![](../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_MeterwareAnzeigeImArtikel.png "Anzeige des Grundpreises auf der Artikeldetailseite")
 
 
-### Mengeneinheiten
+### Mengeneinheiten {#artikel_mengeneinheiten}y
 
 1.  Lege im Gambio Admin unter _**Artikel \> Mengeneinheiten**_ die benötigten Mengeneinheiten an
 2.  Wähle unter _**Artikel \> Artikel/Kategorien**_ in der Eingabemaske des gewünschten Artikels aus der Liste _**Mengeineheit**_ die gewünschte Mengeneinheit aus
 3.  Klicke am Ende der Eingabemaske auf _**Speichern**_ oder _**Aktualisieren**_, um die Änderungen an den Mengeneinheiten zu übernehmen
 
 
-## Hersteller
+## Hersteller {#artikel_hersteller}
 
 1.  Lege unter _**Artikel \> Hersteller**_ die benötigten Hersteller an
 2.  Klicke auf _**Erstellen**_
@@ -450,7 +450,7 @@ Zudem muss der Haken für _**Anzeige VPE**_ gesetzt werden.
 8.  Klicke am Ende der Eingabemaske auf _**Speichern**_ oder _**Aktualisieren**_, um die Änderungen am Hersteller des Artikels zu übernehmen
 
 
-## Artikel kopieren
+## Artikel kopieren {#artikel_kopieren}
 
 Artikel lassen sich unter _**Artikel \> Artikel / Kategorien**_ kopieren. Markiere die Artikel, die du kopieren möchtest, indem du in den zugehörigen Boxen die Haken setzt. In der Leiste unter der Auflistung wird nun der Dropdown-Button angezeigt. Klicke auf der rechten Seite des Buttons auf den nach unten weisenden Pfeil und anschließend auf _**Kopieren**_.
 
