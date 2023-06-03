@@ -1,3 +1,9 @@
+---
+hide:
+  - tags
+tags:
+  - customers
+---
 # Kundenkonten verwalten
 
 Im Gambio Admin unter _**Kunden \> Kunden**_ verwaltest du die Kundenkonten deiner Kunden.

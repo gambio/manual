@@ -1,4 +1,6 @@
 ---
+hide:
+  - tags
 tags:
   - configurations
   - settings
