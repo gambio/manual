@@ -1,3 +1,8 @@
+---
+tags:
+  - configurations
+  - settings
+---
 # Einstellungen
 
 ![](../../Bilder/einstellungen_uebersicht.png "Ansicht beim Laden der Einstellungsseite")
