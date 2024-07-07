@@ -49,12 +49,10 @@ markdown_extensions:
   - admonition
   - meta
   - attr_list
-  - markdown_image_caption.plugin
   - toc:
       toc_depth: 6
       permalink: true
 plugins:
-  - section-index
   - mkdocs-nav-enhancements
   - tags
   - search:
