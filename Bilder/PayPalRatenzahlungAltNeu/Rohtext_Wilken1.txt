@@ -1,0 +1,64 @@
+Alte und neue PayPal Ratenzahlung
+
+PayPal bietet aktuell 2 Ratenzahlungszahlungsmethoden für Kunden und Händler an, die wir der hier der Einfachheit halber alte ("Ratenzahlung powered by PayPal") und neue Ratenzahlung nennen werden. 
+
+Bei der alten Ratenzahlung wählt der Kunde bereits bei der Zahlartenauswahl im Shop die Option der PayPal Ratenzahlung aus, diese ist also im Shop sichtbar. Als Händler aktivierte man hierfür ein extra Modul (bei Nutzung des Moduls unter Sonstige Zahlungsweisen) beziehungsweise aktivierte einen Schalter für die Ratenzahlung im PayPal2 Hub Modul.
+
+Bei der neuen Ratenzahlung passiert die Auswahl der Ratenzahlung erst auf der PayPal Seite nach dem Login des Kunden, die neue Ratenzahlung ist also im Shop selbst nicht zu sehen. Es gibt keine Schalter um diese zu aktivieren oder zu deaktivieren, für den Händler wirkt die Ratenzahlung wie eine komplett normale PayPal Zahlung. Zur besseren Kenntlichmachung der Zahlungsmöglichkeit für Kunden können jedoch auch hier optional Werbebanner im Shop aktiviert werden.
+
+Die alte Ratenzahlung wird gegen Ende 2020 als Produkt eingestellt werden, ist für Bestandshändler vorübergehend aber noch verfügbar. Um dieses bisherige Modell anbieten zu können, mussten Händler in der Vergangenheit einen gesonderten Vertrag mit PayPal abschliessen, die neue Ratenzahlung ist hingegen ohne einen solchen für Händler verfügbar. Händler, die die alte Ratenzahlung beantragt hatten, müssen den bisherigen Ratenzahlungsvertrag mit PayPal kündigen, um auf das neue Verfahren umstellen zu können. Es sind nicht beide gleichzeitig verfügbar. Nach der Kündigung des alten Verfahrens kann bis zur vollständigen Bearbeitung durch PayPal ein Fenster von mehreren Tagen auftreten, in denen keine Ratenzahlungsoption verfügbar ist. Zu Details kann hier der Händlersupport von PayPal beraten.
+
+Deaktivieren der alten Ratenzahlung
+Bei Nutzung der älteren Module unter sonstige Zahlungsweisen
+Bei Nutzung des modernen PayPal2 Hub Moduls
+
+Aktivieren der neuen Ratenzahlung
+
+Für die neue Ratenzahlung müssen keine Aktivierungen vorgenommen werden, diese wird ihren Kunden automatisch angebunden. Es können jedoch optional Hinweisbanner auf die Zahlungsweise für Kunden geschaltet werden, die dann in den Preisboxen der Produktseiten und auf der Warenkorbseite sichtbar sind. Die Banner dienen der besseren Wahrnehmung der ratenzahlungsmöglichkeit für Kunden, sind aber für das Gelingen einer Ratenzahlung nicht zwingend erforderlich. Wir empfehlen trotzdem wenn Sie die PayPal Ratenzahlung anbieten aus verkaufsförderungsgründen immer die Banner zu aktivieren.
+
+----------------------------------------
+
+Navigieren Sie im Gambio Admin zu Module -> Zahlungsweisen 
+
+Bei Nutzung der PayPal Zahlungsmodule auf dem Reiter "Sonstige"
+
+Wenn sie das bisher das PayPal Ratenzahlungsmodul unter "Sonstige" genutzt haben klicken Sie Zeile des Moduls "Ratenzahlung powered by PayPal" an und klicken anschliessend in der rechten Spalte auf deinstallieren. In der Modulkonfiguration müssen keine weiteren Änderungen vorgenommen werden. Sofern Sie von PayPal für die neue Ratenzahlungs-Zahlweise freigeschaltet sind wird diese ihren Kunden automatisch nach dem Login des Kunden bei PayPal angeboten.
+
+Achtung: Mit dem älteren PayPal Zahlungsmodul "paypal3" unter Sonstige können für ihre Kunden nicht per einfachem Klick Hinweisbanner auf die neue Ratenzahlungsweise im Shop geschaltet werden. Sollen diese angezeigt werden empfehlen wir den Wechsel auf das neuere "PayPal2 Hub", dass diese Funktion mitbringt. Sollten Sie das Gambio Hub Modul nicht nutzen wollen, müssten Sie die Banner auf Wunsch eigenverantwortlich in ihren Shop integrieren.
+
+Bei Nutzung des PayPal Zahlungsmoduls "PayPal2 Hub" des Reiters Gambio Payment Hubs
+
+Wählen Sie das Modul in der Liste der Module aus. Öffnen Sie die Modulkonfiguration durch einen Klick auf den Bleistift rechts wenn Sie den Mauszeiger über den Eintrag bewegen.
+
+Deaktivieren Sie den Schalter "Ratenzahlung aktivieren", dieser bezieht sich ausschliesslich auf das alte Verfahren.
+
+
+---------------------------------------
+
+Aktivieren der neuen Ratenzahlung
+
+Für die neue Ratenzahlung müssen keine Aktivierungen vorgenommen werden, diese wird ihren Kunden wenn Sie PayPal in ihrem Shop bereits integriert haben automatisch angeboten. 
+
+Zusätzlich zur grundsätzlichen Möglichkeit der Zahlung können Sie ihre Kunden auf das Vorhandensein und die Konditionen von PayPal Ratenzahlungen aktiv hinweisen. Es steht dazu die Möglichkeit bereit auf Produktseiten und im Warenkorb Hinweisbanner zu schalten, die von PayPal bereit gestellt werden. Neben zum beispiel Mindestbeträgen zeigen diese auch Rechenbeispiele für den Ratenkauf an, wobei aktuelle Artikelpreise und Warenkorbsummen sofort automatisch in den Rechner übernommen werden. Eine erhöhte Sichtbarkeit der Zahlunsgmöglichkeiten muss als verkaufsfördernd gesehen werden und ist daher empfohlen.
+
+Wenn Sie das aktuelle "PayPal2 Hub" Zahlungsmodul nutzen ist eine einfache Integration der Hinweisbanner ohne manuelle Arbeiten bereits vorbereitet und wie folgt zu konfigurieren.
+
+
+
+----------------------------------------
+//Änderungen
+2.1, rote box
+neuere PayPal2 Hub Modul
+da fehlt mir Modul
+2.2 Überschrift, am Ende ein s zuviel
+Für die neue Ratenzahlung müssen keine Aktivierungen vorgenommen werden, diese wird
+dir - wenn du PayPal in deinem Shop bereits integriert hast - automatisch angeboten. 
+Für die neue Ratenzahlung müssen keine Aktivierungen vorgenommen werden, diese wird
+deinen Kunden - wenn du PayPal in deinem Shop bereits integriert hast - automatisch angeboten. 
+in 3.
+lass uns 3 etwas strecken und die optik optionen minimal erklären
+
+ich meine die knöpfe in abbildung 5 sind für das neue Ding funktionslos
+sekunde, kläre ich kurz mit marco
+geklärt, funktionslos
+

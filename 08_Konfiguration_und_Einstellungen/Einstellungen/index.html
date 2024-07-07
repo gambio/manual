@@ -1,0 +1,6364 @@
+
+<!doctype html>
+<html lang="de" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://developers.gambio.de/docs/manual/08_Konfiguration_und_Einstellungen/Einstellungen/">
+      
+      
+        <link rel="prev" href="../">
+      
+      
+        <link rel="next" href="../Konfiguration/">
+      
+      
+      <link rel="icon" href="../../favicon.ico">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.0">
+    
+    
+      
+        <title>Einstellungen - Handbuch</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.9f615399.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.649f08f9.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="gambio" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#einstellungen" class="md-skip">
+          Zum Inhalt
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Kopfzeile">
+    <a href="../.." title="Handbuch" class="md-header__button md-logo" aria-label="Handbuch" data-md-component="logo">
+      
+  <img src="../../logo.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Handbuch
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Einstellungen
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Suche" placeholder="Suche" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Suche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Zurücksetzen" aria-label="Zurücksetzen" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Hauptnavigation" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Vorwort
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../01_Einleitung/" class="md-tabs__link">
+        
+  
+    
+  
+  Einleitung
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../02_Bereiche_und_Funktionen/" class="md-tabs__link">
+        
+  
+    
+  
+  Bereiche und Funktionen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../03_Bestellungen/" class="md-tabs__link">
+        
+  
+    
+  
+  Bestellungen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../04_Kunden/" class="md-tabs__link">
+        
+  
+    
+  
+  Kunden
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../05_Artikel_und_Kategorien/" class="md-tabs__link">
+        
+  
+    
+  
+  Artikel & Kategorien
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../06_Inhalte/" class="md-tabs__link">
+        
+  
+    
+  
+  Darstellung / Inhalte
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../07_Module/" class="md-tabs__link">
+        
+  
+    
+  
+  Module
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="../" class="md-tabs__link">
+        
+  
+    
+  
+  Konfiguration und Einstellungen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Anhang/" class="md-tabs__link">
+        
+  
+    
+  
+  Anhang
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Handbuch" class="md-nav__button md-logo" aria-label="Handbuch" data-md-component="logo">
+      
+  <img src="../../logo.svg" alt="logo">
+
+    </a>
+    Handbuch
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vorwort
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../01_Einleitung/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Einleitung
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_2">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Einleitung
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01_Einleitung/2_Art_der_Shoploesung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Art der Shoplösung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01_Einleitung/3_Erste_Schritte/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Erste Schritte
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Bereiche und Funktionen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Bereiche und Funktionen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_1" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Bereiche des Shopsystems
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_1">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Bereiche des Shopsystems
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_1_Shopbereich/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shopbereich
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_2_Gambio_Admin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gambio Admin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_3_StyleEdit_v3_und_StyleEdit_4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    StyleEdit v3 und StyleEdit 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_4_CK_Editor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CK-Editor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Fehlerbehebung/18_01_Manuelle_Datensicherung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Manuelle Datensicherung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Gutscheine_und_Rabatt_Coupons/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Gutscheine und Rabatt Coupons
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_3">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Gutscheine und Rabatt Coupons
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Gutscheine_und_Rabatt_Coupons/13_01_Gutscheine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gutscheine
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Gutscheine_und_Rabatt_Coupons/13_02_Rabatt_Kupons/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rabatt Coupons
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Schnittstellen/16_01_GoogleServices/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Google Services
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Statistiken/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Statistiken
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_5">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Statistiken
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_01_Besucherstatistik/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Besucherstatistik
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_02_Besuchte_Artikel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Besuchte Artikel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_03_Kampagnen_Report/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kampagnen Report
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_04_Kunden_Bestellstatistik/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kunden-Bestellstatistik
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_05_Umsatzstatistik/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Umsatzstatistik
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_06_Verkaufte_Artikel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verkaufte Artikel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_07_Wer_ist_online/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wer ist online?
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_08_Statistiken_Loeschen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statistiken löschen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Toolbox/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Toolbox
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_6">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Toolbox
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_01_Timer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Timer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_02_Texte_anpassen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Texte anpassen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_03_Cache/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cache
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_04_Datensicherung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Datensicherung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_05_Newsletter/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Newsletter
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_06_Logs_anzeigen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logs anzeigen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_07_Server_Info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Server Info
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_08_SQL/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SQL
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_09_OpenSearch_Plugin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    OpenSearch Plugin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_10_Dateimanager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dateimanager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_11_ZeitgesteuerteAufgaben/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zeitgesteuerte Aufgaben
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_12_ArtikelbilderLoeschen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikelbilder löschen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_13_Weiterleitungsregeln/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weiterleitungsregeln
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../03_Bestellungen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Bestellungen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_4">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Bestellungen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_01_Bestellungen_abwickeln/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellungen abwickeln
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_02_Bestellung_manuell_anlegen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellung manuell anlegen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_03_Bestellung_bearbeiten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellung bearbeiten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_04_Bestellungen_rueckabwickeln/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellung rückabwickeln
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_05_Rechnung_UND_Lieferschein_konfigurieren/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rechnung & Lieferschein konfigurieren
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_07_Widerrufe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Widerrufe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_08_Rechnungsuebersicht/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rechnungsübersicht
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../04_Kunden/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Kunden
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_5">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Kunden
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_01_Kundenregistrierung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundenregistrierung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_02_Haendlerkunden/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Händlerkunden
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_03_Kundenkonten_verwalten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundenkonten verwalten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_04_Administrator_Konten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Administrator-Konten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_05_Kundengruppen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundengruppen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_06_Kundenrezensionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundenrezensionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_07_E_Mails/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    E-Mails
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../05_Artikel_und_Kategorien/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Artikel & Kategorien
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_6">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Artikel & Kategorien
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_01_Kategorien/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kategorien
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_02_Artikel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_03_Artikelattribute_/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikelattribute
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_04_Artikeleigenschaften_/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikeleigenschaften
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_05_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_06_Kollektionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kollektionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_07_GX_Customizer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    GX-Customizer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_08_Zusatzfunktionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zusatzfunktionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_09_Rabatte_UND_Sonderangebote/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rabatte & Sonderangebote
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_10_Import_Export/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Import/Export
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../05_Artikel_und_Kategorien/10_11_QuickEdit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    QuickEdit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../06_Inhalte/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Darstellung / Inhalte
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_7">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Darstellung / Inhalte
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_01_StyleEdit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    StyleEdit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_02_Honeygrid_und_StyleEdit_v3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Honeygrid und StyleEdit v3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_03_StyleEdit4_Themes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    StyleEdit 4 / Themes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_04_Logo_Manager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logo Manager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_05_Teaser_Slider/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Teaser-Slider
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_06_Content_Manager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Content Manager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_07_Banner_Manager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Banner Manager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_08_Shop_Online_Offline/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shop Online/Offline
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_09_Eigene_Fehlerseiten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Eigene Fehlerseiten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_8" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../07_Module/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Module
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_8">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Module
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_1_Versandarten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Versandarten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_2_Zahlungsweisen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zahlungsweisen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_3_Zusammenfassung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zusammenfassung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_4_Modul_Center/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modul-Center
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_5_Zusatzmodule/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zusatzmodule
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Konfiguration und Einstellungen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Konfiguration und Einstellungen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Einstellungen
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Einstellungen
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#einstellungen_shop" class="md-nav__link">
+    Shop
+  </a>
+  
+    <nav class="md-nav" aria-label="Shop">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_shop_allgemein" class="md-nav__link">
+    Allgemein
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_shop_shopbetreiber" class="md-nav__link">
+    Shopbetreiber
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#einstellungen_kunden" class="md-nav__link">
+    Kunden
+  </a>
+  
+    <nav class="md-nav" aria-label="Kunden">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_kunden_kunden" class="md-nav__link">
+    Kunden
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_kunden_kundendaten" class="md-nav__link">
+    Kundendaten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_kunden_mindestlaenge_fuer_kundenfelder" class="md-nav__link">
+    Mindestlänge für Kundenfelder
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#einstellungen_artikel_und_kategorien" class="md-nav__link">
+    Artikel &amp; Kategorien
+  </a>
+  
+    <nav class="md-nav" aria-label="Artikel & Kategorien">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_artikel_und_kategorien_produkte" class="md-nav__link">
+    Produkte
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_artikel_und_kategorien_suche" class="md-nav__link">
+    Suche
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_artikel_und_kategorien_gx_customizer" class="md-nav__link">
+    GX Customizer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_artikel_und_kategorien_lagerverwaltung" class="md-nav__link">
+    Lagerverwaltung
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_artikel_und_kategorien_downloadoptionen" class="md-nav__link">
+    Downloadoptionen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design" class="md-nav__link">
+    Layout &amp; Design
+  </a>
+  
+    <nav class="md-nav" aria-label="Layout & Design">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_layout_und_design" class="md-nav__link">
+    Layout &amp; Design
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_lightbox_anzeigen" class="md-nav__link">
+    Lightbox anzeigen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_logo_manager" class="md-nav__link">
+    Logo Manager
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_startseite" class="md-nav__link">
+    Startseite
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_artikeldetailseite" class="md-nav__link">
+    Artikeldetailseite
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_artikeluebersicht" class="md-nav__link">
+    Artikelübersicht
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_kategorien" class="md-nav__link">
+    Kategorien
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_topmenue" class="md-nav__link">
+    Topmenü
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_warenkorb" class="md-nav__link">
+    Warenkorb
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_bewertungen" class="md-nav__link">
+    Bewertungen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_layout_und_design_bildoptionen" class="md-nav__link">
+    Bildoptionen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches" class="md-nav__link">
+    Rechtliches
+  </a>
+  
+    <nav class="md-nav" aria-label="Rechtliches">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches_link_zur_datenschutzerklaerung_anzeigen" class="md-nav__link">
+    Link zur Datenschutzerklärung anzeigen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches_datenschutzerklaerung_zustimmen" class="md-nav__link">
+    Datenschutzerklärung zustimmen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches_geschaeftsbedingungen" class="md-nav__link">
+    Geschäftsbedingungen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches_widerruf" class="md-nav__link">
+    Widerruf
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches_datenweitergabe_an_versanddienstleister" class="md-nav__link">
+    Datenweitergabe an Versanddienstleister
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches_bestellabschluss" class="md-nav__link">
+    Bestellabschluss
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches_ip_adresse_speichern" class="md-nav__link">
+    IP Adresse speichern
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches_mehrwertsteueranzeige" class="md-nav__link">
+    Mehrwertsteueranzeige
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches_einwilligungsprotokoll_exportieren" class="md-nav__link">
+    Einwilligungsprotokoll exportieren
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_rechtliches_cookie_consent" class="md-nav__link">
+    Cookie Consent
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#einstellungen_lieferung" class="md-nav__link">
+    Lieferung
+  </a>
+  
+    <nav class="md-nav" aria-label="Lieferung">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_lieferung_lieferstatus" class="md-nav__link">
+    Lieferstatus
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_lieferung_versanddienstleister" class="md-nav__link">
+    Versanddienstleister
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#einstellungen_suchmaschinenoptimierung" class="md-nav__link">
+    Suchmaschinenoptimierung
+  </a>
+  
+    <nav class="md-nav" aria-label="Suchmaschinenoptimierung">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_suchmaschinenoptimierung_kampagnen" class="md-nav__link">
+    Kampagnen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_suchmaschinenoptimierung_seo_urls" class="md-nav__link">
+    SEO URLs
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_suchmaschinenoptimierung_meta_angaben" class="md-nav__link">
+    Meta-Angaben
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_suchmaschinenoptimierung_einstellungen_fuer_suchmaschinenbots" class="md-nav__link">
+    Einstellungen für Suchmaschinenbots (robots.txt)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_suchmaschinenoptimierung_sitemap" class="md-nav__link">
+    Sitemap
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_suchmaschinenoptimierung_statische_seiten" class="md-nav__link">
+    Statische Seiten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_suchmaschinenoptimierung_tracking_codes" class="md-nav__link">
+    Tracking Codes
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#einstellungen_sprachen_laender_steuern" class="md-nav__link">
+    Sprachen, Länder, Steuern
+  </a>
+  
+    <nav class="md-nav" aria-label="Sprachen, Länder, Steuern">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_sprachen_laender_steuern_steuerklassen" class="md-nav__link">
+    Steuerklassen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_sprachen_laender_steuern_steuersaetze" class="md-nav__link">
+    Steuersätze
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_sprachen_laender_steuern_umsatzsteuer" class="md-nav__link">
+    Umsatzsteuer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_sprachen_laender_steuern_steuerzonen" class="md-nav__link">
+    Steuerzonen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_sprachen_laender_steuern_laender" class="md-nav__link">
+    Länder
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_sprachen_laender_steuern_waehrungen" class="md-nav__link">
+    Währungen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_sprachen_laender_steuern_bundeslaender" class="md-nav__link">
+    Bundesländer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_sprachen_laender_steuern_sprachen" class="md-nav__link">
+    Sprachen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#einstellungen_system" class="md-nav__link">
+    System
+  </a>
+  
+    <nav class="md-nav" aria-label="System">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_e_mail_optionen" class="md-nav__link">
+    E-Mail Optionen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_e_mail_kontaktadressen" class="md-nav__link">
+    E-Mail Kontaktadressen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_e_mail_rechnungsadressen" class="md-nav__link">
+    E-Mail Rechnungsadressen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_e_mail_supportadressen" class="md-nav__link">
+    E-Mail Supportadressen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_rechnung_und_lieferschein" class="md-nav__link">
+    Rechnung &amp; Lieferschein
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_bestell_und_kundennummer" class="md-nav__link">
+    Bestell- und Kundennummer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_passwortverschluesselung" class="md-nav__link">
+    Passwortverschlüsselung
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_anmeldeversuche" class="md-nav__link">
+    Anmeldeversuche
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_suchmaschinen" class="md-nav__link">
+    Suchmaschinen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_sicherheitsabfragen" class="md-nav__link">
+    Sicherheitsabfragen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_sicherheitsabfragen_anzeigen" class="md-nav__link">
+    Sicherheitsabfragen anzeigen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_wartungsmodus" class="md-nav__link">
+    Wartungsmodus
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_gambio_admin" class="md-nav__link">
+    Gambio Admin
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_shop_key" class="md-nav__link">
+    Shop Key
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_sessions" class="md-nav__link">
+    Sessions
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_performance" class="md-nav__link">
+    Performance
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen_system_logging" class="md-nav__link">
+    Logging
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../Konfiguration/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Konfiguration
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9_2">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            Konfiguration
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Konfiguration/5_01_Shop_Key/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shop-Key
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Konfiguration/5_02_E_Mail_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    E-Mail-Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Konfiguration/5_03_Bild_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bild-Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Konfiguration/5_05_Rechtliche_Einstellung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rechtliche Einstellungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Konfiguration/5_07_Lager_und_Bestandseinstellungen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lager- und Bestandseinstellungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Konfiguration/5_08_Konfiguration_des_G_Protectors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Konfiguration des G-Protectors
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Konfiguration/5_11_Kampagnen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kampagnen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Konfiguration/5_13_Nummernkreise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nummernkreise
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Konfiguration/5_16_Versand_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Versand-Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Konfiguration/5_18_Paketversender/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paketdienste
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../Lokalisierung/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Lokalisierung
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9_3">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3">
+            <span class="md-nav__icon md-icon"></span>
+            Lokalisierung
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Lokalisierung/8_1_Laender/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Länder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Lokalisierung/8_2_Sprachen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sprachen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Lokalisierung/8_3_Steuer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Steuer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Lokalisierung/8_4_Waehrungen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Währungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../Suchmaschinen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Suchmaschinen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9_4">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_4">
+            <span class="md-nav__icon md-icon"></span>
+            Suchmaschinen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Suchmaschinen/7_1_Gambio_SEO_Boost/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gambio SEO Boost
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Suchmaschinen/7_2_Meta_Angaben/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta-Angaben
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Suchmaschinen/7_3_Robots_Datei/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Robots-Datei
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Suchmaschinen/7_4_Sitemap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sitemap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Suchmaschinen/7_5_StatischeSeiten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statische Seiten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Suchmaschinen/7_6_Tracking_Codes_/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tracking-Codes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Suchmaschinen/7_7_URL_Rewrite/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    URL Rewrite
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Suchmaschinen/7_8_htaccessUndSEO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    .htaccess und SEO
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_10" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../Anhang/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Anhang
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_10">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Anhang
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Anhang/19_01_Lizenzhinweise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lizenzhinweise
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Anhang/19_02_Liste_der_Laender/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Liste der Länder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+  
+
+<nav class="md-tags" hidden>
+  
+    
+    
+    
+      <span class="md-tag">configurations</span>
+    
+  
+    
+    
+    
+      <span class="md-tag">settings</span>
+    
+  
+</nav>
+
+
+
+<h1 id="einstellungen">Einstellungen<a class="headerlink" href="#einstellungen" title="Permanent link">&para;</a></h1>
+<p><img alt="" src="../../Bilder/einstellungen_uebersicht.png" title="Ansicht beim Laden der Einstellungsseite" /></p>
+<p>Ab Version 4.3 steht im Shop ein überarbeiteter Bereich mit den Grundeinstellungen zur Verfügung. Dieser ist in die Kategorien</p>
+<ul>
+<li>Shop</li>
+<li>Kunden</li>
+<li>Artikel &amp; Kategorien</li>
+<li>Layout &amp; Design</li>
+<li>Rechtliches</li>
+<li>Lieferung</li>
+<li>Suchmaschinenoptimierung</li>
+<li>Sprachen, Länder, Steuern</li>
+<li>System</li>
+</ul>
+<p>aufgeteilt. Zudem steht am oberen Ende der Seite eine Suchleiste zur Verfügung, mit der nach Einträgen gefiltert werden kann. Die Ansicht wird hierbei sofort bei der Eingabe angepasst und Übereinstimmungen hervorgehoben.</p>
+<p>Am unteren Ende der Seite befindet sich der <em><strong>Speichern</strong></em>-Button. Dieser ist ausgegraut, solange keine Änderungen vorgenommen worden sind. Der Speichern-Button übernimmt geänderte Einstellungen aus allen Bereichen und Kategorien.</p>
+<h2 id="einstellungen_shop">Shop<a class="headerlink" href="#einstellungen_shop" title="Permanent link">&para;</a></h2>
+<h3 id="einstellungen_shop_allgemein">Allgemein<a class="headerlink" href="#einstellungen_shop_allgemein" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name des Shops</td>
+<td>Name des Shops, wird als Titel angezeigt</td>
+</tr>
+<tr>
+<td>Firmenname</td>
+<td>Name deiner Firma</td>
+</tr>
+<tr>
+<td>Geschäftsadresse und Telefonnummer etc.</td>
+<td>Geschäftsadresse, wird z.B. im Briefkopf der Bestellbestätigung verwendet</td>
+</tr>
+<tr>
+<td>Deine Zeitzone</td>
+<td>Zeitzone des Firmensitzes</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_shop_shopbetreiber">Shopbetreiber<a class="headerlink" href="#einstellungen_shop_shopbetreiber" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Inhaber</td>
+<td>Name des Shopbetreibers</td>
+</tr>
+<tr>
+<td>Vorname</td>
+<td>Vorname des Shopbetreibers</td>
+</tr>
+<tr>
+<td>Nachname</td>
+<td>Nachname des Shopbetreibers</td>
+</tr>
+<tr>
+<td>Straßenname</td>
+<td>Straßenname des Firmensitzes</td>
+</tr>
+<tr>
+<td>Hausnummer</td>
+<td>Hausnummer des Firmensitzes</td>
+</tr>
+<tr>
+<td>Postleitzahl</td>
+<td>Postleitzahl des Firmensitzes</td>
+</tr>
+<tr>
+<td>Ort</td>
+<td>Ort des Firmensitzes</td>
+</tr>
+<tr>
+<td>Land</td>
+<td>Land aus dem der Versand erfolgt</td>
+</tr>
+<tr>
+<td>Region</td>
+<td>Region des Landes, aus dem der Versand erfolgt</td>
+</tr>
+<tr>
+<td>E-Mail-Adresse</td>
+<td>E-Mail-Adresse des Shopbetreibers</td>
+</tr>
+<tr>
+<td>Telefonnummer</td>
+<td>Telefonnummer des Shopbetreibers</td>
+</tr>
+<tr>
+<td>Faxnummer</td>
+<td>Faxnummer des Shopbetreibers</td>
+</tr>
+</tbody>
+</table>
+<h2 id="einstellungen_kunden">Kunden<a class="headerlink" href="#einstellungen_kunden" title="Permanent link">&para;</a></h2>
+<h3 id="einstellungen_kunden_kunden">Kunden<a class="headerlink" href="#einstellungen_kunden_kunden" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vorgabe für Kontoart</td>
+<td>Welche Kontoart soll im Anmeldevorgang vorausgewählt sein (<em><strong>Gastkonto</strong></em>: kein Haken für das Anlegen eines Kundenkontos gesetzt, <em><strong>Kundenkonto</strong></em>: Haken für das Anlegen eines Kundenkontos gesetzt)</td>
+</tr>
+<tr>
+<td>Löschen von Gastkonten</td>
+<td>Soll das Gastkonto nach erfolgreicher Bestellung gelöscht werden?</td>
+</tr>
+<tr>
+<td>Adressbucheinträge</td>
+<td>Maximal erlaubte Anzahl an Adressbucheinträgen</td>
+</tr>
+<tr>
+<td>Bestellübersicht</td>
+<td>Maximale Anzahl an Bestellungen, die in der Übersicht unter <em><strong>Ihr Konto</strong></em> angezeigt werden sollen.</td>
+</tr>
+<tr>
+<td>Standardwert für Gewerbetreibender-Status</td>
+<td>Standardwert für den Gewerbetreibender-Status bei der Kundenanmeldung, greift auch, wenn die Einstellung nicht angezeigt wird.</td>
+</tr>
+<tr>
+<td>Bestellübersichts-Box</td>
+<td>Maximale Anzahl an Artikeln, die in der persönlichen Bestellübersichts-Box des Kunden angezeigt werden sollen</td>
+</tr>
+<tr>
+<td>Kundengruppencheck</td>
+<td>Aktiviert den Kundengruppencheck zur Zugangsbeschränkung von Inhalten nach Kundengruppe. Weitere Informationen findest du im Kapitel <em><strong>Kundengruppencheck</strong></em>.</td>
+</tr>
+<tr>
+<td>Kundengruppe für Neukunden</td>
+<td>Kundengruppe, der ein Kunde nach der Anmeldung zugeordnet wird.</td>
+</tr>
+<tr>
+<td>Art der Kontoerstellung</td>
+<td>Welche Art Konto soll bei der Anmeldung erstellt werden können?</td>
+</tr>
+<tr>
+<td></td>
+<td>bei der Kontoerstellung <em><strong>Kundenkonto</strong></em> können ausschließlich registrierte Kunden in deinem Shop bestellen</td>
+</tr>
+<tr>
+<td></td>
+<td>bei der Kontoerstellung <em><strong>Gastkonto</strong></em> können keine Kundenkonten für Stammkunden angelegt werden</td>
+</tr>
+<tr>
+<td></td>
+<td>bei der Kontoerstellung <em><strong>beides</strong></em> können Kunden sich in deinem Shop registrieren oder ohne Kundenkonto bestellen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_kunden_kundendaten">Kundendaten<a class="headerlink" href="#einstellungen_kunden_kundendaten" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Anrede als Pflichtfeld</td>
+<td>Legt fest, ob die Anrede bei der Kundenanmeldung zwingend ausgefüllt werden muss.</td>
+</tr>
+<tr>
+<td>Addresszusatzfeld anzeigen</td>
+<td>Soll das Adresszusatzfeld bei der Kundenanmeldung angezeigt werden?</td>
+</tr>
+<tr>
+<td>Gewerbetreibender-Status</td>
+<td>Abfrage des Gewerbetreibender-Status bei der Kundenanmeldung</td>
+</tr>
+<tr>
+<td>Firma</td>
+<td>Abfrage für Firma und Umsatzsteuer-ID bei der Kundennameldung</td>
+</tr>
+<tr>
+<td>Geburtsdatum</td>
+<td>Abfrage des Geburtsdatum bei der Kundenanmeldung</td>
+</tr>
+<tr>
+<td>Faxnummer</td>
+<td>Abfrage der Faxnummer bei der Kundenanmeldung</td>
+</tr>
+<tr>
+<td>Anrede</td>
+<td>Abfrage der Anrede bei der Kundenanmeldung</td>
+</tr>
+<tr>
+<td>Vor- &amp; Nachname optional</td>
+<td>Soll die Angabe von Vor- und Nachname bei der Kundenanmeldung optional sein, wenn ein Firmenname angegeben wird?</td>
+</tr>
+<tr>
+<td>Straße und Hausnummer trennen</td>
+<td>Sollen für Straße und Hausnummer zwei getrennte Eingabefelder bei der Kundenanmeldung verwendet werden?</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Externe Module (Zahlungsmodule, ERP, Warenwirtschaften etc.) müssen Straße und Hausnummer getrennt verarbeiten können. Wenn du dir nicht sicher bist, lasse diese Option deaktiviert.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bundesland</td>
+<td>Abfrage des Bundeslandes bei der Kundenanmeldung</td>
+</tr>
+<tr>
+<td>Stadtteil</td>
+<td>Abfrage des Stadtteils bei der Kundenanmeldung</td>
+</tr>
+<tr>
+<td>Telefonnummer</td>
+<td>Abfrage der Telefonnummer bei der Kundenanmeldung</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_kunden_mindestlaenge_fuer_kundenfelder">Mindestlänge für Kundenfelder<a class="headerlink" href="#einstellungen_kunden_mindestlaenge_fuer_kundenfelder" title="Permanent link">&para;</a></h3>
+<p>Über die Mindstlänge können Felder als Plfichtfelder festgelegt werden. Ist für die Mindestlänge ein Wert größer als 0 eingetragen, ist das betreffende Feld ein Pflichtfeld.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Firma kann standardmäßig nicht als Pflichtangabe gesetzt werden. Eine Prüfung der Mindestlänge findet nur dann statt, wenn eine Eingabe in diesem Feld erfolgt.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stadt</td>
+<td>Mindestlänge des Städtenamens</td>
+</tr>
+<tr>
+<td>Firma</td>
+<td>Mindestlänge des Firmennamens</td>
+</tr>
+<tr>
+<td>Geburtsdatum</td>
+<td>Mindestlänge des Geburtsdatums</td>
+</tr>
+<tr>
+<td>E-Mail-Adresse</td>
+<td>Mindestlänge der E-Mail-Adresse</td>
+</tr>
+<tr>
+<td>Vorname</td>
+<td>Mindestlänge des Vornamens</td>
+</tr>
+<tr>
+<td>Hausnummer</td>
+<td>Mindestlänge der Hausnummer</td>
+</tr>
+<tr>
+<td>Nachname</td>
+<td>Mindestlänge des Nachnamens</td>
+</tr>
+<tr>
+<td>Passwort</td>
+<td>Mindestlänge des Passworts</td>
+</tr>
+<tr>
+<td>Postleitzahl</td>
+<td>Mindestlänge der Postleitzahl</td>
+</tr>
+<tr>
+<td>Bundesland</td>
+<td>Mindestlänge des Bundeslandes</td>
+</tr>
+<tr>
+<td>Straße</td>
+<td>Mindestlänge der Straßenanschrift</td>
+</tr>
+<tr>
+<td>Telefonnummer</td>
+<td>Mindestlänge der Telefonnummer</td>
+</tr>
+</tbody>
+</table>
+<h2 id="einstellungen_artikel_und_kategorien">Artikel &amp; Kategorien<a class="headerlink" href="#einstellungen_artikel_und_kategorien" title="Permanent link">&para;</a></h2>
+<h3 id="einstellungen_artikel_und_kategorien_produkte">Produkte<a class="headerlink" href="#einstellungen_artikel_und_kategorien_produkte" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eigenschaft-Artikelnummer anhängen</td>
+<td>Soll die Artikelnummer der Eigenschaften-Kombination (Variante) eines Aritkels an die Artikelnummer des Haupt-Artikels angehängt werden, anstatt diese zu ersetzen?</td>
+</tr>
+<tr>
+<td>Max. Zeichen für Artikelnamen in der Menübox "Bestellübersicht"</td>
+<td>Begrenzung des Artikelnamens in der Menübox "Bestellübersicht"</td>
+</tr>
+<tr>
+<td>UVP bei Sonderangebotspreisen anzeigen</td>
+<td>Ist der Haken gesetzt, wird bei Sonderangeboten der ursprüngliche Artikelpreis mit dem Zusatz <em><strong>UVP</strong></em> angezeigt. Der Zusatz kann bei Bedarf unter <em><strong>Inhalte &gt; Texte anpassen</strong></em> geändert werden.</td>
+</tr>
+<tr>
+<td>Normalpreis bei rabattierten Preisen anzeigen</td>
+<td>Ist der Haken gesetzt, wird bei einem Artikel mit Artikelrabatt zusätzlich der Normalpreis und die prozentuale Ersparnis angezeigt</td>
+</tr>
+<tr>
+<td>Normalpreis bei reduzierten Kundengruppen- und Staffelpreisen anzeigen</td>
+<td>Ist der Haken gesetzt, wird bei einem Artikel mit Kundengruppen- bzw. Staffelpreisen zusätzlich der Normalpreis angezeigt</td>
+</tr>
+<tr>
+<td>Bei der Preisermittlung die Zusammenfassung von Artikelbeständen nicht unterbinden</td>
+<td>Wenn der Haken gesetzt ist, wird beim mehrfachen Bestellen eines Artikels mit GX-Customizer die gesamte Bestellmenge für Staffelpreise berücksichtigt. Dies gilt auch, wenn der Kunde über das GX-Customizer-Set verschiedene Variationen des Artikels bestellt.</td>
+</tr>
+<tr>
+<td>Bestseller</td>
+<td>Maximale Anzahl an Bestsellern, die angezeigt werden sollen.</td>
+</tr>
+<tr>
+<td>Neue Artikel Liste</td>
+<td>Maximale Anzahl der neuen Artikel, die in der Liste angezeigt werden sollen.</td>
+</tr>
+<tr>
+<td>Bestseller</td>
+<td>Minimale Anzahl an Bestsellern, die angezeigt werden sollen.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_artikel_und_kategorien_suche">Suche<a class="headerlink" href="#einstellungen_artikel_und_kategorien_suche" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Suchvorschläge aktivieren</td>
+<td>Die Suche im Header schlägt Suchbegriffe anhand der Eingabe vor.</td>
+</tr>
+<tr>
+<td>Quick Search</td>
+<td>Schnellsuche im Top-Menü wird verwendet</td>
+</tr>
+<tr>
+<td>Suchverknüpfung</td>
+<td>Sollen alle Suchbegriffe im Suchergebnis vorkommen (<em><strong>und</strong></em>) oder muss nur mindestens ein Suchbegriff vorkommen (<em><strong>oder</strong></em>)?</td>
+</tr>
+<tr>
+<td>Suche in Artikelattributen/Artikeleigenschaften</td>
+<td>Wird dies deaktiviert, werden die Informationen aus den Attributen und Eigenschaften nicht mehr bei der Suche berücksichtigt. Da die Suche in den Artikelattributen und Eigenschaften zu einer ungleich umfassenderen Suche führt, kann dies in Shops mit vielen Attributen bzw. Eigenschaften zu sehr langen Ladezeiten beim Ausführen der Suche führen. Die Deaktivierung kann daher die Performance des Shops verbessern.</td>
+</tr>
+<tr>
+<td>Suche in Artikelbeschreibungen</td>
+<td>Wird dieser Punkt deaktiviert, sucht der Shop nur noch in den Artikelnamen, Artikelnummern und EANs nach dem Suchbegriff</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_artikel_und_kategorien_gx_customizer">GX Customizer<a class="headerlink" href="#einstellungen_artikel_und_kategorien_gx_customizer" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Set Position</td>
+<td>Legt fest, wo genau auf der Artikel-Detailseite das Customizer-Set angezeigt wird.</td>
+</tr>
+<tr>
+<td>Set-Breite ignorieren und in Artikeldetailansicht maximale Breite anzeigen?</td>
+<td>Bei ✔ wird die Breiten-Einstellung des im Set festgelegten Bereichs nicht verwendet. Stattdessen wird der maximal verfügbare Platz in dem jeweiligen Teil der Artikel-Detailseite ausgenutzt. Bei ✖ ist die im Bereich eingestellte Breite die maximale Breite.</td>
+</tr>
+<tr>
+<td>Kürzen von Texteingaben in Übersichten</td>
+<td>Vom Kunden eingegebene Texte werden im Warenkorb, auf der Bestellbestätigungsseite vor Abschluss der Bestellung, im Gambio Admin in der Bestellungenübersicht und in der Bestelldetailansicht in der Artikelauflistung auf die angegebene Zeichenzahl gekürzt (0 = kein Kürzen). Der gesamte Text wird weiterhin im Set, in der Druckversion der Bestellbestätigung, in der Bestellbestätigungs-E-Mail, in der PDF-Rechnung und im PDF-Lieferschein angezeigt.</td>
+</tr>
+<tr>
+<td>Leerzeichen bei der Berechnung der maximalen Zeichenanzahl in Texteingabefeldern ausschließen?</td>
+<td>Wenn diese Einstellung aktiviert ist, werden Leerzeichen bei der Begrenzung der Zeichenanzahl nicht mitgezählt.</td>
+</tr>
+<tr>
+<td>Tabs zum Wechseln der Bereiche in Artikeldetailseite anzeigen?</td>
+<td>Ist der Haken gesetzt, kann das Customizer-Set als eigener Tab angezeigt werden (siehe Set Position)</td>
+</tr>
+<tr>
+<td>Anzahl erlaubter Dateiuploads pro Besucher (0 = keine Begrenzung)</td>
+<td>Begrenzt die Anzahl der Dateien, die über den GX-Customizer hochgeladen werden können.</td>
+</tr>
+<tr>
+<td>Zeitraum in Minuten, für den die Begrenzung der Anzahl an Dateiuploads gilt</td>
+<td>Wie lange gilt die oben festgelegte Begrenzung?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_artikel_und_kategorien_lagerverwaltung">Lagerverwaltung<a class="headerlink" href="#einstellungen_artikel_und_kategorien_lagerverwaltung" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Überprüfen des Artikelbestandes</td>
+<td>Prüfen, ob die Artikel in angeforderter Menge auf Lager sind, um Bestellung ausführen zu können</td>
+</tr>
+<tr>
+<td>Soll nach Ablegen eines Artikels in den Warenkorb der Warenkorb angezeigt werden?</td>
+<td>bei ✔ wird der Warenkorb angezeigt, sobald ein Artikel hineingelegt wurde.</td>
+</tr>
+<tr>
+<td>Artikel inaktiv setzen</td>
+<td>Artikel auf inaktiv setzen, wenn diese nach einer Bestellung nicht mehr auf Lager sind</td>
+</tr>
+<tr>
+<td>Attribut inaktiv setzen</td>
+<td>Attributwerte/Attribut-Optionswerte ausblenden, wenn diese nicht mehr auf Lager sind</td>
+</tr>
+<tr>
+<td>Attributlagerbestand anzeigen</td>
+<td>Attributlagerbestand hinter jedem Attribut-Optionswert anzeigen</td>
+</tr>
+<tr>
+<td>Überprüfen des Artikelattribut-Bestandes</td>
+<td>Überprüfen, ob der Bestand von Artikelattributen in ausreichender Menge auf Lager ist, um Bestellung ausführen zu können</td>
+</tr>
+<tr>
+<td>Überprüfen des Downloadartikel-Bestandes</td>
+<td>Prüfen ob die Download-Artikel in der angeforderten Menge auf Lager sind, um eine Bestellung ausführen zu können.</td>
+</tr>
+<tr>
+<td>Artikelmenge abziehen</td>
+<td>Artikelmenge vom Artikelbestand abziehen, wenn der Artikel bestellt wurde</td>
+</tr>
+<tr>
+<td>Einkaufen nicht vorrätiger Artikel erlauben</td>
+<td>Erlauben zu bestellen, auch dann, wenn bestimmte Artikel laut Lagerbestand nicht verfügbar sind.</td>
+</tr>
+<tr>
+<td>Kennzeichnung vergriffener Artikel</td>
+<td>Kennzeichnung vergriffener Artikel, um dem Kunden kenntlich zu machen, welche Artikel nicht mehr verfügbar sind.</td>
+</tr>
+<tr>
+<td>Meldung an den Shopbetreiber, dass ein Artikel nachbestellt werden muss</td>
+<td>Stückzahl ab welcher diese E-Mail versendet werden soll.</td>
+</tr>
+<tr>
+<td>Lagerbestand vor dem Warenkorb prüfen?</td>
+<td>Überprüft den Lagerbestand bereits auf der Artikeldetailseite.</td>
+</tr>
+<tr>
+<td>Maximale Bestellmenge je Artikel</td>
+<td>Maximale Menge, die je Artikel bestellt werden kann.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_artikel_und_kategorien_downloadoptionen">Downloadoptionen<a class="headerlink" href="#einstellungen_artikel_und_kategorien_downloadoptionen" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Dieser Bereich verwendet ein erweitertes Dropdown-Menü zur Auswahl von Einträgen.</p>
+<p><img alt="" src="../../Bilder/einstellungen_dropdownEingeklappt.png" title="Eintrag _**Versendet**_ für die Einstellung     _**Download-Bestellstatus**_ ausgewählt" /></p>
+<p>Klappe das Dropdown wie gewohnt über das nach unten weisende Dreieck-Symbol aus. Bereits ausgewählte Einträge werden grau hinterlegt angezeigt.</p>
+<p><img alt="" src="../../Bilder/einstellungen_dropdown.png" title="Erweitertes Dropdown für die Einstellung     _**Download-Bestellstatus**_" /></p>
+<p>Beim Hovern werden Einträge, die ausgewählt werden können, grün hinterlegt. Einträge die bereits ausgewählt sind und abgewählt werden können, werden rot hinterlegt.</p>
+<p><img alt="" src="../../Bilder/einstellungen_dropdownZweiEintraege.png" title="Einträge _**Versendet**_ und _**Rechnung     erstellt**_ für die Einstellung     _**Download-Bestellstatus**_ ausgewählt" /></p>
+<p>Einträge können auch durch Klick auf das <em><strong>x</strong></em> hinter dem Namen wieder entfernt werden.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Download von Artikeln erlauben</td>
+<td>Hierdurch wird die Download-Artikel-Funktion aktiviert. Setze diese Einstellung, wenn du Download-Artikel anbieten möchtest.</td>
+</tr>
+<tr>
+<td>Download durch Weiterleitung</td>
+<td>Über diese Einstellung kann eine Browser-Umleitung für Artikeldownloads eingeschaltet werden. Diese Einstellung ist standardmäßig nicht gesetzt.</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Bitte aktiviere diese Funktion nur, wenn du dir absolut sicher bist, dass sie benötigt wird. Anderenfalls kann das Herunterladen von Dateien durch diese Einstellung beeinträchtigt oder unmöglich gemacht werden.</p>
+<p>Auf Nicht-Linux/Unix Systemen sollte diese Einstellung ausgeschaltet sein.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ausgeschlossene Zahlungsmodule</td>
+<td>Nicht erlaubte Zahlungsweisen für Downloadartikel.</td>
+</tr>
+<tr>
+<td>Download-Bestellstatus</td>
+<td>Bestellstatus für die Downloads freigegeben sind.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="einstellungen_layout_und_design">Layout &amp; Design<a class="headerlink" href="#einstellungen_layout_und_design" title="Permanent link">&para;</a></h2>
+<h3 id="einstellungen_layout_und_design_layout_und_design">Layout &amp; Design<a class="headerlink" href="#einstellungen_layout_und_design_layout_und_design" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Shop Logo</td>
+<td>Schaltet die Anzeige des Shop-Logos an oder ab.</td>
+</tr>
+<tr>
+<td>Automatische Silbentrennung aktivieren</td>
+<td>Artikelnamen orthografisch trennen</td>
+</tr>
+<tr>
+<td>Artikel-Ribbons aktivieren</td>
+<td>Artikel-Ribbons in der Artikelübersicht anzeigen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_layout_und_design_lightbox_anzeigen">Lightbox anzeigen<a class="headerlink" href="#einstellungen_layout_und_design_lightbox_anzeigen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>im Bestellvorgang</td>
+<td>Bestellvorgang als Lightbox anzeigen</td>
+</tr>
+<tr>
+<td>im Warenkorb</td>
+<td>Warenkorb als Lightbox anzeigen</td>
+</tr>
+<tr>
+<td>im Anmeldevorgang</td>
+<td>Anmeldevorgang als Lightbox anzeigen</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Anzeige als Lightbox steht ggf. nicht in allen Templates oder Themes zur Verfügung.</p>
+</div>
+<h3 id="einstellungen_layout_und_design_logo_manager">Logo Manager<a class="headerlink" href="#einstellungen_layout_und_design_logo_manager" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Logo-Manager</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um zum Logo Manager zu wechseln</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_layout_und_design_startseite">Startseite<a class="headerlink" href="#einstellungen_layout_und_design_startseite" title="Permanent link">&para;</a></h3>
+<p><img alt="" src="../../Bilder/Abb157_ArtikelImSwiper.png" title="Artikel in einem Swiper" /></p>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>In Kürze verfügbare Produkte in Swiper anzeigen</td>
+<td>Artikelankündigungen werden im Swiper auf der Startseite angezeigt.</td>
+</tr>
+<tr>
+<td>Empfehlungen in Swiper anzeigen</td>
+<td>Empfehlungen werden im Swiper auf der Startseite angezeigt.</td>
+</tr>
+<tr>
+<td>Angebote in Swiper anzeigen</td>
+<td>Sonderangebote werden im Swiper auf der Startseite angezeigt.</td>
+</tr>
+<tr>
+<td>Neue Produkte in Swiper anzeigen</td>
+<td>Neue Artikel werden im Swiper auf der Startseite angezeigt.</td>
+</tr>
+<tr>
+<td>Zeitraum (Tage) für neue Artikel</td>
+<td>Zeitraum in Tagen, wie lange ein Artikel als neu gilt</td>
+</tr>
+<tr>
+<td>Sonderangebote</td>
+<td>Maximale Anzahl an Sonderangeboten, die angezeigt werden sollen.</td>
+</tr>
+<tr>
+<td>Artikelankündigungen</td>
+<td>Maximale Anzahl an angekündigten Artikeln, die auf der Startseite angezeigt werden sollen.</td>
+</tr>
+<tr>
+<td>Auswahlpool der neuen Artikel</td>
+<td>Aus wie vielen neuen Artikeln sollen die zufällig angezeigten neuen Artikel in der Box und auf der Startseite ausgewählt werden?</td>
+</tr>
+<tr>
+<td>Auswahlpool der Sonderangebote</td>
+<td>Aus wie vielen Sonderangeboten sollen die zufällig angezeigten Sonderangebote in der Box und auf der Startseite ausgewählt werden?</td>
+</tr>
+<tr>
+<td>Max. Zeichen für Artikelnamen auf der Startseite</td>
+<td>Vorgabe für die maximale Zeichenanzahl bei Artikelnamen auf der Startseite. Die tatsächliche Anzahl hängt auch von der Wort-Trennung und der Kachelgröße ab.</td>
+</tr>
+<tr>
+<td>Anzahl der Angebote auf der Startseite</td>
+<td>Anzahl der Sonderangebote, die auf der Startseite angezeigt werden.</td>
+</tr>
+<tr>
+<td>Anzahl der neuen Artikel auf der Startseite</td>
+<td>Anzahl der neuen Artikel, die auf der Startseite angezeigt werden.</td>
+</tr>
+<tr>
+<td>Anzahl der empfohlenen Artikel auf der Startseite</td>
+<td>Anzahl der Empfehlungen, die auf der Startseite angezeigt werden.</td>
+</tr>
+<tr>
+<td>Reihenfolge für Artikelankündigungen</td>
+<td>Sollen Artikelankündigungen in aufsteigender oder absteigender Reihenfolge angezeigt werden?</td>
+</tr>
+<tr>
+<td>Artikelankündigungen sortieren nach</td>
+<td>Sollen Artikelankündigungen nach <em><strong>Erscheinungsdatum</strong></em> oder <em><strong>Artikelname</strong></em> sortiert werden?</td>
+</tr>
+<tr>
+<td>Zeichenanzahl nach der die Artikelnamen im "Flyover" gekürzt werden.</td>
+<td>Längenbegrenzung des Artikelnames im Flyover.</td>
+</tr>
+<tr>
+<td>Zeichenanzahl nach der der Artikelkurztext im "Flyover" gekürzt wird.</td>
+<td>Längenbegrenzung der Kurzbeschreibung im Flyover.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_layout_und_design_artikeldetailseite">Artikeldetailseite<a class="headerlink" href="#einstellungen_layout_und_design_artikeldetailseite" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hersteller-Bilder anzeigen</td>
+<td>Anzeige des Hersteller-Bilds auf der Artikeldetailseite</td>
+</tr>
+<tr>
+<td>Zusatzfelder auf Detailseite aktivieren</td>
+<td>Die Inhalte der Zusatzfelder werden auf der Detailseite angezeigt</td>
+</tr>
+<tr>
+<td>Bilderzoom aktivieren</td>
+<td>Aktivieren der Lupenfunktion für das Artikelbild</td>
+</tr>
+<tr>
+<td>Merkzettel aktivieren</td>
+<td>Aktivieren des Merkzettels auf der Artikeldetaiseite</td>
+</tr>
+<tr>
+<td>"Frage zum Produkt"-Modul aktivieren?</td>
+<td>Der Link <em><strong>Frage zu Produkt</strong></em> wird auf der Artikel-Detailseite unterhalb des Warenkorb-Buttons angezeigt</td>
+</tr>
+<tr>
+<td>Facebook "Gefällt mir"-Button auf Detailseite aktivieren</td>
+<td>Aktivieren des <em><strong>Gefällt Mir</strong></em>-Buttons auf der Artikeldetailseite</td>
+</tr>
+<tr>
+<td>WhatsApp-Teilen-Button auf Detailseite aktivieren</td>
+<td>Aktivieren des WhatsApp <em><strong>teilen</strong></em>-Buttons auf der Artikeldetailseite</td>
+</tr>
+<tr>
+<td>Tweet-Button (Twitter) auf Detailseite aktivieren</td>
+<td>Aktivieren des <em><strong>Tweet</strong></em>-Buttons auf der Artikeldetailseite</td>
+</tr>
+<tr>
+<td>Pinterest-Button auf Detailseite aktivieren</td>
+<td>Aktivieren des <em><strong>Pinterest</strong></em>-Buttons auf der Artikeldetailseite</td>
+</tr>
+<tr>
+<td>Bildergalerie als Lightbox einbinden</td>
+<td>Die Bildergalerie wird als Lightbox angezeigt</td>
+</tr>
+<tr>
+<td>Bildergalerie aktivieren</td>
+<td>Aktiviert die Bildergalerie auf der Artikeldetailseite (standardmäßig aktiviert).</td>
+</tr>
+<tr>
+<td>"Datenblatt drucken"-Link auf Detailseite aktivieren</td>
+<td>Zeigt den Link zum Drucken des Datenblatts auf der Detailseite an.</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Funktion <em><strong>Datenblatt drucken</strong></em> steht ggf. nicht in allen Templates oder Themes zur Verfügung.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Artikelnummer anzeigen</td>
+<td>Anzeige der Artikelnummer auf der Artikeldetailseite aktivieren</td>
+</tr>
+<tr>
+<td>Ebenfalls gekauft</td>
+<td>maximale Anzahl der ebenfalls gekauften Artikel, die in der Artikeldetailansicht angezeigt werden sollen</td>
+</tr>
+<tr>
+<td>Zeitraum (Tage) für ebenfalls gekaufte Artikel</td>
+<td>Zeitraum in Tagen, wie alt die Bestellung des ebenfalls gekauften Artikels sein darf.</td>
+</tr>
+<tr>
+<td>Reverse Cross Marketing</td>
+<td>maximale Anzahl der Reverse Cross Marketing Artikel, die in der Box <em><strong>Dieses Produkt ist z.B. kompatibel zu</strong></em> in der Artikeldetailansicht angezeigt werden sollen</td>
+</tr>
+<tr>
+<td>Ebenfalls gekauft</td>
+<td>Minimum Anzahl der ebenfalls gekauften Artikel, die bei der Artikelansicht angezeigt werden sollen.</td>
+</tr>
+<tr>
+<td>Kunden E-Mail-Adresse als Absender des "Frage zum Produkt"-Modul verwenden</td>
+<td>Setzt die E-Mail-Adresse des Kunden als Absender ein, anstelle des in den E-Mail-Optionen eingestellten Absenders.</td>
+</tr>
+<tr>
+<td>Reverse Cross-Marketing</td>
+<td>Das Reverse Cross-Marketing ist eine Zusatzfunktion zum Cross Selling (siehe Kapitel <em><strong>Cross Selling</strong></em>), über das zu einem ausgewählten Artikel weitere Artikel empfohlen werden können. Ist das Reverse Cross-Marketing aktiviert, findet eine Rückverknüpfung von dem empfohlenen Artikel zum ursprünglichen Artikel statt.</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Das <em><strong>Reverse Cross-Marketing</strong></em> kann bei einer größeren Anzahl von Artikeln die Auslastung deines Server erhöhen. Bitte prüfe nach der Aktivierung, ob sich der Shop beim Aufruf der Artikel spürbar verlangsamt hat. Ist dies der Fall, sollte das <em><strong>Reverse Cross-Marketing</strong></em> nach Möglichkeit nicht verwendet werden.</p>
+</div>
+<h3 id="einstellungen_layout_und_design_artikeluebersicht">Artikelübersicht<a class="headerlink" href="#einstellungen_layout_und_design_artikeluebersicht" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lagerbestand anzeigen (z. B. Suchergebnisse, Hersteller-Artikel)</td>
+<td>Lagerbestand in der Artikelübersicht anzeigen</td>
+</tr>
+<tr>
+<td>Artikelattribute anzeigen (z. B. Suchergebnisse, Hersteller-Artikel)</td>
+<td>Attribute in der Artikelübersicht anzeigen</td>
+</tr>
+<tr>
+<td>Staffelpreise anzeigen (z. B. Suchergebnisse, Hersteller-Artikel)</td>
+<td>Staffelpreise in der Artikelübersicht anzeigen</td>
+</tr>
+<tr>
+<td>Mengeneingabefeld anzeigen (z. B. Suchergebnisse, Hersteller-Artikel)</td>
+<td>Mengeneingabefeld in der Artikelübersicht anzeigen</td>
+</tr>
+<tr>
+<td>Gekachelte Artikelauflistung (z. B. Suchergebnisse, Hersteller-Artikel)</td>
+<td>Wenn aktiviert, werden Artikel in der Artikelübersicht gekachelt angezeigt, sonst in Listenform</td>
+</tr>
+<tr>
+<td>Hersteller-Bilder anzeigen</td>
+<td>Hersteller-Bilder in der Artikelübersicht anzeigen</td>
+</tr>
+<tr>
+<td>Artikelnummer anzeigen</td>
+<td>Anzeige der Artikelnummer in der Artikelübersicht aktivieren</td>
+</tr>
+<tr>
+<td>Länge des Herstellernamens</td>
+<td>Maximale Länge von Herstellernamen in der Hersteller-Box</td>
+</tr>
+<tr>
+<td>Hersteller-Liste Schwellenwert</td>
+<td>Wenn die Anzahl der Hersteller in der Hersteller-Box diesen Schwellenwert übersteigt, wird ein Dropdown anstatt einer Liste angezeigt.</td>
+</tr>
+<tr>
+<td>Seiten blättern - Einzelseiten</td>
+<td>Anzahl der Einzelseiten, für die im Seitennavigationsmenü ein Link angezeigt werden soll.</td>
+</tr>
+<tr>
+<td>Artikelanzahl in Kategorie / auf Suchergebnisseite</td>
+<td>Anzahl der Artikel, die auf Kategorie-Seiten oder auf der Suchergebnisseite angezeigt werden</td>
+</tr>
+<tr>
+<td>Hersteller-Liste</td>
+<td>Wenn der Wert auf 1 gesetzt wird, wird die Hersteller-Box als Drop-Down-Liste angezeigt. Andernfalls als Liste (Wert auf 0).</td>
+</tr>
+<tr>
+<td>Hersteller- und Kategorie-Filter anzeigen?</td>
+<td>Anzeige des Kategorie- bzw. Hersteller-Dropdowns in der Artikelübersicht.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_layout_und_design_kategorien">Kategorien<a class="headerlink" href="#einstellungen_layout_und_design_kategorien" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Artikelanzahl hinter Kategorienamen?</td>
+<td>bei ✔wird hinter den Kategorienamen im Kategoriemenü die Anzahl der enthaltenen Artikel angezeigt</td>
+</tr>
+<tr>
+<td>Horizontale Kategorie-Navigation im Header anzeigen</td>
+<td>Kategorie-Anzeige im Top-Menü wird verwendet</td>
+</tr>
+<tr>
+<td>Horizontale Kategorie-Navigation Kategorien bis zu folgender Tiefe darstellen</td>
+<td>Unterkategorien bis zu dieser Ebene werden im horizontalen Kategoriemenü angezeigt</td>
+</tr>
+<tr>
+<td>Vertikale Kategorie-Navigation in der Sidebar anzeigen</td>
+<td>Kategorie-Anzeige in der linken Spalte wird verwendet</td>
+</tr>
+<tr>
+<td>In vertikaler Navigation nur Unterkategorien der aktuellen Kategorie anzeigen</td>
+<td>Im linken Kategoriemenü nur die Unterkategorien der geöffneten Kategorie anzeigen</td>
+</tr>
+<tr>
+<td>Unterkategorien der übergeordneten Kategorie anzeigen, falls die aktuelle Kategorie leer ist</td>
+<td>Sollen Unterkategorien angezeigt werden, die auf der gleichen Ebene sind, falls die aktuelle Kategorie keine Unterkategorien hat?</td>
+</tr>
+<tr>
+<td>Klick auf Kategorie in vertikaler Navigation klappt Unterkategorien auf statt hineinzugehen</td>
+<td>Im linken Kategoriemenü können die Unterkategorien aufgeklappt werden</td>
+</tr>
+<tr>
+<td>Kategorietiefe bis zu der die vertikale Navigation immer aufgeklappt angezeigt wird</td>
+<td>Wie viele Ebenen des linken Kategoriemenüs sollen standardmäßig aufgeklappt sein?</td>
+</tr>
+<tr>
+<td>Maximale Kategorietiefe bis zu der die vertikale Navigation aufgeklappt werden kann</td>
+<td>Bis zu dieser Tiefe lassen sich Kategorien aufklappen</td>
+</tr>
+<tr>
+<td>Vertikale Kategorie-Navigation in der Sidebar anzeigen (ohne Untermenüs)</td>
+<td>Kategorie-Anzeige in der linken Spalte wird verwendet</td>
+</tr>
+<tr>
+<td>Kategorie Icon</td>
+<td>Aktiviert das Kategorie-Icon.</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ebene(n) in der Kategorieführung anzeigen</td>
+<td>Legt fest, welche Ebenen in der Kategorieführung angezeigt werden sollen.</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Funktion steht ggf. nicht in allen Templates oder Themes zur Verfügung.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Anzahl an Kategorien pro Zeile</td>
+<td>Anzahl an Kategorien, die pro Zeile in den Übersichten angezeigt werden sollen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_layout_und_design_topmenue">Topmenü<a class="headerlink" href="#einstellungen_layout_und_design_topmenue" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Währungsauswahl im Top-Menü aktivieren</td>
+<td>Währungsauwahl im Top-Menü wird verwendet</td>
+</tr>
+<tr>
+<td>Wohnort im Top-Menü aktivieren</td>
+<td>Wohnortauswahl im Top-Menü wird verwendet</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_layout_und_design_warenkorb">Warenkorb<a class="headerlink" href="#einstellungen_layout_und_design_warenkorb" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Artikelnummer im Warenkorb/Merkzettel anzeigen</td>
+<td>Anzeige der Artikelnummer in Warenkorb/Merkzettel aktivieren</td>
+</tr>
+<tr>
+<td>"Weiter einkaufen"-Button immer anzeigen</td>
+<td>An- und Abschalten des Buttons <em><strong>Weiter einkaufen</strong></em> im Warenkorb</td>
+</tr>
+<tr>
+<td>Artikelanzahl statt Artikelstückzahl im kleinen Warenkorb anzeigen</td>
+<td>Anzahl der verschiedenen Artikel im Warenkorb anstatt der Gesamtzahl an Artikeln anzeigen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_layout_und_design_bewertungen">Bewertungen<a class="headerlink" href="#einstellungen_layout_und_design_bewertungen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Produktbewertungen aktivieren</td>
+<td>Kundenrezensionen aktivieren</td>
+</tr>
+<tr>
+<td>Art der Namensdarstellung bei zukünftigen Produktrezensionen</td>
+<td>Wenn Kundenrezensionen zu einem Artikel angezeigt werden, wird hierbei auch der Name des Verfassers genannt. Über diese Einstellung kannst du festlegen, dass entweder der gesamte Name aufgeführt oder wahlweise der Vor- oder Nachname gekürzt wird. Folgende Werte können ausgewählt werden:</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Name nicht kürzen</strong></em>: es werden Vor- und Nachname angezeigt</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Vorname kürzen</strong></em>: Es wird nur der erste Buchstaben des Vornamens und der Nachname angezeigt</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Nachname kürzen</strong></em>: Es wird der Vorname und nur der erste Buchstabe des Nachnamens angezeigt</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Eine Änderung der Einstellung wirkt sich nur auf neue Kundenrezensionen aus. Bestehende Rezensionen bleiben in der Darstellung des Verfassers unverändert.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Produktbewertungen in der Produktliste und in der gekachelten Artikelauflistung anzeigen?</td>
+<td>Bewertungssterne in Artikelübersichten anzeigen</td>
+</tr>
+<tr>
+<td>Produktbewertungen im Tab anzeigen</td>
+<td>Kundenrezensionen werden in einem Artikeltab und nicht mehr unterhalb der Artikelbeschreibung angezeigt</td>
+</tr>
+<tr>
+<td>Bewertungen in Artikeldetailansicht</td>
+<td>Anzahl der angezeigten Bewertungen in der Artikeldetailansicht</td>
+</tr>
+<tr>
+<td>Bewertungen</td>
+<td>Mindestlänge der Texteingabe bei Bewertungen</td>
+</tr>
+<tr>
+<td>Neue Bewertungen</td>
+<td>Maximale Anzahl an neuen Bewertungen, die pro Seite angezeigt werden sollen</td>
+</tr>
+<tr>
+<td>Auswahlpool der Bewertungen</td>
+<td>Aus wie vielen Bewertungen sollen die zufällig angezeigten Bewertungen in der Box ausgewählt werden?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_layout_und_design_bildoptionen">Bildoptionen<a class="headerlink" href="#einstellungen_layout_und_design_bildoptionen" title="Permanent link">&para;</a></h3>
+<p>Im Shopsystem werden die Artikelbilder beim Hochladen automatisch an die verschiedenen Ausgangsgrößen angepasst. Für jedes Artikelbild werden dabei Kopien angelegt, die für ihre Verwendung skaliert sind. Die tatsächliche Anzeigegröße hängt hierbei von den Einstellungen im StyleEdit ab. Jedoch kann eine Änderung der Ausgangsgrößen erhebliche Auswirkungen auf Bildqualität und Ladezeit haben.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p><em><strong>Ausgangsgröße</strong></em> ist nicht gleich <em><strong>angezeigte Bildgröße</strong></em>. In Honeygrid und Malibu hängt die angezeigte Bildgröße von den Einstellungen im StyleEdit ab. Die Größen-Einstellungen in diesem Bereich wirken sich primär auf die Qualiät der Ausgangsbilder aus.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kleine Artikelbilder in Übersichten und Swipern verwenden</td>
+<td>Verwendung der kleineren Thumbnails anstelle der Info-Bilder</td>
+</tr>
+<tr>
+<td>Bildgröße berechnen</td>
+<td>wenn aktiviert werden die Bildvarianten vom Shopsystem automatisch berechnet</td>
+</tr>
+<tr>
+<td>Bildqualität</td>
+<td>die JPEG-Qualität der umgewandelten Bilder in Prozent</td>
+</tr>
+<tr>
+<td>Breite der Artikel-Thumbnails</td>
+<td>Breite der Vorschaubild in Artikel-Listen, wenn <em><strong>Kleine Artikelbilder in Übersichten und Swipern verwenden</strong></em> aktiviert ist.</td>
+</tr>
+<tr>
+<td>Höhe der Artikel-Thumbnails</td>
+<td>Höhe der Vorschaubild in Artikel-Listen, wenn <em><strong>Kleine Artikelbilder in Übersichten und Swipern verwenden</strong></em> aktiviert ist.</td>
+</tr>
+<tr>
+<td>Breite der Artikel-Info Bilder</td>
+<td>Breite des Artikelbilds auf der Artikel-Detailseite und großer Vorschaubilder, wenn <em><strong>Kleine Artikelbilder in Übersichten und Swipern verwenden</strong></em> nicht aktiviert ist.</td>
+</tr>
+<tr>
+<td>Höhe der Artikel-Info Bilder</td>
+<td>Höhe des Artikelbilds auf der Artikel-Detailseite und großer Vorschaubilder, wenn <em><strong>Kleine Artikelbilder in Übersichten und Swipern verwenden</strong></em> nicht aktiviert ist.</td>
+</tr>
+<tr>
+<td>Breite der Artikel-Popup Bilder</td>
+<td>Breite der Bilder in Großansicht für Flyover, Zoom-Funktion und Artikelbild-Lightbox</td>
+</tr>
+<tr>
+<td>Höhe der Artikel-Popup Bilder</td>
+<td>Höhe der Bilder in Großansicht für Flyover, Zoom-Funktion und Artikelbild-Lightbox</td>
+</tr>
+</tbody>
+</table>
+<h2 id="einstellungen_rechtliches">Rechtliches<a class="headerlink" href="#einstellungen_rechtliches" title="Permanent link">&para;</a></h2>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Bitte nimm Änderungen an den rechtlichen Einstellungen ausschließlich in Absprache mit deinem Rechtsberater vor. Unsachgemäße Änderungen an den Einstellungen bergen die Gefahr einer Abmahnung!</p>
+</div>
+<h3 id="einstellungen_rechtliches_link_zur_datenschutzerklaerung_anzeigen">Link zur Datenschutzerklärung anzeigen<a class="headerlink" href="#einstellungen_rechtliches_link_zur_datenschutzerklaerung_anzeigen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>in der Registrierung</td>
+<td>Datenschutzlink im Registrierungsformular anzeigen</td>
+</tr>
+<tr>
+<td>im Callback Service</td>
+<td>Datenschutzlink im Callback Service-Formular anzeigen</td>
+</tr>
+<tr>
+<td>im Kontaktformular</td>
+<td>Datenschutzlink im Kontaktformular anzeigen</td>
+</tr>
+<tr>
+<td>im "Frage zum Produkt"-Modul</td>
+<td>Datenschutzlink im <em><strong>Frage zum Produkt</strong></em>-Modul anzeigen</td>
+</tr>
+<tr>
+<td>im "Woanders günstiger"-Modul</td>
+<td>Datenschutzlink im <em><strong>Woanders günstiger</strong></em>-Modul anzeigen</td>
+</tr>
+<tr>
+<td>im Artikelbewertungsformular</td>
+<td>Datenschutzlink im Artikelbewertungsformular anzeigen</td>
+</tr>
+<tr>
+<td>im Kundenbereich unter "Kontodaten bearbeiten"</td>
+<td>Datenschutzlink im Kundenbereich unter <em><strong>Kontodaten bearbeiten</strong></em> anzeigen</td>
+</tr>
+<tr>
+<td>im Kundenbereich unter "Adressbuch bearbeiten"</td>
+<td>Datenschutzlink im Kundenbereich unter <em><strong>Adressbuch bearbeiten</strong></em> anzeigen</td>
+</tr>
+<tr>
+<td>in der Newsletterregistrierung</td>
+<td>Datenschutzlink in der Newsletterregistrierung anzeigen</td>
+</tr>
+<tr>
+<td>im Bestellvorgang unter "Versandadresse bearbeiten"</td>
+<td>Datenschutzlink im Bestellvorgang unter <em><strong>Versandadresse bearbeiten</strong></em> anzeigen</td>
+</tr>
+<tr>
+<td>im Bestellvorgang unter "Rechnungsadresse bearbeiten"</td>
+<td>Datenschutzlink im Bestellvorgang unter <em><strong>Rechnungsadresse bearbeiten</strong></em> anzeigen</td>
+</tr>
+<tr>
+<td>im Widerrufs-Webformular</td>
+<td>Datenschutzlink im Widerrufs-Webformular anzeigen</td>
+</tr>
+<tr>
+<td>im Guthaben versenden Formular</td>
+<td>Datenschutzlink im Guthaben versenden Formular anzeigen</td>
+</tr>
+<tr>
+<td>IP-Speicherung anzeigen?</td>
+<td>Datenschutzlink zusammen mit dem Hinweis zur IP-Speicherung anzeigen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_rechtliches_datenschutzerklaerung_zustimmen">Datenschutzerklärung zustimmen<a class="headerlink" href="#einstellungen_rechtliches_datenschutzerklaerung_zustimmen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>in der Registrierung</td>
+<td>Die Datenschutzerklärung muss in der Registrierung durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im Callback Service</td>
+<td>Die Datenschutzerklärung muss im Callback Service durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im Kontaktformular</td>
+<td>Die Datenschutzerklärung muss im Kontaktformular durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im "Frage zum Produkt"-Modul</td>
+<td>Die Datenschutzerklärung muss im <em><strong>Frage zum Produkt</strong></em>-Modul durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im "Woanders günstiger"-Modul</td>
+<td>Die Datenschutzerklärung muss im <em><strong>Woanders günstiger</strong></em>-Modul durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im Artikelbewertungsformular</td>
+<td>Die Datenschutzerklärung muss im Artikelbewertungsformular durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im Kundenbereich unter "Kontodaten bearbeiten"</td>
+<td>Die Datenschutzerklärung muss im Kundenbereich unter <em><strong>Kontodaten bearbeiten</strong></em> durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im Kundenbereich unter "Adressbuch bearbeiten"</td>
+<td>Die Datenschutzerklärung muss im Kundenbereich unter <em><strong>Adressbuch bearbeiten</strong></em> durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>in der Newsletterregistrierung</td>
+<td>Die Datenschutzerklärung muss in der Newsletterregistrierung durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im Bestellvorgang unter "Versandadresse bearbeiten"</td>
+<td>Die Datenschutzerklärung muss im Bestellvorgang unter <em><strong>Versandadresse bearbeiten</strong></em> durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im Bestellvorgang unter "Rechnungsadresse bearbeiten"</td>
+<td>Die Datenschutzerklärung muss im Bestellvorgang unter <em><strong>Rechnungsadresse bearbeiten</strong></em> durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im Widerrufs-Webformular</td>
+<td>Die Datenschutzerklärung muss im Widerrufs-Webformular durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>im Guthaben versenden Formular</td>
+<td>Die Datenschutzerklärung muss im Guthaben versenden Formular durch den Kunden bestätigt werden.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_rechtliches_geschaeftsbedingungen">Geschäftsbedingungen<a class="headerlink" href="#einstellungen_rechtliches_geschaeftsbedingungen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>im Bestellvorgang anzeigen</td>
+<td>Die Allgemeinen Geschäftbedingungen werden im Bestellvorgang angezeigt.</td>
+</tr>
+<tr>
+<td>im Bestellvorgang bestätigen</td>
+<td>Die Allgemeinen Geschäftsbedingungen müssen im Bestellvorgang bestätigt werden.</td>
+</tr>
+<tr>
+<td>AGB als PDF an Bestellbestätigung anhängen</td>
+<td>Die Allgemeinen Geschäftsbedingungen werden als Anhang der Bestellbestätigung verschickt.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_rechtliches_widerruf">Widerruf<a class="headerlink" href="#einstellungen_rechtliches_widerruf" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>im Bestellvorgang anzeigen</td>
+<td>Soll das Widerrufsrecht im Bestellvorgang angezeigt werden?</td>
+</tr>
+<tr>
+<td>im Bestellvorgang bestätigen</td>
+<td>Soll das Widerrufsrecht im Bestellvorgang vom Kunden bestätigt werden?</td>
+</tr>
+<tr>
+<td>Webformular anbieten</td>
+<td>Soll der Link zum Online-Widerrufsformular angezeigt werden?</td>
+</tr>
+<tr>
+<td>PDF-Formular anbieten</td>
+<td>Soll das Widerrufsformular als PDF-Datei zur Verfügung stehen?</td>
+</tr>
+<tr>
+<td>Widerrufsrecht-Link innerhalb der Bestellinformationen unter Mein Konto anzeigen</td>
+<td>Der Abschnitt <em><strong>Widerrufsformular</strong></em> wird in den einzelnen Bestellungen unter <em><strong>Ihr Konto</strong></em> angezeigt. Dieser beinhaltet die Verweise unter <em><strong>Webformular anbieten</strong></em> und <em><strong>PDF-Formular anbieten</strong></em>.</td>
+</tr>
+<tr>
+<td>Datenschutzerklärung als PDF an Bestellbestätigung anhängen</td>
+<td>Die Datenschutzerklärung wird der Bestellbestätigung als PDF-Anhang hinzugefügt.</td>
+</tr>
+<tr>
+<td>Widerrufsbelehrung als PDF an Bestellbestätigung anhängen</td>
+<td>Die Widerrufsbelehrung wird der Bestellbestätigung als PDF-Anhang hinzugefügt.</td>
+</tr>
+<tr>
+<td>Widerrufsformular als PDF an Bestellbestätigung anhängen</td>
+<td>Das Widerrufsformular wird der Bestellbestätigung als PDF-Anhang hinzugefügt.</td>
+</tr>
+<tr>
+<td>Downloadverzögerung bei Verzicht auf das Widerrufsrecht</td>
+<td>Zeit, bis das Herunterladen eines Download-Artikels möglich ist, wenn auf das Widerrufsrecht verzichtet wurde.</td>
+</tr>
+<tr>
+<td>Downloadverzögerung ohne Verzicht auf das Widerrufsrecht</td>
+<td>Zeit, bis das Herunterladen eines Download-Artikels möglich ist, wenn nicht auf das Widerrufsrecht verzichtet wurde.</td>
+</tr>
+<tr>
+<td>Verzicht auf Widerrufsrecht für Download-Artikel anzeigen</td>
+<td>Auswahl zum Verzicht auf das Widerrufsrecht für Download-Artikel im Bestellvorgang anzeigen?</td>
+</tr>
+<tr>
+<td>Verzicht auf Widerrufsrecht für Dienstleistungen anzeigen</td>
+<td>Auswahl zum Verzicht auf das Widerrufsrecht für Dienstleistungen im Bestellvorgang anzeigen?</td>
+</tr>
+<tr>
+<td>Verzicht auf Widerrufsrecht für Download-Artikel als Pflichtfeld</td>
+<td>Muss bei Download-Artikeln zwangsweise auf das Widerrufsrecht verzichtet werden?</td>
+</tr>
+<tr>
+<td>Verzicht auf Widerrufsrecht für Dienstleistungen als Pflichtfeld</td>
+<td>Muss bei Dienstleistungen zwangsweise auf das Widerrufsrecht verzichtet werden?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_rechtliches_datenweitergabe_an_versanddienstleister">Datenweitergabe an Versanddienstleister<a class="headerlink" href="#einstellungen_rechtliches_datenweitergabe_an_versanddienstleister" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Dieser Bereich verwendet ein erweitertes Dropdown-Menü zur Auswahl von Einträgen.</p>
+<p><img alt="" src="../../Bilder/einstellungenDatenweitergabeVersanddienstleister_dropdownEingeklappt.png" title="Eintrag _**Versandkostenfrei**_ für die     Einstellung _**Anzeige für Versandart**_     ausgewählt" /></p>
+<p>Klappe das Dropdown wie gewohnt über das nach unten weisende Dreieck-Symbol aus. Bereits ausgewählte Einträge werden grau hinterlegt angezeigt.</p>
+<p><img alt="" src="../../Bilder/einstellungenDatenweitergabeVersanddienstleister_dropdown.png" title="Erweitertes Dropdown für die Einstellung _**Anzeige für     Versandart**_" /></p>
+<p>Beim Hovern werden Einträge, die ausgewählt werden können, grün hinterlegt. Einträge die bereits ausgewählt sind und abgewählt werden können, werden rot hinterlegt.</p>
+<p><img alt="" src="../../Bilder/einstellungenDatenweitergabeVersanddienstleister_dropdownZweiEintraege.png" title="Einträge _**Versandkostenfrei**_ und     _**Pauschale Versandkosten**_ für die Einstellung     _**Anzeige für Versandart**_ ausgewählt" /></p>
+<p>Einrträge können auch durch Klick auf das <em><strong>x</strong></em> hinter dem Namen wieder entfernt werden.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>im Bestellvorgang anzeigen</td>
+<td>Text zur Datenweitergabe an Versanddienstleister wird im Bestellvorgang angezeigt.</td>
+</tr>
+<tr>
+<td>im Bestellvorgang bestätigen</td>
+<td>Text zur Datenweitergabe an Versanddienstleister muss im Betellvorgang durch den Kunden bestätigt werden.</td>
+</tr>
+<tr>
+<td>Anzeige für Versandart</td>
+<td>Für welche Versandarten soll der Text zur Datenweitergabe angezeigt werden?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_rechtliches_bestellabschluss">Bestellabschluss<a class="headerlink" href="#einstellungen_rechtliches_bestellabschluss" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Datenschutzerklärung-Link anzeigen</td>
+<td>Link zur Datenschutzerklärung wird auf der letzten Seite des Bestellvorgangs (<em><strong>Bestätigen</strong></em>) angezeigt.</td>
+</tr>
+<tr>
+<td>AGB-Link anzeigen</td>
+<td>Link zu den Allgemeinen Geschäftsbedigungen wird auf der letzten Seite des Bestellvorgangs (<em><strong>Bestätigen</strong></em>) angezeigt.</td>
+</tr>
+<tr>
+<td>Widerrufsrecht-Link anzeigen</td>
+<td>Link zur Widerrufsbelehrung wird auf der letzten Seite des Bestellvorgangs (<em><strong>Bestätigen</strong></em>) angezeigt.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_rechtliches_ip_adresse_speichern">IP Adresse speichern<a class="headerlink" href="#einstellungen_rechtliches_ip_adresse_speichern" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>bei Login und Registrierung IP speichern</td>
+<td>IP-Adresse bei Login und Registrierung IP speichern</td>
+</tr>
+<tr>
+<td>im Bestellvorgang IP speichern</td>
+<td>IP-Adresse im Bestellvorgang IP speichern</td>
+</tr>
+<tr>
+<td>im Bestellvorgang IP-Logging bestätigen</td>
+<td>im Bestellvorgang muss der Kunde das IP-Logging bestätigen</td>
+</tr>
+<tr>
+<td>im Callback Service</td>
+<td>IP-Adresse im Callback Service speichern</td>
+</tr>
+<tr>
+<td>im Kontaktformular</td>
+<td>IP-Adresse im Kontaktformular speichern</td>
+</tr>
+<tr>
+<td>im "Frage zum Produkt"-Modul</td>
+<td>IP-Adresse im <em><strong>Frage zum Produkt</strong></em>-Modul speichern</td>
+</tr>
+<tr>
+<td>im "Woanders günstiger"-Modul</td>
+<td>IP-Adresse im <em><strong>Woanders günstiger</strong></em>-Modul speichern</td>
+</tr>
+<tr>
+<td>im Artikelbewertungsformular</td>
+<td>IP-Adresse im Artikelbewertungsformular speichern</td>
+</tr>
+<tr>
+<td>im Kundenbereich unter "Kontodaten bearbeiten"</td>
+<td>IP-Adresse im Kundenbereich unter <em><strong>Kontodaten bearbeiten</strong></em> speichern</td>
+</tr>
+<tr>
+<td>im Kundenbereich unter "Adressbuch bearbeiten"</td>
+<td>IP-Adresse im Kundenbereich unter <em><strong>Adressbuch bearbeiten</strong></em> speichern</td>
+</tr>
+<tr>
+<td>in der Newsletterregistrierung</td>
+<td>IP-Adresse in der Newsletterregistrierung speichern</td>
+</tr>
+<tr>
+<td>im Bestellvorgang unter "Versandadresse bearbeiten"</td>
+<td>IP-Adressse im Bestellvorgang unter <em><strong>Versandadresse bearbeiten</strong></em> speichern</td>
+</tr>
+<tr>
+<td>im Bestellvorgang unter "Rechnungsadresse bearbeiten"</td>
+<td>IP-Adresse im Bestellvorgang unter <em><strong>Rechnungsadresse bearbeiten</strong></em> speichern</td>
+</tr>
+<tr>
+<td>im Widerrufs-Webformular</td>
+<td>IP-Adresse im Widerrufs-Webformular speichern</td>
+</tr>
+<tr>
+<td>im Guthaben versenden Formular</td>
+<td>IP-Adresse im Guthaben versenden Formular speichern</td>
+</tr>
+<tr>
+<td>bei Bestätigung der Datenweitergabe an Transportunternehmen</td>
+<td>IP-Adresse bei Bestätigung der Datenweitergabe an Transportunternehmen speichern</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_rechtliches_mehrwertsteueranzeige">Mehrwertsteueranzeige<a class="headerlink" href="#einstellungen_rechtliches_mehrwertsteueranzeige" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mehrwertsteuer-Anzeige</td>
+<td>In der Grundkonfiguration wird auf allen Seiten die Mehrwertsteuer unterhalb des Artikelpreises angezeigt, von denen aus ein Artikel in den Warenkorb gelegt werden kann. Deaktiviere das Kontrollkästchen, wenn du die Anzeige abschalten möchtest.</td>
+</tr>
+<tr>
+<td>Auch Mehrwertsteuer anzeigen, wenn diese gleich 0 ist</td>
+<td>Setze den Haken, wenn du die Mehrwertsteuer ebenfalls anzeigen möchtest, wenn der Steuersatz 0% ist.</td>
+</tr>
+<tr>
+<td>Kleinunternehmerreglung: "Kein Steuerausweis gem. Kleinuntern.-Reg. §19 UStG" statt der MwSt.-Angabe bei jedem Preis anzeigen lassen</td>
+<td>Aktiviert die Anzeige zur Kleinunternehmerregelung in den Artikeln.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_rechtliches_einwilligungsprotokoll_exportieren">Einwilligungsprotokoll exportieren<a class="headerlink" href="#einstellungen_rechtliches_einwilligungsprotokoll_exportieren" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Erstellt eine CSV-Datei, die alle Kunden beinhaltet, die den Rechtstexten zugestimmt haben</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die CSV-Datei zu erstellen.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_rechtliches_cookie_consent">Cookie Consent<a class="headerlink" href="#einstellungen_rechtliches_cookie_consent" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cookie Consent</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite des Cookie Consent-Moduls anzuzeigen.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="einstellungen_lieferung">Lieferung<a class="headerlink" href="#einstellungen_lieferung" title="Permanent link">&para;</a></h2>
+<h3 id="einstellungen_lieferung_lieferstatus">Lieferstatus<a class="headerlink" href="#einstellungen_lieferung_lieferstatus" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lieferstatus</td>
+<td>Über <em><strong>aufrufen</strong></em> kann die Seite zum Anlegen und Konfigurieren der Lieferstatus angezeigt werden.</td>
+</tr>
+<tr>
+<td>Lieferstatusanzeige aktivieren</td>
+<td>Aktiviert bzw. deaktiviert die Lieferstatus-Anzeige im gesamten Shop</td>
+</tr>
+<tr>
+<td>Lieferstatus automatisch aktualisieren</td>
+<td>Hier sollte der Haken gesetzt werden, wenn der Lieferstatus nach einer Bestellung aktualisiert werden soll. Ist der Haken nicht gesetzt, findet keine Aktualisierung statt.</td>
+</tr>
+<tr>
+<td>Versandkosten in Artikelinfos</td>
+<td>Zeigt Link zu den Versandkosten-Informationen im Artikel an</td>
+</tr>
+<tr>
+<td>Versandgewicht im Warenkorb</td>
+<td>Zeigt das Versandgewicht im Warenkorb an</td>
+</tr>
+<tr>
+<td>Versandkostenrechner im Warenkorb</td>
+<td>Aktiviert die Versandkostenberechnung im Warenkorb</td>
+</tr>
+<tr>
+<td>Postleitzahl des Versandstandortes</td>
+<td>Postleitzahl des Standortes von dem versendet wird</td>
+</tr>
+<tr>
+<td>Versandland</td>
+<td>Land des Standortes vom dem versendet wird</td>
+</tr>
+<tr>
+<td>Maximalgewicht, das als ein Paket versendet werden kann</td>
+<td>Gibt das maximal pro Paket mögliche Gewicht ein. Die Eingabe erfolgt in Kilogramm</td>
+</tr>
+<tr>
+<td>Versandkosten Content Seiten ID</td>
+<td>Interne ID des Contents für Versand- &amp; Zahlungsinformationen, standardmäßig 3889891</td>
+</tr>
+<tr>
+<td>Paketleergewicht</td>
+<td>Wenn du das Gewicht der Verpackung in den Versandkosten berücksichtigen möchtest, kannst du hier einen fixen Wert eingeben, zum Beispiel 0.4, wenn die Verpackung immer mit 400g berücksichtigt werden soll.</td>
+</tr>
+<tr>
+<td>Bei größeren Leerpaketen - Gewichtszuwachs in %</td>
+<td>Diese Eingabe ist ebenfalls optional und wird nur berücksichtigt, wenn das Paketleergewicht nicht ausgefüllt wurde. Du hast also die Möglichkeit, entweder das Paketleergewicht mit einem fixen Gewicht anzugeben oder einen Gewichtszuwachs, der einen bestimmten Prozentsatz des Artikelgewichtes beträgt. Gehst du bei der Berechnung der Versandkosten also davon aus, dass das Gewicht der Verpackung immer ca. 10% des Gesamtgewichtes ausmachen wird, so gib hier eine 10 ein.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_lieferung_versanddienstleister">Versanddienstleister<a class="headerlink" href="#einstellungen_lieferung_versanddienstleister" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Paketdienste</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für die Paketdienste anzuzeigen.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="einstellungen_suchmaschinenoptimierung">Suchmaschinenoptimierung<a class="headerlink" href="#einstellungen_suchmaschinenoptimierung" title="Permanent link">&para;</a></h2>
+<h3 id="einstellungen_suchmaschinenoptimierung_kampagnen">Kampagnen<a class="headerlink" href="#einstellungen_suchmaschinenoptimierung_kampagnen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kampagnen</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für die Kampagnen anzuzeigen.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_suchmaschinenoptimierung_seo_urls">SEO URLs<a class="headerlink" href="#einstellungen_suchmaschinenoptimierung_seo_urls" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Suchmaschinenfreundliche URLs Pro für Artikeldetailseiten aktivieren</td>
+<td>Artikel verwenden SEO Boost-URLs</td>
+</tr>
+<tr>
+<td>Kurze Produkt-URLs</td>
+<td>Artikel-URL wird ohne Kategoriepfad ausgegeben</td>
+</tr>
+<tr>
+<td>Suchmaschinenfreundliche URLs Pro für Kategorieseiten aktivieren</td>
+<td>Kategorien verwenden SEO Boost-URLs</td>
+</tr>
+<tr>
+<td>Suchmaschinenfreundliche URLs Pro für Content-Manager-Seiten aktivieren</td>
+<td>Content Manager-Seiten verwenden SEO Boost URLs</td>
+</tr>
+<tr>
+<td>Sprachcode in URLs integrieren</td>
+<td>Sprachcodes werden als Teil der URL angezeigt</td>
+</tr>
+<tr>
+<td>index.php Suffix in zugehörigen URLs entfernen</td>
+<td>Startseite wird ohne die Angabe <em><strong>index.php</strong></em> in der Adressezeile geladen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_suchmaschinenoptimierung_meta_angaben">Meta-Angaben<a class="headerlink" href="#einstellungen_suchmaschinenoptimierung_meta_angaben" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Meta-Angaben</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für Meta-Angaben anzuzeigen</td>
+</tr>
+<tr>
+<td>Standard Meta-Titel Anzeige</td>
+<td>legt fest, ob der Standard Meta-Titel vor oder nach dem Seitentitel (Meta-Titel) ausgegeben wird</td>
+</tr>
+<tr>
+<td>Standard Meta-Titel verwenden?</td>
+<td>wenn aktiviert, wird zusätzlich zum Seitentitel der Standard Meta-Titel ausgegeben</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_suchmaschinenoptimierung_einstellungen_fuer_suchmaschinenbots">Einstellungen für Suchmaschinenbots (robots.txt)<a class="headerlink" href="#einstellungen_suchmaschinenoptimierung_einstellungen_fuer_suchmaschinenbots" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Robots.txt Datei</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für das Erzeugen der Robots-Datei anzuzeigen.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_suchmaschinenoptimierung_sitemap">Sitemap<a class="headerlink" href="#einstellungen_suchmaschinenoptimierung_sitemap" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sitemap Generator</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite zum Generieren der Sitemaps anzuzeigen</td>
+</tr>
+<tr>
+<td>Standard-Änderungsfrequenz</td>
+<td>In welchen Abständen soll die Sitemap durch Suchmaschinen auf Änderungen geprüft werden.</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die im Shop eingestellte Änderungsfrequenz stellt lediglich eine Vorgabe dar. Die tatsächliche Frequenz, mit der die Sitemap aktualisiert wird, hängt von der jeweiligen Suchmaschine ab.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Standard-Priorität</td>
+<td>Welche Priorität soll für Sitemap-Einträge standardmäßig gesetzt werden?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_suchmaschinenoptimierung_statische_seiten">Statische Seiten<a class="headerlink" href="#einstellungen_suchmaschinenoptimierung_statische_seiten" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Statische Seiten</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für statische Seiten anzuzeigen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_suchmaschinenoptimierung_tracking_codes">Tracking Codes<a class="headerlink" href="#einstellungen_suchmaschinenoptimierung_tracking_codes" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tracking Codes</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für Tracking Codes anzuzeigen</td>
+</tr>
+</tbody>
+</table>
+<h2 id="einstellungen_sprachen_laender_steuern">Sprachen, Länder, Steuern<a class="headerlink" href="#einstellungen_sprachen_laender_steuern" title="Permanent link">&para;</a></h2>
+<h3 id="einstellungen_sprachen_laender_steuern_steuerklassen">Steuerklassen<a class="headerlink" href="#einstellungen_sprachen_laender_steuern_steuerklassen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Steuerklassen</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für die Steuerklassen anzuzeigen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_sprachen_laender_steuern_steuersaetze">Steuersätze<a class="headerlink" href="#einstellungen_sprachen_laender_steuern_steuersaetze" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Steuersätze</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für die Steuersätze anzuzeigen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_sprachen_laender_steuern_umsatzsteuer">Umsatzsteuer<a class="headerlink" href="#einstellungen_sprachen_laender_steuern_umsatzsteuer" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>USt-IdNr. des Shopbetreibers</td>
+<td>Die USt-IdNr. des Shopbetreibers</td>
+</tr>
+<tr>
+<td>USt-IdNr. überprüfen</td>
+<td>Die USt-IdNr. auf Plausibilität überprüfen?</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die USt-IdNr. wird lediglich auf Plausibilität geprüft. Eine genauere Live-Überprüfung auf Plausibilität ist über die untenstehende Einstellung möglich.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>USt-IdNr. live überprüfen</td>
+<td>Die USt-IdNr. live auf Plausibilität überprüfen?</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Damit die Live-Prüfung durchgeführt werden kann, muss auf dem Server <em><strong>fsockopen</strong></em> oder <em><strong>curl</strong></em> zur Verfügung stehen.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kundengruppe nach USt-IdNr. Überprüfung anpassen?</td>
+<td>Nach einer erfolgreichen Prüfung, wird der Kunde automatisch in eine voreingestellte Kundengruppe verschoben.</td>
+</tr>
+<tr>
+<td>Eintragung falscher oder ungeprüfter Ust-Id Nummern sperren?</td>
+<td>Durch Einschalten dieser Option werden nur geprüfte und richtige Ust-Id Nummern eingetragen.</td>
+</tr>
+<tr>
+<td>Gäste verschieben wenn "Kundengruppe nach USt-IdNr. Überprüfung anpassen" aktiv ist</td>
+<td>Sollen Gast-Konten ebenfalls nach einer erfolgreichen Prüfung in eine entsprechende Kundengruppe verschoben werden?</td>
+</tr>
+<tr>
+<td>Netto-Preisanzeige anhand USt-IdNr. bestimmen</td>
+<td>Für internationale EU-Kunden mit gültiger USt-IdNr. keine Steuer ausweisen? Die Kundengruppenkonfiguration wird übergangen.</td>
+</tr>
+<tr>
+<td>Kundengruppe für USt-IdNr.-geprüfte Kunden (Ausland)</td>
+<td>Kundengruppe, die ausländischen Kunden nach erfolgreicher Prüfung zugeordnet werden sollen.</td>
+</tr>
+<tr>
+<td>Kundengruppe für USt-IdNr.-geprüfte Kunden (Inland)</td>
+<td>Kundengruppe, die inländischen Kunden nach erfolgreicher Prüfung zugeordnet werden sollen.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_sprachen_laender_steuern_steuerzonen">Steuerzonen<a class="headerlink" href="#einstellungen_sprachen_laender_steuern_steuerzonen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Steuerzonen</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für die Steuerzonen anzuzeigen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_sprachen_laender_steuern_laender">Länder<a class="headerlink" href="#einstellungen_sprachen_laender_steuern_laender" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Länder</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für die Länder anzuzeigen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_sprachen_laender_steuern_waehrungen">Währungen<a class="headerlink" href="#einstellungen_sprachen_laender_steuern_waehrungen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Währungen</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für die Währungen anzuzeigen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_sprachen_laender_steuern_bundeslaender">Bundesländer<a class="headerlink" href="#einstellungen_sprachen_laender_steuern_bundeslaender" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bundesländer</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für die Bundesländer anzuzeigen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_sprachen_laender_steuern_sprachen">Sprachen<a class="headerlink" href="#einstellungen_sprachen_laender_steuern_sprachen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sprachen</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für die Sprachen anzuzeigen</td>
+</tr>
+</tbody>
+</table>
+<h2 id="einstellungen_system">System<a class="headerlink" href="#einstellungen_system" title="Permanent link">&para;</a></h2>
+<h3 id="einstellungen_system_e_mail_optionen">E-Mail Optionen<a class="headerlink" href="#einstellungen_system_e_mail_optionen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Senden von E-Mails</td>
+<td>Automatischen Versand von E-Mails aktivieren (beispielsweise Kundenkontoerstellung, Bestellbestätigungen)</td>
+</tr>
+<tr>
+<td>E-Mail Logo</td>
+<td>Soll das E-Mail-Logo angezeigt werden?</td>
+</tr>
+<tr>
+<td>E-Mail von</td>
+<td>Die E-Mail-Adresse, die beim Versenden (sendmail) benutzt werden soll.</td>
+</tr>
+<tr>
+<td>Absender der Bestellbestätigungsmail</td>
+<td>Bei manchen Server- und E-Mail-Konfigurationen kann der E-Mail Empfang beim Kunden fehlschlagen. Wenn deine Kunden keine Bestellbestätigungsmails erhalten, stelle sicher, dass die Option auf <em><strong>Betreiber E‑Mail</strong></em> steht.</td>
+</tr>
+<tr>
+<td>Pfad zu Sendmail</td>
+<td>Pfad zum Sendmail Programm, standardmäßig: /usr/sbin/sendmail</td>
+</tr>
+<tr>
+<td>E-Mail Transport-Methode</td>
+<td>Definiert, ob der Server die PHP mail-Funktion, eine lokale Verbindung zum "Sendmail-Programm" benutzt oder ob er eine SMTP Verbindung über TCP/IP benötigt. Server die auf Windows oder MacOS laufen, sollten SMTP verwenden. "mail" ist Standard und sollte aktiviert sein, wenn E-Mails erfolgreich versendet werden.</td>
+</tr>
+<tr>
+<td>E-Mail Linefeeds</td>
+<td>Definiert die Zeichen, die benutzt werden sollen, um die Mail Header zu trennen.</td>
+</tr>
+<tr>
+<td>HTML E-Mails senden</td>
+<td>Versenden von E-Mails als MIME HTML oder Reintext</td>
+</tr>
+<tr>
+<td>Überprüfen der E-Mail-Adressen über DNS</td>
+<td>E-Mails von Kunden vor dem Senden automatischer Mails auf Erreichbarkeit prüfen</td>
+</tr>
+<tr>
+<td>Maximale Anzahl E-Mails pro Versand</td>
+<td>Schränkt die Anzahl der E-Mails ein, die gleichzeitig versendet werden können</td>
+</tr>
+<tr>
+<td>E-Mail-Signatur</td>
+<td>Diese Signatur wird in deinen E-Mail-Vorlagen anstelle der Variablen <em><strong>{$EMAIL_SIGNATURE_HTML}</strong></em> bzw. <em><strong>{$EMAIL_SIGNATURE_TEXT}</strong></em> eingesetzt.</td>
+</tr>
+<tr>
+<td>SMTP Username</td>
+<td>Benutzername für den E-Mail Versand über SMTP</td>
+</tr>
+<tr>
+<td>SMTP Port</td>
+<td>Port für den E-Mail Versand über SMTP (Standard: 25)</td>
+</tr>
+<tr>
+<td>SMTP Passwort</td>
+<td>Passwort für den E-Mail Versand über SMTP</td>
+</tr>
+<tr>
+<td>Adresse des SMTP Servers</td>
+<td>Die Adresse des Servers für den E-Mail Versand über SMTP</td>
+</tr>
+<tr>
+<td>Adresse des SMTP Backup Servers</td>
+<td>Falls der Server für den E-Mail Versand über SMTP nicht erreichbar ist, werden E-Mails über den Backup Server verschickt</td>
+</tr>
+<tr>
+<td>SMTP Verschlüsselung</td>
+<td>Wähle hier die Art der SMTP-Verschlüsselung aus</td>
+</tr>
+<tr>
+<td>SMTP AUTH</td>
+<td>Aktivieren, wenn der SMTP-Server AUTH voraussetzt</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_e_mail_kontaktadressen">E-Mail Kontaktadressen<a class="headerlink" href="#einstellungen_system_e_mail_kontaktadressen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kontakt - E-Mail-Adresse</td>
+<td>Gibt hier eine korrekte Absender-Adresse für das Versenden der E-Mails über das Kontaktformular ein.</td>
+</tr>
+<tr>
+<td>Kontakt - Weiterleitungsadressen</td>
+<td>Optional: gib hier weitere E-Mail-Adressen ein, an die die E-Mails des Kontaktformulars noch versendet werden sollen (kommagetrennt, ohne Leerzeichen).</td>
+</tr>
+<tr>
+<td>Kontakt - E-Mail-Adresse, Name</td>
+<td>Absender-Name für das Versenden der E-Mails über das Kontaktformular.</td>
+</tr>
+<tr>
+<td>Kontakt - Antwortadresse</td>
+<td>Gib hier eine E-Mailadresse ein, an die Kunden antworten können.</td>
+</tr>
+<tr>
+<td>Kontakt - Antwortadresse, Name</td>
+<td>Absendername für Antwortmails</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_e_mail_rechnungsadressen">E-Mail Rechnungsadressen<a class="headerlink" href="#einstellungen_system_e_mail_rechnungsadressen" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Dieser Bereich betrifft das sogenannte Verrechnungsystem des Shops. Hierüber werden zum Beispiel Bestellbestätigungen oder Bestellstatus-Änderungen versendet.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verrechnung - E-Mail-Adresse</td>
+<td>Gibt hier eine korrekte Absender-Adresse für das Versenden der E-Mails über das Verrechnungssytem ein.</td>
+</tr>
+<tr>
+<td>Verrechnung - Weiterleitungsadressen</td>
+<td>Optional: gib hier weitere E-Mail-Adressen ein, an die die E-Mails des Verrechnungssytem noch versendet werden sollen (kommagetrennt, ohne Leerzeichen).</td>
+</tr>
+<tr>
+<td>Verrechnung - E-Mail-Adresse, Name</td>
+<td>Absender-Name für das Versenden der E-Mails über das Verrechnungssystem.</td>
+</tr>
+<tr>
+<td>Verrechnung - Antwortadresse</td>
+<td>Gib hier eine E-Mailadresse ein, an die Kunden antworten können.</td>
+</tr>
+<tr>
+<td>Verrechnung - Antwortadresse, Name</td>
+<td>Absendername für Antwortmails</td>
+</tr>
+<tr>
+<td>Verrechnung - E-Mail Betreff</td>
+<td>Betreff für E-Mails des Verrechnungssytems</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_e_mail_supportadressen">E-Mail Supportadressen<a class="headerlink" href="#einstellungen_system_e_mail_supportadressen" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Dieser Bereich betrifft das sogenannte Supportsystem des Shops. Hierüber werden zum Beispiel Kontoerstellungsmails oder Bestätigugnsmails für Passwortänderungen versendet.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Technischer Support - E-Mail-Adresse</td>
+<td>Gibt hier eine korrekte Absender-Adresse für das Versenden der E-Mails über das Supportsytem ein.</td>
+</tr>
+<tr>
+<td>Technischer Support - Weiterleitungsadressen</td>
+<td>Optional: gib hier weitere E-Mail-Adressen ein, an die die E-Mails des Supportsytem noch versendet werden sollen (kommagetrennt, ohne Leerzeichen).</td>
+</tr>
+<tr>
+<td>Technischer Support - E-Mail-Adresse, Name</td>
+<td>Absender-Name für das Versenden der E-Mails über das Supportsystem.</td>
+</tr>
+<tr>
+<td>Technischer Support - Antwortadresse</td>
+<td>Gib hier eine E-Mailadresse ein, an die Kunden antworten können.</td>
+</tr>
+<tr>
+<td>Technischer Support - Antwortadresse, Name</td>
+<td>Absendername für Antwortmails</td>
+</tr>
+<tr>
+<td>Technischer Support - E-Mail Betreff</td>
+<td>Betreff für E-Mails des Supportsytems</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_rechnung_und_lieferschein">Rechnung &amp; Lieferschein<a class="headerlink" href="#einstellungen_system_rechnung_und_lieferschein" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rechnung / Lieferschein</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für Rechnungen und Lieferschein anzuzeigen.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_bestell_und_kundennummer">Bestell- und Kundennummer<a class="headerlink" href="#einstellungen_system_bestell_und_kundennummer" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nummernkreise</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für Nummernkreise anzuzeigen.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_passwortverschluesselung">Passwortverschlüsselung<a class="headerlink" href="#einstellungen_system_passwortverschluesselung" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Standardverschlüsselung für Kundenpasswörter</td>
+<td>Wähle <em><strong>password_hash</strong></em>, um Passwörter maximal stark zu verschlüsseln (empfohlen). Wähle <em><strong>md5</strong></em>, sofern du externe Schnittstellen nutzt, die direkt über die Datenbank Passwörter abgleichen und keine <em><strong>password_hash</strong></em>-verschlüsselten Passwörter unterstützen.</td>
+</tr>
+<tr>
+<td>Kundenpasswörter beim nächsten Login nötigenfalls mit der aktuellen Standardverschlüsselung erneut verschlüsseln? (empfohlen)</td>
+<td>Aktiviere diese Option, wenn du die Standardverschlüsselung wechseln möchtest und Kunden (auch Admin-Konten!) sich weiterhin mit ihren bisher gespeicherten Passwörtern einloggen können sollen. Andernfalls ist der Login nicht mehr möglich und ein neues Passwort muss über die <em><strong>Passwort vergessen</strong></em>-Funktion gesetzt werden.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_anmeldeversuche">Anmeldeversuche<a class="headerlink" href="#einstellungen_system_anmeldeversuche" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Versuche (min. 2)</td>
+<td>Anzahl Versuche (mindestens 2), nach denen der Login gesperrt wird</td>
+</tr>
+<tr>
+<td>Zeitraum (Sek.)</td>
+<td>Zeitraum in Sekunden, in dem ein wiederholter Login-Versuch geloggt wird</td>
+</tr>
+<tr>
+<td>Timeout (Sek.)</td>
+<td>Zeit in Sekunden, bis ein erneutes Einloggen möglich ist</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_suchmaschinen">Suchmaschinen<a class="headerlink" href="#einstellungen_system_suchmaschinen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Anzahl Suchen loggen</td>
+<td>Anzahl Suchvorgänge, nach denen die Suchfunktion gesperrt wird</td>
+</tr>
+<tr>
+<td>Zeitraum (Sek.)</td>
+<td>Zeitraum in Sekunden, in dem eine wiederholte Suchanfrage geloggt wird</td>
+</tr>
+<tr>
+<td>Timeout (Sek.)</td>
+<td>Zeit in Sekunden, bis eine erneute Suchanfrage abgeschickt werden kann</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_sicherheitsabfragen">Sicherheitsabfragen<a class="headerlink" href="#einstellungen_system_sicherheitsabfragen" title="Permanent link">&para;</a></h3>
+<p>Über Sicherheitscodes soll verhindert werden, dass Eingabeformulare von automatischen Skripten, sogenannten Bots, verwendet werden. Zu diesem Zweck müssen die Nutzer ihre Anfrage über einen Sicherheitscode bzw. eine andere Bestätigung verifizieren.</p>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Art der Sicherheitsabfrage</td>
+<td><em><strong>Standard</strong></em>: wird shopseitig generiert; es wird ein Buchstaben- und Zahlencode in einem Bild aus Linien angezeigt, der vom Kunden eingegeben werden muss</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>reCAPTCHA v2</strong></em>: ist eine andere, sicherere Form der Sicherheitsabfrage und kann von Bots nicht so leicht überwunden werden, stellt also einen besseren Schutz gegen Spam dar.</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Damit du dich an reCaptcha v2 beteiligen kannst, musst du dich dafür anmelden. Dies kannst du unter https://developers.google.com/recaptcha/ tun. Public Key und Private Key erhältst du nach der Anmeldung für reCaptcha v2. Gebe diese dann im Sicherheitscenter im Shop ein. Den API-Key kannst du auch unter folgendem Link erhalten, wenn du dich schon für reCAPTCHA v2 angemeldet hast: https://www.google.com/recaptcha/admin/create Bitte beachte, dass dies keine Auswirkungen auf den Spam über das Widerrufsformular haben wird. Das Widerrufsformular darf keine Sicherheitsabfrage enthalten, somit wird auch das reCAPTCHA v2 dort nicht angezeigt.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Public key</td>
+<td>Public key für reCAPCHA v2</td>
+</tr>
+<tr>
+<td>Private key</td>
+<td>Private key für reCAPTCHA v2</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_sicherheitsabfragen_anzeigen">Sicherheitsabfragen anzeigen<a class="headerlink" href="#einstellungen_system_sicherheitsabfragen_anzeigen" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sicherheitscodeabfrage in "Woanders günstiger?"-Modul anzeigen?</td>
+<td>Aktiviert die Sicherheitscodeabfrage unter <em><strong>Woanders günstiger</strong></em></td>
+</tr>
+<tr>
+<td>Sicherheitscodeabfrage in "Frage zum Produkt"-Modul anzeigen?</td>
+<td>Aktiviert die Sicherheitscodeabfrage unter <em><strong>Frage zum Produkt</strong></em></td>
+</tr>
+<tr>
+<td>Sicherheitscodeabfrage in "Bewertungen"-Modul anzeigen?</td>
+<td>Aktiviert die Sicherheitscodeabfrage für die Kundenrezensionen</td>
+</tr>
+<tr>
+<td>Sicherheitscodeabfrage in "Callback Service"-Modul anzeigen?</td>
+<td>Aktiviert die Sicherheitscodeabfrage unter <em><strong>Callback Service</strong></em></td>
+</tr>
+<tr>
+<td>Sicherheitscodeabfrage in Kontaktformular anzeigen?</td>
+<td>Aktiviert die Sicherheitscodeabfrage im <em><strong>Kontaktformular</strong></em></td>
+</tr>
+<tr>
+<td>Sicherheitscodeabfrage in "Passwort vergessen?" anzeigen?</td>
+<td>Aktiviert die Sicherheitscodeabfrage für die <em><strong>Passwort vergessen</strong></em>-Funktion</td>
+</tr>
+<tr>
+<td>Sicherheitscodeabfrage im Newsletterformular anzeigen?</td>
+<td>Aktiviert die Sicherheitscodeabfrage für die Newsletter-Anmeldung</td>
+</tr>
+<tr>
+<td>Sicherheitsabfrage in Account-Erstellung anzeigen?</td>
+<td>Aktiviert die Sicherheitscodeabfrage bei der Kundenanmeldung</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_wartungsmodus">Wartungsmodus<a class="headerlink" href="#einstellungen_system_wartungsmodus" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Shop online / offline</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für die Shop online / offline-Seite anzuzeigen.</td>
+</tr>
+<tr>
+<td>Offline schalten</td>
+<td>Aktiviere diese Einstellung, um dem Shop eine sogenannte Offline-Seite vorzuschalten. Auf diese Weise ist es für Besucher und Kunden nicht möglich Inhalte des Shops zu sehen oder Bestellungen durchzuführen. Dies ist besonders dann nützlich wenn der Shop erstmalig eingerichtet oder umstrukturiert wird.Der Shop bleibt für Admininistratoren weiterhin aufrufbar.</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Bei Arbeiten am Shop sollte dieser unbedingt offline geschaltet werden. Geschieht dies nicht, werden dem Kunden z.B. unvollständige AGBs oder Testartikel angezeigt, die nicht lieferbar sind. Hier besteht potenziell die Gefahr einer Abmahnung, ein einfacher Hinweis wie <em><strong>Dieser Shop ist nur zu Testtzwecken online.</strong></em>, kann u.U. nicht ausreichend sein.</p>
+</div>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Es ist standardmäßig ein Inhalt für die Offline-Seite vorgegeben. Dieser enthält einen Link Login der auf die Admin-Login-Seite des Shops verweist. Auf diese Weise kannst du dich in deinen Shop einloggen, wenn dieser Offline gestellt ist. Sollte dieser Link auf deiner Seite nicht mehr angezeigt werden, kannst du diesen manuell aufrufen. Füge deiner Shopadresse hierzu einfach ein /login_admin.php hinzu, sodass sie in der Adresszeile deines Browsers folgendermaßen aussieht: www.shop.de/login_admin.php (www.shop.de muss hier durch deine Shop-Adresse ersetzt werden)</p>
+</div>
+<h3 id="einstellungen_system_gambio_admin">Gambio Admin<a class="headerlink" href="#einstellungen_system_gambio_admin" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>WYSIWYG-Editor aktivieren</td>
+<td>Der WYSIWYG (What You See Is What You Get)-Editor ist ein Texteingabefeld mit eingebauter Vorschaufunktion. Seit der Shopversion 2.1 wird hierfür der sogeannte <em><strong>CK-Editor</strong></em> verwendet.</td>
+</tr>
+<tr>
+<td>Anzahl Kunden pro Seite</td>
+<td>Wie viele Kunden sollen in der Übersicht pro Seite im Gambio Admin angezeigt werden?</td>
+</tr>
+<tr>
+<td>Anzahl Bestellungen pro Seite</td>
+<td>Wie viele Bestellungen sollen in der Übersicht pro Seite im Gambio Admin angezeigt werden?</td>
+</tr>
+<tr>
+<td>Anzahl Artikel pro Seite</td>
+<td>Wie viele Artikel sollen in der Übersicht pro Seite im Gambio Admin angezeigt werden?</td>
+</tr>
+<tr>
+<td>Menüeintrage ohne Übersetzung</td>
+<td>Menüeinträge ohne Übersetzung im Gambio Admin anzeigen.</td>
+</tr>
+<tr>
+<td>Favoritenbox immer ausgeklappt</td>
+<td>Zeigt die Favoritenbox immer ausgeklappt an.</td>
+</tr>
+<tr>
+<td>Page-Token System</td>
+<td>Das Page-Token System ist ein zusätzliches Sicherheitssystem, das mit Hilfe von Zeitstempeln und zufallsgenerierten Hash-Werten arbeitet. Hieraus wird für jede Sitzung ein eindeutiger Kontrollwert, der sogenannte Token, errechnet. Dieser wird beim Aufruf von Seiten des Gambio Admins abgeglichen.</td>
+</tr>
+<tr>
+<td>Artikelnavigator aktivieren?</td>
+<td>Der Artikelnavigator ist eine zusätzliche Auswahl in der Artikel-Detailansicht, über die der Kunde innerhalb einer Kategorie von Artikel zu Artikel wechseln kann. So ist es nicht notwendig, die Kategorie erneut aufzurufen.</td>
+</tr>
+<tr>
+<td>Verlinken/Kopieren aktivieren</td>
+<td>Über diese Funktion ist es möglich, unter <em><strong>Artikel &gt; Artikel/Kategorien</strong></em> im Gambio Admin, einen Artikel in mehrere Kategorien zu kopieren bzw. zu verlinken. Hierzu müssen die Kategorien nach Klick auf die Schaltlfläche Kopieren lediglich angehakt werden. Diese Funktion ist standardmäßig aktiviert.</td>
+</tr>
+<tr>
+<td>Brutto Preisangaben im Gambio Admin?</td>
+<td>Artikelpreis werden entweder brutto (Einstellung aktiviert) oder netto (Einstellung deaktiviert) eingetragen.</td>
+</tr>
+<tr>
+<td>Umrechnungsgenauigkeit für Dezimalstellen</td>
+<td>Anzahl der Dezimalstellen, die intern gespeichert werden. Standardwert: 4</td>
+</tr>
+<tr>
+<td>Standardzahlungsweise bei manuell angelegten Bestellungen</td>
+<td>Wähle hier aus, welche Zahlungsweise bei manuell im Gambio Admin angelegten Bestellungen vorausgewählt werden soll.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_shop_key">Shop Key<a class="headerlink" href="#einstellungen_system_shop_key" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Shop-Key</td>
+<td>Klicke auf <em><strong>aufrufen</strong></em>, um die Konfigurationsseite für den Shop-Key anzuzeigen.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_sessions">Sessions<a class="headerlink" href="#einstellungen_system_sessions" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Überprüfen des User Browsers</td>
+<td>Wenn diese Option auf ✔ eingestellt ist, wird der Browser des Kunden daraufhin überprüft ob dieser einen korrekten Referer enthält. Sollte der Browser des Kunden nicht erkannt werden, kann das Einloggen für diesen unmöglich werden. Diese Option ist standardmäßig nicht gesetzt.</td>
+</tr>
+<tr>
+<td>Überprüfen der IP-Adresse</td>
+<td>Wenn diese Option gesetzt wurde, wird geprüft, ob sich die IP Adresse des Kunden zwischen den Seitenaufrufen geändert hat. Ist dies der Fall, wird die Session zwangsweise beendet und der Kunde ist nicht mehr eingeloggt. Dies kann sehr unerwartet auftreten, beispielsweise wenn die IP Adresse kundenseitig durch eine erneute Einwahl ins Internet geändert wurde. Diese Option sollte daher ebenfalls nicht gesetzt werden, um den Verlust der Session zu vermeiden.</td>
+</tr>
+<tr>
+<td>Session erneuern</td>
+<td>Diese Option erneuert die Session ID, wenn der Kunde sich während einer Session ausloggt und wieder einloggt. Da dies aber einige Server von sich aus vornehmen, ist diese Einstellung standardmäßig nicht gesetzt. Diese Option kann erst ab der PHP Version 4.1 genutzt werden, da bei älteren Varianten die Sitzung in Mitleidenschaft gezogen wird. Wenn die Sitzung erfolgreich erneuert wurde, bleiben Warenkorb und Login erhalten.</td>
+</tr>
+<tr>
+<td>Spider Sessions vermeiden?</td>
+<td>Hierdurch kann verhindert werden, dass Bots von Suchmaschinen eine Session im Shop erhalten. Mit einer Session könnten diese Bots Artikel in den Warenkorb legen und würden als normale Besucher gewertet. Die Einstellung ist standardmäßig gesetzt.</td>
+</tr>
+<tr>
+<td>Session Gültigkeitsdauer</td>
+<td>Legt die Dauer in Minuten fest, wie lange eine Session im Gambio Admin gültig ist. Nach Ablauf dieser festgelegten Zeit wird die Session entfernt und eine erneute Anmeldung ist erforderlich!</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_performance">Performance<a class="headerlink" href="#einstellungen_system_performance" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HTTP Caching</td>
+<td>Durch Aktivieren des HTTP Cachings lädt der Browser die JavaScripte des Shops nicht erneut vom Server herunter, wenn er diese bereits im Cache (Zwischenspeicher) hat.</td>
+</tr>
+<tr>
+<td>GZip Kompression einschalten</td>
+<td>Schalter die HTTP GZip Kompression ein, um die Seitenaufbaugeschwindigkeit zu optimieren.</td>
+</tr>
+<tr>
+<td>Kompressionslevel</td>
+<td>Wähle ein Kompressionslevel zwischen 1 (Minimum) und 9 (Maximum).</td>
+</tr>
+<tr>
+<td>HTML Kompression einschalten</td>
+<td>HTML Kompression entfernt unnötige Leerzeichen aus dem Code der Seiten, erschwert aber die Fehlerdiagnose.</td>
+</tr>
+<tr>
+<td>Cache-freundliche Dateinamen</td>
+<td>Über die Einstellung <em><strong>Cache-freundliche Dateinamen</strong></em> können die Namen bestimmter Ressourcen (JavaScript, CSS) automatisch angepasst werden, damit diese nicht im Browsercache gespeichert, sondern bei jedem Laden der betreffenden Seite aktuell abgerufen werden.</td>
+</tr>
+<tr>
+<td>CSS inline im Head ausgeben</td>
+<td>Wird der Haken gesetzt, wird der CSS-Code im Head-Bereich der Seite ausgegeben, anstatt die externe CSS-Datei zu verlinken.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="einstellungen_system_logging">Logging<a class="headerlink" href="#einstellungen_system_logging" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Logging aktivieren</td>
+<td>Logging im gesamten Shop aktivieren / deaktivieren</td>
+</tr>
+<tr>
+<td>Speichern der Berechnungszeit der Seite</td>
+<td>Speichern der Zeit, die benötigt wird, um Scripte bis zur Ausgabe der Seite zu berechnen. Diese Funktion erzeugt jedoch ebenfalls eine gewisse Server-Last. Abhängig vom Server kann die Belastung durch die Speicherung der Berechnungszeit minimal bis erheblich sein. Wenn du einen langsamen Server verwendest, sollte diese Funktion nach Möglichkeit deaktiviert werden.</td>
+</tr>
+<tr>
+<td>Speicherort der Logdatei der Berechnungszeit</td>
+<td>Hier wird der absolute Verzeichnispfad mit dem Dateinamen der Logdatei eingetragen. Standardmäßig ist dieses Feld folgendermaßen belegt: /var/log/www/tep/page_parse_time.log</td>
+</tr>
+<tr>
+<td>Berechnungszeit der Seiten anzeigen</td>
+<td>Wenn das Speichern der Berechnungszeit für Seiten eingeschaltet ist, kann diese im Footer (Seitenende) angezeigt werden.</td>
+</tr>
+<tr>
+<td>SQL-Logging im Frontend</td>
+<td>Datenbankverändernde SQL-Befehle im Frontend werden geloggt. Dies wäre z.B. dann der Fall, wenn ein Kunde eine Bestellung durchführt.</td>
+</tr>
+<tr>
+<td>SQL-Logging im Backend</td>
+<td>Datenbankverändernde SQL-Befehle im Backend werden geloggt, wie es bei allen Änderungen an Artikeln, Contents, etc. der Fall ist.</td>
+</tr>
+<tr>
+<td>Maximale Dateigröße</td>
+<td>Maximale Dateigröße der SQL-Logging-Datei in MB. Wird das Limit überschritten, wird die Log-Datei unter neuem Namen im gz-Format komprimiert angelegt. Damit wird verhindert, dass die Log-Datei unnötig groß wird.</td>
+</tr>
+<tr>
+<td>Speichern aller Datenbankabfragen</td>
+<td>Speichern der einzelnen Datenbankabfragen in der Logdatei für Berechnungszeiten. Datenbankabfragen sind alle Abrufe von Daten, die im Shop stattfinden.</td>
+</tr>
+<tr>
+<td>E-Mail-Fehlerberichte an</td>
+<td>E-Mail-Adresse, an die Fehlerberichte gesendet werden sollen. Um keine Berichte zu senden, kann das Feld einfach leer gelassen werden. Zur Sendung von Fehlerberichten an den Gambio Support kann die Adresse debug@gambio-support.de eingetragen werden.</td>
+</tr>
+</tbody>
+</table>
+
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Zurück zum Seitenanfang
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2023 Gambio GmbH
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://www.gambio-support.de" target="_blank" rel="noopener" title="Gambio Kundenportal" class="md-social__link">
+      <svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><style>.cls-1{fill:#fff;}</style></defs><path class="cls-1" d="M63.37,52.59a19.56,19.56,0,0,0,6.86-14.84,14.42,14.42,0,0,0-.77-4.57A19,19,0,0,0,67.05,28l.12.11,4.09-4.46L64,17l-4.09,4.46.06.06a21.23,21.23,0,0,0-9.78-2.61l-.27,0H49.7c-10.62.08-20.49,6.67-20.49,19.53,0,11.86,8.14,19.31,20.71,19.31,6.9,0,9.3,2.86,9.3,6.59,0,4.73-4.5,7.77-9.46,7.77-5.19,0-9.23-2-9.61-7H29.76c-.24,11,6.66,16.88,20,16.88,10.47,0,20.78-5.86,20.78-17.26A12.62,12.62,0,0,0,63.37,52.59ZM40,38.37c0-6.2,4.27-9.61,9.93-9.61a9.46,9.46,0,0,1,9.61,9.61c0,6.13-4.58,9.15-9.61,9.15C44.26,47.52,40,44,40,38.37Z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/gambio" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/company/gambio-gmbh" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["toc.autohide", "navigation.tabs", "navigation.expand", "toc.integrate", "navigation.top"], "search": "../../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version": "Version ausw\u00e4hlen"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.4e0fa4ba.min.js"></script>
+      
+    
+  </body>
+</html>

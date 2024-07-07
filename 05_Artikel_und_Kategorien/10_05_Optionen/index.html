@@ -1,0 +1,5042 @@
+
+<!doctype html>
+<html lang="de" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://developers.gambio.de/docs/manual/05_Artikel_und_Kategorien/10_05_Optionen/">
+      
+      
+        <link rel="prev" href="../10_04_Artikeleigenschaften_/">
+      
+      
+        <link rel="next" href="../10_06_Kollektionen/">
+      
+      
+      <link rel="icon" href="../../favicon.ico">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.0">
+    
+    
+      
+        <title>Optionen - Handbuch</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.9f615399.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.649f08f9.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="gambio" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#optionen" class="md-skip">
+          Zum Inhalt
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Kopfzeile">
+    <a href="../.." title="Handbuch" class="md-header__button md-logo" aria-label="Handbuch" data-md-component="logo">
+      
+  <img src="../../logo.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Handbuch
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Optionen
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Suche" placeholder="Suche" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Suche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Zurücksetzen" aria-label="Zurücksetzen" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Hauptnavigation" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Vorwort
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../01_Einleitung/" class="md-tabs__link">
+        
+  
+    
+  
+  Einleitung
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../02_Bereiche_und_Funktionen/" class="md-tabs__link">
+        
+  
+    
+  
+  Bereiche und Funktionen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../03_Bestellungen/" class="md-tabs__link">
+        
+  
+    
+  
+  Bestellungen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../04_Kunden/" class="md-tabs__link">
+        
+  
+    
+  
+  Kunden
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="../" class="md-tabs__link">
+        
+  
+    
+  
+  Artikel & Kategorien
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../06_Inhalte/" class="md-tabs__link">
+        
+  
+    
+  
+  Darstellung / Inhalte
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../07_Module/" class="md-tabs__link">
+        
+  
+    
+  
+  Module
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/" class="md-tabs__link">
+        
+  
+    
+  
+  Konfiguration und Einstellungen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Anhang/" class="md-tabs__link">
+        
+  
+    
+  
+  Anhang
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Handbuch" class="md-nav__button md-logo" aria-label="Handbuch" data-md-component="logo">
+      
+  <img src="../../logo.svg" alt="logo">
+
+    </a>
+    Handbuch
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vorwort
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../01_Einleitung/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Einleitung
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_2">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Einleitung
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01_Einleitung/2_Art_der_Shoploesung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Art der Shoplösung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01_Einleitung/3_Erste_Schritte/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Erste Schritte
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Bereiche und Funktionen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Bereiche und Funktionen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_1" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Bereiche des Shopsystems
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_1">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Bereiche des Shopsystems
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_1_Shopbereich/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shopbereich
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_2_Gambio_Admin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gambio Admin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_3_StyleEdit_v3_und_StyleEdit_4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    StyleEdit v3 und StyleEdit 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_4_CK_Editor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CK-Editor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Fehlerbehebung/18_01_Manuelle_Datensicherung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Manuelle Datensicherung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Gutscheine_und_Rabatt_Coupons/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Gutscheine und Rabatt Coupons
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_3">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Gutscheine und Rabatt Coupons
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Gutscheine_und_Rabatt_Coupons/13_01_Gutscheine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gutscheine
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Gutscheine_und_Rabatt_Coupons/13_02_Rabatt_Kupons/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rabatt Coupons
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Schnittstellen/16_01_GoogleServices/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Google Services
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Statistiken/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Statistiken
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_5">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Statistiken
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_01_Besucherstatistik/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Besucherstatistik
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_02_Besuchte_Artikel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Besuchte Artikel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_03_Kampagnen_Report/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kampagnen Report
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_04_Kunden_Bestellstatistik/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kunden-Bestellstatistik
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_05_Umsatzstatistik/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Umsatzstatistik
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_06_Verkaufte_Artikel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verkaufte Artikel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_07_Wer_ist_online/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wer ist online?
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_08_Statistiken_Loeschen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statistiken löschen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Toolbox/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Toolbox
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_6">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Toolbox
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_01_Timer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Timer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_02_Texte_anpassen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Texte anpassen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_03_Cache/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cache
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_04_Datensicherung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Datensicherung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_05_Newsletter/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Newsletter
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_06_Logs_anzeigen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logs anzeigen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_07_Server_Info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Server Info
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_08_SQL/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SQL
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_09_OpenSearch_Plugin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    OpenSearch Plugin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_10_Dateimanager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dateimanager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_11_ZeitgesteuerteAufgaben/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zeitgesteuerte Aufgaben
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_12_ArtikelbilderLoeschen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikelbilder löschen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_13_Weiterleitungsregeln/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weiterleitungsregeln
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../03_Bestellungen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Bestellungen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_4">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Bestellungen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_01_Bestellungen_abwickeln/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellungen abwickeln
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_02_Bestellung_manuell_anlegen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellung manuell anlegen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_03_Bestellung_bearbeiten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellung bearbeiten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_04_Bestellungen_rueckabwickeln/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellung rückabwickeln
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_05_Rechnung_UND_Lieferschein_konfigurieren/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rechnung & Lieferschein konfigurieren
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_07_Widerrufe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Widerrufe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_08_Rechnungsuebersicht/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rechnungsübersicht
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../04_Kunden/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Kunden
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_5">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Kunden
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_01_Kundenregistrierung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundenregistrierung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_02_Haendlerkunden/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Händlerkunden
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_03_Kundenkonten_verwalten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundenkonten verwalten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_04_Administrator_Konten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Administrator-Konten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_05_Kundengruppen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundengruppen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_06_Kundenrezensionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundenrezensionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_07_E_Mails/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    E-Mails
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Artikel & Kategorien
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_6">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Artikel & Kategorien
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_01_Kategorien/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kategorien
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_02_Artikel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_03_Artikelattribute_/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikelattribute
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_04_Artikeleigenschaften_/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikeleigenschaften
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Optionen
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Optionen
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#einleitung" class="md-nav__link">
+    Einleitung
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#masken-unter-artikel-optionen" class="md-nav__link">
+    Masken unter Artikel &gt; Optionen
+  </a>
+  
+    <nav class="md-nav" aria-label="Masken unter Artikel > Optionen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ubersicht-unter-artikel-optionen" class="md-nav__link">
+    Übersicht unter Artikel &gt; Optionen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maske-neue-option-hinzufugen" class="md-nav__link">
+    Maske Neue Option hinzufügen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maske-neuen-wert" class="md-nav__link">
+    Maske Neuen Wert
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maske-option-bearbeiten" class="md-nav__link">
+    Maske Option bearbeiten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maske-wert-bearbeiten" class="md-nav__link">
+    Maske Wert bearbeiten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dialog-loschen-bestatigen" class="md-nav__link">
+    Dialog Löschen bestätigen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#anlegen-von-optionen-und-werten" class="md-nav__link">
+    Anlegen von Optionen und Werten
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bearbeiten-von-optionen-und-werten" class="md-nav__link">
+    Bearbeiten von Optionen und Werten
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sortieren-von-optionen-und-werten" class="md-nav__link">
+    Sortieren von Optionen und Werten
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#loschen-von-optionen-und-werten" class="md-nav__link">
+    Löschen von Optionen und Werten
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#zusatzoptionen" class="md-nav__link">
+    Zusatzoptionen
+  </a>
+  
+    <nav class="md-nav" aria-label="Zusatzoptionen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#masken-im-reiter-zusatzoptionen" class="md-nav__link">
+    Masken im Reiter Zusatzoptionen
+  </a>
+  
+    <nav class="md-nav" aria-label="Masken im Reiter Zusatzoptionen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ubersicht" class="md-nav__link">
+    Übersicht
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#neue-zusatzoption-zuweisen" class="md-nav__link">
+    Neue Zusatzoption zuweisen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#zusatzoptionen-bearbeiten-sortieren-und-loschen" class="md-nav__link">
+    Zusatzoptionen bearbeiten, sortieren und löschen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#zuweisen-von-zusatzoptionen" class="md-nav__link">
+    Zuweisen von Zusatzoptionen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bearbeiten-von-zusatzoptionen" class="md-nav__link">
+    Bearbeiten von Zusatzoptionen
+  </a>
+  
+    <nav class="md-nav" aria-label="Bearbeiten von Zusatzoptionen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hinzufugen-von-werten" class="md-nav__link">
+    Hinzufügen von Werten
+  </a>
+  
+    <nav class="md-nav" aria-label="Hinzufügen von Werten">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hinzufugen-von-neuen-werten" class="md-nav__link">
+    Hinzufügen von neuen Werten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hinzufugen-von-bestehenden-werten" class="md-nav__link">
+    Hinzufügen von bestehenden Werten
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bearbeiten-von-werten" class="md-nav__link">
+    Bearbeiten von Werten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sortieren-von-werten" class="md-nav__link">
+    Sortieren von Werten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#entfernen-von-werten" class="md-nav__link">
+    Entfernen von Werten
+  </a>
+  
+    <nav class="md-nav" aria-label="Entfernen von Werten">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#entfernen-von-werten-aus-der-ubersicht" class="md-nav__link">
+    Entfernen von Werten aus der Übersicht
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#entfernen-von-werten-uber-den-dialog-neuen-wert-zu-hinzufugen" class="md-nav__link">
+    Entfernen von Werten über den Dialog Neuen Wert zu ... hinzufügen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sortieren-von-zusatzoptionen" class="md-nav__link">
+    Sortieren von Zusatzoptionen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#entfernen-von-zusatzoptionen" class="md-nav__link">
+    Entfernen von Zusatzoptionen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#artikelvarianten" class="md-nav__link">
+    Artikelvarianten
+  </a>
+  
+    <nav class="md-nav" aria-label="Artikelvarianten">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#masken-im-reiter-varianten" class="md-nav__link">
+    Masken im Reiter Varianten
+  </a>
+  
+    <nav class="md-nav" aria-label="Masken im Reiter Varianten">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#artikelvarianten-erstellen" class="md-nav__link">
+    Artikelvarianten erstellen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dialog-standardwerte" class="md-nav__link">
+    Dialog Standardwerte
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dialog-artikelvarianten-erstellen" class="md-nav__link">
+    Dialog Artikelvarianten erstellen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#variantenubersicht" class="md-nav__link">
+    Variantenübersicht
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen" class="md-nav__link">
+    Einstellungen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#zuweisung-andern" class="md-nav__link">
+    Zuweisung ändern
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikelvarianten-bearbeiten" class="md-nav__link">
+    Artikelvarianten bearbeiten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kombination-loschen" class="md-nav__link">
+    Kombination löschen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kombinationen-loschen" class="md-nav__link">
+    Kombinationen löschen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#funktionen-im-reiter-varianten" class="md-nav__link">
+    Funktionen im Reiter Varianten
+  </a>
+  
+    <nav class="md-nav" aria-label="Funktionen im Reiter Varianten">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#einstellungen-vornehmen" class="md-nav__link">
+    Einstellungen vornehmen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#zuweisung-andern_1" class="md-nav__link">
+    Zuweisung ändern
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#standardwerte-festlegen" class="md-nav__link">
+    Standardwerte festlegen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#anlegen-von-artikelvarianten" class="md-nav__link">
+    Anlegen von Artikelvarianten
+  </a>
+  
+    <nav class="md-nav" aria-label="Anlegen von Artikelvarianten">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#artikelvarianten-manuell-erstellen" class="md-nav__link">
+    Artikelvarianten manuell erstellen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikelvarianten-automatisch-erstellen" class="md-nav__link">
+    Artikelvarianten automatisch erstellen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bearbeiten-von-artikelvarianten" class="md-nav__link">
+    Bearbeiten von Artikelvarianten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#loschen-von-artikelvarianten" class="md-nav__link">
+    Löschen von Artikelvarianten
+  </a>
+  
+    <nav class="md-nav" aria-label="Löschen von Artikelvarianten">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#loschen-von-einzelnen-artikelvarianten" class="md-nav__link">
+    Löschen von einzelnen Artikelvarianten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#loschen-von-mehreren-artikelvarianten" class="md-nav__link">
+    Löschen von mehreren Artikelvarianten
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_06_Kollektionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kollektionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_07_GX_Customizer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    GX-Customizer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_08_Zusatzfunktionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zusatzfunktionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_09_Rabatte_UND_Sonderangebote/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rabatte & Sonderangebote
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_10_Import_Export/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Import/Export
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_11_QuickEdit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    QuickEdit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../06_Inhalte/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Darstellung / Inhalte
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_7">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Darstellung / Inhalte
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_01_StyleEdit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    StyleEdit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_02_Honeygrid_und_StyleEdit_v3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Honeygrid und StyleEdit v3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_03_StyleEdit4_Themes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    StyleEdit 4 / Themes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_04_Logo_Manager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logo Manager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_05_Teaser_Slider/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Teaser-Slider
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_06_Content_Manager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Content Manager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_07_Banner_Manager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Banner Manager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_08_Shop_Online_Offline/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shop Online/Offline
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_09_Eigene_Fehlerseiten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Eigene Fehlerseiten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_8" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../07_Module/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Module
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_8">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Module
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_1_Versandarten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Versandarten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_2_Zahlungsweisen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zahlungsweisen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_3_Zusammenfassung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zusammenfassung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_4_Modul_Center/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modul-Center
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_5_Zusatzmodule/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zusatzmodule
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../08_Konfiguration_und_Einstellungen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Konfiguration und Einstellungen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Konfiguration und Einstellungen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Einstellungen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Einstellungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Konfiguration
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9_2">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            Konfiguration
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_01_Shop_Key/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shop-Key
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_02_E_Mail_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    E-Mail-Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_03_Bild_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bild-Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_05_Rechtliche_Einstellung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rechtliche Einstellungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_07_Lager_und_Bestandseinstellungen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lager- und Bestandseinstellungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_08_Konfiguration_des_G_Protectors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Konfiguration des G-Protectors
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_11_Kampagnen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kampagnen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_13_Nummernkreise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nummernkreise
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_16_Versand_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Versand-Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_18_Paketversender/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paketdienste
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../08_Konfiguration_und_Einstellungen/Lokalisierung/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Lokalisierung
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9_3">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3">
+            <span class="md-nav__icon md-icon"></span>
+            Lokalisierung
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Lokalisierung/8_1_Laender/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Länder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Lokalisierung/8_2_Sprachen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sprachen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Lokalisierung/8_3_Steuer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Steuer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Lokalisierung/8_4_Waehrungen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Währungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Suchmaschinen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9_4">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_4">
+            <span class="md-nav__icon md-icon"></span>
+            Suchmaschinen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_1_Gambio_SEO_Boost/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gambio SEO Boost
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_2_Meta_Angaben/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta-Angaben
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_3_Robots_Datei/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Robots-Datei
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_4_Sitemap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sitemap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_5_StatischeSeiten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statische Seiten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_6_Tracking_Codes_/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tracking-Codes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_7_URL_Rewrite/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    URL Rewrite
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_8_htaccessUndSEO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    .htaccess und SEO
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_10" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../Anhang/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Anhang
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_10">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Anhang
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Anhang/19_01_Lizenzhinweise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lizenzhinweise
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Anhang/19_02_Liste_der_Laender/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Liste der Länder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="optionen">Optionen<a class="headerlink" href="#optionen" title="Permanent link">&para;</a></h1>
+<h2 id="einleitung">Einleitung<a class="headerlink" href="#einleitung" title="Permanent link">&para;</a></h2>
+<div class="admonition abstract">
+<p class="admonition-title">Definitionen</p>
+<p>Es werden folgende Begriffe verwendet:</p>
+<ul>
+<li>
+<p><em><strong>Option</strong></em>: </p>
+<ul>
+<li>Zusammenfassung von Auswahlmöglichkeiten, um Ausprägungen oder Variationen von Artikeln abzubilden</li>
+<li>enthaltene Werte können einzeln einem Artikel zugeordnet werden</li>
+</ul>
+</li>
+<li>
+<p><em><strong>Wert</strong></em>: </p>
+<ul>
+<li>Auswahlmöglichkeit, die Teil einer Option ist</li>
+<li>kann einzeln einem Artikel zugeordnet werden</li>
+<li>Zuordnung kann unabhängig (Zusatzoptionen) oder abhängig (Artikelvarianten) von anderen Werten erfolgen</li>
+</ul>
+</li>
+<li>
+<p><em><strong>Zusatzoption</strong></em>:</p>
+<ul>
+<li>spezifischer Wert, der einem Artikel zugeordnet worden ist</li>
+<li>Auswahlen sind unabhängig voneinander</li>
+<li>verwendbar z.B. bei der Zusammenstellung eines Computers, die Grafikkarte kann unabhängig von der Festplatte ausgewählt werden</li>
+</ul>
+</li>
+<li>
+<p><em><strong>Artikelvariante</strong></em> <strong>|</strong> <em><strong>Variante</strong></em> <strong>|</strong> <em><strong>Kombination</strong></em>:</p>
+<ul>
+<li>spezifische Werte, die einem Artikel zugeordnet worden sind</li>
+<li>Auswahlen sind abhängig voneinander</li>
+<li>verwendbar z.B. bei Farbe und Größe von Textilien, beide Auswahlen lassen sich nicht vom Artikel trennen</li>
+</ul>
+</li>
+</ul>
+</div>
+<p>Über Optionen lassen sich Auswahlmöglichkeiten für Artikel umsetzen. Diese Auswahlen bestehen aus der übergeordneten Option selbst und den zugehörigen Werten, die die Auswahlmöglichkeiten darstellen. Die Werte können einzeln ausgewählt und den Artikeln zugewiesen werden, um eine entsprechende Auswahlmöglichkeit zu schaffen.</p>
+<p>Die Auswahlmöglichkeiten können verschieden dargestellt werden:</p>
+<ul>
+<li>Dropdown</li>
+<li>Radio Buttons</li>
+<li>Bild</li>
+<li>Text</li>
+<li>eingerahmter Text</li>
+</ul>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Einleitung_BeispielartikelZusatzoptionen_Dropdown.png" title="Zusatzoptionen als Dropdown" />
+<img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Einleitung_BeispielartikelZusatzoptionen_Radio.png" title="Zusatzoptionen als Radio Buttons" />
+<img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Einleitung_BeispielartikelZusatzoptionen_Text.png" title="Zusatzoptionen als Text" />
+<img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Einleitung_BeispielartikelZusatzoptionen_EingerahmterTextBild.png" title="Zusatzoptionen als eingerahmter Text und Bild" /></p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Anzeigeart <em><strong>Eingerahmter Text</strong></em> ist nur für kurze Bezeichnungen geeignet. Bei Werten mit längeren Namen kann es zu Fehlern in der Darstellung kommen:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Einleitung_BeispielartikelZusatzoptionen_EingerahmterTextClipping.png" title="Darstellungsfehler bei zu langen Namen im eingerahmten Text" /></p>
+</div>
+<p>Hierbei können Werte wahlweise als <em><strong>Zusatzoptionen</strong></em> oder <em><strong>Artikelvarianten</strong></em> zugewiesen werden. Bei Zusatzoptionen können Auswahlmöglichkeiten ohne Abhängigkeiten erstellt werden.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Bei <em><strong>Zusatzoptionen</strong></em> findet eine Vorauswahl statt, während bei <em><strong>Artikelvarianten</strong></em> jeder Wert durch den Kunden selbst ausgewählt werden muss, bevor der Artikel in den Warenkorb gelegt werden kann.</p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Beispiel</p>
+<p>Du verkaufst selbstgenähte Brieftaschen, bei denen Kunden das Muster des Stoffs und die Farbe für eine Bestickung auswählen können.  Diese können beides nach Belieben kombinieren, eine Abhängigkeit zwischen Stoff und Bestickung bestehht nicht.</p>
+<p>Du legst hierzu die folgenden Optionen an:</p>
+<ul>
+<li><em>Muster</em></li>
+<li><em>Farbe Stickerei</em></li>
+</ul>
+<p>Für <em>Muster</em> könntest du z.B. die folgenden Werte anlegen:</p>
+<ul>
+<li><em>Polka Dot</em></li>
+<li><em>Streifen</em></li>
+<li><em>Karos</em></li>
+<li>...</li>
+</ul>
+<p>Für <em>Farbe Stickerei</em> wären z.B. die Werte</p>
+<ul>
+<li>marineblau</li>
+<li>oliv</li>
+<li>petrol</li>
+<li>cyan </li>
+<li>...</li>
+</ul>
+<p>denkbar.</p>
+<p>Diese weist du dem Artikel als <em>Zusatzoptionen</em> zu, damit die Kunden frei darunter wählen können.</p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Beispiel</p>
+<p>Du verkaufst Computer, die mit verschiedenen Komponenten bestückt werden können. Du möchtest, dass deine Kunden zwischen verschiedenen Grafikkarten und Festplatten wählen können. Dabei spielt es für die Auswahl der Festplatten keine Rolle, welche Grafikkarte verbaut wird. </p>
+<p>Du legst daher folgende Optionen an:</p>
+<ul>
+<li><em>Grafikkarte</em></li>
+<li><em>Festplatte</em></li>
+</ul>
+<p>Unter <em>Grafikkarte</em> legst du für jede Wahlmöglickeit einen Wert an:</p>
+<ul>
+<li><em>GTX 1080 Ti</em></li>
+<li><em>RTX 2080 Ti</em></li>
+<li><em>RTX 3090</em></li>
+<li>...</li>
+</ul>
+<p>usw.</p>
+<p>Unter <em>Festplatte</em> könnten die Werte so aussehen:</p>
+<ul>
+<li><em>HDD 1 Terrabyte</em></li>
+<li><em>SSD 512 Gigabyte</em></li>
+<li>...</li>
+</ul>
+<p>Da deine Kunden ihre Auswahl beliebig treffen können, weist du die Werte deinem Artikel als <em>Zusatzoptionen</em> zu.</p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Beispiel</p>
+<p>Du verkaufst Kleidungsstücke in verschiedenen Farben und Konfektionsgrößen. Farbe und Größe lassen sich naturgemäß nicht voneinander trennen, da etwa ein blaues XL-T-Shirt für den Verkauf nicht nachträglich umgefärbt oder in XXL vergrößert werden kann - es besteht eine Abhängigkeit zwischen den verschiedenen Ausprägungen. </p>
+<p>Du legst folgende Optionen an:</p>
+<ul>
+<li><em>Farbe</em></li>
+<li><em>Größe</em></li>
+</ul>
+<p>Für die Option <em>Farbe</em> legst du folgende Werte an:</p>
+<ul>
+<li><em>rot</em></li>
+<li><em>grün</em></li>
+<li><em>blau</em></li>
+<li><em>schwarz</em></li>
+<li><em>weiß</em></li>
+<li>...</li>
+</ul>
+<p>Für die Option <em>Größe</em> legst du folgende Werte an:</p>
+<ul>
+<li><em>S</em></li>
+<li><em>M</em></li>
+<li><em>L</em></li>
+<li><em>XL</em></li>
+<li><em>XXL</em></li>
+<li>...</li>
+</ul>
+<p>Die Werte weist du den Artikeln als <em>Artikelvarianten</em> zu, um die Abhängigkeit zwischen den Werten abbilden zu können.</p>
+</div>
+<h2 id="masken-unter-artikel-optionen">Masken unter <em><strong>Artikel &gt; Optionen</strong></em><a class="headerlink" href="#masken-unter-artikel-optionen" title="Permanent link">&para;</a></h2>
+<h3 id="ubersicht-unter-artikel-optionen">Übersicht unter <em><strong>Artikel &gt; Optionen</strong></em><a class="headerlink" href="#ubersicht-unter-artikel-optionen" title="Permanent link">&para;</a></h3>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_MaskenUnterArtikelOptionen_UebersichtUnterArtikelOptionen_SeiteArtikelOptionenImGambioAdmin.png" title="Seite _**Artikel &gt; Optionen**_ im Gambio Admin" /></p>
+<table>
+<thead>
+<tr>
+<th>Schaltfläche</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>Option(en) hinzufügen</strong></em></td>
+<td>öffnet die Maske <em><strong>Neue Option hinzufügen</strong></em></td>
+</tr>
+</tbody>
+</table>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_MaskenUnterArtikelOptionen_UebersichtUnterArtikelOptionen_IconsBeimHovernUeberEinenEintrag.png" title="Icons beim Hovern über einen Eintrag" /></p>
+<p>Bewegt man den Mauszeiger über einen Eintrag, stehen folgende Funktionen über die Symbole zur Verfügung:</p>
+<table>
+<thead>
+<tr>
+<th>Symbol</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/OptionenPlus.png" /></td>
+<td>öffnet die Maske <em><strong>Neuen Wert</strong></em></td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/OptionenBleistift.png" /></td>
+<td>öffnet die Maske <em><strong>Option Bearbeiten</strong></em></td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Pfeilkreuz.png" /></td>
+<td>ermöglicht das Verschieben einer Option durch Ziehen an die gewünschte Stelle in der Auflistung</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/OptionenMuelleimer.png" /></td>
+<td>öffnet den Dialog <em><strong>Löschen bestätigen</strong></em> für das Löschen der Option</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_MaskenUnterArtikelOptionen_UebersichtUnterArtikelOptionen_EintragAusgeklappt.png" title="Der Eintrag für die Option _Größe_ wurde ausgeklappt" /></p>
+<p>Durch Klick auf den Namen einer Option kann der Eintrag aufgeklappt und so die enthaltenen Werte angezeigt werden. Anschließend stehen weitere Funktionen zur Verfügung:</p>
+<table>
+<thead>
+<tr>
+<th>Schaltfläche</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/OptionenBleistift.png" /></td>
+<td>öffnet die Maske <em><strong>Wert bearbeiten</strong></em></td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Pfeilkreuz.png" /></td>
+<td>ermöglicht das Verschieben eines Werts durch Ziehen an die gewünschte Stelle in der Auflistung innerhalb der Option</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/OptionenMuelleimer.png" /></td>
+<td>öffnet den Dialog <em><strong>Löschen bestätigen</strong></em> für den Wert</td>
+</tr>
+<tr>
+<td><strong>[Name der Option]</strong> <em><strong>hinzufügen</strong></em></td>
+<td>öffnet die Maske <em><strong>Neuen Wert</strong></em></td>
+</tr>
+</tbody>
+</table>
+<h3 id="maske-neue-option-hinzufugen">Maske <em><strong>Neue Option hinzufügen</strong></em><a class="headerlink" href="#maske-neue-option-hinzufugen" title="Permanent link">&para;</a></h3>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_MaskenUnterArtikelOptionen_MaskeNeueOptionHinzufuegen.png" title="Neue Option hinzufügen" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[Landesflagge]</strong></td>
+<td>schaltet die Maske um, damit Einstellungen für mehrere Sprachen im Shop vorgenommen werden können</td>
+</tr>
+<tr>
+<td><em><strong>Bezeichnung</strong></em></td>
+<td>Name der Option, wird dem Kunden als Name der Auswahl im Artikel angezeigt</td>
+</tr>
+<tr>
+<td><em><strong>Admin Bezeichnung</strong></em></td>
+<td>interner Name der Option, ist nur im Gambio Admin sichtbar</td>
+</tr>
+<tr>
+<td><em><strong>Anzeigetyp</strong></em></td>
+<td>Wie wird die Auswahl im Artikel dargestellt (<em><strong>Eingerahmter Text</strong></em>, <em><strong>Dropdown</strong></em>, <em><strong>Bild</strong></em>, <em><strong>Radio</strong></em>(button), <em><strong>Text</strong></em>)?</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>schließt den Dialog, ohne die Option anzulegen</td>
+</tr>
+<tr>
+<td><em><strong>Speichern</strong></em></td>
+<td>legt die Option mit den gemachten Eingaben und Einstellungen an</td>
+</tr>
+</tbody>
+</table>
+<h3 id="maske-neuen-wert">Maske <em><strong>Neuen Wert</strong></em><a class="headerlink" href="#maske-neuen-wert" title="Permanent link">&para;</a></h3>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_MaskenUnterArtikelOptionen_MaskeNeuenWert.png" title="Neuen Wert" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[Landesflagge]</strong></td>
+<td>schaltet die Maske um, damit Einstellungen für mehrere Sprachen im Shop vorgenommen werden können</td>
+</tr>
+<tr>
+<td><em><strong>Bezeichnung</strong></em></td>
+<td>Name des Werts, wird dem Kunden im Artikel als Auswahlmöglichkeit angezeigt</td>
+</tr>
+<tr>
+<td><em><strong>Bild</strong></em></td>
+<td>Bild zur Darstellung der Auswahlmöglichkeit, wird dem Kunden angezeigt, wenn in der zugehörigen Option der <em><strong>Anzeigetyp</strong></em> auf <em><strong>Bild</strong></em> eingestellt ist</td>
+</tr>
+<tr>
+<td><em><strong>Artikelnummer</strong></em></td>
+<td>Artikelnummer des Werts, wird als (Teil-)Artikelnummer im Artikel angezeigt</td>
+</tr>
+<tr>
+<td><em><strong>Gewicht</strong></em></td>
+<td>Gewicht des Werts, wird bei Auswahl zum Gewicht im Hauptartikel addiert oder kann dieses ersetzen (Varianten).</td>
+</tr>
+<tr>
+<td><em><strong>Bruttopreis</strong></em></td>
+<td>Preis des Werts, wird bei Auswahl des Werts zu dem Preis des Hauptartikels addiert</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>schließt den Dialog, ohne den Wert anzulegen</td>
+</tr>
+<tr>
+<td><em><strong>Speichern</strong></em></td>
+<td>schließt den Dialog und legt den Wert mit den vorgenommenen Eingaben an</td>
+</tr>
+</tbody>
+</table>
+<h3 id="maske-option-bearbeiten">Maske <em><strong>Option bearbeiten</strong></em><a class="headerlink" href="#maske-option-bearbeiten" title="Permanent link">&para;</a></h3>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_MaskenUnterArtikelOptionen_MaskeOptionBearbeiten.png" title="Option bearbeiten" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[Landesflagge]</strong></td>
+<td>schaltet die Maske um, damit Einstellungen für mehrere Sprachen im Shop vorgenommen werden können</td>
+</tr>
+<tr>
+<td><em><strong>Bezeichnung</strong></em></td>
+<td>Name der Option, wird dem Kunden als Name der Auswahl im Artikel angezeigt</td>
+</tr>
+<tr>
+<td><em><strong>Admin Bezeichnung</strong></em></td>
+<td>interner Name der Option, ist nur im Gambio Admin sichtbar</td>
+</tr>
+<tr>
+<td><em><strong>Anzeigetyp</strong></em></td>
+<td>Wie wird die Auswahl im Artikel dargestellt (<em><strong>Eingerahmter Text</strong></em>, <em><strong>Dropdown</strong></em>, <em><strong>Bild</strong></em>, <em><strong>Radio</strong></em>(button), <em><strong>Text</strong></em>)?</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>schließt den Dialog, ohne die Änderungen zu übernehmen</td>
+</tr>
+<tr>
+<td><em><strong>Speichern</strong></em></td>
+<td>übernimmt gemachte Eingaben und Einstellungen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="maske-wert-bearbeiten">Maske <em><strong>Wert bearbeiten</strong></em><a class="headerlink" href="#maske-wert-bearbeiten" title="Permanent link">&para;</a></h3>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_MaskenUnterArtikelOptionen_MaskeWertBearbeiten.png" title="Wert bearbeiten" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[Landesflagge]</strong></td>
+<td>schaltet die Maske um, damit Einstellungen für mehrere Sprachen im Shop vorgenommen werden können</td>
+</tr>
+<tr>
+<td><em><strong>Bezeichnung</strong></em></td>
+<td>Name des Werts, wird dem Kunden im Artikel als Auswahlmöglichkeit angezeigt</td>
+</tr>
+<tr>
+<td><em><strong>Bild</strong></em></td>
+<td>Bild zur Darstellung der Auswahlmöglichkeit, wird dem Kunden angezeigt, wenn in der zugehörigen Option der <em><strong>Anzeigetyp</strong></em> auf <em><strong>Bild</strong></em> eingestellt ist</td>
+</tr>
+<tr>
+<td><em><strong>Artikelnummer</strong></em></td>
+<td>Artikelnummer des Werts, wird als (Teil-)Artikelnummer im Artikel angezeigt</td>
+</tr>
+<tr>
+<td><em><strong>Gewicht</strong></em></td>
+<td>Gewicht des Werts, wird bei Auswahl zum Gewicht im Hauptartikel addiert oder kann dieses ersetzen (Varianten)</td>
+</tr>
+<tr>
+<td><em><strong>Bruttopreis</strong></em></td>
+<td>Preis des Werts, wird bei Auswahl des Werts zu dem Preis des Hauptartikels addiert</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>schließt den Dialog, ohne die Änderungen zu übernehmen</td>
+</tr>
+<tr>
+<td><em><strong>Speichern</strong></em></td>
+<td>schließt den Dialog und übernimmt die vorgenommenen Änderungen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="dialog-loschen-bestatigen">Dialog <em><strong>Löschen bestätigen</strong></em><a class="headerlink" href="#dialog-loschen-bestatigen" title="Permanent link">&para;</a></h3>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_ArtikelOptionen_MaskeLoeschenBestaetigen.png" title="Löschen bestätigen" /></p>
+<table>
+<thead>
+<tr>
+<th>Schaltfläche</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>schließt dem Dialog, ohne die Option zu löschen</td>
+</tr>
+<tr>
+<td><em><strong>Löschen</strong></em></td>
+<td>entfernt die Option und die ggf. enthaltenen Werte</td>
+</tr>
+</tbody>
+</table>
+<h2 id="anlegen-von-optionen-und-werten">Anlegen von Optionen und Werten<a class="headerlink" href="#anlegen-von-optionen-und-werten" title="Permanent link">&para;</a></h2>
+<p>Optionen können unter <em><strong>Artikel &gt; Optionen</strong></em> angelegt werden. Standardmäßig sind hier bereits Optionen vorhanden. Die Schaltfläche befindet sich rechts oben, oberhalb der bestehenden Einträge:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_AnlegenVonOptionenUndWerten_001_ButtonOptionenHinzufuegen.png" title="Schaltfläche _**Option(en) hinzufügen**_ unter _**Artikel &gt; Optionen**_ im Gambio Admin" /></p>
+<p>Nach Klick auf die Schaltfläche <em><strong>Option(en) hinzufügen</strong></em> öffnet sich das Dialogfenster zum Anlegen der neuen Option:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_AnlegenVonOptionenUndWerten_002_DialogNeueOptionHinzufuegen.png" title="Maske _**Neue Option hinzufügen**_" /></p>
+<p>Es müssen alle mit einem roten Sternchen markierten Felder in der Maske ausgefüllt werden, damit die Option angelegt werden kann. Beachte hierbei, dass es für alle im Backend aktiven Sprachen einen eigenen Reiter gibt.</p>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Einstellungen müssen für alle Sprachen vorgenommen werden, die im Backend aktiv sind, damit eine Option angelegt werden kann. Unter <em><strong>Einstellungen / Sprache, Länder, Steuern / Sprachen</strong></em> kannst du über die Schaltfläche <em><strong>Aufrufen</strong></em> die Einstellungsseite hierzu anzeigen.</p>
+</div>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_AnlegenVonOptionenUndWerten_003_DieNeueOptionWurdeAngelegt.png" title="Die neue Option wurde angelegt" /></p>
+<p>Nach dem Anlegen steht die neue Option in der Übersicht zur Verfügung, sodass Werte hinzugefügt werden können. Bewege hierzu wahlweise den Mauszeiger über den Eintrag und klicke auf das Plus-Symbol </p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_AnlegenVonOptionenUndWerten_004_AnzeigeDerAktionenBeimHovern.png" title="Anzeige der Aktionen beim Hovern mit der Maus" /></p>
+<p>oder klappe den Eintrag über einen Klick auf den Namen der Option auf und verwende eine der folgenden Schaltflächen:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_AnlegenVonOptionenUndWerten_005_NeueOptionAufgeklappt.png" title="Anzeige nach Aufklappen des Eintrags" /></p>
+<p>Es öffnet sich der Dialog zum Anlegen eines neuen Werts:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_AnlegenVonOptionenUndWerten_006_DialogNeuenWert.png" title="Dialog _**Neuen Wert**_ zum Anlegen eines Werts" /></p>
+<p>Für die mit Sternchen markierten Felder müssen gültige Werte eingetragen werden. Die Eingaben müssen für jede Sprache gemacht werden, die im Backend des Shops aktiv ist.</p>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Einstellungen müssen für alle Sprachen vorgenommen werden, die im Backend aktiv sind, damit ein Wert angelegt werden kann. Unter <em><strong>Einstellungen / Sprache, Länder, Steuern / Sprachen</strong></em> kannst du über die Schaltfläche <em><strong>Aufrufen</strong></em> die Einstellungsseite hierzu anzeigen.</p>
+</div>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_AnlegenVonOptionenUndWerten_007_NeueWerteAngelegt.png" title="Die neuen Werte wurden angelegt" /></p>
+<h2 id="bearbeiten-von-optionen-und-werten">Bearbeiten von Optionen und Werten<a class="headerlink" href="#bearbeiten-von-optionen-und-werten" title="Permanent link">&para;</a></h2>
+<p>Optionen und ihre zugehörigen Werte können unter <em><strong>Artikel &gt; Optionen</strong></em> bearbeitet werden, klicke hierzu jeweils auf das zugehörige Bleistift-Symbol. </p>
+<p>Die Symbole der Optionen werden angezeigt, wenn der Mauszeiger darüber bewegt oder der Eintrag durch Klick auf den Namen aufgeklappt wird:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_BearbeitenVonOptionenUndWerten_008_AnzeigeDerAktionenBeimHovern.png" title="Anzeige der Symbole beim Hovern über den Eintrag" /></p>
+<p>Die Symbole der Werte werden ebenfalls angezeigt, wenn der Eintrag der zugehörigen Option ausgeklappt ist.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_BearbeitenVonOptionenUndWerten_009_EintragEingeklappt.png" title="Eingeklappter Eintrag der Option _Neue Option_" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_BearbeitenVonOptionenUndWerten_010_EintragAusgeklappt.png" title="Ausgeklappter Eintrag der Option _Neue Option_" /></p>
+<h2 id="sortieren-von-optionen-und-werten">Sortieren von Optionen und Werten<a class="headerlink" href="#sortieren-von-optionen-und-werten" title="Permanent link">&para;</a></h2>
+<p>Optionen und Werte lassen sich unter <em><strong>Artikel &gt; Optionen</strong></em> sortieren. Hierzu kann das Pfeilkreuz-Symbol verwendet werden:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_SortierenVonOptionenUndWerten_011_SymbolZumSortierenVonOptionen.png" title="Symbol zum Sortieren bei Optionen" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_SortierenVonOptionenUndWerten_012_EintragAusgeklappt.png" title="Symbol zum Sortieren bei Werten" /></p>
+<div class="admonition check">
+<p class="admonition-title">Sortieren von Einträgen</p>
+<ol>
+<li>bewege den Mauszeiger über das Symbol</li>
+<li>klicke das Symbol mit der linken Maustaste an und halte diese gedrückt <img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_SortierenVonOptionenUndWerte_OptionAuswaehlen.png" title="Eintrag wird angeklickt" /></li>
+<li>ziehe den Eintrag in der Liste an die gewünschte Stelle <img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_SortierenVonOptionenUndWerten_OptionVerschieben.png" title="Eintrag wird an die neue Position gezogen" /></li>
+<li>lasse die linke Maustaste wieder los, um den Eintrag an seiner neuen Position einzusortieren</li>
+</ol>
+</div>
+<h2 id="loschen-von-optionen-und-werten">Löschen von Optionen und Werten<a class="headerlink" href="#loschen-von-optionen-und-werten" title="Permanent link">&para;</a></h2>
+<p>Unter <em><strong>Artikel &gt; Optionen</strong></em> können Optionen und Werte gelöscht werden, klicke hierzu auf das jeweilige Mülltonnen-Symbol. </p>
+<p>Die Symbole der Optionen werden angezeigt, wenn der Mauszeiger darüber bewegt oder der Eintrag durch Klick auf den Namen aufgeklappt wird:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_LoeschenVonOptionenUndWerten_013_Hover.png" title="Anzeige der Symbole beim Hovern über den Eintrag" /></p>
+<p>Die Symbole der Werte werden ebenfalls angezeigt, wenn der Eintrag der zugehörigen Option ausgeklappt ist.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_LoeschenVonOptionenUndWerten_014_EintragEingeklappt.png" title="Ausklappen des Eintrags durch Klick auf den Namen der Option" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_LoeschenVonOptionenUndWerten_015_EintragAusgeklappt.png" title="Eintrag ausgeklappt" /></p>
+<p>Vor dem Löschen von Optionen oder Werten wird eine Sicherheitsabfrage angezeigt:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_LoeschenVonOptionenUndWerten_016_SicherheitsabfrageOption.png" title="Sicherheitsabfrage vor dem Löschen einer Option" /></p>
+<h2 id="zusatzoptionen">Zusatzoptionen<a class="headerlink" href="#zusatzoptionen" title="Permanent link">&para;</a></h2>
+<h3 id="masken-im-reiter-zusatzoptionen">Masken im Reiter <em><strong>Zusatzoptionen</strong></em><a class="headerlink" href="#masken-im-reiter-zusatzoptionen" title="Permanent link">&para;</a></h3>
+<h4 id="ubersicht">Übersicht<a class="headerlink" href="#ubersicht" title="Permanent link">&para;</a></h4>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_MaskenImReiterZusatzoptionen_Uebersicht.png" title="Erster Aufruf des Reiters _**Zusatzoptionen**_ aus der Artikelmaske" /></p>
+<p>Beim ersten Aufruf wird eine Platzhalter-Seite angezeigt, da dem Artikel noch keine Zusatzoptionen zugewiesen worden sind. Über die Schaltfläche <em><strong>Zusatzoption(en) zuweisen</strong></em> wird der zugehörige Dialog geöffnet.</p>
+<h4 id="neue-zusatzoption-zuweisen">Neue Zusatzoption zuweisen<a class="headerlink" href="#neue-zusatzoption-zuweisen" title="Permanent link">&para;</a></h4>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_MaskenImReiterZusatzoptionen_NeueZusatzoptionZuweisen_001.png" title="Maske _**Neue Zusatzoption zuweisen**_" /></p>
+<p>Durch Anklicken eines Eintrags kann dieser aufgeklappt und die zugehörigen Werte angezeigt werden.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_MaskenImReiterZusatzoptionen_NeueZusatzoptionZuweisen_002.png" title="Maske _**Neue Zusatzoption zuweisen**_ mit einer ausgeklappten Option" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>Durchsuchen</strong></em></td>
+<td>Eingabefeld zum Filtern nach Optionen</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Artikeloptionen_Ausklappen.png" /></td>
+<td>Ausklappen eines Eintrags</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Artikeloptionen_Zuweisen.png" /></td>
+<td>Zuweisen der angehakten Werte zu einem Artikel</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Artikeloptionen_Entfernen.png" /></td>
+<td>Entfernen der angehakten Werte aus einem Artikel</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>Schließen des Dialogs ohne Änderungen zu übernehmen</td>
+</tr>
+<tr>
+<td><em><strong>Speichern</strong></em></td>
+<td>Schließen des Dialogs mit Übernahme der Änderungen</td>
+</tr>
+</tbody>
+</table>
+<h4 id="zusatzoptionen-bearbeiten-sortieren-und-loschen">Zusatzoptionen bearbeiten, sortieren und löschen<a class="headerlink" href="#zusatzoptionen-bearbeiten-sortieren-und-loschen" title="Permanent link">&para;</a></h4>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_MaskenImReiterZusatzoptionen_ZusatzoptionenBearbeitenSortierenUndLoeschen_001.png" title="Übersicht beim Öffnen der Zusatzoptionen eines Artikels" /></p>
+<table>
+<thead>
+<tr>
+<th>Schaltfläche</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>Zusatzoption(en) zuweisen</strong></em></td>
+<td>öffnet die Maske <em><strong>Neue Zusatzoption zuweisen</strong></em></td>
+</tr>
+</tbody>
+</table>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_MaskenImReiterZusatzoptionen_ZusatzoptionenBearbeitenSortierenUndLoeschen_002.png" title="Anzeige der Symbole beim Hovern" /></p>
+<table>
+<thead>
+<tr>
+<th>Symbol</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/OptionenPlus.png" /></td>
+<td>öffnet die Maske <em><strong>Neuen Wert zu </strong></em> <strong>[Name der Zusatzoption]</strong> <em><strong>hinzufügen</strong></em></td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Pfeilkreuz.png" /></td>
+<td>ermöglicht das Verschieben einer Zusatzoption durch Ziehen an die gewünschte Stelle in der Auflstung</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/OptionenMuelleimer.png" /></td>
+<td>öffnet den Dialog <em><strong>Löschen bestätigen</strong></em> für das Löschen der Zusatzoption</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_MaskenImReiterZusatzoptionen_ZusatzoptionenBearbeitenSortierenUndLoeschen_003.png" title="Ausgeklappter Eintrag" /></p>
+<table>
+<thead>
+<tr>
+<th>Schaltfläche</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/OptionenBleistift.png" /></td>
+<td>öffnet die Maske <em><strong>Option Wert ... bearbeiten</strong></em></td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Pfeilkreuz.png" /></td>
+<td>ermöglicht das Verschieben eines Werts durch Ziehen an die gewünschte Stelle in der Auflistung innerhalb der Zusatzoption</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/OptionenMuelleimer.png" /></td>
+<td>öffnet den Dialog <em><strong>Löschen bestätigen</strong></em> für das Löschen des Werts aus der Zusatzoption</td>
+</tr>
+<tr>
+<td><strong>[Name der Option]</strong> <em><strong>hinzufügen</strong></em></td>
+<td>öffnet die Maske <em><strong>Neuen Wert zu ... hinzufügen</strong></em></td>
+</tr>
+</tbody>
+</table>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_MaskenImReiterZusatzoptionen_ZusatzoptionenBearbeitenSortierenUndLoeschen_NeuenWertHinzufuegenErstellen.png" title="Dialog _**Neuen Wert zu ... hinzufügen**_ zum Erstellen eines neuen Werts" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[Landesflagge]</strong></td>
+<td>schaltet die Maske um, damit Einstellungen für mehrere Sprachen im Shop vorgenommen werden können</td>
+</tr>
+<tr>
+<td><em><strong>Bezeichnung</strong></em></td>
+<td>Name des Werts, der im Artikel angezeigt wird</td>
+</tr>
+<tr>
+<td><em><strong>Bild</strong></em></td>
+<td>Kollektion für den neuen Wert einrichten</td>
+</tr>
+<tr>
+<td><em><strong>Artikelnummer</strong></em></td>
+<td>(Teil-)Artikelnummer des Werts</td>
+</tr>
+<tr>
+<td><em><strong>Auf Lager</strong></em></td>
+<td>Lagerstand des neuen Werts</td>
+</tr>
+<tr>
+<td><em><strong>Gewicht</strong></em></td>
+<td>Gewicht des neuen Werts, das zu dem Artikelgewicht addiert wird</td>
+</tr>
+<tr>
+<td><em><strong>Bruttopreis</strong></em></td>
+<td>Aufpreis des neuen Werts, wird zu dem Preis des Artikels addiert</td>
+</tr>
+<tr>
+<td><em><strong>Bestehenden Wert hinzufügen</strong></em></td>
+<td>schaltet auf die Maske <em><strong>Neuen Wert zu ... hinzufügen</strong></em> um, aus der auf die bereits angelegten Werte zugegriffen werden kann</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>schließt den Dialog, ohne den neuen Wert anzulegen</td>
+</tr>
+<tr>
+<td><em><strong>Erstellen &amp; Zuweisen</strong></em></td>
+<td>legt den neuen Wert an und weist ihn dem Artikel zu</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikeloptionen_MaskenImReiterOptionen_ArtikeloptionenBearbeitenSortierenUndLoeschen_NeuenWertZuHinzufuegen_BestehendenWert.png" title="Maske _**Neuen Wert zu ... hinzufügen**_" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>Wert finden</strong></em></td>
+<td>Eingabefeld zum Filtern nach Werten</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Artikeloptionen_Zuweisen.png" /></td>
+<td>Zuweisen der angehakten Werte zu einem Artikel</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Artikeloptionen_Entfernen.png" /></td>
+<td>Entfernen der angehakten Werte aus einem Artikel</td>
+</tr>
+<tr>
+<td><em><strong>Erstellen</strong></em></td>
+<td>wechselt zum Dialog <em><strong>Neuen Wert zu ... hinzufügen</strong></em> zum Erstellen eines neuen Werts</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>Schließen des Dialogs ohne Änderungen zu übernehmen</td>
+</tr>
+<tr>
+<td><em><strong>Zuweisen &amp; Speichern</strong></em></td>
+<td>Schließen des Dialogs mit Übernahme der Änderungen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="zuweisen-von-zusatzoptionen">Zuweisen von Zusatzoptionen<a class="headerlink" href="#zuweisen-von-zusatzoptionen" title="Permanent link">&para;</a></h3>
+<p>Zusatzoptionen können einem Artikel unter <em><strong>Artikel &gt; Artikel/Kategorien</strong></em> zugewiesen werden. Am einfachsten kann hierfür der Reiter <em><strong>Zusatzoptionen</strong></em> in der Artikelmaske verwendet werden:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_ZuweisenVonZusatzoptionen_Artikelmaske.png" title="Reiter _**Zusatzoptionen**_ in der Artikelmaske" /></p>
+<p>Zusätzlich steht auch ein Eintrag in der Dropdown-Schaltfläche der Kategorieübersicht zur Verfügung:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_ZuweisenVonZusatzoptionen_Kategorieuebersicht.png" title="Dropdown-Schaltfläche in der Kategorieübersicht" /></p>
+<p>In beiden Fällen gelangst du zur selben Seite:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_ZuweisenVonZusatzoptionen_ErsterAufruf.png" title="Übersicht der Zusatzoptionen beim ersten Aufruf" /></p>
+<p>Klicke hier auf <em><strong>Zusatzoption(en) zuweisen</strong></em>, um den Dialog zum Zuweisen zu öffnen:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_ZuweisenVonZusatzoptionen_DialogEingeklappt.png" title="Dialog zum Zuweisen von Zusatzoptionen" /></p>
+<p>Der Dialog ist in zwei Spalten aufgeteilt. Auf der linken Seite findest du die Optionen, die im Shop zur Verfügung stehen. Auf der rechten Seite siehst du die Optionen, welche dem Artikel bereits als Zusatzoptionen zugewiesen worden sind.</p>
+<p>Klicke auf einen Eintrag, um diesen aufzuklappen und die Werte der zugehörigen Option anzuzeigen. Du kannst jeden Wert einzeln an- bzw. abwählen. Über die blaue Schaltfläche können die angehakten Werte für die Zuweisung ausgewählt werden:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_ZuweisenVonZusatzoptionen_DialogAusgeklappt.png" title="Option und Werte wurden für die Zuweisung angehakt" /></p>
+<p>Damit die Zusatzoptionen tatsächlich zugewiesen werden, muss dies über Klick auf <em><strong>Speichern</strong></em> bestätigt werden:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_ZuweisenVonZusatzoptionen_DialogZugewiesen.png" title="Option und Werte wurden für die Zuweisung ausgewählt" /></p>
+<h3 id="bearbeiten-von-zusatzoptionen">Bearbeiten von Zusatzoptionen<a class="headerlink" href="#bearbeiten-von-zusatzoptionen" title="Permanent link">&para;</a></h3>
+<p>Bestehende Zusatzoptionen können unter <em><strong>Artikel &gt; Artikel/Kategorien</strong></em> bearbeitet werden. Am einfachsten kannst du den Reiter <em><strong>Zusatzoptionen</strong></em> in der Artikelmaske verwenden, um zur Übersicht der Zusatzoptionen für den entsprechenden Artikel zu gelangen:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_Artikelmaske.png" title="Reiter _**Zusatzoptionen**_ in der Artikelmaske" /></p>
+<p>Alternativ kannst du auch die Dropdown-Schaltfläche in der Artikelmaske oder der Kategorieübersicht verwenden:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_Kategorieuebersicht.png" title="Eintrag _**Zusatzoptionen**_ in der Dropdown-Schaltfläche der Kategorieübersicht" /></p>
+<p>In der Übersicht werden die Zusatzoptionen aufgelistet:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_Uebersicht.png" title="Übersicht der Zusatzoptionen" /></p>
+<p>Bewegt man den Mauszeiger über einen Eintrag, erscheinen die zugehörigen Symbole für <em><strong>Hinzufügen</strong></em>, <em><strong>Sortieren</strong></em> und <em><strong>Löschen</strong></em>:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_UebersichtHover.png" title="Anzeige der Symbole für eine Zusatzoption beim Hovern" /></p>
+<p>Zudem kannst du den Eintrag mit einem Klick auf den Namen aufklappen, um die zugehörigen Werte anzuzeigen:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_UebersichtEingeklappt.png" title="Eingeklappter Eintrag" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_UebersichtAusgeklappt.png" title="Anzeige der Werte nach Ausklappen" /></p>
+<h4 id="hinzufugen-von-werten">Hinzufügen von Werten<a class="headerlink" href="#hinzufugen-von-werten" title="Permanent link">&para;</a></h4>
+<p>Zusatzoptionen, die einem Artikel zugewiesen worden sind, können nachträglich Werte hinzugefügt werden. Dies können nicht nur bestehende Werte sein, die noch nicht zugewiesen wurden. Es ist ebenfalls möglich einen Wert zum Zuweisen direkt neu anzulegen. Dieser wird in der zugehörigen Option erstellt und  dem Artikel unmittelbar zugewiesen. </p>
+<h5 id="hinzufugen-von-neuen-werten">Hinzufügen von neuen Werten<a class="headerlink" href="#hinzufugen-von-neuen-werten" title="Permanent link">&para;</a></h5>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_HinzufuegenVonWerten_NeuenWertHinzufuegen.png" title="Hinzufügen eines neuen Werts" /></p>
+<div class="admonition check">
+<p class="admonition-title">Hinzufügen von neuen Werten</p>
+<ol>
+<li>klicke auf die <em><strong>+</strong></em>-Schaltfläche der Zusatzoption ODER die Schaltfläche <em><strong>... hinzufügen</strong></em> im aufgeklappten Eintrag</li>
+<li>fülle die Felder im Dialog <em><strong>Neuen Wert zu ... hinzufügen</strong></em> aus</li>
+<li>richte bei Bedarf eine Kollektion über die Einstellung <em><strong>Bild</strong></em> ein</li>
+<li>klicke auf <em><strong>Erstellen &amp; zuweisen</strong></em>, um die Einrichtung des neuen Werts abzuschließen</li>
+</ol>
+</div>
+<h5 id="hinzufugen-von-bestehenden-werten">Hinzufügen von bestehenden Werten<a class="headerlink" href="#hinzufugen-von-bestehenden-werten" title="Permanent link">&para;</a></h5>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_HinzufuegenVonWerten_BestehendenWertHinzufuegen_001.png" title="Klick auf _**Hinzufügen**_" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_HinzufuegenVonWerten_BestehendenWertHinzufuegen_002.png" title="Umschalten des Dialogs" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikeloptionen_BearbeitenVonArtikeloptionen_BearbeitenVonWerten_HinzufuegenVonBestehendenWerten.png" title="Maske zum Hinzufügen von bestehenden Werten" /></p>
+<div class="admonition check">
+<p class="admonition-title">Hinzufügen von bestehenden Werten</p>
+<ol>
+<li>klicke auf die <em><strong>+</strong></em>-Schaltfläche der Zusatzoption ODER die Schaltfläche <em><strong>... hinzufügen</strong></em> im aufgeklappten Eintrag</li>
+<li>klicke auf die grüne Schaltfläche <em><strong>Bestehenden Wert hinzufügen</strong></em>, um den Dialog umzuschalten</li>
+<li>hake auf der linken Seite die Werte an, die du der Zusatzoption hinzufügen möchtest</li>
+<li>klicke auf die blaue <em><strong>&gt;</strong></em>-Schaltfläche, um die angehakten Werte für die Zuweisung auszuwählen</li>
+<li>bestätige die Zuweisung mit einem Klick auf die Schaltfläche <em><strong>Zuweisen &amp; Speichern</strong></em></li>
+</ol>
+</div>
+<h4 id="bearbeiten-von-werten">Bearbeiten von Werten<a class="headerlink" href="#bearbeiten-von-werten" title="Permanent link">&para;</a></h4>
+<div class="admonition check">
+<p class="admonition-title">Bearbeiten eines Werts einer Zusatzoption</p>
+<ol>
+<li>klicke den Namen der zugehörigen Zusatzoption an, um den Eintrag aufzuklappen</li>
+<li>klicke bei dem jeweiligen Wert auf das Bleistift-Symbol</li>
+<li>ändere in der Maske <em><strong>Wert bearbeiten</strong></em> die gewünschten Feldinhalte bzw. Einstellungen</li>
+<li>bestätige die Änderung mit einem Klick auf <em><strong>Speichern</strong></em></li>
+</ol>
+</div>
+<h4 id="sortieren-von-werten">Sortieren von Werten<a class="headerlink" href="#sortieren-von-werten" title="Permanent link">&para;</a></h4>
+<div class="admonition check">
+<p class="admonition-title">Sortieren von Werten innerhalb einer Zusatzoption</p>
+<ol>
+<li>klicke den Namen der zugehörigen Zusatzoption an, um den Eintrag aufzuklappen</li>
+<li>klicke das Symbol <img alt="" src="../../Bilder/Icons/Pfeilkreuz.png" /> des zu sortierenden Werts an und halte die linke Maustaste gedrückt</li>
+<li>ziehe den Eintrag an die neue Position</li>
+<li>lasse die linke Maustaste wieder los, um den Eintrag zu platzieren</li>
+</ol>
+</div>
+<h4 id="entfernen-von-werten">Entfernen von Werten<a class="headerlink" href="#entfernen-von-werten" title="Permanent link">&para;</a></h4>
+<p>Am einfachsten kann der Wert einer Zusatzoption aus der Übersicht heraus entfernt werden. Es geht aber auch über den Umweg des Dialogs <em><strong>Neuen Wert zu ... hinzufügen</strong></em>, indem der entsprechende Wert auf der rechten, statt auf der linken Seite angehakt wird.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Beim Entfernen eines Werts aus einer Zusatzoption wird dieser nicht gelöscht, sondern lediglich nicht mehr in dem betreffenden Artikel bzw. der Zusatzoption verwendet. </p>
+</div>
+<h5 id="entfernen-von-werten-aus-der-ubersicht">Entfernen von Werten aus der Übersicht<a class="headerlink" href="#entfernen-von-werten-aus-der-ubersicht" title="Permanent link">&para;</a></h5>
+<div class="admonition check">
+<p class="admonition-title">Entfernen von Werten aus einer Zusatzoption über die Übersicht</p>
+<ol>
+<li>klicke den Namen der zugehörigen Zusatzoption an, um den Eintrag aufzuklappen</li>
+<li>klicke auf das Symbol <img alt="" src="../../Bilder/Icons/OptionenMuelleimer.png" /></li>
+<li>bestätige die Sicherheitsabfrage mit einem Klick auf <em><strong>Löschen</strong></em></li>
+</ol>
+</div>
+<h5 id="entfernen-von-werten-uber-den-dialog-neuen-wert-zu-hinzufugen">Entfernen von Werten über den Dialog <em><strong>Neuen Wert zu ... hinzufügen</strong></em><a class="headerlink" href="#entfernen-von-werten-uber-den-dialog-neuen-wert-zu-hinzufugen" title="Permanent link">&para;</a></h5>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_EntfernenVonWerten_EntfernenUeberDialog_001.png" title="" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_EntfernenVonWerten_EntfernenUeberDialog_002.png" title="" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Zusatzoptionen_BearbeitenVonZusatzoptionen_EntfernenVonWerten_EntfernenUeberDialog_003.png" title="" /></p>
+<div class="admonition check">
+<p class="admonition-title">Entfernen von Werten aus einer Zusatzoption über den Dialog <em><strong>Neuen Wert zu ... hinzufügen</strong></em> </p>
+<ol>
+<li>klicke auf die <em><strong>+</strong></em>-Schaltfläche der Zusatzoption ODER die Schaltfläche <em><strong>... hinzufügen</strong></em> im aufgeklappten Eintrag</li>
+<li>klicke auf die grüne Schaltfläche <em><strong>Bestehenden Wert hinzufügen</strong></em>, um den Dialog umzuschalten</li>
+<li>hake auf der rechten Seite die Werte an, die du aus den Zusatzoptionen entfernen möchtest</li>
+<li>klicke auf die rote <em><strong>&lt;</strong></em>-Schaltfläche, um die angehakten Werte aus den Zusatzoptionen auszuwählen</li>
+<li>bestätige das Entfernen mit einem Klick auf die Schaltfläche <em><strong>Zuweisen &amp; Speichern</strong></em> </li>
+</ol>
+</div>
+<h3 id="sortieren-von-zusatzoptionen">Sortieren von Zusatzoptionen<a class="headerlink" href="#sortieren-von-zusatzoptionen" title="Permanent link">&para;</a></h3>
+<div class="admonition check">
+<p class="admonition-title">Sortieren von Zusatzoptionen eines Artikels</p>
+<ol>
+<li>klicke das Symbol <img alt="" src="../../Bilder/Icons/Pfeilkreuz.png" /> der zu sortierenden Zusatzoption an und halte die linke Maustaste gedrückt
+   <img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikeloptionen_SortierenVonArtikeloptionen_001_AnklickenPfeilkreuz.png" /></li>
+<li>ziehe den Eintrag an die neue Position
+   <img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikeloptionen_SortierenVonArtikeloptionen_002_ZiehenAnPosition.png" /></li>
+<li>lasse die linke Maustaste wieder los, um den Eintrag zu platzieren
+   <img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikeloptionen_SortierenVonArtikeloptionen_003_NeuePosition.png" /></li>
+</ol>
+</div>
+<h3 id="entfernen-von-zusatzoptionen">Entfernen von Zusatzoptionen<a class="headerlink" href="#entfernen-von-zusatzoptionen" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Beim Entfernen einer Zusatzoption aus einem Artikel wird die zugehörige Option nicht gelöscht, sondern lediglich nicht mehr in dem betreffenden Artikel verwendet. </p>
+</div>
+<div class="admonition check">
+<p class="admonition-title">Entfernen von Zusatzoptionen aus einem Artikel</p>
+<ol>
+<li>bewege den Mauszeiger über den Namen der jeweiligen Zusatzoption, um die Symbole für die Aktionen anzuzeigen</li>
+<li>klicke auf das Symbol <img alt="" src="../../Bilder/Icons/OptionenMuelleimer.png" /></li>
+<li>bestätige die Sicherheitsabfrage mit einem Klick auf <em><strong>Löschen</strong></em></li>
+</ol>
+</div>
+<h2 id="artikelvarianten">Artikelvarianten<a class="headerlink" href="#artikelvarianten" title="Permanent link">&para;</a></h2>
+<p>Artikelvarianten werden unter <em><strong>Artikel &gt; Artikel/Kategorien</strong></em> verwaltet. Die Übersichtsseite für Varianten kann über den Reiter <em><strong>Varianten</strong></em> in der Artikelmaske aufgerufen werden:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_Artikelmaske.png" title="Reiter _**Varianten**_ in der Artikelmaske" /></p>
+<p>Alternativ kann die Seite ebenfalls über den Eintrag <em><strong>Varianten</strong></em> der Dropdown-Schaltfläche der Kategorieübersicht aufgerufen werden:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_Kategorieuebersicht.png" title="Dropdownschaltfläche in der Kategorieübersicht" /></p>
+<h3 id="masken-im-reiter-varianten">Masken im Reiter <em><strong>Varianten</strong></em><a class="headerlink" href="#masken-im-reiter-varianten" title="Permanent link">&para;</a></h3>
+<h4 id="artikelvarianten-erstellen">Artikelvarianten erstellen<a class="headerlink" href="#artikelvarianten-erstellen" title="Permanent link">&para;</a></h4>
+<p>Diese Übersicht wird angezeigt, wenn der betreffende Artikel keine Artikelvarianten hat und ermöglicht es, diese aus den bestehenden Optionen zu erstellen.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_MaskenImReiterVarianten_ArtikelvariantenErstellen_Uebersicht.png" title="Übersicht im Reiter _**Varianten**_" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_MaskenImReiterVarianten_ArtikelvariantenErstellen_UebersichtAusgeklappt.png" title="Übersicht im Reiter _**Varianten**_, Option ausgeklappt" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[Artikelname]</strong></td>
+<td>Link zum Aufrufen der Artikelmaske, entspricht Reiter <em><strong>Allgemein</strong></em></td>
+</tr>
+<tr>
+<td><em><strong>Standardwerte</strong></em></td>
+<td>Öffnet den Dialog <em><strong>Standadwerte</strong></em>, über die die Standardbelegung von Einstellungen für Varianten festgelegt werden kann</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Varianten_Plus.png" /></td>
+<td>Symbol zum Aufklappen der Einträge und Anzeige/Auswahl der Werte</td>
+</tr>
+<tr>
+<td><em><strong>Artikelvarianten manuell erstellen</strong></em></td>
+<td>Ruft den Dialog <em><strong>Variante hinzufügen</strong></em> mit den ausgewählten Optionen und Werten auf, sodass Varianten händisch erstellt werden können</td>
+</tr>
+<tr>
+<td><em><strong>Artikelvarianten automatisch ermitteln</strong></em></td>
+<td>Erzeugt automatisch Varianten aus den gewählten Optionen und Werten, die bei Bedarf nachträglich bearbeitet werden können</td>
+</tr>
+</tbody>
+</table>
+<h4 id="dialog-standardwerte">Dialog <em><strong>Standardwerte</strong></em><a class="headerlink" href="#dialog-standardwerte" title="Permanent link">&para;</a></h4>
+<p>Über den Dialog <em><strong>Standardwerte</strong></em> können Vorbelegungen und Voreinstellungen festgelegt werden, die sowohl beim manuellen Erstellen als auch dem automatischen Ermitteln von Artikelvarianten verwendet werden.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Varianten_MaskenImReiterVarianten_Standardwerte.png" title="Maske Standardwerte" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>EAN</strong></em></td>
+<td>Vorbelegung für das Feld <em><strong>EAN</strong></em> beim Erstellen einer Variante</td>
+</tr>
+<tr>
+<td><em><strong>Bestand</strong></em></td>
+<td>Vorbelegung für das Feld <em><strong>Bestand</strong></em> beim Erstellen einer Variante</td>
+</tr>
+<tr>
+<td><em><strong>Gewicht</strong></em></td>
+<td>Vorbelegung für das Feld <em><strong>Gewicht</strong></em> beim Erstellen einer Variante</td>
+</tr>
+<tr>
+<td><em><strong>Preistyp</strong></em></td>
+<td>Voreinstellung für das Dropdown <em><strong>Preistyp</strong></em> beim Erstellen einer Variante</td>
+</tr>
+<tr>
+<td><em><strong>Preis</strong></em></td>
+<td>Vorbelegung für das Feld <em><strong>Preis</strong></em> beim Erstellen einer Variante</td>
+</tr>
+<tr>
+<td><em><strong>VPE (Wert)</strong></em></td>
+<td>Vorbelegung für das Eingabefeld der Einstellung <em><strong>VPE</strong></em> beim Erstellen einer Variante</td>
+</tr>
+<tr>
+<td><em><strong>VPE</strong></em></td>
+<td>Voreinstellung für das Dropdown der Einstellung <em><strong>VPE</strong></em> beim Erstellen einer Variante</td>
+</tr>
+<tr>
+<td><em><strong>Lieferzeit</strong></em></td>
+<td>Voreinstellung für das Dropdown <em><strong>Lieferzeit</strong></em> beim Erstellen einer Variante</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>schließt den Dialog, ohne die Änderungen zu übernehmen</td>
+</tr>
+<tr>
+<td><em><strong>Speichern</strong></em></td>
+<td>schließt den Dialog und übernimmt die gemachten Änderungen</td>
+</tr>
+</tbody>
+</table>
+<h4 id="dialog-artikelvarianten-erstellen">Dialog <em><strong>Artikelvarianten erstellen</strong></em><a class="headerlink" href="#dialog-artikelvarianten-erstellen" title="Permanent link">&para;</a></h4>
+<p>Der Dialog <em><strong>Artikelvarianten erstellen</strong></em> wird beim Klick auf die Schaltfläche <em><strong>Artikelvarianten manuell erstellen</strong></em> bzw. <em><strong>Artikelvariante hinzufügen</strong></em> aufgerufen, wenn Optionen hierfür ausgewählt worden sind.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_MaskenImReiterVarianten_DialogVariantenErstellen_001.png" title="Maske _**Artikelvarianten erstellen**_ beim manuellen Erstellen von Varianten" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Varianten_MaskenImReiterVarianten_ArtikelvarianteHinzufuegen.png" title="Maske _**Artikelvariante hinzufügen**_ beim manuellen Erstellen von Varianten" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[Option 1]</strong></td>
+<td>Dropdown, über das ein Wert aus der ersten Option ausgewählt werden kann</td>
+</tr>
+<tr>
+<td><strong>...</strong></td>
+<td>...</td>
+</tr>
+<tr>
+<td><strong>[Option n]</strong></td>
+<td>Dropdown, über das ein Wert aus der letzten Option ausgewählt werden kann</td>
+</tr>
+<tr>
+<td><em><strong>Sortiernummer</strong></em></td>
+<td>Sortierung der Artikelvariante in der Übersicht des Gambio Admins</td>
+</tr>
+<tr>
+<td><em><strong>Artikelnummer</strong></em></td>
+<td>Artikenummer bzw. Teilartikelnummer der Artikelvariante</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Ob die Artikelnummer als Teilartikelnummer verwendet wird, kann im Gambio Admin unter <em><strong>Einstellungen / Artikel &amp; Kategorien / Produkte</strong></em> festgelegt werden. Ist hier der Haken für <em><strong>Artikelvarianten-Artikelnummer anhängen</strong></em> gesetzt, wird die Artikelnummer der Variante als Teilartikelnummer verwendet und an die Artikelnummer des Hauptartikels angehängt, anstatt diese zu ersetzen.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>EAN</strong></em></td>
+<td>EAN der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>ASIN</strong></em></td>
+<td>ASIN der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>GTIN</strong></em></td>
+<td>GTIN der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>Bestand</strong></em></td>
+<td>Lagerstand der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>Gewicht</strong></em></td>
+<td>Gewicht bzw. zusätzliches Gewicht der Artikelvariante (siehe Maske <em><strong>Einstellungen</strong></em>)</td>
+</tr>
+<tr>
+<td><em><strong>Preistyp</strong></em></td>
+<td>Wie soll der Aufpreis für die Artikelvariante ermittelt werden?</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Artikelvarianten-Festpreis</strong></em>: der im Feld <em><strong>Preis</strong></em> eingetragene Wert wird als Aufpreis berechnet</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Preis aus Artikeloptionen berechnen</strong></em>: der Aufpreis der für die Variante verwendeten Optionen wird addiert</td>
+</tr>
+<tr>
+<td><em><strong>Preis</strong></em></td>
+<td>Aufpreis der Artikelvariante, wird zum Preis im Artikel addiert</td>
+</tr>
+<tr>
+<td><em><strong>VPE</strong></em></td>
+<td>VPE-Wert und Verpackungseinheit der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>Lieferzeit</strong></em></td>
+<td>Lieferstatus der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>Bild</strong></em></td>
+<td>Auswahl der Kollektion für die Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>Schließen des Dialogs, ohne die Artikelvariante hinzuzufügen</td>
+</tr>
+<tr>
+<td><em><strong>Speichern</strong></em></td>
+<td>Anlegen der Artikelvariante mit den aktuellen Einstellungen</td>
+</tr>
+<tr>
+<td><em><strong>Speichern &amp; Schließen</strong></em></td>
+<td>Schließen des Dialogs und Anlegen der Artikelvariante mit den aktuellen Einstellungen</td>
+</tr>
+</tbody>
+</table>
+<h4 id="variantenubersicht">Variantenübersicht<a class="headerlink" href="#variantenubersicht" title="Permanent link">&para;</a></h4>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_MaskenImReiterVarianten_Variantenuebersicht.png" title="Variantenübersicht" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_MaskenImReiterVarianten_VariantenuebersichtAngehakt.png" title="Variantenübersicht mit angehakten Lösch-Boxen" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_MaskenImReiterVarianten_VariantenuebersichtAusgeklappt.png" title="Anzeige der Optionen zur jeweiligen Artikelvariante" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[Artikelname]</strong></td>
+<td>Aufruf der Artikelmaske, entspricht dem Reiter <em><strong>Allgemein</strong></em></td>
+</tr>
+<tr>
+<td><em><strong>Einstellungen</strong></em></td>
+<td>Aufruf des Dialogs <em><strong>Einstellungen</strong></em></td>
+</tr>
+<tr>
+<td><em><strong>Zuweisung ändern</strong></em></td>
+<td>Ruft die Übersicht auf, aus der die Artikelvarianten neu erzeugt werden können</td>
+</tr>
+<tr>
+<td><em><strong>Standardwerte</strong></em></td>
+<td>Öffnet den Dialog <em><strong>Standadwerte</strong></em>, über den die Standardbelegung von Einstellungen für Varianten festgelegt werden kann</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Varianten_Plus.png" /></td>
+<td>klappt die Ansicht auf, Anzeige der Artikelvarianten aufgeschlüsselt nach Optionen</td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Varianten_Bleistift.png" /></td>
+<td>öffnet die Maske <em><strong>Artikelvarianten bearbeiten</strong></em></td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Varianten_X.png" /></td>
+<td>öffnet die Maske <em><strong>Kombination löschen</strong></em></td>
+</tr>
+<tr>
+<td><img alt="" src="../../Bilder/Icons/Varianten_Kaestchen.png" /></td>
+<td>Checkbox für das mehrfache Löschen (Maske <em><strong>Kombinationen löschen</strong></em>)</td>
+</tr>
+<tr>
+<td><em><strong>Artikelvariante hinzufügen</strong></em></td>
+<td>Aufruf des Dialogs <em><strong>Artikelvariante hinzufügen</strong></em> beim nachträglichen Hinzufügen von Werten aus den bereits verwendeten Optionen</td>
+</tr>
+<tr>
+<td><em><strong>Kombinationen löschen</strong></em></td>
+<td>Aufruf des Dialogs <em><strong>Kombinationen löschen</strong></em> bei Verwendung der Checkboxen für die Mehrfachauswahl</td>
+</tr>
+</tbody>
+</table>
+<h4 id="einstellungen">Einstellungen<a class="headerlink" href="#einstellungen" title="Permanent link">&para;</a></h4>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_MaskenImReiterVarianten_Einstellungen.png" title="Dialog _**Einstellungen**_ für Artikel mit Artikelvarianten" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>Dropdown Modus</strong></em></td>
+<td>Der Dropdown Modus legt fest, wie die einzelnen Werte im Artikel ausgewählt werden können:</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Standard, alle Werte immer auswählbar</strong></em>: Alle möglichen Artikelvarianten können ausgewählt werden. Bei Auswahl von nicht konfigurierten Varianten erscheint ein Hinweistext <em><strong>Diese Kombination existiert nicht...</strong></em></td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Reihenfolge der Auswahl beliebig, nur mögliche Werte auswählbar</strong></em>: Nach Auswahl eines Wertes werden in der zweiten Auswahl alle Werte angezeigt; ausgewählt werden können nur Artikelvarianten, die konfiguriert wurden.</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Reihenfolge der Auswahl vorgegeben, nur mögliche Werte auswählbar</strong></em>: Der zweite (dritte, vierte) Wert kann erst ausgewählt werden, wenn der vorangegangene Wert ausgewählt wurde. Alle möglichen Artikelvarianten werden angezeigt, ausgewählt werden können nur Varianten, die konfiguriert wurden.</td>
+</tr>
+<tr>
+<td><em><strong>Artikelvarianten-Preis anzeigen</strong></em></td>
+<td>Wenn diese Einstellung aktiviert ist, werden die Aufpreise der einzelnen Werte angezeigt.</td>
+</tr>
+<tr>
+<td><em><strong>Gewichtsberechnung</strong></em></td>
+<td>Bei der Gewichtsberechnung sind zwei Einstellungen möglich:</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Gewichte addieren</strong></em>: das eingetragene Artikelgewicht und das Gewicht der jeweiligen Artikelvariante werden zusammengerechnet</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Artikelgewicht ersetzen</strong></em>: das eingetragene Artikelgewicht wird bei Auswahl einer Artikelvariante durch dessen Gewicht ersetzt</td>
+</tr>
+<tr>
+<td><em><strong>Bestandsprüfung</strong></em></td>
+<td>Die Bestandsprüfung verfügt über vier Auswahlmöglichkeiten:</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Standard (globale Bestands-Einstellungen)</strong></em>: die globalen Einstellungen für Artikelvarianten werden verwendet</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Artikelbestand</strong></em>: nur der Artikelbestand wird geprüft und angezeigt</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Artikelvariantenbestand</strong></em>: nur der Artikelvariantenbestand wird geprüft und angezeigt, wenn eine Variante ausgewählt wurde</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Keine Prüfung</strong></em>: es findet keine Bestandsprüfung statt</td>
+</tr>
+<tr>
+<td><em><strong>Lieferzeitanzeige</strong></em></td>
+<td>Mit dieser Einstellung wird festgelegt welche Lieferzeit für den Lieferstatus verwendet wird:</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Artikellieferzeit</strong></em>: es wird die im Artikel eingestellte Lieferzeit verwendet</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Artikelvarianten-Lieferzeit</strong></em>: es wird die in der ausgewählten Variante eingestellte Lieferzeit verwendet</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>schließt den Dialog, ohne Änderungen zu übernehmen</td>
+</tr>
+<tr>
+<td><em><strong>Speichern</strong></em></td>
+<td>schließt den Dialog und übernimmt die Änderungen</td>
+</tr>
+</tbody>
+</table>
+<h4 id="zuweisung-andern">Zuweisung ändern<a class="headerlink" href="#zuweisung-andern" title="Permanent link">&para;</a></h4>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_MaskenImReiterVarianten_ZuweisungAendern.png" title="Aufruf der Übersicht nach Klick auf _**Zuweisung ändern**_" /></p>
+<p>Über <em><strong>Zuweisung ändern</strong></em> wird die Übersicht der Optionen angezeigt, die dem Artikel als Artikelvarianten zugewiesen sind.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Es können nur die Werte aus den bisher zugewiesenen Optionen geändert werden. Werte aus anderen Optionen stehen nicht zur Verfügung.</p>
+</div>
+<h4 id="artikelvarianten-bearbeiten">Artikelvarianten bearbeiten<a class="headerlink" href="#artikelvarianten-bearbeiten" title="Permanent link">&para;</a></h4>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_MaskenImReiterVarianten_ArtikelvariantenBearbeiten.png" title="Maske _**Artikelvarianten bearbeiten**_" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[Option 1]</strong></td>
+<td>Dropdown, über das ein Wert aus der ersten Option ausgewählt werden kann</td>
+</tr>
+<tr>
+<td><strong>...</strong></td>
+<td>...</td>
+</tr>
+<tr>
+<td><strong>[Option n]</strong></td>
+<td>Dropdown, über das ein Wert aus der letzten Option ausgewählt werden kann</td>
+</tr>
+<tr>
+<td><em><strong>Sortiernummer</strong></em></td>
+<td>Sortierung der Artikelvariante in der Übersicht des Gambio Admins</td>
+</tr>
+<tr>
+<td><em><strong>Artikelnummer</strong></em></td>
+<td>Artikenummer bzw. Teilartikelnummer der Artikelvariante</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Ob die Artikelnummer als Teilartikelnummer verwendet wird, kann im Gambio Admin unter <em><strong>Einstellungen / Artikel &amp; Kategorien / Produkte</strong></em> festgelegt werden. Ist hier der Haken für <em><strong>Artikelvarianten-Artikelnummer anhängen</strong></em> gesetzt, wird die Artikelnummer der Variante als Teilartikelnummer verwendet und an die Artikelnummer des Hauptartikels angehängt, anstatt diese zu ersetzen.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>EAN</strong></em></td>
+<td>EAN der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>ASIN</strong></em></td>
+<td>ASIN der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>GTIN</strong></em></td>
+<td>GTIN der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>Bestand</strong></em></td>
+<td>Lagerstand der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>Gewicht</strong></em></td>
+<td>Gewicht bzw. zusätzliches Gewicht der Artikelvariante (siehe Maske <em><strong>Einstellungen</strong></em>)</td>
+</tr>
+<tr>
+<td><em><strong>Preistyp</strong></em></td>
+<td>Wie soll der Aufpreis für die Artikelvariante ermittelt werden?</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Artikelvarianten-Festpreis</strong></em>: der im Feld <em><strong>Preis</strong></em> eingetragene Wert wird als Aufpreis berechnet</td>
+</tr>
+<tr>
+<td></td>
+<td><em><strong>Preis aus Artikeloptionen berechnen</strong></em>: der Aufpreis der für die Variante verwendeten Optionen wird addiert</td>
+</tr>
+<tr>
+<td><em><strong>Preis</strong></em></td>
+<td>Aufpreis der Artikelvariante, wird zum Preis im Artikel addiert</td>
+</tr>
+<tr>
+<td><em><strong>VPE</strong></em></td>
+<td>VPE-Wert und Verpackungseinheit der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>Lieferzeit</strong></em></td>
+<td>Lieferstatus der Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>Bild</strong></em></td>
+<td>Auswahl der Kollektion für die Artikelvariante</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>Schließen des Dialogs, ohne die Änderungen zu speichern</td>
+</tr>
+<tr>
+<td><em><strong>Speichern</strong></em></td>
+<td>Speichern der Artikelvariante mit den aktuellen Einstellungen</td>
+</tr>
+<tr>
+<td><em><strong>Speichern &amp; Schließen</strong></em></td>
+<td>Schließen des Dialogs und Speichern der Artikelvariante mit den aktuellen Einstellungen</td>
+</tr>
+</tbody>
+</table>
+<h4 id="kombination-loschen">Kombination löschen<a class="headerlink" href="#kombination-loschen" title="Permanent link">&para;</a></h4>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Varianten_MaskenImReiterVarianten_VarianteLoeschen.png" title="Dialog _**Kombination löschen**_ beim Löschen einer einzelnen Variante" /></p>
+<table>
+<thead>
+<tr>
+<th>Schaltfläche</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>schließt den Dialog, ohne die Variante zu löschen</td>
+</tr>
+<tr>
+<td><em><strong>Löschen</strong></em></td>
+<td>schließt den Dialog und löscht die Variante, ohne weitere Sicherheitsabfrage</td>
+</tr>
+</tbody>
+</table>
+<h4 id="kombinationen-loschen">Kombinationen löschen<a class="headerlink" href="#kombinationen-loschen" title="Permanent link">&para;</a></h4>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Varianten_MaskenImReiterVarianten_VariantenLoeschen.png" title="Dialog _**Kombinationen löschen**_ bei Mehrfachauswahl" /></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em><strong>Alle Kombinationen dieses Artikels löschen</strong></em></td>
+<td>ist der Haken gesetzt, werden beim Löschen alle Kombinationen entfernt, auch wenn nicht alle Kombinationen bei der Mehrfachauswahl angehakt sind</td>
+</tr>
+<tr>
+<td><em><strong>Abbrechen</strong></em></td>
+<td>schließt den Dialog, ohne die Kombinationen zu entfernen</td>
+</tr>
+<tr>
+<td><em><strong>Löschen</strong></em></td>
+<td>schließt den Dialog und entfernt die ausgewählten bzw. alle Kombinationen</td>
+</tr>
+</tbody>
+</table>
+<h3 id="funktionen-im-reiter-varianten">Funktionen im Reiter <em><strong>Varianten</strong></em><a class="headerlink" href="#funktionen-im-reiter-varianten" title="Permanent link">&para;</a></h3>
+<h4 id="einstellungen-vornehmen">Einstellungen vornehmen<a class="headerlink" href="#einstellungen-vornehmen" title="Permanent link">&para;</a></h4>
+<p>Über die Einstellungen wird das Verhalten des Artikels in Bezug auf seine Artikelvarianten festgelegt. </p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_BearbeitenVonArtikelvarianten_Uebersicht_Einstellungen.png" title="Link _**Einstellungen**_ in der Übersicht" /></p>
+<p>Klicke hierzu auf den Link <em><strong>Einstellungen</strong></em> im oberen Teil der Übersicht. Es wird die zugehörige Maske angezeigt:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_BearbeitenVonArtikelvarianten_Einstellungen.png" title="Maske _**Einstellungen**_ für den Artikel" /></p>
+<p>Nimm die gewünschten Einstellungen vor und bestätige diese mit einem Klick auf <em><strong>Speichern</strong></em>. Über <em><strong>Abbrechen</strong></em> kannst du die Maske verlassen, ohne vorgenommene Änderungen zu übernehmen.</p>
+<h4 id="zuweisung-andern_1">Zuweisung ändern<a class="headerlink" href="#zuweisung-andern_1" title="Permanent link">&para;</a></h4>
+<p>Über <em><strong>Zuweisung ändern</strong></em> können nachträglich die Werte der Artikelvarianten angepasst werden. Hierbei könne nur Werte aus Optionen verwendet werden, die dem Artikel bereits zugewiesen worden sind.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_BearbeitenVonArtikelvarianten_Uebersicht_ZuweisungAendern.png" title="Link _**Zuweisung ändern**_ in der Übersicht" /></p>
+<p>Klicke hierzu auf den Link <em><strong>Zuweisung ändern</strong></em> im oberen Teil der Übersicht. Es wird eine vergleichbare Ansicht wie beim Erstellen von Artikelvarianten angezeigt:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_BearbeitenVonArtikelvarianten_ZuweisungAendern.png" title="Ansicht _**Zuweisung ändern**_ in der Übersicht" /></p>
+<p>Über einen Klick auf das Plus-Zeichen kann der Eintrag für eine Option ausgeklappt werden:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_BearbeitenVonArtikelvarianten_ZuweisungAendernAusgeklappt.png" title="Ausgeklappter Eintrag" /></p>
+<p>Klicke hier mit gedrückter Steuerungstaste (Strg) bzw. Umschalttaste (⇧, Taste für das Großschreiben) die Werte an, welche du für die Artikelvarianten verwenden möchtest:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_BearbeitenVonArtikelvarianten_ZuweisungAendernAusgewaehlt.png" title="Werte der Option wurden ausgewählt" /></p>
+<p>Über <em><strong>Artikelvarianten manuell erstellen</strong></em> bzw. <em><strong>Artikelvarianten automatisch erstellen</strong></em> kannst du aus den Werten die Varianten erstellen (siehe <em><strong>Anlegen von Artikelvarianten</strong></em>).</p>
+<h4 id="standardwerte-festlegen">Standardwerte festlegen<a class="headerlink" href="#standardwerte-festlegen" title="Permanent link">&para;</a></h4>
+<p>Mit Hilfe der Standardwerte können Felder mit gleichen Werten oder Einstellungen vorbelegt werden, wenn neue Artikelvarianten erstellt werden. Auf diese Weise muss die gleiche Einstellung - wie z.B. ein identisches Gewicht bei einem Artikel, der lediglich mit verschiedenen Farben und Motiven verkauft wird - nur ein Mal vorgenommen werden. </p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Standardwerte werden nicht für alle Artikel sondern nur den gerade bearbeiteten Artikel festgelegt.</p>
+<p>Eine Änderung der Standardwerte wirkt sich nicht auf bestehende Artikelvarianten aus.  </p>
+</div>
+<p>Wenn du neue Artikelvarianten anlegen möchtest, die z.T. gleiche Einstellungen aufweisen, dann kannst du diese zuvor als Standardwerte festlegen. Klicke hierzu auf den Link <em><strong>Standardwerte</strong></em>:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_BearbeitenVonArtikelvarianten_Uebersicht_Standardwerte.png" title="Link _**Standardwerte**_ in der Übersicht" /></p>
+<p>Es öffnet sich der Dialog <em><strong>Standardwerte</strong></em>:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_BearbeitenVonArtikelvarianten_StandardwerteDialog.png" title="Dialog _**Standardwerte**_ nach Aufruf aus der Übersicht" /></p>
+<p>Nimm die gewünschten Einstellungen vor und bestätige sie mit einem Klick auf <em><strong>Speichern</strong></em>. </p>
+<p>Wenn du nun über <em><strong>Artikelvariante hinzufügen</strong></em> oder <em><strong>Zuweisung ändern</strong></em> weitere Varianten für den aktuellen Artikel anlegst, werden diese die Standardwerte verwenden.</p>
+<p>Über <em><strong>Abbrechen</strong></em> kannst du den Dialog schließen, ohne gemachte Änderungen zu übernehmen.</p>
+<h4 id="anlegen-von-artikelvarianten">Anlegen von Artikelvarianten<a class="headerlink" href="#anlegen-von-artikelvarianten" title="Permanent link">&para;</a></h4>
+<p>Rufe hierzu den Reiter <em><strong>Varianten</strong></em> aus der Artikelmaske auf, um zur entsprechenden Übersicht zu gelangen:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_ArtikelvariantenErstellen_Uebersicht.png" title="Auswahl der Optionen" /></p>
+<p>Wähle hier die Optionen aus, aus denen du Werte zu Artikelvarianten kombinieren möchtest. Durch Aufklappen der Einträge mit dem Plus-Symbol kannst du hierbei einzelne Werte vorauswählen, wenn du nicht alle Werte verwenden möchtest:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_ArtikelvariantenErstellen_UebersichtAusgeklappt.png" title="Auswahl der Werte nach Aufklappen eines Eintrags" /></p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Für die Auswahl der Werte wird ein sogenanntes Multiselect-Element verwendet. Du kannst hierüber mehrere Werte auswählen, indem du die Steuerungstaste (Strg) beim Anklicken der Einträge gedrückt hältst. Wenn du mehrere direkt aufeinanderfolgende Werte auswählen möchtest, kannst du einfach mit gedrückter Umschalttaste (⇧, Taste für das Großschreiben) den ersten und den letzten Eintrag anklicken.</p>
+</div>
+<h5 id="artikelvarianten-manuell-erstellen">Artikelvarianten manuell erstellen<a class="headerlink" href="#artikelvarianten-manuell-erstellen" title="Permanent link">&para;</a></h5>
+<p>Beim manuellen Erstellen von Artikelvarianten wird nach der Auswahl der Werte jede einzelne Variante per Hand angelegt. Dies empfiehlt sich, wenn du nur einen kleinen Teil der Werte zum jetzigen Zeitpunkt als Artikelvariante zuweisen möchtest oder sich diese stark voneinander unterscheiden.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_ArtikelvariantenErstellen_ArtikelvariantenManuellErstellen_001.png" title="Schaltfläche _**Artikelvarianten manuell erstellen**_ in der Übersicht" /></p>
+<p>Klicke nach der Vorauswahl auf <em><strong>Artikelvarianten manuell erstellen</strong></em>. Du gelangst auf die leere Übersichtsseite:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_ArtikelvariantenErstellen_ArtikelvariantenManuellErstellen_002.png" title="Übersicht der Artikelvarianten nach Klick auf _**Varianten manuell erstellen**_" /></p>
+<p>Klicke hier auf <em><strong>Artikelvariante hinzufügen</strong></em>, um die Maske zum Anlegen einer einzelnen Artikelvariante zu öffnen.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Wenn du bei deinen Varianten viele Felder mit vergleichbaren bzw. ähnlichen Inhalten füllen oder hierfür mehrfach die gleichen Einstellungen verwenden möchtest, kannst du diese über die unter <em><strong>Standardwerte</strong></em> verlinkte Maske vorbelegen lassen und dir so beim Anlegen Arbeit sparen.</p>
+</div>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Varianten_AnlegenVonVarianten_VariantenManuellErstellen_005_ArtikelvariantenErstellen.png" title="Maske zum Anlegen einer einzelnen Variante" /></p>
+<p>Am oberen Ende der Maske werden die zuvor ausgewählten Optionen angezeigt. Wählen hier die gewünschten Werte aus und fülle die Felder aus bzw. nimm die Einstellungen für die neue Artikelvariante vor.</p>
+<div class="admonition check">
+<p class="admonition-title">Anlegen mehrerer Artikelvarianten</p>
+<ol>
+<li>Wähle die Werte aus, die du zu einer Artikelvariante kombinieren möchtest</li>
+<li>Nimm alle gewünschten Einstellungen und Eingaben für die Artikelvariante vor</li>
+<li>Bestätige mit Klick auf <em><strong>Speichern</strong></em></li>
+<li>Wiederhole Schritt 1 bis 3</li>
+</ol>
+</div>
+<div class="admonition check">
+<p class="admonition-title">Anlegen einer einzelnen Artikelvariante</p>
+<ol>
+<li>Wähle die Werte aus, die du zu einer Artikelvariante kombinieren möchtest</li>
+<li>Nimm alle gewünschten Einstellungen und Eingaben für die Artikelvariante vor</li>
+<li>Bestätige mit Klick auf <em><strong>Speichern &amp; Schließen</strong></em></li>
+</ol>
+</div>
+<h5 id="artikelvarianten-automatisch-erstellen">Artikelvarianten automatisch erstellen<a class="headerlink" href="#artikelvarianten-automatisch-erstellen" title="Permanent link">&para;</a></h5>
+<p>Das automatische Erstellen von Artikelvarianten bietet sich an, wenn eine große Anzahl an Varianten mit ähnlichen Einstellungen erstellt werden sollen. </p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_ArtikelvariantenErstellen_ArtikelvariantenAutomatischErstellen.png" title="Schaltfläche _**Artikelvarianten automatisch erstellen**_" /></p>
+<p>Klicke nach dem Auswählen der Optionen und Werte auf <em><strong>Artikelvarianten automatisch erstellen</strong></em>. Die Varianten werden automatisch angelegt und verwenden alle die gleichen Voreinstellungen, wie unter <em><strong>Standardwerte</strong></em> festgelegt.</p>
+<p>Eingaben und Einstellungen, die von den Standardwerten abweichen oder dort nicht enthalten sind, müssen nachträglich beim Bearbeiten der Artikelvarianten geändert werden.</p>
+<h4 id="bearbeiten-von-artikelvarianten">Bearbeiten von Artikelvarianten<a class="headerlink" href="#bearbeiten-von-artikelvarianten" title="Permanent link">&para;</a></h4>
+<p>Artikelvarianten können über einen Klick auf das Bleistift-Symbol bearbeitet werden. </p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_FunktionenDerUebersicht_BearbeitenVonArtikelvarianten_Uebersicht.png" title="Bleistift-Symbol zum Bearbeiten der Artikelvarianten" /></p>
+<p>Es öffnet sich der Dialog <em><strong>Artikelvarianten bearbeiten</strong></em>:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_FunktionenDerUebersicht_BearbeitenVonArtikelvarianten_VorherigeNaechste.png" title="Schaltflächen _**Vorherige**_ und _**Nächste**_ sowie Scrollbalken" /></p>
+<p>Über die Schaltflächen <em><strong>Vorherige</strong></em> und <em><strong>Nächste</strong></em> kann zur vorherigen bzw. nächsten Variante in der Liste gesprungen werden.</p>
+<p>Je nach Bildschirmgröße werden nicht alle Einstellungen auf einen Blick angezeigt. Über den Scrollbalken auf der rechten Seite sind ggf. versteckte Felder und Elemente zu erreichen.</p>
+<p>Hierzu zählen auch die Schaltflächen <em><strong>Abbrechen</strong></em>, <em><strong>Speichern</strong></em> sowie <em><strong>Speichern &amp; Schließen</strong></em>.</p>
+<h4 id="loschen-von-artikelvarianten">Löschen von Artikelvarianten<a class="headerlink" href="#loschen-von-artikelvarianten" title="Permanent link">&para;</a></h4>
+<p>Artikelvarianten können aus der Übersicht heraus sowohl einzeln als auch über eine Mehrfachauswahl entfernt werden. </p>
+<h5 id="loschen-von-einzelnen-artikelvarianten">Löschen von einzelnen Artikelvarianten<a class="headerlink" href="#loschen-von-einzelnen-artikelvarianten" title="Permanent link">&para;</a></h5>
+<p>Über das rote x-Symbol kann eine einzelne Variante entfernt werden:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_FunktionenDerUebersicht_LoeschenVonArtikelvarianten_Uebersicht.png" title="x-Symbol zum Löschen der Artikelvarianten" /></p>
+<p>Es erfolgt eine Sicherheitsabfrage, ob die Variante tatsächlich entfernt werden soll:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_FunktionenDerUebersicht_LoeschenVonArtikelvarianten_Einzelbestaetigung.png" title="Sicherheitsabfrage vor dem Löschen einer Artikelvariante" /></p>
+<p>Bestätige diese mit einem Klick auf <em><strong>Löschen</strong></em>.</p>
+<h5 id="loschen-von-mehreren-artikelvarianten">Löschen von mehreren Artikelvarianten<a class="headerlink" href="#loschen-von-mehreren-artikelvarianten" title="Permanent link">&para;</a></h5>
+<p>Wenn mehrere Artikelvarianten entfernt werden sollen, bietet sich die Mehrfachauswahl an:</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_FunktionenImReiterVarianten_LoeschenVonArtikelvarianten_Mehrfachauswahl.png" title="Mehrfachauswahl im Reiter _**Varianten**_" /></p>
+<p>Sobald mindestens eine Variante durch Anhaken ausgewählt ist, wird die Schaltfläche <em><strong>Kombinationen löschen</strong></em> angezeigt. Zudem kannst du über die Box oben rechts (in der Abbildung gelb umrandet) alle Einträge gleichzeitig an- oder abwählen.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Optionen_Artikelvarianten_FunktionenImReiterVarianten_LoeschenVonArtikelvarianten_MehrfachauswahlSicherheitsabfrage.png" title="Sicherheitsabfrage beim Löschen mehrerer Artikelvarianten" /></p>
+<p>Nach Klick auf die Schaltfläche <em><strong>Kombinationen löschen</strong></em> erfolgt eine Sicherheitsabfrage. Klicke hier auf <em><strong>Löschen</strong></em>, um diese zu bestätigen und die Artikelvarianten zu entfernen. Über die Auswahl <em><strong>Alle Kombinationen dieses Artikels löschen</strong></em> (in der Abbildung gelb markiert) können alle Varianten entfernt werden, auch wenn nur eine über die Mehrfachauswahl angehakt worden ist.</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Zurück zum Seitenanfang
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2023 Gambio GmbH
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://www.gambio-support.de" target="_blank" rel="noopener" title="Gambio Kundenportal" class="md-social__link">
+      <svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><style>.cls-1{fill:#fff;}</style></defs><path class="cls-1" d="M63.37,52.59a19.56,19.56,0,0,0,6.86-14.84,14.42,14.42,0,0,0-.77-4.57A19,19,0,0,0,67.05,28l.12.11,4.09-4.46L64,17l-4.09,4.46.06.06a21.23,21.23,0,0,0-9.78-2.61l-.27,0H49.7c-10.62.08-20.49,6.67-20.49,19.53,0,11.86,8.14,19.31,20.71,19.31,6.9,0,9.3,2.86,9.3,6.59,0,4.73-4.5,7.77-9.46,7.77-5.19,0-9.23-2-9.61-7H29.76c-.24,11,6.66,16.88,20,16.88,10.47,0,20.78-5.86,20.78-17.26A12.62,12.62,0,0,0,63.37,52.59ZM40,38.37c0-6.2,4.27-9.61,9.93-9.61a9.46,9.46,0,0,1,9.61,9.61c0,6.13-4.58,9.15-9.61,9.15C44.26,47.52,40,44,40,38.37Z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/gambio" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/company/gambio-gmbh" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["toc.autohide", "navigation.tabs", "navigation.expand", "toc.integrate", "navigation.top"], "search": "../../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version": "Version ausw\u00e4hlen"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.4e0fa4ba.min.js"></script>
+      
+    
+  </body>
+</html>

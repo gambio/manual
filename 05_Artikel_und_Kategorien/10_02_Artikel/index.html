@@ -1,0 +1,4019 @@
+
+<!doctype html>
+<html lang="de" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://developers.gambio.de/docs/manual/05_Artikel_und_Kategorien/10_02_Artikel/">
+      
+      
+        <link rel="prev" href="../10_01_Kategorien/">
+      
+      
+        <link rel="next" href="../10_03_Artikelattribute_/">
+      
+      
+      <link rel="icon" href="../../favicon.ico">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.0">
+    
+    
+      
+        <title>Artikel - Handbuch</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.9f615399.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.649f08f9.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="gambio" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#artikel" class="md-skip">
+          Zum Inhalt
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Kopfzeile">
+    <a href="../.." title="Handbuch" class="md-header__button md-logo" aria-label="Handbuch" data-md-component="logo">
+      
+  <img src="../../logo.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Handbuch
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Artikel
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Suche" placeholder="Suche" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Suche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Zurücksetzen" aria-label="Zurücksetzen" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Hauptnavigation" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Vorwort
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../01_Einleitung/" class="md-tabs__link">
+        
+  
+    
+  
+  Einleitung
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../02_Bereiche_und_Funktionen/" class="md-tabs__link">
+        
+  
+    
+  
+  Bereiche und Funktionen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../03_Bestellungen/" class="md-tabs__link">
+        
+  
+    
+  
+  Bestellungen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../04_Kunden/" class="md-tabs__link">
+        
+  
+    
+  
+  Kunden
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="../" class="md-tabs__link">
+        
+  
+    
+  
+  Artikel & Kategorien
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../06_Inhalte/" class="md-tabs__link">
+        
+  
+    
+  
+  Darstellung / Inhalte
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../07_Module/" class="md-tabs__link">
+        
+  
+    
+  
+  Module
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/" class="md-tabs__link">
+        
+  
+    
+  
+  Konfiguration und Einstellungen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Anhang/" class="md-tabs__link">
+        
+  
+    
+  
+  Anhang
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Handbuch" class="md-nav__button md-logo" aria-label="Handbuch" data-md-component="logo">
+      
+  <img src="../../logo.svg" alt="logo">
+
+    </a>
+    Handbuch
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vorwort
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../01_Einleitung/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Einleitung
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_2">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Einleitung
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01_Einleitung/2_Art_der_Shoploesung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Art der Shoplösung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01_Einleitung/3_Erste_Schritte/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Erste Schritte
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Bereiche und Funktionen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Bereiche und Funktionen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_1" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Bereiche des Shopsystems
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_1">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Bereiche des Shopsystems
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_1_Shopbereich/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shopbereich
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_2_Gambio_Admin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gambio Admin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_3_StyleEdit_v3_und_StyleEdit_4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    StyleEdit v3 und StyleEdit 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Bereiche_des_Shopsystems/4_4_CK_Editor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CK-Editor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Fehlerbehebung/18_01_Manuelle_Datensicherung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Manuelle Datensicherung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Gutscheine_und_Rabatt_Coupons/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Gutscheine und Rabatt Coupons
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_3">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Gutscheine und Rabatt Coupons
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Gutscheine_und_Rabatt_Coupons/13_01_Gutscheine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gutscheine
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Gutscheine_und_Rabatt_Coupons/13_02_Rabatt_Kupons/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rabatt Coupons
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Schnittstellen/16_01_GoogleServices/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Google Services
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Statistiken/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Statistiken
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_5">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Statistiken
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_01_Besucherstatistik/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Besucherstatistik
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_02_Besuchte_Artikel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Besuchte Artikel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_03_Kampagnen_Report/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kampagnen Report
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_04_Kunden_Bestellstatistik/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kunden-Bestellstatistik
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_05_Umsatzstatistik/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Umsatzstatistik
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_06_Verkaufte_Artikel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verkaufte Artikel
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_07_Wer_ist_online/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wer ist online?
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Statistiken/17_08_Statistiken_Loeschen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statistiken löschen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../02_Bereiche_und_Funktionen/Toolbox/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Toolbox
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_6">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Toolbox
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_01_Timer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Timer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_02_Texte_anpassen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Texte anpassen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_03_Cache/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cache
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_04_Datensicherung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Datensicherung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_05_Newsletter/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Newsletter
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_06_Logs_anzeigen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logs anzeigen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_07_Server_Info/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Server Info
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_08_SQL/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SQL
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_09_OpenSearch_Plugin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    OpenSearch Plugin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_10_Dateimanager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dateimanager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_11_ZeitgesteuerteAufgaben/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zeitgesteuerte Aufgaben
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_12_ArtikelbilderLoeschen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikelbilder löschen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02_Bereiche_und_Funktionen/Toolbox/11_13_Weiterleitungsregeln/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Weiterleitungsregeln
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../03_Bestellungen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Bestellungen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_4">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Bestellungen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_01_Bestellungen_abwickeln/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellungen abwickeln
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_02_Bestellung_manuell_anlegen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellung manuell anlegen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_03_Bestellung_bearbeiten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellung bearbeiten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_04_Bestellungen_rueckabwickeln/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bestellung rückabwickeln
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_05_Rechnung_UND_Lieferschein_konfigurieren/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rechnung & Lieferschein konfigurieren
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_07_Widerrufe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Widerrufe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../03_Bestellungen/15_08_Rechnungsuebersicht/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rechnungsübersicht
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../04_Kunden/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Kunden
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_5">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Kunden
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_01_Kundenregistrierung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundenregistrierung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_02_Haendlerkunden/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Händlerkunden
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_03_Kundenkonten_verwalten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundenkonten verwalten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_04_Administrator_Konten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Administrator-Konten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_05_Kundengruppen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundengruppen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_06_Kundenrezensionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kundenrezensionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../04_Kunden/14_07_E_Mails/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    E-Mails
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Artikel & Kategorien
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_6">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Artikel & Kategorien
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_01_Kategorien/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kategorien
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Artikel
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Artikel
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen" class="md-nav__link">
+    Artikel anlegen
+  </a>
+  
+    <nav class="md-nav" aria-label="Artikel anlegen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen_kategorien" class="md-nav__link">
+    Kategorien
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen_artikelstammdaten" class="md-nav__link">
+    Artikelstammdaten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen_erweiterte_konfiguration" class="md-nav__link">
+    Erweiterte Konfiguration
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen_zusatzfelder" class="md-nav__link">
+    Zusatzfelder
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen_artikel_filter" class="md-nav__link">
+    Artikel-Filter
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen_google_kategorie" class="md-nav__link">
+    Google Kategorie
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen_artikeldetails" class="md-nav__link">
+    Artikeldetails
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen_artikelbilder" class="md-nav__link">
+    Artikelbilder
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen_kundengruppe" class="md-nav__link">
+    Kundengruppe
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikel_anlegen_preisoptionen" class="md-nav__link">
+    Preisoptionen
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#artikel_artikel_bearbeiten" class="md-nav__link">
+    Artikel bearbeiten
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#artikel_artikelbilder" class="md-nav__link">
+    Artikelbilder
+  </a>
+  
+    <nav class="md-nav" aria-label="Artikelbilder">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#auswahl-des-bildes-mit-dem-responsive-filemanager" class="md-nav__link">
+    Auswahl des Bildes mit dem Responsive Filemanager
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikelbilder_artikelbild_loeschen" class="md-nav__link">
+    Artikelbild löschen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikelbilder_g_motion_verwenden" class="md-nav__link">
+    G-Motion verwenden
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#artikel_artikeltabs" class="md-nav__link">
+    Artikeltabs
+  </a>
+  
+    <nav class="md-nav" aria-label="Artikeltabs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikeltabs_tabs_anlegen" class="md-nav__link">
+    Tabs anlegen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikeltabs_tabs_bearbeiten_und_loeschen" class="md-nav__link">
+    Tabs bearbeiten und löschen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_artikeltabs_tabs_im_artikel" class="md-nav__link">
+    Tabs im Artikel
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#artikel_verpackungseinheiten_und_mengeneinheiten" class="md-nav__link">
+    Verpackungseinheiten &amp; Mengeneinheiten
+  </a>
+  
+    <nav class="md-nav" aria-label="Verpackungseinheiten & Mengeneinheiten">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#artikel_verpackungseinheiten" class="md-nav__link">
+    Verpackungseinheiten
+  </a>
+  
+    <nav class="md-nav" aria-label="Verpackungseinheiten">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#artikel_verpackungseinheiten_anlegen" class="md-nav__link">
+    Verpackungseinheiten anlegen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_verpackungseinheiten_bearbeiten" class="md-nav__link">
+    Verpackungseinheiten bearbeiten
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_verpackungseinheiten_loeschen" class="md-nav__link">
+    Verpackungseinheiten löschen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_verpackungseinheiten_auswaehlen" class="md-nav__link">
+    Verpackungseinheiten auswählen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel_verpackungseinheiten_festlegen_des_vpe_werts" class="md-nav__link">
+    Festlegen des VPE Werts
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mengeneinheiten-artikel_mengeneinheiteny" class="md-nav__link">
+    Mengeneinheiten {#artikel_mengeneinheiten}y
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#artikel_hersteller" class="md-nav__link">
+    Hersteller
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#artikel_kopieren" class="md-nav__link">
+    Artikel kopieren
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_03_Artikelattribute_/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikelattribute
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_04_Artikeleigenschaften_/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artikeleigenschaften
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_05_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_06_Kollektionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kollektionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_07_GX_Customizer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    GX-Customizer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_08_Zusatzfunktionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zusatzfunktionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_09_Rabatte_UND_Sonderangebote/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rabatte & Sonderangebote
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_10_Import_Export/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Import/Export
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_11_QuickEdit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    QuickEdit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../06_Inhalte/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Darstellung / Inhalte
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_7">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Darstellung / Inhalte
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_01_StyleEdit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    StyleEdit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_02_Honeygrid_und_StyleEdit_v3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Honeygrid und StyleEdit v3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_03_StyleEdit4_Themes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    StyleEdit 4 / Themes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_04_Logo_Manager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logo Manager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_05_Teaser_Slider/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Teaser-Slider
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_06_Content_Manager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Content Manager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_07_Banner_Manager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Banner Manager
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_08_Shop_Online_Offline/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shop Online/Offline
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../06_Inhalte/12_09_Eigene_Fehlerseiten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Eigene Fehlerseiten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_8" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../07_Module/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Module
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_8">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Module
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_1_Versandarten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Versandarten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_2_Zahlungsweisen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zahlungsweisen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_3_Zusammenfassung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zusammenfassung
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_4_Modul_Center/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modul-Center
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../07_Module/9_5_Zusatzmodule/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zusatzmodule
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../08_Konfiguration_und_Einstellungen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Konfiguration und Einstellungen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Konfiguration und Einstellungen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Einstellungen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Einstellungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Konfiguration
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9_2">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_2">
+            <span class="md-nav__icon md-icon"></span>
+            Konfiguration
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_01_Shop_Key/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shop-Key
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_02_E_Mail_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    E-Mail-Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_03_Bild_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bild-Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_05_Rechtliche_Einstellung/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rechtliche Einstellungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_07_Lager_und_Bestandseinstellungen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lager- und Bestandseinstellungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_08_Konfiguration_des_G_Protectors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Konfiguration des G-Protectors
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_11_Kampagnen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kampagnen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_13_Nummernkreise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nummernkreise
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_16_Versand_Optionen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Versand-Optionen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Konfiguration/5_18_Paketversender/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paketdienste
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../08_Konfiguration_und_Einstellungen/Lokalisierung/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Lokalisierung
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9_3">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_3">
+            <span class="md-nav__icon md-icon"></span>
+            Lokalisierung
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Lokalisierung/8_1_Laender/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Länder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Lokalisierung/8_2_Sprachen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sprachen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Lokalisierung/8_3_Steuer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Steuer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Lokalisierung/8_4_Waehrungen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Währungen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Suchmaschinen
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_9_4">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_4">
+            <span class="md-nav__icon md-icon"></span>
+            Suchmaschinen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_1_Gambio_SEO_Boost/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gambio SEO Boost
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_2_Meta_Angaben/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta-Angaben
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_3_Robots_Datei/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Robots-Datei
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_4_Sitemap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sitemap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_5_StatischeSeiten/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statische Seiten
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_6_Tracking_Codes_/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tracking-Codes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_7_URL_Rewrite/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    URL Rewrite
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../08_Konfiguration_und_Einstellungen/Suchmaschinen/7_8_htaccessUndSEO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    .htaccess und SEO
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_10" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../Anhang/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Anhang
+  </span>
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_10">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Anhang
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Anhang/19_01_Lizenzhinweise/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lizenzhinweise
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Anhang/19_02_Liste_der_Laender/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Liste der Länder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="artikel">Artikel<a class="headerlink" href="#artikel" title="Permanent link">&para;</a></h1>
+<h2 id="artikel_artikel_anlegen">Artikel anlegen<a class="headerlink" href="#artikel_artikel_anlegen" title="Permanent link">&para;</a></h2>
+<p>Neue Artikel kannst du in der Artikel- und Kategorieübersicht unter <em><strong>Artikel &gt; Artikel/Kategorien</strong></em> hinzufügen. Neue Artikel werden immer in der Kategorie angelegt, die in der Übersicht aufgelistet wird. Im Listenfeld <em><strong>Gehe zu</strong></em> oberhalb der Artikel- und Kategorieliste wird dir die aktive Kategorie angezeigt.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Um in eine Kategorie zu wechseln, klicke auf das schwarze Ordnersymbol vor dem Kategorienamen, oder wähle die gewünschte Kategorie aus der Liste <em><strong>Gehe zu</strong></em> rechts in der Leiste am unteren Bildschirmrand aus.</p>
+</div>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_ArtikelAnlegen.png" title="Artikel anlegen" /></p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Über die Drodown-Funktion der Schaltfläche <em><strong>Erstellen</strong></em> kannst du auswählen, ob du einen Artikel oder eine Kategorie auswählen möchtest.</p>
+<p><img alt="" src="../../Bilder/ButtonErstellen_Artikel.png" title="Dropdown-Funktion des Buttons     _**Erstellen**_" /></p>
+<p>Der Button hat eine Standard-Funktion. Befinden sich keine Kategorien im Shop, wird beim Klick ohne Verwendung des Dropdowns die Maske zum Erstellen einer Kategorie geöffnet; ansonsten die Maske zum Anlegen eines Artikels.</p>
+</div>
+<ol>
+<li>Klicke in der Artikel- und Kategorieübersicht auf <em><strong>Erstellen &gt; Artikel</strong></em></li>
+<li>Trage den Artikelnamen in das Feld <em><strong>Artikelname</strong></em> ein</li>
+<li>
+<p>Trage den Artikelpreis in das Feld <em><strong>Artikelpreis</strong></em> ein</p>
+<p>Beachte, dass Preise grundsätzlich mit einem Punkt als Dezimaltrennzeichen angegeben werden müssen (Beispiel: 12.95 für 12,95 EUR)!</p>
+</li>
+<li>
+<p>Wähle aus der Liste <em><strong>Steuerklasse</strong></em> die Steuerklasse für deinen Artikel aus</p>
+</li>
+<li>Eine Übersicht über die Bedeutung der Felder in der Artikel-Eingabemaske findest du in der Tabelle <em><strong>Übersicht über die Artikel-Eingabemaske</strong></em></li>
+<li>Klicke auf <em><strong>Speichern</strong></em>, um den neuen Artikel zu speichern</li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Alle Felder in der Eingabemaske ohne Grundeinstellung sind optional und sollten nur verwendet werden, wenn die entsprechende Information zur Verfügung steht.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die einzelnen Bereich der Artikelmaske können mit Klick auf das Minus-Icon minimiert und über das Plus-Icon maximiert werden. Wenn also ein hier aufgeführter Bereich nicht angezeigt wird, klicke am rechten Ende der grauen Leiste auf das Plus-Icon.</p>
+</div>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_IconZumEinUndAusklappenDerBereiche.png" title="Icon zum Ein- und Ausklappen der Bereiche" /></p>
+<h3 id="artikel_artikel_anlegen_kategorien">Kategorien<a class="headerlink" href="#artikel_artikel_anlegen_kategorien" title="Permanent link">&para;</a></h3>
+<p>Im Bereich <em><strong>Kategorien</strong></em> wird aufgeführt in welchen Kategorien der Artikel verlinkt ist, der gerade bearbeitet wird. Hierüber können auch Verweise auf weitere Kategorien hinzugefügt werden.</p>
+<p><img alt="" src="../../Bilder/Abb086_ArtikelmaskeKategorienDropdown.png" title="Kategorien als Dropdown in der Artikelmaske" /></p>
+<p><img alt="" src="../../Bilder/Abb087_ArtikelmaskeKategorienSelect.png" title="Kategorien als Multiselect in der Artikelmaske" /></p>
+<p>Je nach Anzahl der verlinkten Kategorien werden diese entweder als Liste von <em><strong>Dropdown</strong></em>-Menüs oder als sogenanntes <em><strong>Multiselect</strong></em>-Element angezeigt.</p>
+<p>Mit einem Klick auf <em><strong>Hinzufügen</strong></em> wird ein neues <em><strong>Dropdown</strong></em> am unteren Ende der Liste angezeigt, über das eine Kategorie angelegt werden kann.</p>
+<p>Wird das <em><strong>Multiselect</strong></em> angezeigt, kann durch einen Mausklick eine einzelene Kategorie direkt ausgewählt werden.</p>
+<p>In aller Regel sollen jedoch zusätzliche Kategorien verlinkt werden. Hierzu können die gewünschten Einträge mit gedrückter <em><strong>STRG</strong></em>-Taste angeklickt werden. Die Auswahl mehrerer, direkt untereinanderstehender Einträge ist mit gedrückter <em><strong>SHIFT</strong></em>-Taste möglich.</p>
+<h3 id="artikel_artikel_anlegen_artikelstammdaten">Artikelstammdaten<a class="headerlink" href="#artikel_artikel_anlegen_artikelstammdaten" title="Permanent link">&para;</a></h3>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_ArtikelstammdatenInDerArtikelmaske.png" title="Artikelstammdaten in der Artikelmaske" /></p>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Artikelstatus</td>
+<td>wenn <em><strong>aktiv</strong></em>, wird der Artikel im Shop angezeigt</td>
+</tr>
+<tr>
+<td>Artikel-Nr.</td>
+<td>frei vergebbare Artikelnummer des Artikels</td>
+</tr>
+<tr>
+<td>Artikelanzahl</td>
+<td>lagernde Menge des Artikels</td>
+</tr>
+<tr>
+<td>Artikelgewicht (kg)</td>
+<td>Gewicht des Artikels in Kilogramm mit vier Dezimalstellen ( . ist Trennzeichen)</td>
+</tr>
+<tr>
+<td>Lieferstatus</td>
+<td>Lieferstatus des Artikels (siehe Kapitel <em><strong>Lieferstatus</strong></em>)</td>
+</tr>
+<tr>
+<td>Artikelhersteller</td>
+<td>Hersteller des Artikels; muss zunächst unter <em><strong>Artikel &gt; Hersteller</strong></em> angelegt werden (siehe Kapitel <em><strong>Hersteller</strong></em>)</td>
+</tr>
+<tr>
+<td>VPE</td>
+<td>Verpackungseinheit des Grundpreises *</td>
+</tr>
+<tr>
+<td>VPE Wert</td>
+<td>Umrechnungsfaktor für die Berechnung des Grundpreises *</td>
+</tr>
+<tr>
+<td>Mengeneinheit</td>
+<td>die ausgewählte Mengeneinheit wird neben dem Mengeneingabe-Feld auf der Artikel-Detailseite, im Warenkorb und auf der Bestellbestätigung angezeigt; Einheiten müssen zunächst unter <em><strong>Artikel &gt; Mengeneinheiten</strong></em> angelegt werden</td>
+</tr>
+<tr>
+<td>Mindestbestellmenge (muss &gt; 0 sein)</td>
+<td>Mindestmenge, die Kunden bestellen müssen; darf nicht 0 sein (Grundeinstellung: 1)</td>
+</tr>
+<tr>
+<td>Mögliche Mengenstaffelung (muss &gt; 0 sein)</td>
+<td>mögliche Schritte in der Bestellmenge; darf nicht 0 sein (Grundeinstellung: 1)</td>
+</tr>
+<tr>
+<td>Barcode/EAN</td>
+<td>Europäische Artikelnummer des Artikels</td>
+</tr>
+<tr>
+<td>Versandkosten</td>
+<td>Versandkostenzuschlag für den Artikel</td>
+</tr>
+<tr>
+<td>Als Empfehlung anzeigen (Startseite)</td>
+<td>wenn aktiviert, wird der Artikel im Abschnitt <em><strong>Unsere Empfehlungen</strong></em> auf der Startseite angezeigt</td>
+</tr>
+<tr>
+<td>"Woanders günstiger?"- Modul anzeigen</td>
+<td>wenn aktiviert, wird das Kontaktformular <em><strong>Woanders günstiger?</strong></em> unterhalb der Schaltfläche In den Warenkorb eingebunden</td>
+</tr>
+<tr>
+<td>Lagerbestand anzeigen</td>
+<td>wenn aktiviert, wird die Artikelanzahl auf der Artikel-Detailseite angezeigt</td>
+</tr>
+<tr>
+<td>Gewicht anzeigen</td>
+<td>wenn aktiviert, wird das Artikelgewicht auf der Artikel-Detailseite angezeigt</td>
+</tr>
+<tr>
+<td>In die Sitemap aufnehmen</td>
+<td>wenn aktiviert, wird der Artikel in die Sitemap für Suchmaschinen aufgenommen</td>
+</tr>
+<tr>
+<td>Veröffentlichungsdatum anzeigen</td>
+<td>wenn aktiviert, wird das Erscheinungsdatum auf der Artikel-Detailseite unterhalb der Artikelbeschreibung eingeblendet</td>
+</tr>
+<tr>
+<td>Anzeige VPE</td>
+<td>wenn aktiviert, wird der Grundpreis auf der Artikel-Detailseite unterhalb des Artikelpreises angezeigt *</td>
+</tr>
+<tr>
+<td>Erscheinungsdatum</td>
+<td>das Erscheinungsdatum für vorbestellbare Artikel</td>
+</tr>
+<tr>
+<td>Sortierreihenfolge</td>
+<td>Priorität für die Anzeige in der Kategorieübersicht (je kleiner der Wert, desto weiter oben/vorne die Anzeige; benötigt weitere Konfiguration in der Kategorie, siehe Kapitel <em><strong>Kategorien anlegen/bearbeiten</strong></em>)</td>
+</tr>
+<tr>
+<td>Sortierreihenfolge (Startseite)</td>
+<td>Priorität für die Anzeige auf der Startseite (je kleiner der Wert, desto weiter oben/vorne die Anzeige; benötigt keine weitere Konfiguration)</td>
+</tr>
+<tr>
+<td>Priorität in der Sitemap</td>
+<td>steuert, wie wichtig der Eintrag in der Sitemap für die Suchmaschinen ist (1.0: sehr wichtig bis 0.0: unwichtig)</td>
+</tr>
+</tbody>
+</table>
+<p>* Nähere Informationen zu Verpackungseinheiten findest du im Kapitel <em><strong>Verpackungseinheiten</strong></em>.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Bitte beachte: Diese Darstellung entspricht der Grundkonfiguration des Shopsystems. Zusatzfunktionen und Drittanbietermodule können die Darstellung der Artikel-Eingabemaske beeinflussen. Nähere Informationen zu hier nicht dokumentierten Eingabefeldern findest du in der Anleitung des jeweiligen Moduls.</p>
+</div>
+<h3 id="artikel_artikel_anlegen_erweiterte_konfiguration">Erweiterte Konfiguration<a class="headerlink" href="#artikel_artikel_anlegen_erweiterte_konfiguration" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vorlage für Artikeldetailseite</td>
+<td>HTML-Vorlage für die Artikel-Detailseite (Grundeinstellung: standard.html)</td>
+</tr>
+<tr>
+<td>Vorlage für Artikelattribute</td>
+<td>HTML-Vorlage für Artikelattribute auf der Artikel- Detailseite (Grundeinstellung: product_options_dropdown.html)</td>
+</tr>
+<tr>
+<td>Vorlage für Artikelattribute in Übersicht</td>
+<td>HTML-Vorlage für Artikelattribute in der Kategorieübersicht (Grundeinstellung: product_options_dropdown.html)</td>
+</tr>
+<tr>
+<td>Artikeltyp</td>
+<td>legt fest, ob der Artikel ein Standardartikel, ein Downloadartikel oder eine Dienstleistung ist; damit der Kunde bei Downloads und Dienstleistungen ggf. auf das Widerrufsrecht verzichten kann</td>
+</tr>
+<tr>
+<td>Produkt Teaser-Slider</td>
+<td>ausgewählter Teaser-Slider für den Artikel</td>
+</tr>
+<tr>
+<td>Artikelpreisstatus</td>
+<td>Käuflichkeit des Artikels; <em><strong>normal</strong></em>: Artikel ist käuflich, <em><strong>Preis auf Anfrage</strong></em>: Artikel kann nicht direkt in den Warenkorb gelegt werden, <em><strong>nicht käuflich</strong></em>: Artikelpreis wird angezeigt, der Artikel kann jedoch nicht gekauft werden</td>
+</tr>
+<tr>
+<td>Hermes ProfiPaketService</td>
+<td>Auswahl der Paketklasse (Hermes-Versandmodul)</td>
+</tr>
+<tr>
+<td>GX-Customizer Set</td>
+<td>das ausgewählte GX-Customizer Set zum Individualisieren von Artikeln wird auf der Artikel-Detailseite eingebunden (siehe Kapitel GX-Customizer)</td>
+</tr>
+<tr>
+<td>Verfallsdatum</td>
+<td>Verfallsdatum des Artikels, wird z.B. beim Google Artikelexport verwendet</td>
+</tr>
+<tr>
+<td>Zustand (Google Export Pflicht)</td>
+<td>Pflichtfeld für Google Artikelexport, Einstellung über ein Dropdown (neu / gebraucht / erneuert)</td>
+</tr>
+<tr>
+<td>Ab 18</td>
+<td>wenn aktiviert, wird der Artikel als ab 18 Artikel ausgewiesen; der Kauf von ab 18 Artikeln kann je Kundengruppe verboten werden (siehe Kapitel <em><strong>Kundengruppen</strong></em>)</td>
+</tr>
+<tr>
+<td>G-Motion aktivieren</td>
+<td>wenn aktiviert, kann das Modul zur Animation von Artikelbildern verwendet werden (siehe Kapitel <em><strong>Artikelbilder</strong></em>, Abschnitt <em><strong>G-Motion verwenden</strong></em>)</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p><em><strong>G-Motion</strong></em> wird vom <em><strong>Honeygrid</strong></em>-Template nicht mehr unterstützt.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Feldname</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kennzeichnung existiert</td>
+<td>Angabe für Google Artikelexport, sollte gesetzt werden, wenn mindestens eines der folgenden Felder verwendet wird: <em><strong>EAN</strong></em>, <em><strong>UPC</strong></em>, <em><strong>JAN</strong></em>, <em><strong>ISBN</strong></em></td>
+</tr>
+<tr>
+<td>ISBN (Internationale Standardbuchnummer)</td>
+<td>Internationale Standardbuchnummer des Artikels</td>
+</tr>
+<tr>
+<td>UPC (Universal Product Code)</td>
+<td>Universeller Produktcode des Artikels</td>
+</tr>
+<tr>
+<td>MPN (Manufacturer Part Number)</td>
+<td>Herstellernummer des Artikels</td>
+</tr>
+<tr>
+<td>JAN (Japanese Article Number)</td>
+<td>Japanische Artikelnummer des Artikels</td>
+</tr>
+<tr>
+<td>Marke</td>
+<td>Marke des Artikels, wird z.B. beim Google Artikelexport verwendet</td>
+</tr>
+<tr>
+<td>Geschlecht</td>
+<td>Für welches Geschlecht ist der Artikel vorgesehen, wird z.B. beim Google Artikelexport verwendet</td>
+</tr>
+<tr>
+<td>Altersgruppe</td>
+<td>Für welche Altersgruppe ist der Artikel vorgesehen, wird z.B. beim Google Artikelexport verwendet</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Bitte beachte: Diese Darstellung entspricht der Grundkonfiguration des Shopsystems. Zusatzfunktionen und Drittanbietermodule können die Darstellung der Artikel-Eingabemaske beeinflussen. Nähere Informationen zu hier nicht dokumentierten Eingabefeldern findest du in der Anleitung des jeweiligen Moduls.</p>
+</div>
+<h3 id="artikel_artikel_anlegen_zusatzfelder">Zusatzfelder<a class="headerlink" href="#artikel_artikel_anlegen_zusatzfelder" title="Permanent link">&para;</a></h3>
+<p>Über Zusatzfelder können weitere Informationen zu einem Artikel gespeichert werden. Die Angaben werden hauptsächlich für den Export zu Preisportalen verwendet, können jedoch auch auf der Artikel-Detailseite ausgegeben werden. Jedes Zusatzfeld hat eine Bezeichnung und einen Wert.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_NeuesZusatzfeldUeberHinzufuegenAnlegen.png" title="Neues Zusatzfeld über Hinzufügen anlegen" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_NeuesZusatzfeldUeberHinzufuegenAnlegen_.png" title="Neues Zusatzfeld über Hinzufügen anlegen" /></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_NeuesZusatzfeldIstInAnderenArtikelnVerfuegbar.png" title="Neues Zusatzfeld ist in anderen Artikeln verfügbar" /></p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Anzeige der Zusatzfelder kann unter <em><strong>Einstellungen / Layout &amp; Design / Artikeldetailseite</strong></em> an- und abgeschaltet werden. Setze bzw. entferne hierzu den Haken <em><strong>Zusatzfelder auf Detailseite aktivieren</strong></em> und bestätige die Änderung mit einem Klick auf <em><strong>Speichern</strong></em>.</p>
+</div>
+<p>Um ein Zusatzfeld anzulegen, klicke auf die Schaltfläche <em><strong>Hinzufügen</strong></em>. Es werden pro im Shop verwendete Sprache jeweils ein Feld für <em><strong>Bezeichnung</strong></em> und <em><strong>Wert</strong></em> angezeigt. Nach der Eingabe kann das Zusatzfeld mit Klick auf <em><strong>Speichern</strong></em> oder <em><strong>Übernehmen</strong></em> übernommen werden.</p>
+<p>Nach dem Speichern kann das gleiche Zusatzfeld in den anderen Artikeln des Shops ebenfalls mit einem Wert belegt werden.</p>
+<p>Mit einem Klick auf das Mülltonnen-Symbol kann ein Zusatzfeld gelöscht werden. Es wird eine Sicherheitsabfrage angezeigt, klicke auf <em><strong>Löschen</strong></em>, um das Entfernen des Zusatzfelds zu bestätigen. Mit Klick auf <em><strong>Schließen</strong></em> wird das Löschen abgebrochen, ohne das Zusatzfeld zu entfernen.</p>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Das Löschen eines Zusatzfelds findet in <strong>allen</strong> Artikeln statt, auch wenn diese mit einem Wert belegt sind. Wenn du die Verwendung des Zusatzfelds in einem einzelnen Artikel verhindern möchtest, sollten stattdessen die Einträge unter <em><strong>Wert</strong></em> entfernt werden.</p>
+</div>
+<h3 id="artikel_artikel_anlegen_artikel_filter">Artikel-Filter<a class="headerlink" href="#artikel_artikel_anlegen_artikel_filter" title="Permanent link">&para;</a></h3>
+<p>Im Abschnitt Filterauswahl kannst du Artikel-Filter für deinen neuen Artikel festlegen. Nähere Informationen zu Artikel-Filtern findest du im Kapitel <em><strong>Artikel-Filter</strong></em>.</p>
+<h3 id="artikel_artikel_anlegen_google_kategorie">Google Kategorie<a class="headerlink" href="#artikel_artikel_anlegen_google_kategorie" title="Permanent link">&para;</a></h3>
+<p>Über <em><strong>Google Kategorie</strong></em> kann der Artikel der internen Taxonomie von Google Shopping zugeordnet werden, wenn dieser zu Google Shopping exportiert wird. Die Auswahl hat auf die Kategorien des Shops keinen Einfluss.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_GoogleKategorieHinzufuegen.png" title="Google Kategorie hinzufügen" /></p>
+<p><img alt="" src="../../Bilder/Abb092_GoogleKategorie.png" title="zugeordnete Google Kategorie" /></p>
+<p>Über die Schaltfläche <em><strong>Kategorie hinzufügen</strong></em> kann dem Artikel eine Google Kategorie zugeordnet werden. Es werden hierbei nacheinander verschiedene Dropdown-Menüs angezeigt, aus der die jeweiligen Kategorien und Unterkategorien ausgewählt werden können. Klicke erneut auf <em><strong>Hinzufügen</strong></em>, um die Auswahl zu bestätigen. Über <em><strong>Abbrechen</strong></em> wird der Vorgang beendet, ohne die Google Kategorie hinzuzufügen.</p>
+<p>Eine bestehende Google Kategorie kann mit Klick auf das Bleistift-Symbol bearbeitet werden. Wird der Haken in der Box <em><strong>Löschen</strong></em> gesetzt, wird die Google Kategorie beim nächsten Klick auf <em><strong>Speichern</strong></em> oder <em><strong>Aktualisieren</strong></em> wieder entfernt.</p>
+<h3 id="artikel_artikel_anlegen_artikeldetails">Artikeldetails<a class="headerlink" href="#artikel_artikel_anlegen_artikeldetails" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Für jede im Shop angelegte Sprache (standardmäßig Deutsch und Englisch) gibt es einen eigenen Bereich für die Artikeldetails.</p>
+</div>
+<p>Der Bereich <em><strong>Artikeldetails</strong></em> dient hauptsächlich zum Festlegen des Inhalts der Artikeldetailseite. Es können folgende Einstellungen gemacht werden:</p>
+<ul>
+<li><em><strong>Artikelname</strong></em>: der Name des Artikels, welcher im Shop angezeigt wird</li>
+<li><em><strong>Artikelbeschreibung</strong></em>: die detaillierte Beschreibung des Artikels, welche direkt auf der Artikeldetailseite angezeigt wird</li>
+<li><em><strong>Tabs</strong></em>: Artikeltabs dienen zum Anzeigen zusätzlicher Inhalte auf der Artikeldetailseite, siehe Kapitel <em><strong>Artikeltabs</strong></em></li>
+<li><em><strong>Kurzbeschreibung</strong></em>: diese Beschreibung wird auf den Artikelseiten (Kategorie- und Suchergebnisseiten) angezeigt, wenn diese in der gelisteten Ansicht dargestellt werden</li>
+<li><em><strong>Wesentliche Merkmale (Bestellzusammenfassung)</strong></em>: diese Beschreibung wird auf der letzten Seite des Bestellvorgangs zum Artikel angezeigt</li>
+<li><em><strong>Herstellerlink</strong></em>: Link zum Hersteller des Artikels</li>
+<li><em><strong>Zusatzbegriffe für Suche</strong></em>: Liste von Suchbegriffen (kommagetrennt, ohne Leerzeichen), können von der Shopsuche, aber nicht von Suchmaschinen, gefunden werden, werden nicht auf der Artikeldetailseite angezeigt</li>
+<li><em><strong>URL Keywords</strong></em>: Bestandteil des Links zum Artikel, wenn der Gambio SEO Boost verwendet wird, muss mindestens 3 Zeichen lang sein</li>
+</ul>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p><em><strong>URL Keywords</strong></em> dürfen weder Leerzeichen, noch Umlaute oder Sonderzeichen enthalten. Wir empfehlen das Feld leer zu lassen, es wird von Shop automatisch befüllt.</p>
+</div>
+<ul>
+<li><em><strong>URL Rewrite</strong></em>: Feld zur Angabe einer alternativen URL, siehe Kapitel <em><strong>URL Rewrite</strong></em></li>
+<li><em><strong>Meta Title</strong></em>: Titel der Seite für die Meta-Informationen (siehe Kapitel <em><strong>Meta-Angaben</strong></em>)</li>
+<li><em><strong>Meta Keywords</strong></em>: Schlagwörter, die von Suchmaschinen berücksichtigt werden können. Angabe als kommagetrennte Liste (ohne Leerzeichen), siehe auch Kapitel <em><strong>Meta-Angaben</strong></em></li>
+<li><em><strong>Meta Description</strong></em>: Beschreibung des Artikels für die Meta-Informationen (siehe auch Kapitel <em><strong>Meta-Angaben</strong></em>)</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Eingabe der Artikelbeschreibung, Kurzbeschreibung und wesentlichen Merkmale erfolgt über den <em><strong>CK-Editor</strong></em>. Eine Übersicht über die einzelnen Funktionen findest du im Kapitel <em><strong>CK-Editor</strong></em>.</p>
+<p>Über die Schaltfläche <em><strong>Editor wechseln</strong></em> kann auf einen alternativen HTML-Editor mit Zeilennummerangabe umgeschaltet werden.</p>
+</div>
+<h3 id="artikel_artikel_anlegen_artikelbilder">Artikelbilder<a class="headerlink" href="#artikel_artikel_anlegen_artikelbilder" title="Permanent link">&para;</a></h3>
+<p>siehe Kapitel <em><strong>Artikelbilder</strong></em></p>
+<h3 id="artikel_artikel_anlegen_kundengruppe">Kundengruppe<a class="headerlink" href="#artikel_artikel_anlegen_kundengruppe" title="Permanent link">&para;</a></h3>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_EinstellungKundengruppe.png" title="Einstellung _**Kundengruppe**_" /></p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Der Bereich <em><strong>Kundengruppe</strong></em> wird nur angezeigt, wenn unter <em><strong>Einstellungen / Kunden / Kunden</strong></em> der <em><strong>Kundengruppencheck</strong></em> aktiviert ist.</p>
+</div>
+<p>Über die Einstellung Kundengruppe kann festgelegt werden welche Kundengruppe einen Artikel sehen und aufrufen kann. Ist der Haken für eine Kundengruppe nicht gesetzt, wird dieser in Kategorien, Suchergebnissen und sonstigen Artikelseiten (z.B. <em><strong>Unsere Empfehlungen</strong></em>) nicht angezeigt. Auch wenn der Link zum Artikel aus anderer Quelle bekannt sein sollte, kann dieser über eine Kundengruppe ohne Haken nicht aufgerufen werden.</p>
+<p>Wird der Haken für <em><strong>Alle</strong></em> gesetzt, werden nach dem nächsten Klick auf <em><strong>Speichern</strong></em> oder <em><strong>Aktualisieren</strong></em> die Rechte für alle Kundengruppen vergeben.</p>
+<h3 id="artikel_artikel_anlegen_preisoptionen">Preisoptionen<a class="headerlink" href="#artikel_artikel_anlegen_preisoptionen" title="Permanent link">&para;</a></h3>
+<p>Im Bereich <em><strong>Preisoptionen</strong></em> stehen folgende Einstellungen zur Verfügung</p>
+<ul>
+<li><em><strong>Artikelpreis</strong></em>: der Preis des Artikels in der eingestellten Währung</li>
+<li><em><strong>Rabatt</strong></em>: möglicher Rabatt auf den Artikel in Prozent (siehe Kapitel <em><strong>Artikelrabatt</strong></em>)</li>
+<li><em><strong>Steuerklasse</strong></em>: Steuerklasse des Artikels, bestimmt den verwendeten Steuersatz (siehe Kapitel <em><strong>Steuer</strong></em>)</li>
+</ul>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_ArtikelAnlegen_PreisoptionenInDerArtikelmaske.png" title="Preisoptionen der Artikelmaske" /></p>
+<p>Zudem steht für jede Kundengruppe außer <em><strong>Admin</strong></em> (typischerweise <em><strong>Gast</strong></em>, <em><strong>Neuer Kunde</strong></em> und <em><strong>Händler</strong></em>) je ein Eingabefeld für einen eigenen Kundengruppenpreis zur Verfügung. Über das dahinterstehende + kann zudem ein Staffelpreis für die jeweilige Kundengruppe eingerichtet werden (siehe Kapitel <em><strong>Staffelpreise</strong></em>).</p>
+<p>Wird der Kundengruppenpreis nicht verwendet, wird der reguläre Artikelpreis angezeigt und berechnet.</p>
+<h2 id="artikel_artikel_bearbeiten">Artikel bearbeiten<a class="headerlink" href="#artikel_artikel_bearbeiten" title="Permanent link">&para;</a></h2>
+<p>Zum Bearbeiten von Artikeln, klicke zunächst in der Artikel- und Kategorieübersicht auf den Namen des Artikels und anschließend auf die Schaltfläche <em><strong>Bearbeiten</strong></em>.</p>
+<p>Nimm die gewünschten Änderungen an den Konfigurationsfeldern des Artikels vor. Eine Übersicht über die Bedeutung der Felder in der Artikel-Eingabemaske findest du in der Tabelle <em><strong>Übersicht über die Artikel-Eingabemaske</strong></em>.</p>
+<h2 id="artikel_artikelbilder">Artikelbilder<a class="headerlink" href="#artikel_artikelbilder" title="Permanent link">&para;</a></h2>
+<p>Die Anzahl der verwendeten Artikelbilder ist für jeden Artikel frei festlegebar. Standardmäßig ist nur ein Eintrag für das Haupt-Artikelbild vorhanden. Klicke auf <em><strong>Bilder hinzufügen</strong></em> um ein weiteres Bild einrichten zu können.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Anzahl der Bilder pro Artikel ist bis maximal 1000 Bilder beschränkt.</p>
+</div>
+<h3 id="auswahl-des-bildes-mit-dem-responsive-filemanager">Auswahl des Bildes mit dem Responsive Filemanager<a class="headerlink" href="#auswahl-des-bildes-mit-dem-responsive-filemanager" title="Permanent link">&para;</a></h3>
+<p>Befindet sich das Bild bereits auf dem Server, kann es direkt ausgewählt werden:</p>
+<p><img alt="" src="../../Bilder/ResponsiveFileManager.png" title="Responsive FileManager" /></p>
+<p>Um das Bild hochzuladen, klicke bitte auf die in der Abbildung rot umrandete Schaltfläche.</p>
+<p><img alt="" src="../../Bilder/ResponsiveFileManager_UploadButton.png" title="Schaltfläche zum Hochladen der Datei" /></p>
+<p>Es öffnet sich der Dialog <em><strong>Standard Hochladen</strong></em>. Klicke nun auf die, in der Abbildung gezeigte, grüne Schaltfläche <em><strong>Dateien hinzufügen</strong></em>, um den Dialog zur Auswahl der Datei auf deinem Rechner aufzurufen oder ziehe diese z.B. direkt aus dem Dateiordner deines Rechners in den weißen Bereich.</p>
+<p><img alt="" src="../../Bilder/DateimanagerStandardHochladen.png" title="Feld zum Hochladen der Datei" /></p>
+<p>Ist die Bild-Datei hochgeladen, wird neben der Vorschau ein Häkchen angezeigt.</p>
+<p><img alt="" src="../../Bilder/DateimanagerDateiHochgeladen.png" title="Hochladen der Bild-Datei abgeschlossen" /></p>
+<p>Die Datei kann nun über einen Mausklick ausgewählt werden.</p>
+<h3 id="artikel_artikelbilder_artikelbild_loeschen">Artikelbild löschen<a class="headerlink" href="#artikel_artikelbilder_artikelbild_loeschen" title="Permanent link">&para;</a></h3>
+<p>Wenn du ein Artikelbild nicht mehr verwenden möchtest, lösche es in der Artikel-Eingabemaske unter <em><strong>Artikel &gt; Artikel/Kategorien</strong></em>. Aktiviere im Abschnitt <em><strong>Artikelbilder</strong></em> das Kontrollkästchen <em><strong>Löschen</strong></em> bei jedem Artikelbild, das nicht mehr verwendet werden soll. Klicke auf <em><strong>Speichern</strong></em> oder <em><strong>Aktualisieren</strong></em>, um die ausgewählten Artikelbilder unwiderruflich zu löschen.</p>
+<h3 id="artikel_artikelbilder_g_motion_verwenden">G-Motion verwenden<a class="headerlink" href="#artikel_artikelbilder_g_motion_verwenden" title="Permanent link">&para;</a></h3>
+<p>Mit G-Motion werden starre Artikelbilder animiert. Bei der Animation kannst du zwischen Schwenk, Zoom und einer Kombination aus Schwenk und Zoom auswählen. G-Motion-Bilder werden ausschließlich auf der Artikel-Detailseite angezeigt.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Zoom-Funktion auf der Artikel-Detailseite kann bei G-Motion-Bildern nicht verwendet werden! G-Motion wird vom <em><strong>Honeygrid</strong></em> <strong>nicht</strong> unterstützt!</p>
+</div>
+<ol>
+<li>Aktiviere die Einstellung <em><strong>G-Motion aktivieren</strong></em></li>
+<li>Aktiviere bei den Artikelbildern das Kontrollkästchen <em><strong>Als G-Motion-Bild nutzen</strong></em>, für die du die Animation einrichten möchtest</li>
+<li>Bewege den grünen Kreis auf dem Artikelbild unter <em><strong>Animationspositionen</strong></em> auf den Anfangspunkt des Schwenks</li>
+<li>Bewege den roten Kreis auf dem Artikelbild unter <em><strong>Animationspositionen</strong></em> auf den Endpunkt des Schwenks</li>
+<li>Wenn du keinen Schwenk einrichten möchtest, trage in den grün und rot eingerahmten Feldern <em><strong>Schwenk von</strong></em> und <em><strong>nach</strong></em> die Werte <strong>50% 50%</strong> ein</li>
+<li>Wähle aus der Liste <em><strong>Zoom-Faktor von</strong></em> den Vergrößerungsfaktor am Startpunkt des Schwenks aus</li>
+<li>Wähle aus der Liste <em><strong>nach</strong></em> den Vergrößerungsfaktor am Endpunkt des Schwenks aus</li>
+<li>Wenn du keinen Zoom einrichten möchtest, wähle in beiden Listen den Wert <em><strong>1,0x</strong></em> aus</li>
+<li>
+<p>Trage in das Feld <em><strong>Animationsdauer des Bildes</strong></em> die Dauer der zuvor gewählten Animation in Sekunden ein</p>
+<p>Wenn du mehr als ein G-Motion-Bild verwendest, werden die G-Motion-Bilder nacheinander abgespielt. Die Reihenfolge, in der die einzelnen Bilder abgespielt werden, kannst du im Feld <em><strong>Sortierung</strong></em> eintragen.</p>
+</li>
+<li>
+<p>Klicke auf <em><strong>Speichern</strong></em> oder <em><strong>Aktualisieren</strong></em>, um die Änderungen zu übernehmen.</p>
+</li>
+</ol>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Wenn das Kontrollkästchen <em><strong>Als Artikelbild verwenden</strong></em> bei allen Artikelbildern deaktiviert wird, werden in Artikellisten, wie beispielsweise Kategorieseiten, für diesen Artikel keine Artikelbilder angezeigt.</p>
+</div>
+<h2 id="artikel_artikeltabs">Artikeltabs<a class="headerlink" href="#artikel_artikeltabs" title="Permanent link">&para;</a></h2>
+<p>Über Tabs können zusätzliche Informationen zum Artikel im Bereich der Artikelbeschreibung angezeigt werden. Die einzelnen Bereiche lassen sich über die Überschriften in der Leiste auswählen und anzeigen.</p>
+<h3 id="artikel_artikeltabs_tabs_anlegen">Tabs anlegen<a class="headerlink" href="#artikel_artikeltabs_tabs_anlegen" title="Permanent link">&para;</a></h3>
+<p>Um einen zusätzlichen Tab anzulegen, bearbeite den entsprechenden Artikel unter <em><strong>Artikel &gt; Artikel / Kategorien</strong></em>. Unterhalb des CK-Editors (Texteingabefeld) für die Artikelbeschreibung findest du den Bereich <em><strong>Tabs</strong></em>. Klicke auf <em><strong>Tab hinzufügen</strong></em>, um einen neuen Tab anzulegen, es öffnet sich ein neues Fenster. Die obere Zeile dient zum Festlegen der Überschrift, das Texteingabefeld darunter zum Hinterlegen des Inhaltes. Genauere Informationen zu den Funktionen des Eingabefeldes erhältst du im Kapitel <em><strong>CK-Editor</strong></em>.</p>
+<p>Mit Klick auf <em><strong>Abbrechen</strong></em> wird das Anlegen des Tabs unterbrochen und alle Änderungen daran verworfen. Mit Klick auf <em><strong>Übernehmen</strong></em> wird der Tab erzeugt. Auf diese Weise können alle benötigten Tabs angelegt werden.</p>
+<p>Abschließend muss die Änderung im Artikel gespeichert werden, klicke hier auf <em><strong>Aktualisieren</strong></em> oder <em><strong>Speichern</strong></em>. Anderenfalls werden die erzeugten Tabs nach dem Verlassen der Artikelkonfiguration wieder verworfen.</p>
+<h3 id="artikel_artikeltabs_tabs_bearbeiten_und_loeschen">Tabs bearbeiten und löschen<a class="headerlink" href="#artikel_artikeltabs_tabs_bearbeiten_und_loeschen" title="Permanent link">&para;</a></h3>
+<p>Angelegte Tabs können nachträglich bearbeitet werden. Bearbeite hierzu den Artikel, wie bereits beschrieben und scrolle zum Bereich <em><strong>Tabs</strong></em>, unterhalb der Artikelbeschreibung. Die Tabs werden untereinander aufgeführt, auf der rechten Seite dieser Liste findest du zwei Symbole: einen Bleistift und einen Mülleimer. Über das Stift-Symbol lässt sich der Tab bearbeiten, es öffnet sich das bekannte Eingabefenster mit dem Inhalt des Tabs.</p>
+<p>Über den Mülleimer kann der Tab gelöscht werden. Zuvor wird eine Sicherheitsabfrage geöffnet, mit Klick auf <em><strong>Löschen</strong></em> bestätigst du das Entfernen des Tabs. Über <em><strong>Abbrechen</strong></em> wird der Löschvorgang abgebrochen.</p>
+<p>Wie auch beim Anlegen, müssen die Änderungen sowohl beim Bearbeiten als auch beim Löschen von Tabs im Artikel gespeichert werden. Klicke hierzu auf <em><strong>Aktualisieren</strong></em> oder <em><strong>Speichern</strong></em>.</p>
+<h3 id="artikel_artikeltabs_tabs_im_artikel">Tabs im Artikel<a class="headerlink" href="#artikel_artikeltabs_tabs_im_artikel" title="Permanent link">&para;</a></h3>
+<p>Sobald mindestens ein Tab angelegt ist, wird die Artikelbeschreibung über der Leiste angezeigt und die Überschrift <em><strong>Artikelbeschreibung</strong></em> verschwindet. Der nun frei gewordene Platz enthält die angelegten Tabs, sie können über die jeweilige Überschrift in der Leiste ausgewählt werden. Der derzeit aktive Tab wird über ein Pfeilsymbol angezeigt, das auf die zugehörige Überschrift weist. Wurde nur ein Tab angelegt, ist dieser standardmäßig aktiv und wird dauerhaft angezeigt.</p>
+<h2 id="artikel_verpackungseinheiten_und_mengeneinheiten">Verpackungseinheiten &amp; Mengeneinheiten<a class="headerlink" href="#artikel_verpackungseinheiten_und_mengeneinheiten" title="Permanent link">&para;</a></h2>
+<p>Für Grundpreispflichtige Artikel berechnet das Shopsystem die Grundpreise automatisch über die Verpackungseinheiten. Über die Mengeneinheiten werden frei konfigurierbare Mengeneinheiten hinter die Stückzahlen der Artikel im Bestellprozess angezeigt. Die Verpackungseinheiten und Mengeneinheiten arbeiten voneinander unabhängig und können kombiniert werden.</p>
+<h3 id="artikel_verpackungseinheiten">Verpackungseinheiten<a class="headerlink" href="#artikel_verpackungseinheiten" title="Permanent link">&para;</a></h3>
+<p>Mit Verpackungseinheiten (VPE) wird angegeben in welchen Einheiten ein Artikel verkauft wird, wie z.B. Stück, Liter, Kilogramm usw. Diese Angabe wird für die Grundpreisangabe benötigt.</p>
+<p>Unter <em><strong>Artikel &gt; Verpackungseinheiten</strong></em> können neue Verpackungseinheiten angelegt und bestehende Verpackungseinheiten bearbeitet oder entfernt werden.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Bei der Installation des Shops werden standardmäßig keine Verpackungseinheiten hinzugefügt, sie müssen also händisch angelegt werden.</p>
+</div>
+<h4 id="artikel_verpackungseinheiten_anlegen">Verpackungseinheiten anlegen<a class="headerlink" href="#artikel_verpackungseinheiten_anlegen" title="Permanent link">&para;</a></h4>
+<p>Um eine Verpackungseinheit anzulegen, gehe im Gambio Admin unter <em><strong>Artikel &gt; Verpackungseinheiten</strong></em>.</p>
+<p><img alt="" src="../../Bilder/ArtikelVerpackungseinheiten_Erstellen.png" title="Schaltfläche Erstellen unter _**Artikel &gt;         Verpackungseinheiten**_" /></p>
+<p>Klicke hier in der rechten, oberen Ecke auf die Schaltfläche <em><strong>Erstellen</strong></em></p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_EingabemaskeFuerDasErstellenEinerVerpackungseinheit.png" title="Eingabemaske für das Erstellen einer Verpackungseinheit" /></p>
+<p>Es öffnet sich das Eingabefenster zum Anlegen einer neuen Verpackungseinheit. Trage hier den Namen der Einheit für die im Shop vorhandenen Sprachen ein und bestätige die Eingabe mit einem Klick auf <em><strong>Hinzufügen</strong></em>. Über <em><strong>Abbrechen</strong></em> kann das Dialogfenster geschlossen werden, ohne die Einheit anzulegen. Wenn du vor dem Anlegen den Haken für <em><strong>Standard</strong></em> setzt, wird die neue Einheit als Standard-Verpackungseinheit definiert.</p>
+<h4 id="artikel_verpackungseinheiten_bearbeiten">Verpackungseinheiten bearbeiten<a class="headerlink" href="#artikel_verpackungseinheiten_bearbeiten" title="Permanent link">&para;</a></h4>
+<p>Um eine Verpackungseinheit zu bearbeiten, gehe unter <em><strong>Artikel &gt; Verpackungseinheiten</strong></em> und bewege den Mauszeiger in die Zeile der Verpackungseinheit, die du bearbeiten möchtest.</p>
+<p><img alt="" src="../../Bilder/ArtikelVerpackungseinheiten_HoverBearbeiten.png" title="Bearbeiten einer Verpackungseinheit über das         Bleistift-Symbol" /></p>
+<p>Klicke hier auf das Bleistift-Symbol, um die Eingabemaske zum Bearbeiten zu öffnen.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_EingabemaskeFuerDasBearbeitenEinerVerpackungseinheit.png" title="Eingabemaske beim Bearbeiten einer Verpackungseinheit" /></p>
+<p>Es kann jeweils der Name der Verpackungseinheit pro Sprache angepasst werden. Zudem kann eine Verpackungseinheit nachträglich als Standard definiert oder diese Festlegung wieder entfernt werden.</p>
+<p>Bestätige die Änderungen mit Klick auf <em><strong>Aktualisieren</strong></em>. Über <em><strong>Abbrechen</strong></em> kannst du das Dialogfenster verlassen, ohne die gemachten Einstellungen zu übernehmen.</p>
+<h4 id="artikel_verpackungseinheiten_loeschen">Verpackungseinheiten löschen<a class="headerlink" href="#artikel_verpackungseinheiten_loeschen" title="Permanent link">&para;</a></h4>
+<p>Um eine Verpackungseinheit zu löschen, gehe unter <em><strong>Artikel &gt; Verpackungseinheiten</strong></em> und bewege den Mauszeiger in die Zeile der Verpackungseinheit, die du löschen möchtest.</p>
+<p><img alt="" src="../../Bilder/ArtikelVerpackungseinheiten_HoverLoeschen.png" title="Löschen einer Verpackungseinheit über das         Mülltonnen-Symbol" /></p>
+<p>Klicke auf das Mülltonnen-Symbol, um die Verpackungseinheit zu entfernen.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_SicherheitsabfrageVorDemLoeschen.png" title="Sicherheitsabfrage vor dem Löschen" /></p>
+<p>Es wird eine Sicherheitsabfrage angezeigt. Bestätige mit einem Klick auf <em><strong>Löschen</strong></em>, dass du die Verpackungseinheit wirklich entfernen möchtest. Über einen Klick auf <em><strong>Abbrechen</strong></em> kann der Vorgang abgebrochen werden.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Die Standard-Verpackungseinheit kann nicht gelöscht werden, daher wird für sie kein Mülltonnen-Symbol angezeigt.</p>
+</div>
+<h4 id="artikel_verpackungseinheiten_auswaehlen">Verpackungseinheiten auswählen<a class="headerlink" href="#artikel_verpackungseinheiten_auswaehlen" title="Permanent link">&para;</a></h4>
+<p>Die Verpackungseinheit wird im Artikel ausgewählt und eingestellt. Gehe hierzu unter <em><strong>Artikel &gt; Artikel/Kategorien</strong></em> und bearbeite den gewünschten Artikel. Die notwendigen Einstellungen können im Bereich <em><strong>Artikelstammdaten</strong></em> vorgenommen werden.</p>
+<p><img alt="" src="../../Bilder/Abb086_VerpackungseinheitenInDerArtikelEingabemaske.png" title="Einstellungen zur Verpackungseinheit in der         Artikel-Eingabemaske" /></p>
+<p>Verwende hier das Dropdown <em><strong>VPE</strong></em> um die gewünschte Verpackungseinheit auszuwählen.</p>
+<h4 id="artikel_verpackungseinheiten_festlegen_des_vpe_werts">Festlegen des VPE Werts<a class="headerlink" href="#artikel_verpackungseinheiten_festlegen_des_vpe_werts" title="Permanent link">&para;</a></h4>
+<p>Der VPE Wert legt fest, wie viele Einheiten der Grundeinheit (z.B. Stück, Liter, Kilogramm) mit dem Artikel verkauft werden.</p>
+<p>Bei einer 1,5-Liter-Flasche wäre die Verpackungseinheit Liter und der VPE Wert 1.5, bei einer 500 Gramm Packung Mehl und der Verpackungseinheit Kilogramm wäre der VPE Wert entsprechend 0.5 usw. Für die Berechnung des Grundpreises gilt:</p>
+<p>Artikelpreis / VPE Wert = Grundpreis</p>
+<p>Trage den Wert in das Feld <em><strong>VPE Wert</strong></em> in der Artikelmaske ein.</p>
+<div class="admonition danger">
+<p class="admonition-title">Achtung</p>
+<p>Bitte beachte, dass Kommazahlen mit einem Punkt als Dezimaltrenner angegeben werden müssen.</p>
+</div>
+<p>Zudem muss der Haken für <em><strong>Anzeige VPE</strong></em> gesetzt werden.</p>
+<div class="admonition example">
+<p class="admonition-title">Beispiel</p>
+<p>Beispiel: Sechserpack eines Produkts</p>
+<p>Gehen wir davon aus, dass du ein Produkt in einem Gebinde von jeweils sechs Stück zu 7,99 Euro verkaufst. In diesem Fall wähle die Verpackungseinheit <em><strong>Stück</strong></em> aus und trage als <em><strong>VPE Wert</strong></em> 6 ein.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_VPEEinstellungenInDenArtikelstammdaten.png" title="VPE-Einstellungen in den Artikelstammdaten" /></p>
+<p>Der Grundpreis errechnet sich wie folgt:</p>
+<p>7,99 / 6 = 1,331666667 =&gt; 1,33 Euro pro Stück</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_AnzeigeDesGrundpreisesAufDerArtikeldetailseite.png" title="Anzeige des Grundpreises auf der Artikeldetailseite" /></p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Beispiel</p>
+<p>Beispiel: Glasflasche 0,75 Liter</p>
+<p>Hier möchten wir den Grundpreis pro Liter angeben. Wir wählen für <em><strong>VPE</strong></em> den Eintrag <em><strong>Liter</strong></em> aus und tragen den Faktor 0.75 als <em><strong>VPE Wert</strong></em> ein.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_VPEEinstellungenInDenArtikelstammdaten_.png" title="VPE-Einstellungen in den Artikelstammdaten" /></p>
+<p>Bei einem Verkaufspreis von 49 Cent errechnet sich der Grundpreis entsprechend:</p>
+<p>0,49 / 0,75 = 0,653333333 =&gt; 0,65 Euro pro Liter</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_AnzeigeDesGrundpreisesAufDerArtikeldetailseite_.png" title="Anzeige des Grundpreises auf der Artikeldetailseite" /></p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Beispiel</p>
+<p>Beispiel: Meterware, die in Stücken zu 2,5 Meter verkauft wird</p>
+<p>Es soll Meterware in vordefinierten Längen verkauft werden. Wir wählen für <em><strong>VPE</strong></em> entsprechend den Eintrag <em><strong>m</strong></em> und tragen die Länge 2.5 als <em><strong>VPE Wert</strong></em> ein.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_MeterwareEinstellungenVPE.png" title="VPE-Einstellungen in den Artikelstammdaten" /></p>
+<p>10,00 / 2,5 = 4,00 Euro pro Meter</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_VerpackungseinheitenUNDMengeneinheiten_Verpackungseinheiten_MeterwareAnzeigeImArtikel.png" title="Anzeige des Grundpreises auf der Artikeldetailseite" /></p>
+</div>
+<h3 id="mengeneinheiten-artikel_mengeneinheiteny">Mengeneinheiten {#artikel_mengeneinheiten}y<a class="headerlink" href="#mengeneinheiten-artikel_mengeneinheiteny" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Lege im Gambio Admin unter <em><strong>Artikel &gt; Mengeneinheiten</strong></em> die benötigten Mengeneinheiten an</li>
+<li>Wähle unter <em><strong>Artikel &gt; Artikel/Kategorien</strong></em> in der Eingabemaske des gewünschten Artikels aus der Liste <em><strong>Mengeineheit</strong></em> die gewünschte Mengeneinheit aus</li>
+<li>Klicke am Ende der Eingabemaske auf <em><strong>Speichern</strong></em> oder <em><strong>Aktualisieren</strong></em>, um die Änderungen an den Mengeneinheiten zu übernehmen</li>
+</ol>
+<h2 id="artikel_hersteller">Hersteller<a class="headerlink" href="#artikel_hersteller" title="Permanent link">&para;</a></h2>
+<ol>
+<li>Lege unter <em><strong>Artikel &gt; Hersteller</strong></em> die benötigten Hersteller an</li>
+<li>Klicke auf <em><strong>Erstellen</strong></em></li>
+<li>Trage den Namen des Herstellers in das Feld <em><strong>Herstellername</strong></em> ein</li>
+<li>Wenn du ein Logo des Herstellers anzeigen lassen möchtest, lade das Logo über das Dateifeld <em><strong>Herstellerbild</strong></em> hoch</li>
+<li>Trage im Feld <em><strong>Hersteller URL</strong></em> die Internetadresse des Herstellers ein</li>
+<li>Klicke auf <em><strong>Speichern</strong></em>, um den Hersteller zu speichern</li>
+<li>Wähle unter <em><strong>Artikel &gt; Artikel/Kategorien</strong></em> in der Eingabemaske des gewünschten Artikels aus der Liste <em><strong>Artikelhersteller</strong></em> den Hersteller des Artikels aus</li>
+<li>Klicke am Ende der Eingabemaske auf <em><strong>Speichern</strong></em> oder <em><strong>Aktualisieren</strong></em>, um die Änderungen am Hersteller des Artikels zu übernehmen</li>
+</ol>
+<h2 id="artikel_kopieren">Artikel kopieren<a class="headerlink" href="#artikel_kopieren" title="Permanent link">&para;</a></h2>
+<p>Artikel lassen sich unter <em><strong>Artikel &gt; Artikel / Kategorien</strong></em> kopieren. Markiere die Artikel, die du kopieren möchtest, indem du in den zugehörigen Boxen die Haken setzt. In der Leiste unter der Auflistung wird nun der Dropdown-Button angezeigt. Klicke auf der rechten Seite des Buttons auf den nach unten weisenden Pfeil und anschließend auf <em><strong>Kopieren</strong></em>.</p>
+<p><img alt="" src="../../Bilder/ArtikelUNDKategorien_Artikel_ArtikelKopieren_ArtikelKopieren.png" title="Artikel kopieren" /></p>
+<p>Es wird der Bereich <em><strong>Kopieren nach</strong></em> in einem neuen Fenster angezeigt. Im oberen Teil dieser Spalte findest du eine Auflistung der Artikel, die kopiert werden sollen. Darunter ist der Bereich <em><strong>Mehrfach</strong></em>, hier ist der komplette Kategorie-Baum deines Shops aufgeführt. Durch Anhaken der entsprechenden Boxen werden die Zielkategorien gewählt, in die die Artikel kopiert werden sollen.</p>
+<p>Im Bereich <em><strong>Einfach</strong></em> kann als Ziel nur eine Kategorie ausgewählt werden.</p>
+<div class="admonition note">
+<p class="admonition-title">Hinweis</p>
+<p>Wenn unter <em><strong>Mehrfach</strong></em> ein oder mehr Haken gesetzt sind, wird die Einstellung unter <em><strong>Einfach</strong></em> komplett ignoriert. Wenn <em><strong>Einfach</strong></em> verwendet werden soll, darf unter <em><strong>Mehrfach</strong></em> kein Haken gesetzt sein.</p>
+</div>
+<p>Im Bereich <em><strong>Kopiermethode</strong></em> wird festgelegt, ob der Artikel verlinkt oder dupliziert werden soll. Beide Methoden ermöglichen es, Artikel an mehreren Stellen im Shop sichtbar zu machen. Die Auswahl unterscheidet sich folgendermaßen:</p>
+<p>Verlinken</p>
+<ul>
+<li>Der Artikel ist nur ein Mal im Shop vorhanden</li>
+<li>Änderungen, die an einem Artikel vorgenommen werden, wirken sich auf alle anderen Vorkommen des Artikels aus</li>
+</ul>
+<p>Duplizieren</p>
+<ul>
+<li>Der Artikel ist mehrfach im Shop vorhanden</li>
+<li>Änderungen wirken sich nur auf einen Artikel aus, die anderen Vorkommen des Artikels bleiben unverändert</li>
+</ul>
+<p>Verlinken ist immer dann von Vorteil, wenn Artikel in identischer Form an mehreren Stellen vorkommen sollen. Änderungen müssen nur an einem Artikel vorgenommen werden, dies verhindert, dass bei mehreren Änderungen an mehreren Artikeln Details vergessen werden. Duplizieren kann verwendet werden, wenn verschiedene Abwandlungen eines Artikels angelegt werden sollen, die unabhängig voneinander sind.</p>
+<p>Unter <em><strong>Kopieroptionen für Artikel</strong></em> kann eingestellt werden ob</p>
+<ul>
+<li>Attribute</li>
+<li>Sonderangebote</li>
+<li>Cross Selling</li>
+</ul>
+<p>übernommen werden sollen.</p>
+<p>Mit Klick auf <em><strong>Kopieren</strong></em> wird der Kopiervorgang gestartet. Am Ende des Kopiervorganges wird jeweils die unterste, ausgewählte Kategorie aus der Liste angezeigt.</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Zurück zum Seitenanfang
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2023 Gambio GmbH
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://www.gambio-support.de" target="_blank" rel="noopener" title="Gambio Kundenportal" class="md-social__link">
+      <svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><style>.cls-1{fill:#fff;}</style></defs><path class="cls-1" d="M63.37,52.59a19.56,19.56,0,0,0,6.86-14.84,14.42,14.42,0,0,0-.77-4.57A19,19,0,0,0,67.05,28l.12.11,4.09-4.46L64,17l-4.09,4.46.06.06a21.23,21.23,0,0,0-9.78-2.61l-.27,0H49.7c-10.62.08-20.49,6.67-20.49,19.53,0,11.86,8.14,19.31,20.71,19.31,6.9,0,9.3,2.86,9.3,6.59,0,4.73-4.5,7.77-9.46,7.77-5.19,0-9.23-2-9.61-7H29.76c-.24,11,6.66,16.88,20,16.88,10.47,0,20.78-5.86,20.78-17.26A12.62,12.62,0,0,0,63.37,52.59ZM40,38.37c0-6.2,4.27-9.61,9.93-9.61a9.46,9.46,0,0,1,9.61,9.61c0,6.13-4.58,9.15-9.61,9.15C44.26,47.52,40,44,40,38.37Z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/gambio" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/company/gambio-gmbh" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["toc.autohide", "navigation.tabs", "navigation.expand", "toc.integrate", "navigation.top"], "search": "../../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version": "Version ausw\u00e4hlen"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.4e0fa4ba.min.js"></script>
+      
+    
+  </body>
+</html>
