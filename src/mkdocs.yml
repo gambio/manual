@@ -14,17 +14,17 @@ theme:
         scheme: gambio
         toggle:
           icon: material/brightness-auto
-          name: zum hellen Modus wechseln
+          name: zum automatischen Modus wechseln
     -   media: "(prefers-color-scheme: light)"
         scheme: gambio
         toggle:
           icon: material/brightness-7
-          name: zum dunkeln Modus wechseln
+          name: zum hellen Modus wechseln
     -   media: "(prefers-color-scheme: dark)"
         scheme: gambio
         toggle:
           icon: material/brightness-4
-          name: zum automatischen Modus wechseln
+          name: zum dunkeln Modus wechseln
   font:
     text: Roboto
     code: Roboto Mono
