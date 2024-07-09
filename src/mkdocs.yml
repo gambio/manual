@@ -10,7 +10,22 @@ theme:
   logo: logo.svg
   language: de
   palette:
-    scheme: gambio
+    theme:
+      palette:
+        -   media: "(prefers-color-scheme)"
+            toggle:
+              icon: material/brightness-auto
+              name: Switch to light mode
+        -   media: "(prefers-color-scheme: light)"
+            scheme: gambio
+            toggle:
+              icon: material/brightness-7
+              name: Switch to dark mode
+        -   media: "(prefers-color-scheme: dark)"
+            scheme: slate
+            toggle:
+              icon: material/brightness-4
+              name: Switch to system preference
   font:
     text: Roboto
     code: Roboto Mono
@@ -49,6 +64,7 @@ markdown_extensions:
   - admonition
   - meta
   - attr_list
+  - md_in_html
   - toc:
       toc_depth: 6
       permalink: true
