@@ -14,12 +14,12 @@ theme:
         scheme: gambio
         toggle:
           icon: material/brightness-auto
-          name: zum hellen Modus wechseln
+          name: zum dunkeln Modus wechseln
     -   media: "(prefers-color-scheme: light)"
         scheme: gambio
         toggle:
           icon: material/brightness-7
-          name: zum dunkeln Modus wechseln
+          name: zum hellen Modus wechseln
     -   media: "(prefers-color-scheme: dark)"
         scheme: gambio
         toggle:

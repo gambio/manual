@@ -1,13 +1,8 @@
-:root {
-	--md-primary-fg-color: #002337;
-	
-	--md-accent-fg-color: #fdc300;
-	
-	--md-default-bg-color: #ededed;
-	--md-default-bg-color--dark: #1e2129;
-}
-
 [data-md-color-scheme="gambio"] {
+
+	--md-default-fg-color: #000000;
+	--md-default-bg-color: #ffffff;
+	
 	--md-primary-fg-color: #002337;
 	--md-primary-bg-color: #ededed;
 	
@@ -15,9 +10,9 @@
 	--md-accent-bg-color: #002337;
 	
 	--md-primary-fg-color--light: #002337;
-	--md-default-bg-color--light: #ededed;
+	--md-primary-bg-color--light: #ededed;
 	
-	--md-typeset-color--dark: #ededed;
+	--md-default-fg-color--dark: #ededed;
 	--md-default-bg-color--dark: #1e2129;
 }
 
