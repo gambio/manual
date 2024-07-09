@@ -1,3 +1,12 @@
+:root {
+	--md-primary-fg-color: #002337;
+	
+	--md-accent-fg-color: #fdc300;
+	
+	--md-default-bg-color: #ededed;
+	--md-default-bg-color--dark: #1e2129;
+}
+
 [data-md-color-scheme="gambio"] {
 	--md-primary-fg-color: #002337;
 	--md-primary-bg-color: #ededed;
