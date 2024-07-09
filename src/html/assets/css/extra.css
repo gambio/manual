@@ -5,11 +5,11 @@
 	--md-accent-fg-color: #fdc300;
 	--md-accent-bg-color: #002337;
 	
-	--md-primary-fg-color--dark: #002337;
+	--md-primary-fg-color--light: #002337;
+	--md-primary-bg-color--light: #ededed;
 	
 	--md-primary-bg-color--dark: #1e2129;
-	
-	--md-accent-bg-color--dark: #fdc300;
+	--md-accent-bg-color--dark: #1e2129;
 }
 
 .md-header .md-logo img {
