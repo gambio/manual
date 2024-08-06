@@ -21,7 +21,7 @@ theme:
           icon: material/brightness-7
           name: zum hellen Modus wechseln
     -   media: "(prefers-color-scheme: dark)"
-        scheme: gambio
+        scheme: slate
         primary: black
         accent: yellow
         toggle:
